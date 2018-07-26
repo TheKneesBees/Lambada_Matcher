@@ -1,0 +1,680 @@
+Chapter 1
+
+Mech6.0 stood against the hangar's charging wall, one of hundreds of mute sentinels watching the passengers flutter by with their hovering luggage carts and excited chatter. Before her, the massive Triton hunkered imposingly in the center of the hangar, dwarfing the crowd, as greeters scanned the ID chips of their guests and ushered them aboard. A ship's maiden voyage was always a festive occasion, but this one seemed more vibrant than usual, as the Triton was about to set the record for largest cruiser to ever be launched. Waiters were passing glasses of champagne to the passengers as they boarded and had their belongings escorted away, women were donning their finest kimonos and hanbok and cocktail gowns, and even a live band had been hired for the entertainment.
+
+Against the festive backdrop, the ship itself appeared menacing to Mech6.0, with its polished metal paneling and small round windows glinting beneath the hangar lights. It hadn't seemed so big when she'd been working on it, running wires, soldering frame pieces, and screwing on protective paneling. At the time, she'd almost felt like she and her brethren were a part of this enormous metal beast. A thousand tiny moving pieces making one efficient machine. But now the result of their labors was ready to set sail, and she no longer felt attached to it at all. Only dwarfed by its magnificence.
+
+And perhaps a little abandoned.
+
+As the guests giggled and chattered and discussed how many space cruises they'd been on before, the beauty of the new ship, and all the comforts the ads had promised, Mech6.0 watched and listened. The thrumming of electricity warmed her insides.
+
+"All aboard! Triton to debark in six minutes. Six-minute warning! All aboard!"
+
+The crowd dwindled. The monotonous beep of the ID scanners trickled to an occasional, sparse rhythm. One ramp rose up to the ship, closing with a thud that vibrated through the hangar floors and up Mech6.0's treads-then two ramps, then three.
+
+"Wait!" A woman's voice echoed through the hangar, followed by the hasty padding of feet. "We're coming! We're here," she said, breathlessly dragging a young girl behind her.
+
+"Just in time," said one of the greeters, scanning the woman's wrist. "Up you go."
+
+She thanked him profusely and pushed a lock of messy hair off her face. Retightening her grip on the girl's wrist, she gave her floating hover-cart a push and jogged up the ramp.
+
+Mech6.0's scanner caught on something small and flat as it dislodged from the young girl's backpack and fluttered down toward the greeter, who didn't notice. Her programming alerted her to the incongruence, and she shuffled through proper responses.
+
+If she found something that a human had lost, she was to return it.
+
+But she was not to interrupt the boarding process, particularly once the captain had called for the ship to be sealed and prepared for takeoff.
+
+As soon as the ramp began to rise off the ground, Mech6.0 knew that her opportunity to return the lost item to the girl was gone. She kept her scanner pinned to that small card until the ramp tilted up and up, and the card slipped off and came spinning and twirling through the air. Past the greeters that were already pulling back the ropes for the ticketing lines, past the statuesque forms of her brothers and sisters, past the hired musicians, until it landed against Mech6.0's own treads and stuck there.
+
+The roar of the ship's engines pulled her attention back toward the Triton and her scanner lifted up and up as the hangar ceiling began to open. The gears cranked and rumbled, revealing first a teasing hint of moonlight, and then a gap filled with stars. Then, slowly, an entire galaxy opened up above the hangar.
+
+It was beautiful. Mech6.0 loved this moment-anticipated it every time they completed a new project and prepared to send it off into the sky. That short glimpse of the galaxy was not like anything else in her world, a world that was normally filled with mechanics and tools and the dark, shadowy spaces inside a quiet, lonely spaceship.
+
+The galaxy, she had come to understand, was vast and bright and endless.
+
+A surge of electricity startled Mech6.0, like a spark straight to the processor that was protected beneath her torso paneling. Startled, she turned her head to peer down the line of identical androids-to her left first and then to her right.
+
+Not only did they not seem to have felt the sudden surge, but none of them were even looking up at the sky. Stiff and un-curious, they remained staring straight ahead.
+
+Mech6.0 returned her attention to the ship, as it rose up off the ground and hovered on the magnetic field beneath the hangar. The thrusters burned white hot for a moment, and the ship rose higher and higher, breaching the ceiling before it swooped gracefully up toward the starry night sky and disappeared.
+
+As the cheers died out and the crowd began to disperse, the musicians began packing up their instruments. The enormous ceiling lowered in on itself and clanged, shutting them in tight again and, not long after the space had cleared, the lights shut off with three loud bangs, plunging the mech-droids into pitch blackness and silence.
+
+Four minutes passed, in which Mech6.0 was still remembering the view of the stars, which she knew were somehow always there and yet always out of her reach, before she remembered the girl's lost card.
+
+Her sensor light flickered on, creating a circle of pale blue light around her. Her neighbors swiveled their heads, perhaps in curiosity, but more likely in disapproval, but she ignored them as she cast the scanner down toward her treads. Extending her arm, she pinched the card between her padded grippers and held it up.
+
+It was thin, but stiff, like a sheet of aluminum, and one side was scrolled in fancy, shiny lettering: Celebrity Holos, Collector's Set, 39th Edition, 124 T.E.
+
+She turned the card over and a flickering, pale holograph rose up from it and began to rotate. She was looking at the likeness of a teenage boy with shaggy black hair and a relaxed smile. He seemed vaguely familiar.
+
+Mech6.0 felt her fan stutter in an odd way, and wondered if there might be something wrong with her internals. If this kept up, she was going to have to alert the maintenance mechanic. But this thought was fleeting as she opened the hollow storage compartment on her abdomen and tucked the holographic card inside. Maybe she would return it one day, she considered, although her statistical calculations told her that it would probably never happen.
+
+Chapter 2
+
+Two days passed before Mech6.0 was given a new assignment, along with fourteen of her fellow mech-droids. She stood in line with the others as Tam Sovann, the shipyard's owner, paced around the project's underside, inspecting the landing gear and discussing the plans with their new client, Ochida Kenji. Ochida-shifu was a middle-aged man with a little facial hair and a very expensive-looking suit. His ship was a recreational yacht, luxurious and spacious enough for those who could afford luxury and space. Mech6.0 scanned the ship while she waited to receive her instructions, plugging the information into her database. A 94 T.E. Orion Classic, one of the most expensive ships of its day and one of the most popular for refurbishing over the past decade. The name Child of the Stars had been painted near its nose, but had faded with time.
+
+"The body is in good shape, Ochida-shifu," said Tam, "but we're looking at a full-engine rebuild to bring it up to code, and remodeling the interior to include all the most modern amenities will require that we take it down to the paneling. I am confident we can meet your deadline, though, while maintaining the ship's original character."
+
+"Your reputation speaks for itself," said Ochida Kenji. "I have no doubt she's in good hands."
+
+"Excellent. Let me introduce you to the engineer who will be heading up your rebuild. This is Wing Dataran, one of our brightest stars."
+
+Like a programmed reflex, Mech6.0's sensor swiveled toward the group. Though Wing Dataran had been working at the shipyard for almost a year, their paths had never crossed. The Triton had been much too big, and she had never been assigned to any of his smaller projects.
+
+But she had known about him. She had connected him to the net database the first time she'd seen him-as she did with all of her human employers-but something about him had kept that profile in the forefront of her memory. A young hardware engineer, he had been hired straight out of tech-university where he had specialized in spaceship engines with extracurricular work in internal design and mechanical systems.
+
+For reasons that didn't fully compute, she frequently found her sensor seeking him out in the crowd of androids and technicians, and every time she spotted him, her fan did that strange little jump like it had when she'd seen the holograph. Only now did she realize that there were similarities between Dataran and the holographic figure. All humans were similar, with their two eyes and protruding noses and five-fingered, fleshy hands. But Dataran and the boy in the holograph both had pronounced cheekbones and slender frames that suggested a particular grace. And they had both made her fan sputter.
+
+What did that mean?
+
+Dataran unclipped a portscreen from his tool belt after they'd finished their introductions. "I've already begun working up some initial plans," he said, showing something on the screen to Ochida, "but I want to discuss with you any special requests you might have before I finalize it. Particularly those new luxury features, which can put added stress on the engine. I want to make sure it's fully..."
+
+He trailed off, eyes snagging on something over Ochida's shoulder. Everyone followed his gaze, including Mech6.0.
+
+A girl had emerged from the ship, wearing an orange and white kimono.
+
+"Ah, there you are, my princess," said Ochida, waving her down toward them. "Have you been inside the ship this whole time?"
+
+"Just saying good-bye," said the girl, floating down the ramp. "When I see her again, it will be like meeting an entirely new ship."
+
+"Don't be ridiculous. You and I are going to be involved every step of the way, making sure my little girl is given precisely the ship she wants." Ochida wrapped an arm around her shoulders before raising an eyebrow at Tam Sovann. "If that isn't a problem?"
+
+"Of course not. We welcome your input, and want to make sure you're fully satisfied with the end result."
+
+"Good, good. Gentlemen, this is my daughter, Miko. I may have my opinions and my wallet, but she's the one you really have to please with this rebuild. Think of it as her ship, not mine."
+
+Miko dipped her head respectfully toward the shipyard owner and Dataran, who stood straighter when her eyes met his.
+
+"This is a very busy place," said Miko, glancing around at the ships of varying sizes and states of construction, at all the men and women and androids scurrying around their landing gears, and wheeling enormous toolboxes back and forth. "How can you keep it all straight?"
+
+"Each project has a separate crew assigned to it," said Tam, "and they'll stay focused on that one project from beginning to completion. We find it's the most efficient use of our workers."
+
+Her gaze settled on Dataran again. "And you will be on our crew?"
+
+There was a tinge of color in his cheeks, Mech6.0 noticed. Perhaps it was warmer than usual in the hangar, although she didn't come equipped with atmospheric temperature gauges to tell for sure. "Yes, Ochida-mei," he stammered. "I'll be your engineer. I'll be the one... pleasing... er." His flush deepened.
+
+"You can call me Miko," she said with a friendly smile. "I know a little about mechanics myself, but perhaps I'll learn something new from you during this process."
+
+He opened his mouth to reply, but no sound came out.
+
+"Why don't we get these androids started on some of the exterior dismantling?" said Tam. "Dataran, perhaps you could give Ochida-mei a tour of the shipyard while we sign off on some papers?"
+
+"O-of course," he said, fumbling to replace the portscreen on his belt. He dislodged a small, shiny chain, which he quickly tucked back into his pocket. "If you would like that?"
+
+"I would, very much." As her father nudged her forward, Miko reached for the back of her neck to adjust the hair that was bundled there, and Mech6.0's sensor picked up on something small and dark that suggested an abnormality-a birthmark, perhaps, or a tattoo?
+
+As her processor received its first set of instructions, Mech6.0 claimed a spot near the front of the ship, where she could back out screws while keeping her sensor turned toward the bustling hangar. She watched as Dataran pointed out the various machinery and ship models, and tried to guess what he might be telling Ochida Miko about. The purpose of the different tools? The history of the ships? How they had the most efficient system of android-labor in any shipyard in the Commonwealth?
+
+She saw him introducing the girl to different mechanics and engineers that they passed.
+
+For a while, they disappeared into the almost-completed WindWalker800, and Mech6.0 could only catch glimpses of them through the cockpit windows. She noticed they were both smiling.
+
+Dataran took Miko through parts storage, the painting room, even past the android charging docks, and while Mech6.0 couldn't hear them, she frequently recognized the dimples of his laughter, and noticed how his gazes grew more daring, settling on the girl with increased frequency, just as her eyes settled on him.
+
+By the time Dataran was opening the gate and ushering Miko up onto the platforms that hung suspended over the water supply and refueling tanks, Mech6.0 realized that she had stopped working.
+
+She turned her sensor toward the ship's paneling that had only two screws still fastening it to the hull, then glanced at her brethren beside her. They all had at least three panels already taken down.
+
+This was very odd. Not only her strange fascination with the humans, but that it could overpower her need to complete her task. Perhaps something really was wrong with her.
+
+Yes, she would have to check in with maintenance after this shift.
+
+Then, as she was removing her first panel, someone yelled. Mech6.0 turned in time to see one of the enormous cranes tilt beneath a too-heavy load, its outstretched arm swaying dangerously for a moment that stretched out for ages, before it found the tipping point. The enormous metal arm careened toward the suspended platforms, as bolts snapped and cables whipped into the air.
+
+Still on the hanging walkway, Miko screamed.
+
+Dataran pushed her out of the way.
+
+The arm of the crane cracked against his head, the sound reverberating right into Mech6.0's hard plastic shell. He was unconscious before his body fell into the oil vat below.
+
+Miko screamed again, clinging to the walkway railing. The crane landed hard and one of the cables flew loose from the ceiling. The platform tilted to one side, but the remaining cables held.
+
+Mech6.0 did not take the time to process the situation or calculate the best course of action-she was already rolling toward the containers. Around her, people yelled and machinery screeched and halted, footsteps thundered, and the rickety walkway trembled overhead. Someone called for a ladder or a rope, but Mech6.0 already had her magnets activated to collect the panel screws and with single-minded precision, she found herself climbing the side of the enormous tank, her grippers spread out against its metal sides, heaving her body upward. It was an awkward climb, one her body was not made for. Her treads banged against the tank and her arms flailed for every purchase. Her joints strained under her weight. But then she was hauling herself up onto the ledge that was just barely wide enough for her to stand on.
+
+The vat of oil was black as the night sky without stars. Black and terrifying.
+
+Mech6.0 tipped herself over and went in.
+
+She sank fast, and though she immediately turned her sensor light on to full brightness, it did little to help her. Extending her arms as far as they would go, she searched the bottom of the tank, knowing that he was here somewhere, he was here, he was-
+
+Here.
+
+She tightened her grippers and dragged her body toward him through the thick oil. It was seeping through her paneling now, blocking her input plugs, glugging into the charging inlet. But she had him.
+
+She wrapped her arms around his torso and heaved him upward. He was heavier than she expected and it occurred to her that the bolts connecting her arms to their sockets may not hold, but she kept going. Finding the tank's wall, she planted her prongs against the side again and started to climb. There was no light anymore, no senses at all but the sound of her grippers and the tread bumping into the wall and the pressure of his body pressing down onto her as she forced both of them up, up, up...
+
+They broke through the surface. Sound crashed into her, more screams and gasps. Then someone was lifting his weight away and Mech6.0 barely managed to collapse sensor-faced down onto the tank's ledge before her programming recognized self-destructive behavior and killed the power to her limbs.
+
+She laid there, hollow and helpless, as the oil dripped off her sensor. She began to make out human shapes on the platform and her audio picked up on a discussion of towels and air passageways and lungs and blood on his head and it seemed to take so very long, the oil dulling all her senses, but then he was coughing and vomiting and breathing and the humans were rejoicing and when they had finally wiped enough oil from his face that it was safe for him to open his eyes, Dataran looked around at all the humans first. And then, for the very first time, he looked at her.
+
+Chapter 3
+
+Dataran had been taken away to a hospital and Mech6.0 was in the android maintenance office, her limbs being rubbed clean-or as clean as possible-by a man in green coveralls who kept shaking his head.
+
+"These won't be salvageable either," he said, clicking his tongue as he inspected her input plugs. He wasn't doing a particularly good job of cleaning her, Mech6.0 thought, and she was feeling more sluggish and drained by the minute.
+
+It began to occur to her that maybe she couldn't be fixed. That maybe he wouldn't even try.
+
+Sighing, the man spun around on his rolling chair so he could enter something into a netscreen on the wall. Mech6.0 glanced down at her body, her joints and the seams of her paneling stained brownish-black from the oil. At least her vision was clear again, and her processor seemed to be working, if slower than usual.
+
+She was surprised to see a collection of screws still clinging to her side from when she'd been removing the panel from the Orion Classic. She reached her grippers toward them, glad to see that her sensor-gripper coordination was functional as she plucked them off one by one and set them onto the mechanic's table. She reached for the final screw and tugged.
+
+Then paused. Then tugged some more. It was not a screw at all, but the link of a chain that had wrapped around to her back. She gave the chain a yank and whatever had magnetically sealed itself to her came lose. She found herself staring at a locket, which she suspected would have been gold if it hadn't been blackened by the oil.
+
+Her memory saw Dataran tucking a chain back into his pocket.
+
+This belonged to him.
+
+The mechanic spun back toward her and she hid the locket behind her back. He was eying her suspiciously and shaking his head again when the office door opened and the shipyard's owner came strolling in.
+
+"Well?"
+
+The mechanic shook his head. "Its body is ruined. I could spend a couple weeks trying to clean it up, but I frankly don't see the point. Better off just getting a new one."
+
+Tam frowned as he looked the android up and down. "What about the processor, the wiring ... can it be salvaged?"
+
+"There will probably be some parts we can hold onto for later use. I'll start to dismantle it tomorrow, see what we've got. But as for the processor and personality chip... that much must have been fritzing even before the oil."
+
+"Why do you say that?"
+
+The mechanic brushed his sleeve across his damp forehead. "You saw how all the other androids reacted when Dataran fell in?"
+
+"I don't think they did anything."
+
+"Exactly. That's what they're supposed to do. Just keep working, not get involved with drama and upsets. What this one did... it isn't normal. Something's wrong with it."
+
+A spark flickered inside Mech6.0's head. She'd begun to suspect as much, but to have it confirmed was worrisome.
+
+"What do you think it is?"
+
+"Who knows? You hear stories about this once in a while. Androids whose artificial intelligence reaches a point of learning at which they develop almost human-like tendencies. Unpractical reasoning, near-emotional responses. There are plenty of theories for why it happens, but the important thing is, it isn't good."
+
+"I'm not sure I agree." The owner crossed his arms over his chest. "This mech-droid may have saved Dataran's life today."
+
+"I realize that, and thank the stars. But what will it do next time there's a disturbance? The fact is, an unpredictable android is a dangerous one." He shrugged. "My advice: Either send out the computer for reprogramming, or scrap it entirely."
+
+Pressing his lips into a thin line, Tam let his gaze travel over Mech6.0's body. She squeezed the locket tighter in her three-fingered grasp.
+
+"Fine," Tam said. "But let's worry about it tomorrow. I think we could all use the rest of the night off."
+
+They left her on the table in the mechanic's room, and as the lights of the shipyard thudded into blackness, Mech6.0 realized it was the first night in her existence that she hadn't been plugged into the charging dock.
+
+Because charging her wasn't necessary. Because tomorrow she would be dismantled and put on a shelf somewhere, and the bits of her that weren't worth saving would be sent off to the scrapyard.
+
+Tomorrow, she would be gone.
+
+She analyzed those words for a long time, her processor whirring and sputtering around them, trying to calculate the hours and minutes left in her existence before there would be only a black hole where her consciousness had been before.
+
+She wondered if Dataran would give a single thought to the malfunctioning android who had saved his life and been destroyed for it.
+
+Dataran. She had something that belonged to him now. It was in her code to return it to him if she could. She brought the locket up in front of her sensor and scanned its dimensions and the small hinge and the tiny unlocking mechanism. It was a challenge to open with her clumsy prongs, but finally she did-
+
+And the galaxy expanded before her.
+
+The holograph filled up the entire office. The sun and the planets, the stars and the nebulas, asteroids and comets and all the beauty of space contained in that tiny, unimpressive little locket.
+
+Mech6.0 clipped it shut, storing the universe away in its small prison once again.
+
+No. She couldn't stay here. She could not stand to be lost to the darkness forever, when there was still a whole universe she'd never seen.
+
+Chapter 4
+
+Mech6.0 had never been outside of the shipyard before, not since she'd been programmed and built and purchased. She quickly discovered that the world was chaotic and loud and filled with so much sensory information, she worried that her frazzled synapses would be fried before she ever reached her destination.
+
+But she tried to focus on the map of New Beijing and the profile she'd discovered on the net as she turned into the first street of market booths, crowded with barrels of spices and woven blankets that hung from wire racks and netscreens chattering from every surface.
+
+"Robotic cats, two for the price of one, today only! No shedding, just purring!"
+
+"Depression? Low energy? Infertility? What's your ailment-we have cures! We even have the newest prevention drops for the blue fever, tried and true!"
+
+"Plum wine, rice wine, come try a free sample!"
+
+"Big sale on serv-droids, now's the time to upgrade! New models, just in!"
+
+She kept her sensor down and attempted to look inconspicuous. The net was filled with stories of android theft, and she was worried that being crushed together with so many humans, she would soon find herself snatched up and saddled with some new owner, who would no doubt have her dismantled anyway once they discovered her damage.
+
+Finally, she spotted a nondescript booth exactly where the market directory had said it would be. The walls were lined with shelves that sagged from their jumble of tools and android parts and outdated portscreens stacked three-layers deep.
+
+Mech6.0 rolled up to the table that blocked the entrance. A girl was standing near the back of the booth, wearing thick work gloves and cargo pants, scanning something with a portscreen. She paused and tapped her fingers against the screen, then reshuffled some items on the shelf before scanning another item.
+
+"Pardon... me," said Mech6.0, her senses crackling at the effort. She did not have many opportunities to speak at the shipyard, and the long trek had already drained her power source.
+
+The girl glanced toward her. "Oh-sorry! I'll be with you in just a minute." She finished entering whatever data she was working on and clipped the portscreen to her belt. "How can I help you?"
+
+"Looking for... Linh Cinder."
+
+"You found her." The girl tilted her head to one side, furrowing her brow. "Is your voice box on the fritz?"
+
+"Whole... body," said Mech6.0. "Purchase... new?"
+
+It took a moment, but then Linh Cinder nodded. "Oh, sure. I can do that. Is your owner around?"
+
+Mech6.0 felt a sudden drop in power, but was relieved when it was only a temporary loss. Now that she'd found the mechanic, she shut off her net database in order to conserve what energy she could. "No owner."
+
+Linh Cinder's brow furrowed. Her eyes darted to the android dealer across the way. "Oh. I see." She reached for her portscreen again and set it on the table between them, before typing in a few commands. "Well, all right. I can order up a replacement mech body today, but it usually takes about a week to get here, unless the warehouse downtown has some in stock. You're a 6.0, right? It doesn't look like they have any. Do you mind waiting a week?"
+
+"Can I... wait here?"
+
+"Uh..." Hesitating, Cinder glanced over her shoulder at the booth cluttered with machines and toolboxes. Then she shrugged. "Sure, I can probably clear a space for you." Tightening her ponytail, she sat down in the chair that had been pushed beneath the table. "But if you don't have an owner... how do you plan on paying for this?"
+
+Paying.
+
+Money. Currency. Univs. To give compensation for goods or services.
+
+Androids did not get paid.
+
+"Trade," said Mech6.0.
+
+"Trade?" Cinder dipped her gaze over Mech6.0's battered form. "For what?"
+
+Mech6.0 opened the compartment in her abdomen. Her prongs found the metal locket on its chain first and wrapped around it.
+
+Her fan slowed-almost stopped.
+
+Releasing the locket, she searched again, and her grippers emerged with the small holographic card instead. She placed it on the table.
+
+Removing the glove from her right hand, Cinder picked up the card and flipped it over, reading the words on the back, before turning it so that the holograph projected from the flat surface.
+
+"A Prince Kai holographic trading card," she muttered, rubbing her brow with her gloved hand. "Because that's all I need." Sighing, she peered at Mech6.0 again. "I'm sorry, but this is only worth about 20 micro-univs. It would barely buy you a screw." She looked truly sympathetic as she handed the card back. Mech6.0 pinched it gently between her prongs.
+
+"Do you have anything else?"
+
+Her processor pulsed. The locket.
+
+But it was not hers. It belonged to Dataran, and she was going to return it to him. When she had her new body. When she saw him again.
+
+Her power source dropped low again. The colors of the world dimmed beyond her sensor's eye.
+
+"Nothing... else."
+
+Linh Cinder frowned sympathetically. "Then, I'm sorry. I can't help you."
+
+Mech6.0 analyzed the situation again, calculating the potential worth of the locket and the importance of a new body. But despite her logical reasoning telling her that the locket might be valued high enough to complete the trade, there was a new factor involved in the calculation. The value of her one possession-something that had been Dataran's. The value of his smile when she returned it to him.
+
+She knew that the decision was illogical, that she would be returning nothing at all if she didn't get a new body, and yet she still found herself tucking the holographic card against her torso and turning away. Which is when she realized that she had nowhere to go, and besides, she wouldn't get very far. She spotted the used-android dealer down the way and a darkness settled in her vision, washing all the color away entirely.
+
+Her treads clattered as she started back through the crowd.
+
+"Wait."
+
+Pausing, she spun back to face the mechanic, who was rubbing her fingers against her temple again, leaving a dark smudge on her skin.
+
+"My little sister really loves that guy," she said, gesturing to the holographic card. "So... here, I think I might have something. Hang on."
+
+Pulling herself from the chair, she headed toward the back of the booth. Mech6.0 waited as Linh Cinder shuffled aside toolboxes and miscellaneous bits of machinery.
+
+"Well, she's not a huge improvement," she said, "but I do have this." She emerged from behind a towering shelf with the body of a girl draped over one arm. Shouldering aside a toolbox, she dropped the girl on the table with a thud. A limp arm splayed out toward Mech6.0 and her scanner picked up on precisely trimmed fingernails, the natural curve of her fingers, the faint blue veining beneath her skin.
+
+And then she spotted the near-invisible imprint across the girl's wrist. A barcode.
+
+She was an escort-droid.
+
+"She's almost thirty years old," said Cinder, "and in pretty bad shape. I was really just keeping her around for spare parts." She adjusted the head so Mech6.0 could see her face, which was beautiful and convincingly lifelike, with dark irises and sleek black hair. With her empty gaze and a rosy flush to her cheeks, she looked like she was dead, but only recently so.
+
+"If I remember right, something was wrong with her voice box. I think she'd gone mute and the last owner didn't want to bother replacing it. She was also prone to occasional power surges, so you might want to look into replacing her wiring and getting a new battery as soon as you can." Cinder brushed some dust off the escort-droid's brow. "And on top of that, with her being so old, I don't really know how compatible she's going to be with your personality chip. You might find that you experience some weird glitches. But... if you want her..."
+
+In response, Mech6.0 held out the holographic card.
+
+Chapter 5
+
+"So... you're an electrician?" said Tam Sovann, scanning her profile on his portscreen.
+
+Mech6.0 nodded, smiling as she had seen humans do. It had taken her nearly two weeks to set up a net profile and manage to steal some proper work clothes that fit her, even though it went against everything her android code told her. Still, she had done it and she had made her way back to the shipyard and she was here, with a humanoid body, a convincing identity, and Dataran's locket snapped snugly in her pocket.
+
+"And you specialize in classic podships and cruisers, particularly the luxury lines... impressive." He glanced up again, as if trying to decide if the profile could be believed.
+
+She kept smiling.
+
+"And you're... mute."
+
+She nodded.
+
+He squinted suspiciously for a moment, before going over her profile again. "Well, we certainly do work on a lot of luxury lines like these..."
+
+Which she knew.
+
+"... and I have been faced with a high turnover of electricians lately."
+
+Which she also knew.
+
+"I'd have to start you at a base salary, until you prove you can do the work. You understand that."
+
+She nodded. Having never received a salary before, she did not even know what she would do with that measly base pay.
+
+"All right. Well. Let's give it a shot," he said, as if he couldn't quite believe he was saying it. Mech6.0 wasn't sure if it was her muteness that had him unconvinced about her, or the fact that her escort body was startlingly attractive, even in her drab work clothing. "And what was your name again?" he said, before flinching at her patient smile. "Right, sorry, uh-" He scanned through her profile again. "Hoshi... Star."
+
+Mech6.0-no, Hoshi Star, nodded.
+
+"Well, then. Welcome aboard, Hoshi-mei. I have a project that I think will be perfect for you. This way."
+
+She braced herself before rising off the chair. Her personality chip hadn't synched quite right with the outdated escort body and Linh Cinder was right-it had caused a peculiar glitch that manifested itself whenever she walked. The effort caused pain to shoot through the wires from her legs to her chest, burning into her synapses. The first time it happened, she had gasped and collapsed onto the sidewalk and sat trembling on the ground for close to an hour while blinding light flooded her senses.
+
+Pain.
+
+She had never known pain before-androids should not have been able to experience it at all. But she had no doubt that's what it was. Just as the human brain used pain to recognize when something was horribly wrong, her processor was warning her that this body was not hers. That this combination could not last.
+
+The third time it had happened, she had considered going back to the market and pleading with Linh Cinder to take the body away, but she had ultimately refused to do that, not before she saw Dataran again. With time, the pain was becoming more bearable, even if only because she was learning to compartmentalize it away from the rest of her sensory input.
+
+Clenching her teeth, she pushed herself to her feet and followed Tam-shifu out into the shipyard.
+
+She began searching for him the moment she stepped into the massive hangar. Her eyes were darting from human to human, searching for a graceful frame and an easy smile. She'd been worried ever since she'd left, terrified that he hadn't fully recovered from the fall into the oil, terrified that she hadn't gotten to him in time.
+
+Though her gaze darted from one corner of the yard to the other as they walked, there was no sign of the young engineer.
+
+"Here we are," said Tam, gesturing to the space yacht, the Orion Classic. Over the past two weeks, the exterior had been nearly completed, but she could guess that the interior still had plenty of work to be done. "This is for one of our premium clients, and he doesn't want to spare a single expense. But of course, he's on a tight schedule, as they always are. I'll track down some electrical blueprints for you. And-ah! You'll be reporting directly to Wing-jūn here. Dataran, come meet our newest electrician."
+
+He came around from the front of the ship, a portscreen in his hand and a stylus tucked behind one ear, and a surge of electricity coursed so fast through her body, she thought for a moment she would experience an actual meltdown. But she didn't, and when he politely bowed his head, she remembered to politely bow hers as well.
+
+"It's nice to meet you," he said. "You'll be working on the Orion Classic with us?"
+
+She smiled, but Tam was already waving his hand. "That's right, she says she's an expert with the classics. Keep her busy. Let's see what she can do, all right?" He glanced at the port. "I have to check on the racer. Dataran, do you mind showing her the ropes?"
+
+"Not at all, sir."
+
+Tam was gone almost before he'd finished talking, and Dataran was chuckling after him. "Don't take it personally. He's like that toward everyone."
+
+His kind smile made the pain of standing recede almost fully from of her thoughts, and she beamed hopefully back.
+
+"I'm sorry, I didn't get your name."
+
+Lashes fluttering, she opened her lips, but of course, there was nothing. Flinching, she patted a hand against her throat. Dataran frowned. "Did you lose your voice?"
+
+She shrugged. Close enough.
+
+"Oh. Then, um. Should I call you..." He frowned, not able to come up with anything appropriate on the spot.
+
+Perking up, she grabbed his sleeve and dragged him back toward the front of the ship, where she gestured up at the name that had been freshly painted on its side. Child of the Stars.
+
+"Uh-stars? Star?"
+
+When she beamed again, he laughed. "That wasn't so hard. It's a pleasure to meet you, Star."
+
+She tried her best to speak through her eyes, her stretched lips, her trembling fingers that had released his sleeve and were too afraid to reach for him again. It's me, she thought, willing him to understand. I'm the one who rescued you. I'm the one who found your locket. It's me, it's me, it's me.
+
+But Dataran just jerked his head toward the landing gear. "Come on, I'll show you the engine room and how far we've gotten in the wiring so far-which isn't much. We could definitely use your help."
+
+Before he turned away, he glanced toward the cockpit windows one level up, and his mouth quirked fast to one side.
+
+Star followed the look.
+
+Ochida Miko and her father were sitting in the cockpit. He appeared to be teaching her something, gesturing at the different controls, but Miko had spotted Dataran outside and didn't seem to be listening.
+
+Star had a sense that the bashful smile Miko gave him had not been intended for her, or Miko's father, to see.
+
+Chapter 6
+
+"Oh, it's beautiful!" said Miko, sitting on Dataran's other side.
+
+Star knew that she was talking about the ship that was about to leave the hangar-a sleek, flashy thing that had been commissioned for the annual Space Race to Neptune (which everyone knew was a fallacy-the race officially ended at Jupiter, but the sponsors claimed that didn't have the same ring to it). It was a beautiful ship, with its elongated thrusters and needle-sharp nose. The painters had outdone themselves, creating a very realistic montage of New Beijing's skyline across its frame.
+
+But Star did not care so much for the ship. Her attention had gone back up to the ceiling as it pulled back to reveal the endless sky. Although her new life as a human had given her the opportunity to gaze up at the night sky as often as she wished, her eyes never tired of it. The sense of vastness and eternity, the yearning to see what else the universe had to offer, even for one as small and unimportant as she was.
+
+Star didn't think that Miko had glanced up at all since the ceiling had lifted to allow the ship an exit. Of course, she had already been to space countless times. Would be going again as soon as the Orion Classic was finished-another two or three weeks at the most. Ochida-shifu had been growing more and more impatient, urging them to tighten the schedule, to work longer hours, to finish early.
+
+Miko and Dataran, on the other hand, seemed to become more and more miserable as each step of the rebuild was completed. If anything, Dataran's pace had slowed as the ship's deadline loomed.
+
+Star pulled her attention away as Dataran was explaining the different features of the racer, gesturing at the elegant curve of its back, the power behind the rocket boosters, and on and on. Star was more interested in the sound of his voice than his words. The subtle inflections. The careful pronunciation of very technical terms. The way he talked faster when something struck him as ingenious. Listening to him felt like being plugged into a power dock, feeling the gentle current of electricity warm and enliven her.
+
+She glanced over at him, and the contented smile fell from her lips.
+
+Dataran had laced his fingers with Miko's and was holding her hand on his knee, while his other hand drew explanatory pictures in the air.
+
+Something flashed in Star's chest-a spark maybe, or a power surge. Her fingers curled into fists, tightening with the urge to reach across Dataran and rip their hands away from each other. To shove Miko aside. To wrap her own fingers around Miko's neck.
+
+Grimacing, she turned away, and waited for the flood of white to fade from her vision.
+
+It was not the first time such horrible thoughts had come into her head. Generally, she found that she enjoyed Miko's company. She was a smart girl who talked just enough to keep Star from feeling strange that she couldn't participate in the conversation, and who had insisted that Star take the occasional walk with her in a nearby park when she deemed that Star had been working too hard lately.
+
+But when they were with Dataran, which was more often than not, Star found herself withdrawing from Miko's friendliness and discovering a darker part of her programming. She figured it had to be another glitch-this strange desire to hurt a human being-that seemed to emerge only when Dataran found some subtle way to touch Miko. Just placing a hand on her elbow or brushing a lock of hair off her shoulder.
+
+These little moments made Star feel like she was disintegrating inside.
+
+Maybe the malfunctions were getting worse. Maybe a new processor would help. Had she earned enough money now to afford one? She wasn't sure, and she needed to weigh it with her need for a power source that didn't threaten to die near the end of every workday.
+
+"Star? Are you all right?"
+
+Prying her eyes open, she forced herself to look at Dataran. A quick glance confirmed that their hands remained entwined, but she still forced her lips to curl upward and her head to bob up and down.
+
+The concern lingered in Dataran's gaze, but then a cheer rose up from the audience and the racer was taking flight, and Dataran and Miko shifted their giddy attentions back to the spectacle.
+
+Star tried to focus on the ship, or even the night sky, but she couldn't get the image of her own pale fingers around Miko's neck to fade from her thoughts. It disturbed her that her processor was capable of imagining something so horrific, and the shipyard mechanic's words flashed through her head.
+
+The fact is, an unpredictable android is a dangerous one.
+
+Was she unpredictable?
+
+Was she dangerous?
+
+She felt a shudder along her wires as soon as the ship lifted up off the ground, to another uproarious cheer.
+
+Her energy was running out.
+
+She switched her internal settings to power-saving mode, and the world dulled to shades of gray, the sound in her ears a jumbled hum as her audio receptors stopped sorting and cataloging the input.
+
+She set a hand on Dataran's shoulder and climbed to her feet. The movement came with a jolt of pain that threatened to cripple her. She grimaced and waited a moment before waving good-bye.
+
+"Where are you going?" Dataran pointed at the ship. "It will only be another few minutes. We can take a hover together."
+
+Her fan whirred faster. She had made up a home address that was near to his on her third day at the shipyard and they often left together when the workday was over. Sometimes Miko joined them too, and Star thought she and Dataran might have plans that didn't involve her, and yet they were always so good to not suggest she was an unwanted intruder.
+
+Those hover rides, simply listening to Dataran talk and laugh, were some of the best of her short existence.
+
+But this time, she shook her head. She needed to find a charging dock, and quickly.
+
+He did not expect her to explain, an unexpected benefit of being mute, and so he simply nodded, still frowning, and let her go.
+
+But Star had not gone a dozen steps before she felt the power drain from her legs. Warnings pounded into her consciousness, but they were too late-she was falling. Her head crashed into the hard floor and she lay there with her arms twitching so hard, she worried they would yank right out of her shoulder sockets.
+
+She picked out Miko and Dataran's yells even from the chaotic roaring in her ears, and then they were above her, tenderly turning her onto her back. She scanned their faces, recognizing shock, fear, panic, uncertainty. Dataran was speaking, but she couldn't comprehend. Miko was pressing a hand against her forehead.
+
+Her processor began to flicker back to life, programs gradually rebooting themselves. Though she still had no control over her legs, she could once again make out Dataran's concerned questions raining down on her like shooting stars.
+
+Then Miko laid a hand on Dataran's arms and said, with calm authority, "Bring her some water."
+
+With a frantic nod, he pushed himself to his feet. When he had gone, Miko sighed, her gaze full of sympathy as she tucked a lock of Star's hair behind an ear.
+
+"The fit seems to have passed, but just lie still."
+
+Star withered from embarrassment to know that Dataran had seen her like this.
+
+"I'm sorry if I offend you by asking this," Miko whispered, glancing in the direction Dataran had gone, "but... are you an escort-droid, Star-mei?"
+
+Eyes widening, Star tried to sit up, only succeeding when Miko tucked an arm beneath her shoulders and lifted her. She realized the thought of Miko knowing her secret terrified her, but Miko's smile was kind. "Don't worry. I don't think Dataran has noticed anything, and I won't tell anyone. You are very... convincing." Her lashes dipped, and she murmured, "But like recognizes like."
+
+Star scrutinized her. Like recognizes like. The words repeated in her head, but she couldn't seem to compute them.
+
+Then Miko reached a hand for the back of her neck, where Star had noticed that strange dark spot a dozen times since her return, always hastily covered up. "I'm not an android," she said, shaking her head. She cleared her throat and dared to meet Star's gaze again. "But I am a cyborg."
+
+Cyborg. The definition was in her database, but Star doubted its accuracy. Miko? Lovely young Miko?
+
+Miko glanced around to make sure no one was near. They had been sitting near the paint booth, which offered a good view of the ship's takeoff without all the crowds, and no one was paying them any attention.
+
+Sitting back on her heels, Miko pulled up the wide sleeve of her silk kimono. Star watched, mesmerized, as Miko dug her fingers into her elbow and began to peel the skin back. A perfect, thin layer of flesh rolled down her arm like a tightly knit sleeve, and beneath the skin was a finely crafted arm made from lightweight carbon-fiber polymer, the same material Star's body was constructed from.
+
+As soon as Star had seen, Miko rolled the skin back into place, rubbing at the synthetic until the edges had merged seamlessly back together.
+
+Gaping, Star pointed to where Dataran had gone.
+
+"He knows," said Miko. "I told him as soon as... well..." She stared down at her prosthetic hands, now clutched together in her lap. "As soon as I realized that I was falling in love with him. I thought for sure it would put an end to us. That he wouldn't want anything to do with me once he knew. But... he isn't like that, is he?" A happy flush bloomed across her cheeks, but was smothered as she glanced out toward the rows of ships in various stages of incompletion. And down the lane, the Child of the Stars. "Not that it matters. As soon as the ship is done, we'll be leaving, and nothing will change my father's mind. I know he thinks it's for my own good, but..."
+
+Star listed her head, urging her to continue.
+
+"We're leaving the Commonwealth because he's afraid that I'll be selected for the cyborg draft if we stay. I know it's by random selection, and the odds are so small, and yet he's convinced that the draft skews toward female cyborgs, and young ones at that. I don't know how he got this into his head, but... That's why he bought the ship, why he's so insistent that they finish it as soon as possible. And when it's done... I'll have to say good-bye."
+
+Star thought she detected a shimmer in Miko's eye, but it was gone just as fast. "I should be grateful. I know that. He's going through so much trouble to keep me safe. But I can't help but feel I'd rather take my chances with the draft, if it means being with Dataran."
+
+Star looked away. She knew that feeling so well. The pain that jolted through her vertebrae when she walked. The torture of seeing how his eyes latched onto the bright-colored obi that wrapped around Miko's body. How agonizing it was, this life of silence and yearning.
+
+Yet how very worth it when his eyes found hers. She could still recall the look of disbelief and gratitude and curiosity that had passed over him when she'd pulled him from the oil tank.
+
+"Here, I usually keep a portable charger with me," said Miko, pulling her handbag toward her. "Dataran will be back soon, and it will be difficult for me to explain why you aren't drinking any water unless you seem recovered. Is the receptacle in your neck?"
+
+Star nodded and tried her best to be grateful as Miko opened the panel beneath her ear and inserted the charging cord, but there was something dark lingering still, making her dig her own fingertips into her thighs. An impatience with Miko, a throbbing irritation with her presence.
+
+Ever since she'd returned to the shipyard, Star had thought of Miko's departure as an ending-and a beginning-and that feeling grew stronger by the day. She was only biding her time until Miko was gone. Then she would buy a new body that didn't rebel every time she walked, and she would return the locket that contained the whole galaxy to Dataran and explain everything to him. She would tell him that something in his smile had changed her, back when it shouldn't have been possible for her to be changed. She would tell him that she was the one who had saved his life, because something about him made her unpredictable, and maybe dangerous, and she couldn't exist in a world without him.
+
+The End
+
+Star dragged a finger across the screen imbedded in the wall, and the lights of the cockpit went dark. She swirled it clockwise; they gradually brightened again. Counterclockwise, they dimmed darker. A tap here to raise the temperature, here to lower it. She tested every command: Play music, adjust the air-filtration system, seal the cockpit door, heat the cockpit floor, place an order for a beverage through the automated beverage service.
+
+Confident that everything was working just as it should, she shut the panel of wiring beneath the screen and gathered up the tools that she'd used, hooking them neatly into her tool belt. She then paused, preparing herself to walk, before heading toward the ship's main exit. Her body screamed at her as she walked, and she knew that the exertion was beginning to take its toll on her system. For weeks she had done her best to ignore the pain and the knowledge that sooner or later, her escort-droid body would rebel and reject the installed personality chip altogether. There were times when she felt she was holding her body together through sheer willpower.
+
+It wouldn't be long though, before she could afford a new body. Just a little while longer.
+
+A voice made her foot catch and she paused on the exit ramp.
+
+Dataran.
+
+Turning, she peered into the common room that divided the front of the ship from the living areas. An assortment of comfortable seats, accented with silk pillows and cashmere throw blankets, were arranged around a gurgling aquarium that reached from the floor to the tiled ceiling. The brightly colored fish had been brought to their new home a few days before, and seemed content to float mindlessly among their artificial coral reef.
+
+Star crept toward Miko's rooms, her back against the wall, aware that this was not something she would have done when she was Mech6.0. Spying, sneaking, eavesdropping. Androids were not made to be curious.
+
+And yet, there she was, standing beside the doorframe and listening to the hiccupping sounds of a girl crying.
+
+"If we could just talk to your father... show him how much we love each other..."
+
+"He'll never agree to it. He doesn't think you could keep me safe."
+
+Dataran released a disgruntled sigh. "I know, I know. And I couldn't stand it if anything happened to you either. I just need time... I can get us a ship. It may not be anything like this, anything like what you're used to, but..."
+
+"That doesn't matter. I would go-" She sobbed. "-anywhere with you. But Dataran ..."
+
+"But what?"
+
+Her crying grew louder. "Do you really want to live-your whole life-with a cyborg?"
+
+Star dared to inch closer, shifting her weight so she could peer through the crack between the lavish mahogany doors. These rooms were completed. The ship was almost finished, but for some last detail work in the front end.
+
+Scheduled departure was in just two days.
+
+She spotted them standing near Miko's netscreen desk, and Dataran was embracing her, one hand cupping the base of her head as she buried her face into his shoulder.
+
+Memorizing the pose, Star brought her hand up to the back of her neck and dug her fingertips into her own hair. Tried to imagine what that must be like.
+
+"Miko, please," Dataran whispered. "Your arms could be made out of strychnine wood for all I care."
+
+Star adjusted her audio interface so loud that she could hear the rustle of fabric, his breathing, her sniffles.
+
+"All I care about is what's in here."
+
+He pulled far enough away that he could slide his hand around and place it over a chrysanthemum painted onto the silk of her kimono. Right below her collarbone.
+
+Star followed the movement. Felt her own chest, her own hard plating, with the slightest bit of softness from her layer of synthetic skin. But no heartbeat, no pulse.
+
+"You're perfect, Miko, and beautiful, and I love you. I want to marry you."
+
+The words, spoken so quietly, were like a gunshot in Star's head. She flinched and stumbled backward, pressing a hand over one ear. But it was too late. Those words, still smoking, were burned into her database.
+
+Miko gasped and they pulled apart, spinning toward the door.
+
+Dataran was there in a moment, whipping the doors open, and relief crossed over them both when they saw her.
+
+"Oh, stars," whispered Miko, placing her own artificial hand over her very real beating heart. "I thought you were my father."
+
+Faking apology, Star took a step toward them and gestured at the lights that ran around the room, then at the control panel on the wall. She raised her eyebrows in a question.
+
+It was a lie. She had checked all these rooms the day before, and she knew there was a time when she wouldn't have been capable of the falsehood, even an implied one.
+
+"Oh-yes, yes, everything seems to be working perfectly," said Dataran, stringing a hand through his hair.
+
+He seemed flustered, while Star felt broken.
+
+"I should finish packing," mumbled Miko, sounding no more enthusiastic than if she were moving into a prison cell, not a lavish yacht. Ducking her head, she shuffled toward the door. "So many more cases to bring in..."
+
+"Miko, wait." Dataran grabbed her wrist, then glanced uncertainly at Star. She turned to inspect the electronics' control panel. "I have to try," he whispered, lowering his head toward Miko. "I have to at least ask him..."
+
+"He won't say yes."
+
+"But if he did... if I could convince him that I would take care of you, that I love you... Would you say yes?"
+
+Star absently punched her fingertips against the screen.
+
+"You know that I would," Miko responded, her hushed voice breaking on the last word. She sniffed and cleared her throat. "But it doesn't matter. He won't say yes. He won't let me stay."
+
+Then her soft footsteps padded out toward the ship's exit.
+
+Daring to glance over her shoulder, Star saw that Dataran had pressed his forehead against the wall, his fingers dug into his hair. With a heavy sigh, he dragged his palms down his face and looked up at her. She noted darkening circles beneath his eyes, and a paleness that seemed all wrong on him.
+
+"Ochida-shifu... he's worried for her safety..." He said, as if in explanation, then looked away. "And I am too, to be honest. But if she leaves, I might never see her again. If I just... if I had a ship of my own, but..." Shaking his head, he turned so that he could lean his back against the wall, like he might collapse without its support. "I was actually saving up for one. Have been for years. And I almost had enough, along with this antique holograph locket that should have been plenty to make up the difference, but I lost it in that stupid oil tank."
+
+Star pressed a hand against her hip, where the locket sat snugly in her pocket. She'd kept it, waiting, expecting there to be a perfect moment to give it back to him, but the time never seemed right. And in the evenings, when she was alone, she would open it up and let herself get swallowed up by the stars, and think about what life would be like when Miko was gone. There would be so many chances, so many opportunities...
+
+"I'm sorry, Star. I shouldn't talk about my problems like this. It's not fair, when you can't tell me about yours."
+
+He met her gaze again and she pulled her hand away from the pocket, curling her fingers into a fist. Miko would be gone in two days. Only two more days. And then... and then...
+
+Dataran smiled, but it was exhausted, and missing all the warmth that had so often interrupted the flow of electricity to her limbs. "Do you have any problems you wish you could talk about, Star?"
+
+She nodded.
+
+"Maybe you could write them down? I would read them, if you wanted me to."
+
+Dropping her gaze, she shook her head. Out in the common room, the aquarium bubbled and hummed, the sound that was meant to be calming now taking up the entire ship and drowning her.
+
+"I understand," said Dataran. "I probably haven't shown myself to be the best... listener, since we met. But I do wonder what goes on in that head of yours sometimes. Miko likes you, you know. I think... she hasn't said it, but I think you might be the only friend she has."
+
+Star looked away. Clenched her fists. Then, daring to meet his gaze again, she lifted a hand and tapped a finger against her hollow chest. Dataran was watching, but uncertain. He didn't understand.
+
+Star took a step toward him and tapped the same finger against his heart.
+
+He blinked and opened his mouth to speak, but Star leaned forward and kissed him before he could. Just a peck, but she tried to put every unspoken word into it. It's me, it's been me all along, and I may have saved your life, but I would be nothing if it wasn't for you. I would be just another mech-droid, and I wouldn't know what it's like to love someone so much I would give up everything for them.
+
+But when she pulled away, he looked shocked and horrified and guilty, and she knew he didn't understand. She left the room before Dataran could speak. He didn't call her back, and he didn't come after her.
+
+Star fled from the ship and kept going until she was out of the hangar, out of the shipyard, a single lonely android beneath an enormous morning sky, before she reached into her pocket and wrapped her fingers around the locket and a universe that meant nothing to her without him.
+
+* * *
+
+Unlike the Triton, the launch of the Child of the Stars was a private affair. Some of Ochida-shifu's old coworkers and acquaintances had come out to wish them safe journeys, along with the shipyard staff, but that was all. No friends of Miko's. Maybe Dataran was right and she didn't have any, which made Star wonder if it was because she was rich and sheltered, or shy, or because she was cyborg.
+
+Star couldn't take her eyes from Dataran, standing sunken-shouldered in the crowd, his eyes haunting the ship as its engines rumbled and the lifter magnets beneath the hangar floor hummed with life. He was probably hoping to catch a glimpse of Miko through the windows, although all but the cockpit windows were so small, it was an impossible hope. Star wondered if they had seen each other at all since she had stumbled upon them two days before. The words she'd overheard still bounced around in Star's head, and she ached from the memory, almost as much as she ached from the kiss.
+
+She had not seen Dataran since that morning. She'd been avoiding him. Unable to stand his sorrow over losing Miko, and whatever kind, sensible things he would say to explain why Miko was the one he loved, and why Star would never be, even after Miko was gone.
+
+As she stared, the crowd shifted around Dataran. A figure moved gracefully between the bodies.
+
+Star cocked her head and squinted. Staring. Waiting.
+
+Dataran gave a start, then whipped his head around. His gaze fell on Miko, who was wearing plain coveralls, and he drew back in surprise. Her smile was shy, but bright, as she pressed up closer to him and whispered. She lifted her hand and something small glinted from her palm. Though Star was too far away to see, she knew it was the locket. Her locket. Her galaxy.
+
+Dataran shook his head in disbelief and glanced back toward the ship. Then, on the verge of a smile, he took Miko into his arms and kissed her.
+
+Star pressed her fingertips against her own lips. Imagining.
+
+Her arm weakened and she let it fall to her lap. It wouldn't be long now. She could feel her body beginning to rebel. It was in the pain that was almost constant now, a stabbing sensation that tore through her legs even when she was only sitting. It was in the frequent loss of control in her twitching limbs. It was in the blackness that clouded in around her vision, and how she always thought this would be the last time, before, after a long, agonizing moment, she returned to consciousness again.
+
+Footsteps thumped in the common room and paused in the doorway. Star turned her head away.
+
+"One minute to takeoff," said Ochida-shifu. "Do you want to come sit with me in the cockpit?"
+
+She shook her head, and adjusted the sleeve of the silk kimono so that he was sure to see the metal plating of her arms. The synthetic skin had been easy to remove, and though the proof of her android insides was disconcerting, the limb reminded her of the three-fingered prongs from her Mech6.0 body, and there was a comforting familiarity in that.
+
+Ochida sighed heavily behind her. "I'm doing this for you, Miko. It's better this way. And he's just a boy-you'll get over this."
+
+When Star didn't respond, he huffed and withdrew from the doorway.
+
+"Fine. Be angry. Throw your tantrum if you have to. Just put your skingraft back on before you snag that material. Whatever point you're trying to make, it isn't working. The reminder of what you are just further convinces me that I'm making the right decision."
+
+Then he was gone.
+
+Star returned her gaze to the window, the hangar, the crowd. Hundreds of mech-droids lined up against the charging wall. Miko. And Dataran.
+
+Not minutes had gone by before she heard the magnets engage and felt the ship rise off the ground. The crowd cheered. Dataran wrapped his arms around Miko and she was beaming and though Star didn't think Miko could see her, she felt almost like they were looking at each other in that moment, and that Miko knew precisely the decision that Star had made. And she, too, knew it was the right one.
+
+Then the thrusters engaged, and the ship was climbing up out of the hangar, over the glittering, sprawling city of New Beijing. And Dataran was gone.
+
+Suddenly weary, Star leaned her head against the window. Her audio input dulled to a faint, distant hum as the Child of the Stars speared through the wisps of clouds, and the sky turned from bright blue to blushing pink and pale orange.
+
+Her fan was struggling inside her torso, moving slower and slower...
+
+Then, so suddenly she almost missed it, space opened up before her. Black and expansive and endless and filled with more stars than she could ever drink in. More stars than she could ever compute.
+
+It was so much better than a holograph.
+
+Her wires quivered as the last dregs of power sizzled through them. Her fingers jolted and twitched and then lay still.
+
+She was smiling as she imagined herself as one more star in the sea of millions, and her body decided it had had enough, and she felt the exact moment when her power source gave up and the hum of electricity extinguished.
+
+But she was already vast and bright and endless.
+

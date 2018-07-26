@@ -1,0 +1,1254 @@
+﻿How It Ends
+Part One
+(of Four): 
+The Evaluation
+Scott C Lyerly
+This is a work of fiction. Names, characters, businesses, organizations, places, events, and incidents are fictitious. Any similarity to persons, living or dead, or situations, real or imagined, is coincidental and not intended by the author.
+Significant liberties were taken in regards to geography, academic policies, and elapsed time frames for the purpose of overall story-telling. Any inconsistencies are solely the fault of the author.
+All rights reserved. No part of this book may be used, reproduced, or transmitted in any form in any means, electronic of mechanical, without permission in writing from the author, except in the case of brief quotations embodied in critical articles or reviews.
+I would like to express my gratitude to the following people for their support during the writing of this book: Paul and Mark at Silverthought; my friend Norm for his advice and prompting; my friend and editor Russell; and my family for their support, guidance, and ability to see the typos I never did.
+Copyright 2013 Scott C Lyerly
+v1.0
+
+
+
+"Nature (the art whereby God hath made and governs the world) is by the art of man, as in many other things, so in this also imitated, that it can make an Artificial Animal. For seeing life is but a motion of Limbs, the beginning whereof is in some principal part within; why may we not say, that all Automata (Engines that move themselves by springs and wheels as doth a watch) have an artificial life? For what is the Heart, but a Spring; and the Nerves, but so many Strings; and the Joints, but so many Wheels, giving motion to the whole Body, such as was intended by the Artificer? Art goes yet further, imitating that rational and most excellent work of Nature, Man." 
+~ Thomas Hobbes, “Leviathan”
+
+=== Logging started: 15:25:08 ===
+Action start 15:25:08: INSTALL.
+dkiSetInstallConfiguration: "INSTALLCONFIG" = "Valet"
+Action ended 15:31:30: COMPLETE_INSTALL. 
+[15:31:30:703]: Product: Robot Model: Valet, H Series. Denlas-Kaptek Industries -- Installation completed successfully.
+=== Logging stopped: 15:31:30 ===
+
+The last robot was activated and led away. 
+Its head swiveled and its eyes, nothing more than photoreceptors, scanned the production floor. It was helped into clothing by technicians in white suits and led to the storage facility for end processing. It was self-aware upon activation. Its first act of self-recognition was its name. It was Gammons.
+The door to the storage area was closed. It waited.
+
+ 
+Chapter One
+Anita always woke up at five AM. No matter how late she had tumbled into bed she woke at five. And she never fell asleep before midnight. Too early and she tossed and turned until, like an engine sputtering out of gas, she finally slept. As if an invisible cog inside her had become warped and oblong and ceased its function at midnight and always hiccupped into motion at five. Her internal clock was, if not broken, then certainly bent. 
+This morning, like most, her eyes opened of their own accord. She got out of bed and walked straight into the shower. She was never one to linger. Showers were not for pleasure unless she was joined by someone. Showers by themselves were utilitarian. Five minutes later she stepped dripping from the stall. Tendrils of steam curled from her form. Her legs muscular from walking through the city. Her arms long and lank. Her breasts small and upturned. Hers was the body of youth, the body before middle age and gravity began to pull it towards earth. 
+She did not have a towel in the bathroom so she walked soaking wet into the bedroom and picked one off the floor. She sniffed it. Smelled of mildew, faint but not sharp. It would do for this morning. She dried off. She scraped the last of the sleep sand from the corners of her eyes with her towel. She then got dressed in the hurry of the dark. 
+Once dressed, she walked to the kitchen and started the coffeemaker. While it perked she opened her textbook and began her assigned reading. She paused and went to the kitchen and took a box of Fruit Loops down from an upper shelf that also had a box of Triscuits, two bottles of opened squirt cheese, and five packages of ramen instant noodles. She poured a bowl of Fruit Loops and shoved the box back into the cabinet without looking where it went. She took milk from the fridge and poured it into the bowl. 
+She returned to the textbook which she placed on the beat-to-shit coffee table and flattened the page with her palm so it stayed open and she could read while she ate. She read for a minute, then rose and went to the kitchen and dropped the bowl into the sink with the other unwashed dishes and then went and got her backpack from the bedroom. She returned to the couch and read some more while rummaging through the backpack. She pulled out her laptop, opened it, turned it on, waited and read while she waited. Once it had fully booted she opened up the latest revision of her thesis and typed some notes before returning to her textbook. The coffeemaker peeped its readiness and she rose again.
+Watching Anita was like watching a tornado touch down on the flat plains of Middle America. It could not be guessed where she would move to next. She left a swath of chaos in her wake no matter where she went. 
+This morning she was alone in her apartment. Chaos went without witness. No one to see it. Was it there at all? She poured herself a mug of coffee and then read some more before checking her email and then writing some more of her thesis. 
+She rose and went to the kitchen, prepared a bag lunch, returned to the couch but instead of the reading or writing that she should have been doing, she turned on the TV only to rise again to return to the coffeemaker. She poured another cup and upended it into a travel mug. Some spilled over the sides. Little drops of coffee splattered the dingy yellow floor mat like polluted rain. She had not considered holding both mugs over the kitchen sink where the spill would be contained. She looked for a spoon among the wreckage of dishes and failed to find one so she took the sugar bowl and tipped. Grains of sugar cascaded over her hands. This time over the counter. A swipe of her hand plowed the spilt sugar into the sink. She swirled the travel mug to mix it. Milk from the fridge poured into the travel mug until it nearly overflowed. She clamped down hard on the top with the lid.
+Care of her apartment was no different than how she cared for her coffee. Varied levels of carnage. A tiny mess of a place she called home. The main living room was a small square space filled with scattered papers and half empty paper coffee cups and nearly empty pizza boxes. Off of this was the cramped kitchen. There was a bedroom that barely fit a bed let alone furnishings. Clothing lay in piles on the bed and nowhere else; her laundry clean and dirty co-mingling. Off of the bedroom was the bathroom with the stall shower. 
+To her it was home. 
+She loved all of the litter. She banged around her apartment gathering the bits and pieces of her life that went everywhere with her. Her bag was stuffed with pads of dog-eared paper and pencil stubs. Once she thought she wanted to be a journalist. That vision had faded by the end of the third course. Without a true understanding of why, her thoughts had turned to robotics. There they stayed. Yet the tools of the journalism trade continued to travel with her. 
+Someone knocked on her door. Anita set her travel mug on top of her TV. She opened the door and found Charley on the other side. The building’s superintendent was a pot-bellied man with a fat ring of jangling keys and a penchant for looking at Anita’s chest.
+“Charley. What’s up?”
+“Sorry to wake you, Anita.”
+“I’ve been awake since five, Charley.”
+“Oh.”
+His tone was disappointment. As if he’d hoped to catch Anita just getting out of bed or perhaps the shower.
+“What’s up?” she asked again. 
+“A pipe broke upstairs in Mrs. Lighter’s apartment. She’s got water all over the floor of her bathroom and into the living room.”
+“Sorry to hear that.” Her tone asked the question: what does this have to do with me?
+“I need to check the ceiling of your bathroom.”
+“Why?”
+“It was a pretty good flood. I need to see whether you’ve got water coming in.”
+“Oh. Come in, then.”
+She wasn’t happy about letting Charley into the apartment. As the super, there wasn’t much in the way of alternative. He’s harmless, she kept telling herself. An older man who lives alone with no wife and no kids. He’s probably lonely.
+Lonely. Of course.
+But.
+His elevator eyes.
+He’s a harmless old man.
+Who likes to look at my chest.
+I should be flattered.
+But I’m not.
+Some girls might use that to their advantage.
+But I don’t.
+I’ve thought about it before.
+But fuck that.
+“Yeah,” he called from the bathroom. “It’s coming through the ceiling.”
+“It is?”
+Anita got over her aversion to the super just enough to take a quick look at her bathroom ceiling. She saw the water. It pooled in a funny way as gravity pulled it downward while the water seemed to try to hold itself  back. 
+“What does that mean?” she asked
+“It means I have to come into your place today and bring a cleaning crew to clean out the water. Then we’re looking at assessing the damage, repairing the ceiling, maybe even replacing part of it.”
+“Jesus Christ, Charley.”
+“Yeah, I know. Pain in the ass. But what are you going to do.”
+Anita was silent. She didn’t have an answer.
+“Will you be around today?”
+“No, I’ve got to go out and meet someone for breakfast.”
+“Okay. Then I’ll be letting myself into your place later this morning.” 
+“Okay.”
+Charley walked out. He turned as if he were going to say something else. Anita had already shut the door.
+She grabbed her coffee from the top of the TV and took a swallow. 
+Already cold. 
+Damn it, anyway.
+
+* * *
+
+Anita thundered down the stairs of the apartment building. She lived on the third floor. She passed the doors of peeling paint and the muffled noises of lower class life that came from behind them and passed the reeking bags of garbage that lingered by the trash chute that had been jammed too full for anything else for the last few days and passed the bronze colored mailboxes that brought nothing but the misery of bills to the tenants and through the door and into the sunshine. 
+The air was cold like a slap to the face. She bounded down the steps to street level. She lifted the travel mug and took a long swallow. Her eyes darted up and down the street as if she was looking for something. She took a deep breath of city air. Grimy, sooty, car-exhaust-filled. She took another drink, longer than the last.
+Fall had come late but strong to New York City. She cast a bohemian figure in the early slanted light that skittered between the tall buildings. Dressed in jeans with sneakers poking out from below the cuffs and a graphic tee shirt that read FREE AT LAST in an old seventies porno type stretching across her braless chest and a zippered sweatshirt open over the shirt. The old navy pea coat discovered in the local thrift store was over all of it. Down the back of the pea coat her wet hair draped so brown it was almost black, staining the pea coat with wet. She pulled a pack of cigarettes out of the pocket of the pea coat and lit one. 
+Deep inhale, then exhale. 
+She lifted the cigarette to her lips and repeated. The third time she inhaled, then took a long slow swallow of coffee,  She exhaled and it made her head dizzy and she staggered, her eyes swam. She loved the feeling of lightheadedness. She was ready to begin her day. A navy-coated pilgrim on the busy city streets. She weaved in and out of pedestrian traffic. He was waiting for her. She smiled. Thoughts of him made her smile. Thoughts of him warmed her insides. He was so brilliant and so good looking. He was so much of what she wanted. He was older than she. He was what she wanted. What she wanted to be. 
+Chapter Two
+Brian ran a pencil along the paper in front of him then, stopped. The paper lay on his desk like it was waiting for his touch, calling to him like a whore. His thoughts drifted. His chin was sharp and his eyes behind his small round glasses were like lazy and dangerous lions lying in the sun. The paper before him whispered to him. It dared him to touch it. It whispered its desire and its disappointment. It no longer sounded to him like a whore but like his mother long dead. You could have done so much more, been so much more. You could have been better. 
+He took off his glasses and rubbed his eyes with the palms of his hands. He tried to push the voice of his mother out of his head. That was long ago and far away. That no longer mattered. She was gone and he was here.
+He hated it here.
+Papers were arranged neatly on his desk. They lay in two neat and even piles, the ones he had read and the ones he hadn’t. In the middle of the desk lay the paper he’d been correcting. Papers from students he didn’t know. Names he did not recognize. Numbers identifying each pupil. Social security numbers scrawled in a mix of legible and illegible. So much dust blowing in the wind of academia.
+He put his glasses back on and checked his watch. Nearly nine. Break time. 
+He stood from his desk. The papers lay still like nervous virgins. He smiled at that thought. He didn’t have classes today so he could come right back and continue reading. It was too bad the reading wasn’t enjoyable. He’d hoped for more when he took this professorship. He’d hoped for some kind of lifestyle he assumed professors led. He felt misled by every work of collegiate-setting fiction he’d ever read or seen in the movies. He felt like he wanted to sue. Which was of course ridiculous.
+His back creaked and his knees cracked as he stood. He’d sat hunched over too long. His arms thrust out to his sides as he stretched and his long reach nearly touched the walls off his small office. His chair was comfortable but he spent more time hunched over his desk than reclining. He supposed he could grade some papers at home but there were too many distractions there. Besides, who really wanted to bring work home?
+He shrugged into his jacket. It fit him athletically, just how he liked it. Made him look younger and hipper and fitter. Made him feel more attractive. Made him more attractive. With attractiveness came rewards. Young women would flock to him. And sometimes men, but that wasn’t really his thing. The women would bat their eyes and pout their lips and lean in close with low-cut blouses that begged to be explored with his eyes. He was always happy to accommodate. He was Henry Hudson and these young attractive desperate coeds were the river upon which to navigate. Raise the sails and hoist the mizzen mast and feel the salty spray in your face. For god, king and country, let us seek out new lands to conquer, plant our flag in fertile ground and claim our victory. Hear our victory cry.
+He glanced at the papers on his desk and made a slight change in the arrangement, making them into perfectly ordered stacks. Neat and precise. He was not the type of person who liked things out of place. As lurid an existence as he lived among the coeds he still felt the unquenchable urge to be tidy, sex notwithstanding. He reached back and moved his pencil so that its line was a perfect parallel to the bottom of his desk. Done and he breathed freer.
+He pulled the door to his office closed. It locked from the inside. His shoes echoed down the hall as he took long strides toward the stairs.
+
+* * *
+
+The smell of coffee as he entered always took him back to his own time at college. Coffee and cigarettes had been the diet. He’d given up smoking several years previous. Coffee he never could, never wanted to. Walking into the coffee shop, any coffee shop, caused his undergrad years to blaze by his eyes like some demonic reel-to-reel. Days and nights filled with the testosterone ramblings of an exceptional mind. Bored to tears by most of his classes and led by an urge that originated south of his belt buckle. He drank his way through freshmen English. He snorted his way through sophomore physics. He fucked his teacher in junior computer sciences. He led an erotic deviant drugged-out life until his senior year. Until his first robotics class where he discovered he was not the most gifted or most intelligent or most moody or most bored student on the campus. That moment. When he discovered a challenge above the waistline. That moment that defined his now miserable career.
+He breathed in the smell of coffee and breathed out. Something sweet in the air as well. Something baked and glazed. The shop was full of regulars having their orders filled from memory by the woman behind the counter. She smiled warmly as she made each drink, handed over each baked good, took green cash from every customer, gave back exact change and heard the pretty little plinks of the loose change dropping into the heavy ceramic dish set out for tips. He stood a line five deep and waited. By the time he reached the counter he had made a decision.
+“Medium decaf cappuccino with extra foam, right?”
+“Usually,” he said. 
+She looked at him funny. He smiled in the most charming way he could.
+“I’m feeling like something new.”
+“What’d you have in mind?”
+“I was hoping you could suggest something to me.”
+“Me?”
+“You know your way around the espresso machine. Pick something for me. Anything.”
+She thought for a moment. The man in line behind Brian sighed his impatience. 
+“How about a large latte with whole milk?”
+“Can you add something to it?”
+“Like what?”
+“Something to sweeten it. I want it as sweet as you.”
+The words were false and obvious and the girl behind the counter knew these things and she blushed a little anyway.
+“Trying something new, huh?”
+His smile deepened. It bordered on inappropriate.
+“I love new things.”
+He said it slowly and let it hang in the air. Her blush deepened, though she couldn’t say why.
+She handed him his drink. 
+“Anything else Mr. I-Like-New-Things?”
+“What’s good to munch on?”
+“All of it.”
+“You on the menu?”
+She couldn’t get any redder. Her smile widened until Brian thought her face might rend in two. He heard the man behind him sigh again and heard the scrape of fabric over skin as the man checked his watch. 
+“How about a scone?”
+“Sure.”
+She rang him up.
+He handed her money and she handed him back too much change.
+“Scone’s on the house today,” she said. She smiled. It was a shy smile.
+He smiled back. 
+“Thanks.”
+He dropped the coins in the tip jar and pocketed the bills. He loved free stuff. He loved even more that he got it by turning on the charm.
+He picked a table by the front of the shop where he could see out the window and be seen and sat down. He took a sip of coffee. It was strong and sweet. He liked it strong as jet fuel. He wasn’t as fond of the sweetness of the coffee, but he could tolerate it. His next cup would be black as the devil’s heart and sugarless. He bit into the scone. Crumbs fell to the table which he swept onto the floor with his hand. The coffee and the scone had never tasted better, he thought.
+
+* * *
+
+Three months ago they had met. He was lecturing in one of the auditoriums. Juniors mostly. Science majors taking a robotics elective. The seats were filled three quarters of the way. That was about right. The beginning of the semester saw the house full. By the time October arrived about a quarter of the students had dropped the course or decided to take it in absentia. Which was fine by him as there were fewer papers to grade. The lectures were staid. This was the ninth semester he taught this course. He crafted it the first year, perfected it the second year and let it run on autopilot for this the third year. He recited rote teachings that could be just as easily researched in any decent text on robotics. He let his mouth ramble while his eyes wandered. Looking for someone lovely, always looking for someone lovely. There were so many to choose from. So many that wanted to touch greatness or simply wanted to ensure a decent grade. Transcripts were everything to some. Transcripts were gods and he was merely the high priest. So many worshippers at the idol of academic perfection that he would welcome into his cramped office stuffed full with a desk, a chair and two bookcases. Bookcases filled with volumes and bits and pieces of robotic engineering that he had found over the years, trinkets of memory. These were the holy relics the worshippers came to see and touch and pay their reverence. His desk was the altar at which self-respect was sacrificed in the name of good grades. He had a grading scale. He assumed all professors did but he rarely went to department parties or social get-togethers so he couldn’t say with certainty. His only certainty was that he had one. No matter how poorly they performed on tests or papers, there were always ways of guaranteeing passage. Handjobs were Ds. Blowjobs were Cs. Sex was Bs. Anal was As. Once they understood the lay of the land each girl was free to make her own choice. Some were repelled. Some were repelled but performed despite. Those that came for better grades chose their grade, that limit for which they were willing to debase themselves. Most got C grades or B grades. There were precious few As. Few were willing. But few were not none.
+He surveyed his lecture landscape as  always. Scanning for the next willing subject. His eyes landed on her for a moment, then moved on. But they came back. Something about her. Something about the way she looked. Something hungry. To his surprise she was not a fool or an incompetent bitch taking his class because she thought she might skate by. She raised her hand and asked questions. She turned in papers that were not a chore to read. She had potential. She would not get above a B unless she came to him like most others did. But the raw talent was there. Raw talent was B material. For her.
+Come to him she did and react to him she did. 
+Slap. 
+Her right hand squarely across his face with the glowing red mark to prove it. Not the first time he’d been slapped. Was certainly not likely to be the last. But this one hurt more than most. This girl had power in her hands and knew how to wield it. This girl knew how to slap.
+“Don’t do that again,” he snarled.
+She responded with her left hand. His face was now symmetrical. The right side of his face hurt more. He saw the movement of her body. He turned his face to roll with the slap. She used her left hand against his right side and he leaned into the slap inadvertently. His eyes dimmed to a faded color of red rims. He breathed heavily. Control. It’s all about control, don’t lose it, don’t lose control. Keep your cool. Keep your hands at your sides. He flexed his hands and realized they were balled into fists. He wanted to hit her, to punch her face, to spin her around and yank down her pants and hit her again in the head and bend her over and thrust into her and plow her until she begged him to stop, to stop, to please dear god stop. He closed his eyes and took another deep breath and opened them again. The girl remained stock-still and defiant. She cocked her head at him.
+“Give me a job,” she said.
+“What?”
+“You heard me. Give me a job. “
+“What kind of job?”
+“A TA job.”
+“A TA job? You want me to give you a TA job?”
+“Yes.”
+“After you hit me?”
+“Yes.”
+“Twice. Hit me twice.”
+“Yes.”
+His rage reached its boiling point. There came a moment when his hands began to lift at his sides in a preparatory gesture for striking her and he nearly took a step closer. The moment he thought he’d explode. The absurdity and brazenness of her request,  a non sequitur for their angry tableau. He burst out laughing.
+“What’s your name?”
+“Anita.”
+“Anita what?”
+“Anita Lory.”
+“Well Anita Lory, I must say, you certainly have a monstrous set of balls. Bigger stones than most men I know.”
+“So you’ll do it.”
+“No.”
+He could see her face scrunch up. Don’t tell me she’s going to cry, he thought. But she wasn’t. Not cry. Rather the preparation for another swing. He understood at the right moment, the last moment. 
+She swung. 
+He expected it and knew which hand would do the striking. Two slaps and he’d already absorbed this girl’s body language. It made blocking her blow easy. He put up his left hand and grabbed her arm. Twist it, something inside him said. Twist it until it snaps. Yet he didn’t. He let go of her arm. 
+They stared each other down like a pair of cats circling each other, each seeking the weakest point to attack. She was lovely. Very lovely. Maybe we can do this differently. Maybe we can attack this from a different angle and still get the results we want. Maybe I can still get that ever-so-fine piece of ass.
+“I don’t have a TA job available. But I’ll tell you what.”
+“What?”
+“I do have a research project going on. I could use an assistant.”
+She nodded. “When do I start?”
+“Right now. Grab your bag. Let’s go get some coffee.”
+“I have a class.”
+“Skip it. I’ll write you a note.”
+She grabbed her bag and they went out for coffee where they discussed the research assistant job and many more things. No piece of ass tonight but the future looks bright.
+
+* * *
+
+The scone was gone. What crumbs remained swept onto the floor by his hand. The coffee half-drunk. He glanced at his watch. Late again. Then again she always was. He teased her about never being on time saying that if she were lucky she’d be late to her own funeral. She told him to shut up and then smiled her sheepish smile. It was coy and coquettish and he loved it. It made him hard. So different from the girl who slapped him. Her many faces. She was an animal in bed and it turned him on when she played the innocent and then became completely unraveled sexually. She could pleasure him like few others ever had. She did things few did. She let him do things others had slapped him for. 
+When she was late he wanted to kill her.
+Serves you right.
+Shut up.
+I hope she breaks your heart, you selfish cold bastard.
+Shut up.
+He shoved the voice of his mother aside, roughly, mentally. The voice always came to him during moments of quiet pleasure. Like this one with his coffee and his scone.
+Mother issues?
+No. Not Brian.
+Not many, at least.
+Foot traffic passed by him. Looking through the shop window was like watching the world’s most boring TV program. Legs and bodies and people shuttled past with hands shoved into coat pockets for warmth. He sighed and took another swallow of coffee.
+The door opened in a sweep of wind and noise. Even in the chatter of the shop the entrance was noticed. They turned to see what force of nature had blown in. Anita was oblivious to all. She spotted Brain sitting at a table in the front and made for him. He sat in his easy way with one arm thrown over the back of the chair and the other resting casually on the table gripping the base of his coffee cup. His eyes were like the sky before a storm. He shared his whitened smile easily.
+“Where have you been?”
+“Sorry. I got caught at home by my super and then I didn’t have money for the subway.”
+“Let alone a cab?”
+“Right.”
+“Then let me buy you a cup of coffee.”
+“No, I have money for that.”
+“Yes, but I want to buy it for you anyway.”
+He came back from the counter holding a cup of coffee in a ceramic mug and another for himself in a to-go cup. Her coffee was filled with sugar and half and half. She liked it sweet and creamy. He had given up making faces about it. Now he just brought her coffee the way she liked it. A compromise. Not something he was used to. Nor did he like the idea that he was adjusting. Such a cup of coffee would have been fodder for his acerbic humor with any previous consorts. For her he smiled and placed the mug before her without a word. He washed down his misgivings with a swallow of his own dark brew.
+“Thanks.”
+“Forget it.”
+She took a sip of the coffee. It was too hot for her to gulp.
+“What’s wrong with your apartment?”
+“How’s that?”
+“What did your super want?” 
+“Mrs. Lighter upstairs burst a pipe in her bathroom. The water’s starting to leak down into my place.”
+“Suck.”
+“Major suck.”
+“Do you need anything?” He couldn’t conceive that he was asking the question. Offering help whereas before he’d merely smile at the trouble and know that in a few days the trouble would disappear when he broke off the affair. But that would not be the case with Anita. Something about her held him fast. Like cement.
+“No, I should be okay. Charley—that’s the super—he’ll fix the pipe and clean up the mess and believe it or not, I do have renter’s insurance, so I’ll start a claim if anything gets damaged.”
+“Pretty organized.”
+“I know,” she smiled. “Can you believe it?”
+She reached into her bag and took out her notes that were jumbled into loosely organized groups and spread them out on the table. She fished for a minute in her bag for a pencil. Then she threw back a long swallow of coffee.
+He watched this with amusement.
+“What?” she asked.
+“Nothing,” he answered.
+ 
+=== Logging started: 07:30:00 ===
+Action start 07:30:00: POWERUP.
+Action ended 07:31:00: COMPLETE_POWERUP. 
+[07:31:00:521]: Product: Robot Model: Physician, L Series. Denlas-Kaptek Industries – Power up completed successfully.
+=== Logging stopped: 07:31:00 ===
+
+It was morning. It knew this fact due to its internal clock. The clock ran off a specialized lithium battery that would last far longer than the batteries that had been developed before. The battery ran all essential internal systems that needed to continue if ever the primary power source was interrupted. The battery ran the clock and the clock told the robot that it was morning. It was time to wake.
+It began to prepare for the day. It chose clothing and dressed itself. It was Kilgore.
+Once finished it left the facility that housed it and entered the flow of pedestrian traffic, human and robot.
+ 
+Chapter Three
+Eric stood before the mirror in the private bathroom of his office. He stared at the reflection. There were new lines at the corners of his eyes. He followed with his eyes. His nose jutted before him like the prow of a ship. His eyes were ice blue and cold. His blood felt hot in his veins. Hot with the boil of a man driven to power by a greedy need. He was a thin man by genetics, not athletics. He had gray hair that was receding slowly and dyed black to satisfy his vanity. He was not an old man. The premature gray also ran through his family. He did not wish to look like an old man. That would run counter to his objectives. His look was a weapon and he used it as such. He glared at people like an eagle at prey. He was dressed in a fine navy suit with a starched white shirt and a blood red tie. He adjusted the tie a nudge. The picture of power.
+The act of self-inspection and admiration helped clear his thoughts. Clear the head. Clear the mind. Focus. Today was important. Today was another meeting before the board of directors to justify his actions. Once again. He had come in early to review his facts. They stood out on the paper before him, boiled down to the bones of a single page of numbers. He reviewed the bottom line of the company, then his division. His division was up while most other divisions were down. He was carrying the company. He was carrying the fucking company and he once again had to prove to the board of fucking directors that the programs he developed and tested and moved into production and sold by the hundreds to companies and customers were the ones keeping the fucking company profitable.
+Easy.
+His face flushed. 
+Easy. 
+He didn’t need to go into the boardroom with a chip on his shoulder. 
+“Easy,” he said aloud.
+He didn’t need to go in looking for a fight. The fight would come to him.
+
+* * *
+
+He stood at the head of the circular table in the wood paneled room.
+Around the table sat the oversight committee for the board of directors of the robotics engineering company Denlas-Kaptek Industries. Karl Kaptek had started his firm seventy years prior with a few ideas and space in his suburban garage. Today it was the leading robotics firm in the world. The board of directors gathered more frequently than that of most companies. DKI was constantly reviewing new projects, constantly evolving their product line and service offerings. The board took full responsibility for the oversight of these projects. Several were designed and developed by Eric. He was not fond of having to report his every move. His latest success was being questioned today. He was being required to provide insight into the robotic physician program. A program that had been ten years in development and had cost somewhere in the neighborhood of eight hundred fifty million dollars. There were five such functioning physicians. Eric managed each one. The board oversaw the management. 
+The oversight committee was comprised of three members of the board.
+One was a thickset man with a large bushy mustache. His mustard yellow hair was in bad need of a trim. His manner was forceful and full of bluster. In his light-colored jacket he looked the part of a southern gentleman. Another was a younger man in his mid-forties whose dark hair was thinning and whose body seemed consistently charged with electricity. His quick and jerky movements came from either his frenetic personality or the nine cups of thick black coffee consumed daily. The last was a tall gaunt man with a long face. He had a quiet even way of speaking and rarely smiled. At times his narrow face appeared so taut he looked skeletal. Behind his back the other board members called him the Undertaker. He knew of the nickname. He enjoyed it.  Together these three men led the oversight committee. The committee Eric answered to and would face today. 
+They barraged him with questions. The primary interrogator was the thickset man who did not like Eric and whom Eric did not like in return. 
+“So you expect us to believe that there have been no problems with the robotic physician program despite the fact that we know there have been?” the thickset man asked.
+“I never said there weren’t any problems. I said there weren’t any unmanageable problems.”
+“Semantics. As always, with you, it is semantics.”
+“Not really.”
+“Oh no?”
+“No. There are no unmanageable issues. Would you like me to define unmanageable?”
+“You’re on thin ice with me, Eric.”
+“You lack vision.”
+“I beg your pardon?”
+“I said you lack vision. The robotic physician program has been far more successful than we anticipated. We have requests for information coming in every day. When we go live with the program, we have twenty-three orders already waiting.”
+“Twenty-three orders is hardly a number to brag about.”
+“Given the cost of a single unit it is. On twenty-three units alone we can make the year, much less the quarter. Twenty-three units will bring in a return on our investment three fold. Or perhaps you didn’t take math in grade school.”
+“Please watch your tone, Eric,” the younger man said.
+Eric’s eyes never left the thickset man. 
+“My apologies,” Eric said.
+“I don’t care if you’re getting a thousand orders a day,” said the thickset man. “One single problem, one single missed diagnosis or badly performed procedure and you’ve cost us millions.”
+“But there haven’t been any problems like that, have there?” asked the gaunt man. “The robotic physician program has taken on a life of its own and has generated a buzz in the industry that is unparalleled since the introduction of the rubidium brain. This is thanks to Eric.”
+“Where’s the documentation?” asked the thickset man. “Where’s the empirical data? What proof do we have that it’s working?”
+“Other than the orders we’re getting?” Eric said.
+“You’re one smug son-of-a-bitch.”
+“It’s your turn to watch your tone,” said the younger man.
+“I’ll use any tone I damn well please. I’ll use any language I damn well please. I sit on this board. Not him. And you have no place to direct my tone.”
+“I can’t argue that. But I won’t let this turn so ugly that our working relationship can’t be salvaged.”
+“He is correct,” said the gaunt man. “We need to maintain a certain level of decorum. Let us approach this from a different perspective.”
+“What perspective?”
+“Eric, can you tell us about the problems? Never mind their size. What problems have turned up? What have been the solutions?”
+Eric breathed a deep sigh. Clear the head. Relay the facts as requested. Be objective and removed. Cold. As ice.
+“There have been a few programming bugs that we have had to work out,” Eric said. “Small issues, mainly. They primarily involve storage capacity in the hard drives and the ability to take in new information about new clients. This has caused some hiccups in the code.”
+“And the solution?”
+“We’ve rewritten some of the base code. It has been streamlined and optimized. We’ve added storage capacity internally to the robots. We’ve also added failsafe programming to back up to the central data storage facility by remote if necessary.”
+“What else?”
+“Some issues regarding physical appearance. Initially the robots wore little. This unnerved many patients. Now they have a specific dress code and wardrobes have been made available to them.”
+“What else?”
+“Two of the five prototypes were originally fitted with holographic faces. The original holographic projectors did not work. This was a problem on the part of the holographics manufacturer. We’ve switched vendors. That’s the last of the major issues.”
+“These corrective actions appear sound to me. Any other concerns for anyone?”
+“Several,” the thickset man said.
+“What would ease your mind?” the younger man asked.
+The thickset man sighed. “Very little.” He sounded tired, defeated. “Am I the only one who sees the dangers of letting a project like this go into production? Am I the only one who sees it as, oh, I don’t know, abhorrent in some way?”
+The gaunt man looked across the table at the younger man, who raised his eyebrows and shrugged.
+“What’s on your mind?” the younger man asked.
+“The whole program. The whole program is on my mind. I find…”
+He stopped. Eric waited. He wasn’t sure what the thickset man would say next or where his thoughts were heading.
+“Go on,” the gaunt man said, sounding with his deep voice and soft delivery like an undertaker.
+“I find myself increasingly uncomfortable with this program.”
+“Why?”
+“It’s not natural. It’s just not natural. Machines working on humans. It’s not right somehow. I can’t really describe how I feel.”
+“Machines have been operating on humans for years. You’ve never heard of laser treatments, robotic surgery, things like that?”
+“Computer-assisted surgery is one thing. A thinking machine is completely different.”
+“Machines are a part of everyday life,” the younger man said. “It’s what we do here. Our bread and butter.” He said what Eric was thinking. Eric hadn’t wanted to speak. He was worried that if he did he might cause the situation to revert to where it had been. At the moment it was in a place he had not foreseen and did not want to disturb. The thickset man seemed on the verge of caving in to his two colleagues. Eric recognized this. To speak now would be to watch this inch by inch measure of progress vanish.
+“I know that. Do you think I don’t know that?”
+“Of course you do. You’re on this board. You know what we’ve done, what we’ve set out to do. This is something we’ve worked very hard to make happen. It’s what our company was built upon. To deny this is to deny ourselves.”
+“I know this.”
+“So why deny what we are?”
+“I do not deny it. I do not deny that we, us, this company and the others like ours, we have all contributed to the way our society is. We are all weavers, as it were, of its fabric. I do not deny it. But I am concerned by it. When is it enough? When will it no longer be in our best interests? I’m sitting here, listening to this pompous prick sneer at me and tell me all about his pretty little machines and how they are doing exactly what we program them to do and how he is only doing what he was hired to do which is to make money. Yes, Eric. You’ve made lots of money for this company. I won’t deny that, can’t deny that. I’ve benefitted from it as well. But where is the point where we stop, where we reach the end of what we should do? Can you tell me what that point is?”
+He stopped talking suddenly as if a mute button had been pressed on a larynx control. His mouth remained open but nothing issued forth. He shut it for lack of anything else to say.
+The younger man looked at him and then at the gaunt man and then at Eric and then back again.
+“Would you feel better if we had an external evaluation performed?” the younger man asked.
+The thickset man turned slowly toward him as if coming slowly out of hypnosis.
+“An evaluation?”
+“Yes.”
+“An independent third party evaluation?” the thickset man said, the light returning to his previously dazed eyes. Eric understood then that this was his plan the entire time.
+“We don’t need an evaluation,” Eric said. “I can provide you with copies of all of my status reports and internal evaluations. I’ve got all the technical documentation, the release notes, the debug reports. I have everything you may want to review.”
+“If I wanted those I would have asked for them,” the thickset man said. He nodded. “Yes. I like that idea. If a third party does it.”
+“It’s not a bad idea, actually,” the younger man said. “Don’t pout, Eric. If the program is working as well as you claim, then an independent review should show that.” 
+He turned to the gaunt man.
+“What do you think?”
+“I have no wish to hound Eric,” the gaunt man said. “He’s proven himself a resourceful intelligent and profitable member of the executive management. But if an independent review is the will of this committee, I will not object.”
+“It is,” the thickset man said.
+“Let’s take the vote to be sure. All in favor?”
+Two said Aye. The gaunt man added his Aye.
+“Very well,” the younger man said. “We’ll set up an independent review of the robotic physician program. NYU has a number of robotics professors that are highly qualified for this. We will contact one of their professors. Eric, you will provide the list of currently practicing robot doctors available to be reviewed. With only five it should be a short list. We’ll go through it and select one at random.”
+“Very well.”
+“That’s it for today. Thank you.”
+
+* * *
+
+The moment he returned he barked at his valet model “Get me all the logs for the five robots in the physicans program.” The robot, a valet model but one Eric used as his personal administrative assistant, began searching through the company’s document retention sites for Eric’s request.
+Eric spent the rest of the day reviewing each of the five robots’ performance logs, looking for any legitimate reason to remove one or more from consideration for the evaluation. Page after page of detailed analysis of diagnostic sessions, emotional sensitivity training, conversational mechanics uploads, anything and everything that these robotic doctors had undergone since entering their beta phase.
+Any robot would do. They were all perfect.
+The light from the setting sun slanted into the windows of his office and struck Eric across the face. He stood looking out the window with his back to his office. The building was tall enough that he could see the river. The Hudson spread before him in a dizzying display of light reflecting off the water. 
+The end of the day neared and still Eric waited impatiently for the board’s decision. The sooner this process began, the sooner he would be vindicated. 
+The sun sank. Eric watched it.
+He turned back to his desk when the sun finally disappeared under the horizon. The phone rang on his desk. He picked it up.
+“Yes?”
+“We’ve made our decision, Eric,” the younger board member said.
+Eric looked at the computer screen on his desk. Five numbers. Five robots.
+“Robot 781907356. Robot name: Kilgore.”
+“Kilgore it is.” 
+“I will pass the information onto NYU. We’ll let them select the specialist. You need to prep the robot.”
+“I will. Can I make a request?”
+“Yes.”
+“There’s one professor there I have a poor relationship with. Brian Coleman. Although I don’t like the idea of this review, if it must happen, then anyone but him.”
+There was silence on the other end of the phone. Eric felt compelled to speak.
+“We don’t want a bad review because of bad blood, do we?”
+“Very well. Anything else?”
+“No.”
+The line went dead. He hung up the phone. He didn’t like this. Not one bit. But there was nothing he could do to stop it.
+ 
+Chapter Four
+The phone rang on Sidney’s desk. He picked it up.
+“Yes? Oh, hello, Dean Whittaker. What can I do for you? ... I have classes, obviously, but nothing I can’t get someone to cover. Otherwise I’m fairly free. ... Certainly. I’m always interested to hear about opportunities. Okay. I’ll see you at two-thirty.”
+Sidney hung up the phone. He fingered the time of his meeting with Dean Whittaker in his handheld. He ran his finger down the rest of the day and flicked through the pages to review the remainder of the week. Yes, he was free.
+
+* * *
+
+Sidney took a deep breath. He was not a man prone to tremble in the presence of power. Dean Whittaker was another story. The Dean of the College of Robotic Studies at NYU held considerable power both within the university and without. This man had decided futures of many of the former associates of the university. Sidney hoped another decision might be forthcoming.
+Dr. Sidney Hermann, Associate Dean of the College of Robotic Studies, NYU.
+Sidney wiped his palm on his pants. It was moist. He didn’t want to greet Dean Whittaker with a moist hand. He didn’t think that alone could be a career ender, but why take the chance?
+Sidney was in his late-forties with dark short hair. He’d begun to bald three years ago and the crown of his head was now just visible. He was doughy and carried most of the weight in his midsection. He had thick short fingers inflexible but strong. He had jowly cheeks like a walrus with a mouth hidden somewhere. He had bright brown eyes as curious as a five year old in a toy shop. His clothing was as ill-fitting as his skin. A loose suit draped on his bulky body with bits of fabric sticking out here and there. Try as he might to clean up his appearance before his meetings he invariably arrived in a shambles.
+He walked up the grand staircase in the main administration building for the Robotics College. He puffed and puffed. His hands were moist again. So was his brow. He fished for a handkerchief in his pants pocket, then his suit pocket, then his jacket pocket and failing to find one anywhere he used the underside of the arm of his jacket. It left a moist mark that Sidney hoped would be hidden when he met with the dean.
+He walked down the hall until he came to the dean’s office. He opened the door.
+Shirley sat at the receptionist’s desk typing on the computer’s keyboard.
+“Good morning, Dr. Hermann.”
+“Good morning, Shirley.”
+“Dean Whittaker is running a bit late. Would you mind sitting down and waiting?”
+“Certainly.”
+Sidney sidled up to one of the chairs against the wall. It was a plush chair with royal blue fabric. He eased into the chair but found it difficult to do without making the chair groan under his weight. He felt like a circus elephant posing on a three-legged stool, nervous that the chair might not hold him.
+He had not brought anything to read so he was left to make circles on the far wall with his eyes. He fidgeted and shifted in the chair every few minutes. He was not comfortable.
+Twenty minutes later one of the two large wooden doors behind Shirley opened. Through it stepped Dean Whittaker, smart in his blue suit with a razor-sharp part in his steel gray hair.
+“Sidney.”
+Sidney struggled out of the chair. He cursed his body. 
+“Dean Whittaker.”
+He extended a hand which the dean took. Sidney flinched a bit when he realized his hand was moist. The dean seemed not to notice.
+“Come in, won’t you?” 
+They entered the office. Sidney marveled at the plushness of the ornately designed rug on top of which sat the Dean’s expansive desk. The desk was empty save for a monitor which was currently off and a piece of paper. The Dean motioned Sidney into a chair and Sidney took it, an act that was much like spilling himself into it more that it was sitting. Dean Whittaker took his chair on the other side of the desk.
+“How are the courses going this year, Sidney?”
+“Very well, sir.”
+“And the student body?”
+“Not bad. Not as bright or agile as last semester’s crop, but still, there are some rough jewels in there. A couple of people we might be able to groom for the industry.”
+“Good.”
+Dean Whittaker paused before going on.
+“Do you think there would be any issues with the student body if a substitute took over for you for a few weeks?”
+Sidney was caught a bit off-guard but tried not to show it. A few weeks? Earlier it was a few days. Sidney had a natural kind of paranoia that tended to take over when things did not go exactly as he expected them to. He began to perspire openly. Shit, he thought. What’s going on?
+“Sir?” he managed.
+Dean Whittaker smiled. “Nothing to worry about, Sidney. I just have something else in mind for you.”
+“What would that be, sir?”
+The dean sat back in his chair. He crossed his hand on his chest. It gave him a thoughtful air that Sidney felt he didn’t need.
+“Have you ever been associated with Denlas-Kaptek?” the dean asked.
+“Associated?”
+“Yes.”
+“Meaning have I ever done work for them?” 
+“Yes. Consulting, quality assurance testing, high level programming design flows, et cetera. That sort of thing.”
+“No. I’ve never been involved with them.”
+“Have you ever done any third party testing for them?”
+“Do you mean testing their product for a consumer group?”
+“Yes, something like that.”
+“No.”
+“Good. How familiar are you with their product base?”
+“From a consumer side? I make a point of trying to stay current with the trends in robot manufacturing.”
+“No, I was thinking more from a technical one.”
+“Not terribly. I know the inner workings of their lower level designs pretty well, but the upper level stuff they keep pretty well hidden. Robotics is a nasty business, really. Cutthroat. There’s a lot of safeguarding against industrial espionage. Almost to a point of paranoia.”
+“M-hm, m-hm.”
+Sidney narrowed his eyes. The dean was gazing at the side wall of the highly polished office. He seemed to be lost in thought. Sidney knew better. He knew the dean was paying attention. To everything.
+“If I may ask, Dean Whittaker, what’s all this about?”
+“Well, Sidney, I have an opportunity in my hands. I just need to determine who to give this opportunity to. It’s really a choice between you and Coleman.”
+The dean’s eyes flicked to Sidney just as Sidney made a sour face but straightened it out almost immediately. Dean Whittaker saw it.
+“I know he’s not your favorite person.”
+“He’s not my brand of people, really.”
+“Yes, I know. But he’s incredibly intelligent. Something of a celebrity at this college.”
+“Is that why we put up with his indiscretions?”
+Something in the dean’s face changed. Sidney lowered his eyes. He had made a mistake. He was never a tactician. The dean’s voice grew cold for a moment.
+“We put up with a great deal from many of our professors, including those who haven’t published a research paper in four years.”
+Sidney said nothing. The Dean had said nothing false, so there was nothing for Sidney to refute.
+The Dean looked back at the wall. The coldness was gone.
+“But no matter. I’ve considered you both. I’m leaning toward giving this opportunity to you.”
+“What opportunity?”
+“Denlas-Kaptek had specifically requested not to give this to Coleman. They came up with two names, yours and his, and stated assertively that it was not to be him. Some would cower before a company offering such an opportunity. Think of how much we could learn in the process of evaluating this robot. This is one of DKI’s most cutting edge programs, with access to the inner workings of the robot laid bare for you to render judgment. This will make you a celebrity in your own right. When you really analyze the facts, there is no other organization on the east coast as well-positioned as we are to perform this task. And when complete, we will be the first choice of corporations like DKI to provide such a service in the future.” 
+The Dean paused. Sidney held his breath. He pictured the Dean like a TV cartoon with dollars signs in his eyes.
+With a deep breath—one that Sidney felt was either the Dean coming back down to earth or resigning himself to the fact that his only real choice was sitting before him—the Dean went on. 
+“I’m evaluating the best candidate to send to them.”
+Sidney wanted to speak but knew better than to push too hard.
+The Dean gazed at the wall for a long minute before continuing.
+“Here’s what’s going to happen, Sidney. A packet is going to come to you directly from DKI. In it will be the technical and specs for a robotic doctor known as Kilgore. You will read them over, then contact a man named Eric Breckenridge at DKI. He’s a senior vice president. He will give you the specifics as to where you are going.”
+“Going?”
+“Yes. You’ll be meeting and observing this robot Kilgore in action. You will then compile your notes and present them to DKI.”
+“Is this a formal evaluation?” Sidney asked. His heartbeat quickened.
+“Yes. And the access is unprecedented.”
+
+* * *
+
+It arrived at his office via currier. It was a thick package in a padded manila envelope. It sprayed gray packing material in the air when he tore it open. He dug through the debris with his meaty hands. His fingers rooting and then pulling out the packet. The word CONFIDENTIAL was splashed across every page.
+He felt a tingling sensation at the ends of his fingers and in his groin. He understood vaguely that this was excitement. He opened the technical manuals with a deep breath, as if he were about to jump off the high board in a diving pool. It was a mix of trembling anticipation and stomach dropping fear. Manuals and schematics and design documents and software diagrams were all closely guarded secrets. To be in possession of them was to be in a position of power. He was a knowledgeable man with a deep understanding of robotics. But rare it was when someone had the specs for the inner workings of the robots themselves. Especially not working prototypes like the medical robots.
+Not to mention the added bonus of being able to write an evaluation. An evaluation. A robotic evaluation. A document that would enter the worshipped pantheon of robotic literature. He had dreamed about such a moment as this. He had practiced lectures based on such fictional writings in his car or in his shower, and sometimes in front of his bathroom mirror. He had thanked the gathered crowd for bestowing upon him the award in robotic literature, presented to him by way of his dashboard. He’d dreamt of such a time as this and now it was at hand. The book he had planned on early robotics development was thrust out of his mind. A mental trash dump to clear space for this new project.
+He placed the documents on his work desk. He’d taken the time to clean it off before the package arrived. Everything had to be pristine for such holy relics as robot schematics. Everything had to be clean, readied for the sacrifice to these metallic gods.
+He placed the documents on the desk with the cover page facing up. 
+He turned it over and began reading at page one.
+He pored over every word. 
+His fingertips tingled with the feeling of pins and needles.
+This would be exciting.
+
+* * *
+
+He ran into Brian later that day. Brian was just coming back to the building.
+“On your way out?” Brian asked.
+“Yes. I’ve got some research to do.”
+“Started your new book then?”
+“No, not actually.”
+“What do you have going on?”
+Sidney did not answer. He considered Brian carefully. Should I tell him? Dangerous. Brian was not known for ruthlessness, but he was not above scheming to get what he wanted. There was of course no way to know if he wanted to take part in an evaluation or not. But he was a professor of robotics. Who wouldn’t want that? 
+Brian was fond of power games. He was fond of young women. He was dangerous.
+Sidney was known for his fondness of donuts.
+“An outside project,” he said. “Nothing special.”
+“External? Nice. Research or consultative?”
+“A bit of both, I suppose.”
+“Sounds interesting.”
+He could be so pushy sometimes, Sidney thought. He could be so insightful. Damn him. But he hasn’t really asked me anything. How can that be pushy?
+“Not really. Mainly research and interviews.”
+“With people.”
+Damn him. 
+“No,” said Sidney. “Well, yes and no. With people and robots.”
+“Really?”
+Brian said nothing else but stared at Sidney. Sidney began to feel uncomfortable under the younger man’s stare. As if he were trying to stare into Sidney’s soul. Trying to burrow into it. Trying to steal it for his own. Brian struck him as the type of man one shouldn’t leave alone with small children. Not because he had untoward designs toward the children but more because Sidney suspected there was a strong chance that given the right situation Brian might eat them. His perfect smile split his perfect face and Sidney felt more self-conscious the longer Brian stared at him.
+“I have to be going,” he said breaking the silence.
+“Of course.”
+Sidney walked down the hall only a bit before Brian called to him. Sidney turned.
+“You know,” said Brian, “I have a research assistant who might be able to help you.”
+“Help me what?”
+“Help you with this project.”
+“I don’t need any help with this project.”
+“Of course not. I was thinking more of the grunt work.”
+“I like grunt work.”
+“Who doesn’t? But it’s so time consuming.”
+Sidney said nothing.
+“Her name is Anita. She’s a student of mine. I’d be happy to offer her to you.”
+Sidney shifted feet. Something made him uncomfortable. Something about the idea of offering a human to Sidney. God knows what services she provided. Perhaps this was a game. One of those games people play when they discuss one thing but mean another. Perhaps Brian was offering her for services other than this project. But how could he know? He couldn’t. He had to take things at face value. Otherwise he’d drive himself insane.
+“Offer her?”
+“Sure. I can free her up from her current research and you and she can embark on your research project.”
+“That’s generous Brian, thanks, but I don’t think…”
+“Come on, Sidney. I’ve got nothing going on right now. I don’t need her for research.”
+Another euphemism? Are we talking about sex? It wouldn’t have surprised him. Brian’s reputation preceded him.
+“And she’d love the opportunity,” said Brian. “The chance to study robots more closely? She’d love it.”
+It was hard to say no to Brian. He always seemed to worm the conversation his way. Sidney figured that’s why most of his student got B’s. At least the female ones.
+“Okay.”
+“Great. She’ll be thrilled. I’m seeing her later. I’ll give her the news.”
+“Okay.”
+“How about I send her to your office tomorrow? Good enough time to discuss things?”
+“Sure.”
+“Great.”
+
+* * *
+
+Knock knock knock at the door. As if someone gently rapping, rapping at my chamber door. Sidney looked up from his desk to see a student in the frame. A girl. Young and very pretty with dark hair and loose breasts. This must be Anita, he thought.
+“Dr. Hermann?”
+“Anita?”
+She nodded.
+“Come in.”
+She entered and took a seat opposite his desk. She dropped her bag on the floor. It jangled the strange melody of loose items haphazardly thrown inside.
+“I’m really excited about this project,” she said.
+“Really?”
+“Yes. Brian explained it a bit to me, though he didn’t know much about the details.”
+“That’s because I didn’t offer him any.” His voice was cold and his eyes hard. 
+“Yeah, that’s what he said. Said it had something to do with interacting with robots and people. Said it sounded like an evaluation.”
+Sidney’s skin prickled and his jaw clenched. He had said hardly anything to Brian about this project. Certainly not that it was an evaluation. How could he have known? Is he that damn intuitive?
+“Well, we’ll see where it goes,” said Sidney, which was all he could muster to say. He eyes flitted nervously between Anita and the office door and his desk and back. He did not like this girl being thrust into his affairs.
+“Well, what can you tell me about it?” she asked.
+He leaned back in the wooden swivel chair that groaned under his weight. He folded his hands and perched them on his belly. Before he began speaking he had the experience of seeing past his own vantage, the sudden startling revelation of what he must have looked like to this girl before him.
+He sat up and leaned forward onto his desk, resting on his arms which were folded before him, hiding his belly as much as he could.
+He sighed. Working with this girl was going to be problematic. She was going to be a distraction.
+Focus.
+Task at hand.
+Focus.
+“Brian is correct,” he said finally. “This is an evaluation project. We will be visiting a robot currently in use at the geriatric clinic of New York-Presbyterian Hospital. Its name is Kilgore.”
+“Sounds great. When do we go?”
+“After we do our research.” He handed her a list several sheets long with his loopy handwriting scrawled front and back. “Take this list and begin checking out books. We need to research this level of robotics, which includes the history of robotics engineering, programming modules, philosophies and ethics. To start. We’ll visit Kilgore in a few days. In the meantime, get started with this and take meticulous notes.”
+He had hoped the length of the list would intimidate her. Perhaps she would decide the project was not worth this level of effort. But it had the opposite effect. Her eyes lit up as she scanned through it. She reached into her bag and rumbled around the contents until she came up with a highlighter. She read through the list and highlighted a number of instances where she couldn’t read his handwriting. She asked him to clarify the illegible words. To his silent distress she took a pen from his desk and wrote over his own writing to make the words clearer. When finished she dropped the pen back on the desk and rose from her chair, grabbed her bag and slung it over her shoulder while stuffing the list in her front pocket.
+“I have a bunch of these books already,” she said. “I’ll start with those.”
+Sidney nodded, completely distracted by the motion of her trying to stuff the piece of paper into the front pocket of her jeans. The motion drew the attention of the eye and his eye followed it for a few moments before traveling south along the seams of her jeans to the cleft hidden between her legs. Her jeans were cut low and dipped well below her navel which teased him from across the desk. His eyes followed her form up to her head, pausing long enough to circle her breasts and mentally caress her nipples which were just visible along the relief map of her shirt, and continued up the contours of her body to her face. She was looking at him.
+“Be back here at seven o’clock on Thursday morning the 15th. We’ll be taking the train in. Bring your research. We’ll discuss it along the way.”
+She nodded and left his office.
+He got up from his desk and peered around the corner of his door. 
+He watched the sway of her walk as she left.
+
+* * *
+
+That night Sidney climbed the stairs to his bedroom and undressed, opening his pants, letting his bulky body escape, reached below and grabbed himself. He hadn’t seen his penis in person in years. He cursed silently at his dickie-do. His stomach stuck out more than his dickie- do. But he knew it was there. He knew it was there because of urination and mirrors. He knew it was there because tonight is ached. It hardened. 
+He closed his eyes and saw Anita. 
+He masturbated.
+
+ 
+Chapter Five
+Sidney and Anita took the elevator from level 3 to level 11. The smooth metal door shined their reflection. Sidney stared at it trying not to feel self-conscious, stealing occasional glimpses at Anita’s chest. She’d put a bra on today. 
+The door opened. A robot stood before them. It stood slightly shorter than Sidney and was sharply dressed in a pinstriped suit and tie over which was a white lab coat that indicated a medical profession. From the collar of the shirt a short metal neck extended upward. It was topped by an egg shaped head that was a perfect smooth metal surface. The robot’s head didn’t have a face. Sidney stared at the empty sphere. He could see a funhouse mirror reflection of himself in the sphere. Anita stepped forward looking at the sphere with fascination. From somewhere around the base of the head came a quick flash of light. The egg shaped head appeared to blink and shimmered to life. The blank stainless steel faceplate was replaced by the image of an older man with spectacles and a gray mustache in full dimensional quality. A projected image. 
+Anita’s mouth dropped open. 
+Sidney was making mental notes. 
+Amazing.
+“Dr. Hermann, I presume,” said the robot.
+“Yes.” Sidney stepped out of the lift and out of habit extended his hand. He paused halfway. The robot did not appear to notice his hesitation. It extended a hand of its own. Sidney noted the hand was gloved in latex. Above the end of the glove shone a sliver of metal before the rest of the arm disappeared up the French shirt cuffed with a pair of antique cameos depicting Athena, the goddess of both war and wisdom.
+“Yes,” he repeated. “I’m Sidney Hermann. This is Anita Lory.”
+“Good morning. I am Dr. Kilgore.”
+Sidney grasped the metal hand. It was warm and soft through the latex glove. It surprised him. He knew from his review of the schematics that Kilgore had an internally heated silicon hand. Yet it still surprised him. 
+“You have questions, perhaps?” said the robot. “Many if not all of which are regarding?”
+“Yes. I do. How did you know? A guess, or …?”
+“I have a significant amount of programming designed for facial pattern recognition. I would be a poor doctor indeed if I were unable to evaluate human expression. The programming actually covers full body expression recognition. The official artificial intelligence term that is used is cognitive expression recognition, or CER, but that is probably more information than you truly need.”
+“Not at all. I find this all utterly fascinating.”
+Anita frantically rummaged through her bag looking for a clean notepad and a pen to starting writing notes. Kilgore appeared to take no notice of her actions.
+The robot had no physical imperfections, though the mere state of robot was itself considered an imperfection by some. Most of society felt this superiority. The robot was physically stronger. The robot was more durable. The robot was easily repaired. The robot had a faster processor. Some could even be programmed with emotions. But the robot had no soul. A soul required programming beyond the capacity of humanity. Ergo, the robot was inferior.
+“Perhaps we should begin at the beginning, as they say,” said the robot. “Let us walk as we talk so we do not block the entrance to the elevator.”
+Drs. Hermann and Kilgore, and Anita, walked slowly down the corridor of the geriatric ward of the hospital. The walls were painted beige like most hallways in most hospitals. The trim was light green. Soothing colors to those in this ward, most of who were there for end of life care. Sidney marveled at the robot as they moved forward. Anita looked up from her notebook and gave it an artist’s eye. She sketched a hasty gesture drawing. She scribbled a quick physical description. There was much to marvel over. For her it was the lack of legs. Below the pant cuffs was nothing. The robot had been fitted with antigravity generators that allowed it to float. Effortless movement.
+“Dr. Kilgore, have you been informed of the reason for my visit?” asked Sidney.
+“Yes. Your agenda was uploaded to me last night during my power and data cycle.”
+“Do you, then, understand the premise of this evaluation?”
+He had difficulty reading how the robot was processing his questions. He saw no holographic facial responses. He had to remind himself that Kilgore was not alive. Not he. It.
+“As I interpret your agenda, you have come to do a comprehensive study of the effectiveness of robotic doctors. Further, the fact that I specialize in the care and concern of the elderly and those at the end of their life, which in general is defined as having a terminal illness with a prognosis of six months or less left to live is an additional point of evaluation, given my proximity to human mortality.”
+“Wow. That’s some interpretation. Nearly on the nose.”
+“Nearly?”
+Sidney cocked his head. Was that arrogance he’d just heard?
+“Yes, nearly. You’re interpretation is accurate at one level, but you dug too deep. This isn’t really about end of life care and the treatment of the elderly at the hands, per se, of a robotic doctor. This is the overall effectiveness of the robotic doctor program, no matter the field of practice.”
+“Naturally,” answered the robot. “I did indeed analyze at too deep a level. Thank you.”
+“What can you tell me about your qualifications?”
+“I have a medical degree from Brown University. I graduated magna cum laude and was given serious consideration for valedictorian. I did my residency at the University of Massachusetts Memorial Campus where I chose to study geriatric medicine. I was then brought back here and placed in my current medical position.”
+“Chose?” asked Anita. She was scribbling quickly in handwriting only she would be able to read later.
+“Excuse me?”
+“You said you chose your field of study?”
+“Yes.”
+“It was not assigned in your programming?”
+“No.”
+“Interesting,” she said. She scribbled some more. Sidney looked at her. She didn’t notice it. Had she, she would have seen a nervous combination of pride and annoyance. He wanted to tell her not to interrupt his chain of thought, of questioning. At the same time she picked up on the outliers of this robot and his dialog quickly. Adroitly.
+I can see why Brian is so smitten with her, he thought. I can see why he keeps her around despite his penchant for disposable women. Girls, really. This girl is going to give him a challenge. Whether he knows it or not. 
+“Can I ask why you went to school?” Anita asked, “I would have thought you would have simply had all the medical knowledge you need loaded as part of, I don’t know, some kind of base programming.”
+“A reasonable question,” Kilgore said. “The fact is that my knowledge, both of general medicine and the specifics of my chosen specialty, could indeed have been loaded upon brain initialization. However, one of the aspects of the robotic doctor program that was thoroughly researched was the social aspect of learning. I will retain anything that is placed before me. But to understand the social nature of both learning and medicine was considered essential to my development. My brain, of course, is designed around the concept of recursive intelligence, which means it is always learning.”
+“How did that work?” Anita asked.
+Kilgore’s artificial face turned to consider her. It was silent for a moment. The moment was long enough for Sidney to wonder whether the robot had experienced a hiccup in its processing.
+“I am sorry, but I do not think I fully understand your question.”
+The response was formal. Sidney realized that all of Kilgore’s responses had been that formal. He wondered whether that was part of the base programming. Or are idioms and contractions something you learn? So why didn’t this robot?
+“I have to admit, I’m not sure what you meant by that question either,” Sidney said.
+“Well,” Anita said, addressing the robot, “you went to school, right? You went to classes. Or at least I assume you did. Did you take classes with other students? What was that like? What did they think of you? Did they know why a robot was in classes with them? What was their reaction? You know, how did they feel?”
+Sidney held up his hands. “Slow down, Anita. That’s a lot of questions at once.”
+Anita said, “I know. I guess what I’m trying to ask is, knowing how secretive robotics companies are with their product, how did such an advanced prototype like you end up in the middle of what amounts to a social setting.”
+Sidney looked at her. It was a question that had still been forming in his own head, but that he’d not yet been able to wrap lucidity around. Anita beat him to it. He almost smiled.
+“That is a very interesting question,” Kilgore said. “And well stated, I might add.”
+Anita blushed. This thing, this inanimate object, had made her blush. What a strange world, Sidney thought.
+“Denlas-Kaptek made an arrangement with the university. I was enrolled in the medical program and for this Brown University was to given full access to me during the course of my study, a prominent place in the promotional literature for the robotic physician marketing campaign, and of course monetary compensation. With regard to the secretiveness of the program, any student that had enrolled in courses I was currently scheduled to take were required to sign confidentiality agreements. I did not see these agreements myself, but I understand them to be very thorough and quite punishing if violated.”
+“And during this period of schooling, you chose your field of practice?” Sidney asked. His voice contained a tone that suggested doubt. He wondered if Kilgore would pick up on it. 
+“You have doubts regarding my ability to choose a field of practice?” asked Kilgore.
+“Well, perhaps a few,” he answered. Sidney was impressed. He wondered how the robot would interpret skepticism. Not that it had feelings to hurt. Not in this model. So that shouldn’t be an issue. 
+Why then was something nervous tugging at the back of his head?
+“Because I am not human?” the robot asked.
+“In a word, yes.”
+“Is there a statute that requires all doctors to be humans?”
+“Not that I am aware of.”
+“Then why would you assume I would not be able to make that type of selection and continue my education and subsequent residency to become a fully licensed medical doctor?”
+“Perhaps because of my own poor understanding of how the programming at so advanced a level works. Perhaps,” he added before he thought better of it, “because of my own prejudices.” That one could have backfired. But again, only if emotions played a part, and with this model they didn’t. 
+“Perhaps because you’re nothing but a machine,” said Anita, looking at her pad, still scribbling.
+It was offhand, a cavalier remark, which Anita cast out like an idiot savant fisherman who throws a line to a shark with a toy rod and catches it. Sidney and Kilgore were both silent. Both were staring at her. It took a moment for her to realize the conversation had stalled and she looked up.
+“What?”
+“That was an interesting statement,” said Kilgore. “One might even argue that it bordered on rude.”
+“But you don’t have an emotive processor, so you don’t process rude. Or do you?”
+“I think it is perhaps too simple to say that I do or do not process rude. I do not process it in the same way a human might. I do not feel angry when someone is rude to me, calls me a name, or insults me. But I do have a comprehensive understanding of what rude is, both in speech and in behavior. I do recognize it. Therefore, one could say I do process it.” 
+“Okay, so you recognize it. So what?” It was as if she were being deliberately antagonistic. What’s up with this girl? Sidney thought.
+Again the robot was silent and merely stared at Anita. She stared back waiting for a response. Sidney was far less comfortable and wondered what would happen if a robot decided it was in fact angry.
+He needed to take back control of the conversation.
+“It interests me that you consciously consider yourself a doctor.”
+“I am a doctor.”
+“Technically, yes.”
+“Technically?”
+“What I mean to say is that—at least as far as I understand from my preliminary reading on the subject—the other medical robot prototypes do not consider themselves doctors. They are skilled in the administration of treatments for many major types of illnesses, but they are not doctors. They have no degrees, per se.”
+“Please do not forget that I did attend an institute of medical learning.”
+“And that same institution made the conscious decision not to give you a degree. You’re marks were excellent, your technique flawless. But in the end, they felt they couldn’t award you a degree.”
+“I see.”
+The robot said no more and Sidney began to worry. Something in his gut was throwing up red flags. He knew it was silly, laughable, even impossible—but he worried that he’d offended the robot. Anita kept scribbling furiously.
+“I’m sorry if I’ve insulted you, Dr. Kilgore,” he said. Preemptory, though he couldn’t tell why.
+“Please understand, Dr. Hermann, that I cannot be insulted. I do not have any feelings. I run a large number of specific pre-determined protocols to be called and executed for nearly any given emotional situation. But perhaps these issues are best explored as we begin a dialogue about me and who I am, in reference to your evaluation.”
+“Certainly,” said Sidney. He took a moment to gather his thoughts before he proceeded. “Dr. Kilgore,” said Sidney, “you should understand that I do know quite a bit about you already. I’ve been given a fairly lengthy background history, schematic design sheets, and documentation about you and your programming. I’ve even seen a bit of the source code, though that part is a bit beyond me. Formidable stuff, to say the least.”
+“I would have been surprised if you had not been given a full appraisal of my make and model, Dr. Hermann. And might I say, there are few in this industry, professional or professorial, as qualified to make such an evaluation.”
+That surprised Sidney. He stopped walking.
+“What do you mean by that?” he asked. Was this machine making fun of him?
+“I am aware of your background, Dr. Hermann.”
+“Really?”
+“Indeed. At the completion of the data download during which time your visit agenda was transferred to me, I then researched you on the New York University intranet.”
+Sidney’s eyes widened. Anita stopped writing and looked up.
+“I thought the standard protocol for all field models of any level was to disable external web browsing,” she said. “I didn’t think any robot could access the web.”
+“It is,” said Sidney. His heart beat rapidly. “It’s called DIL.”
+“That is correct,” said Kilgore. “The Digital Information Lock-out protocol remains in place today. It prohibits internal web access as well as external web access using a third party machine.”
+“Like a PC,” said Anita. It wasn’t really a question.
+Sidney nodded slowly. “There are far too many viruses lurking online that could pose a danger to a robot’s programming,” he said. “How did…?”
+“A function exists to allow robots external digital communication on a case by case basis. It’s really nothing more than an I/O switch that is set in the main data core and passed to robots on an individual basis during their nightly data load.”
+Sidney’s head jerked toward Anita’s notebook. She’d stopped taking notes, enthralled in the conversation. The motion from Sidney snapped her back to her role. She began to write as fast as she could, trying to catch the flow of conversation with her pencil. 
+Kilgore appeared not to have noticed. 
+“In addition,” it said “websites need to be approved for viewing by a review board and manually enabled to allow a robot—any robot—access to them. Such is the case with me.”
+“Why?” asked Anita.
+“Because there are certain websites that have data or information that is directly relevant to the operational integrity of a robot.”
+“Meaning?”
+“Meaning, sometimes Kilgore needs the web in order to do his job,” said Sidney.
+“Correct, Dr. Hermann.”
+“I never knew that,” said Anita.
+“Neither did I,” said Sidney.
+Anita looked at him. A robotics professor stumbling onto what sounded like a fairly common security protocol in a robot. That struck her. Odd? Maybe. Disquieting? Yes.
+Pencil to notebook: Brian re: robot web browsing override protocols. He’d know if anyone would.
+“Should we continue?” asked Kilgore. 
+“Sure.”
+They began walking again. “Would you like to review your background with me, Dr. Hermann?”
+“What do you know already?”
+“I know that you have a great depth of knowledge about lower level robots, including histories, software revisions, bug fixes, et cetera. Your specialty, however, is not in the technical or even functional aspects of robots, but rather it is closer to the history of robots, robotics, and the controversies that have manifested throughout the Age of the New Machine. In a lecture you gave at the University of Virginia, you referred to these controversies as ethical matters, but then dismantled your own argument, referring to them instead as matters of human comfort.”
+“It sounds like you’ve read it.”
+“Listened to it, actually. It is available in the guest lecture library at the University of Virginia website.”
+“Did you understand it?” asked Sidney. It was a strange question, he thought. In some ways unfair.
+Kilgore’s holographic projected face frowned. 
+Maybe we give it too much credit for comprehension, thought Sidney.
+“Perhaps I shall paraphrase you,” Kilgore said. “It is not a question of the ethics of a robot administering to the sick and elderly. Nor is it truly about the final act for those patients who pass the requisite physical and mental tests, that act being assisted suicide. It is not even about how very easy it is for humans, beings with the illusively defined spirituality of the soul, to simply pawn off this final act to a soulless machine that does not have philosophical or religious issues. The ethics at play here are those surrounding your—humanity’s—comfort level placing the decision with machines. Are those patients truly comfortable with a robotic doctor assisting them in making the decision to die? Should a human be involved in the process? In simpler terms, is it or is it not socially acceptable for a robot to specialize in geriatric medicine and end of life care, especially if such care suggests suicide as the best possible alternative, if the intended recipients of such care are uncomfortable with the practitioner?”
+He comprehends very well, thought Sidney.
+“Yes,” he said aloud. “That about sums up what I was saying.”
+The robot’s holographic face smiled and the head nodded. “Very well,” it said. “How shall we proceed?”
+Sidney shrugged.
+“Do you have any feelings you wish to discuss regarding this assessment?” Sidney asked.
+“No. As we have already discussed, I was not fitted with an emotive processor when I was constructed. I have no emotions that require discussion.”
+“If you have no emotions, how are you able to interact with patients?” asked Anita.
+“I have a lengthy series of protocols known as reacts stored in a central repository that I am able to call at any time as the situation suggests.”
+“So, for example, if you were dealing with a grieving spouse?”
+“I would process the many options I have for consolation in the case of such grief. My holographic projector would then make the appropriate facial expressions and my posture would reflect empathy.”
+“Project. Reflect. These are interesting words,” said Sidney. “They tend to deal in facsimiles of the real thing, don’t they?”
+“Of course they do.” 
+
+* * *
+
+Sidney shadowed Dr. Kilgore for the rest of the morning. Anita took notes. There were a number of visits by elderly patients. Routine check-ups. Flu shots. Requisite visits for a prescription renewal. Nothing stood out as an issue that could not be done by a human doctor.
+Sidney and Anita ate lunch in the cafeteria in the lobby level of the building. She gulped a large cup of coffee and bit through a stale danish. He sipped at a diet soda and chewed noisily on a fat sandwich.
+“How do you think it’s going?” she asked.
+“Alright.”
+“That’s it?”
+“Hmm,” Sidney mumbled through a mouthful of food. He swallowed. “It’s going okay. But I don’t want to get too far ahead of ourselves.”
+“What does that mean?”
+But Sidney didn’t answer. 
+They ate the rest of the meal in silence.
+
+* * *
+
+After lunch Sidney directed Anita to interview the nursing staff and a few of the human doctors in a make-shift office in a corner of the geriatric floor. Most of the responses were dull and repetitive. Praise for the work Dr. Kilgore had done and its way with the patients.
+The last interviewee was the head nurse.
+She was a plump older woman with half-moon spectacles perched at the end of her nose. Her down-turned mouth gave her a sour expression. Anita sat with her and ran through a pre-determined list of questions. 
+“Do you have anything you would like to add?” Anita asked at the end of the interview.
+The nurse sniffed with disdain. She said nothing. But Anita picked up on it.
+“What?”
+“What what?”
+“You seemed like you wanted to say something.”
+“Did I?”
+“So, you don’t want to add anything?”
+“Not really.”
+Anita gave the nurse a strange smile and made a note on her pad.
+“Okay, then. If there’s nothing else—“
+“What are the odds you’re actually going to shut down this program with the death robot?”
+Anita looked up at the nurse and cocked her head to the side. That was a new one. Death robot. 
+“The death robot? I haven’t heard that before. Why do you call it that?”
+“What are the odds?”
+“Of?”
+“Shutting him down?”
+Anita shrugged. “I have no idea. That’s not why I’m here.”
+The nurse sniffed.
+“Why do you call it the death robot?”
+“We all call it that. Everyone on this floor. We don’t do it to its face, mind you, but that’s what we call it.”
+“Why?”
+“Why do you think? Because it’s a licensed end of life caregiver. It can end a life.”
+“End a life?”
+“Yes. You know. Physician-assisted suicide.”
+Anita’s face blanked. She needed more from this nurse. She took a chance and played dumb with the nurse.
+“No, actually, I didn’t know that.”
+“Well,” sniffed the nurse, “now I guess you have something to write down.”
+Anita wrote it down.
+“How many of those has Kilgore performed?”
+“I don’t know,” the nurse said. Anita suspected she did.
+“And this bothers you? Its ability to do that? Isn’t that a normal—well, maybe not normal—but typical procedure that geriatric doctors are allowed to perform these days?”
+“Human ones, yes.”
+“But not robot ones?”
+The nurse turned her head  away.
+“So you have no problem using the term death robot?” asked Anita changing tracks.
+“No.”
+“But not to it directly.”
+“Someone slipped once and called Kilgore a death robot to its face,” the nurse said. She wasn’t looking at Anita. Her voice was cold and distant. “It stopped and turned its head toward the person. That face  changed into a snarl. It was so life-like. The lips curled up, the flesh color turning red. It was meant to be menacing. It was meant as a threat.”
+The a-ha! moment. Anita understood. This nurse was talking about herself. Kilgore had stared her down and it had rattled her. Not that Anita could blame her. It would have rattled her too and she studied robots every day. 
+“So you think Dr. Kilgore minds being called a death robot?”
+“I know it does. I know they say it’s only because it has a protocol that runs when it hears the phrase. Nothing serious, supposedly, just a face of indignation. But it minds and I find that creepy. It claims the reaction protocol is built in because of its conscious choice to specialize in geriatric medicine and end of life care.”
+“That’s an interesting phrase. Conscious choice. Are those Dr. Kilgore’s words?”
+“Yes.”
+“Sounds about right. Sounds a lot like a conversation we had earlier today.”
+The nurse was silent.
+“How conscious do you think that choice can truly be?”
+“I couldn’t say.”
+“Try.”
+“Do you know anything about robots at all? Do you know they have these neural net systems that allow for knowledge to be learned? They’re built loaded with a certain amount of basic knowledge and the rest is learned through—believe it or not—schools?”
+“Yes, I know. I’m studying robotic engineering at NYU. This is the first time I’ve participated in an evaluation of any sort. Kilgore is pretty much beyond my expectations.”
+“You should know better.”
+“Better than what?”
+The nurse refused to say any more. Anita sighed.
+“Did you have anything else you wanted to add to this interview?”
+Wordlessly the nurse raised herself from the chair. She walked out of the small room.
+
+* * *
+
+At the end of the day came one of the cases Sidney had been waiting to observe. At the end of the day came Mrs. Edna Carroway. Drs. Kilgore and Hermann met her in the waiting room. Anita stood behind them. The room had been set aside for relatives of patients who were residents at the geriatric facility. Unlike the general visitor’s lounge, which was a sparse featureless room with mismatched furniture both torn and coffee-stained, this room was warmer, softer, more inviting.
+Mrs. Carroway was an old woman with a deeply lined face. Recent years had seen more frowns than smiles. The crow’s feet elongated down the side of her face. Her weary eyes had the faded quality of the elderly. Long years of fighting the inevitable. She was diminutive. Slight of build with sloping shoulders that were warmed by a shawl.
+Before they entered the waiting room the robot gave Sidney and Anita the details of Mrs. Carroway’s situation in its smooth even voice.
+“Mrs. Carroway’s husband, Gregory, is gravely ill. He has an aggressive form of cancer that has now spread to his lungs, pancreas, and bladder. The cancer is stage four. He is terminal. Chemotherapy has been unsuccessful and his age prohibits the use of radiation. After careful consideration we have therefore determined that the best course of action for Mr. Carroway is physician-assisted suicide.”
+Sidney nodded. Anita flipped through her notes. Other than the last interview there had been nothing interesting to report. Robots had been treating patients in controlled tests for several months now. This robot diagnosing and prescribing treatments for patients was nothing new. This appointment might change that. End of life care. How could a robot be as comforting as a human?
+“Dr. Kilgore, we don’t want to intrude on your patient. I would however like to observe the procedure. If you would prefer we can watch by remote.”
+Sidney inclined his head toward the nurses’ station. He wondered if the robot would pick up the subtleties.
+“I will leave the decision up to you, Dr. Hermann. Gregory Carroway has been in hospice care here for a number of months. Privacy is one of the attributes that is lost when one enters hospice care. He and his wife have grown used to that. All manner of personnel come in and out of the room on a regular basis. Nurses, doctors, even janitors. If it would make your observations more precise, I welcome you into the room to observe.”
+Score one for the robot, thought Sidney. Then again, it’s willing to compromise its patient’s comfort and privacy. Score one for me.
+“Of course,” continued Kilgore, “I must consult with Mrs. Carroway before I give you full leave to personally observe. I would not choose to cause her more discomfort than she is already feeling at this time.”
+Damn, thought Sidney.
+Drs. Kilgore and Hermann entered the waiting room with Anita behind them. Edna Carroway stood from her chair with the slow motion of brittle bones. She pulled her shawl closer around her shoulders and using a plain wooden cane hobbled forward to greet the robot.
+“Good afternoon, Mrs. Carroway,”
+“Hello, Dr. Kilgore.” Her voice was as frail as her appearance.
+“May I introduce to you Dr. Sidney Hermann and Miss Anita Lory. They are specialists in the field of patient care and comfort. They are accompanying me on my rounds to observe patient care in our ward.”
+Even as Sidney reached out his hand and grasped Mrs. Carroway’s outstretched arthritic one, he found it vaguely disconcerting that the robot had lied. Was it even possible for a robot to do so? Wasn’t it in the programming that they could not lie? Were robots programmed to lie when the situation warranted it? He made a mental note to research this point later that evening.
+“It’s nice to meet you, Mrs. Carroway.”
+“Thank you.”
+Anita shook her hand silently.
+Dr. Kilgore’s face adopted a concerned and supportive expression. How empathetic the robot looked. It portrayed the emotion better than most humans.
+“Mrs. Carroway,” said Kilgore, “I realize how difficult a day today will be for you and your husband. I can be with you the entire time, if you would like.”
+Mrs. Carroway simply nodded. The robot continued.
+“As I stated a moment ago, Dr. Hermann is observing today. The answer to the next question I will ask you is completely within your control, and we will not be offended by your response. Would it be possible if Dr. Hermann and Miss Lory observed us this afternoon? I can assure you that they would remain completely in the background, would not intrude in any way. They would be willing to depart at any time if you were to decide later that you wished for greater privacy.”
+Dr. Kilgore’s eloquence moved Sidney. He made a second mental note. Explore the depth of the emotive response protocols programmed in this particular model. Go back to the schematics.
+Mrs. Carroway gave Sidney and Anita a rather dark look. Her deeply sunken eyes blazed at him. The fire faded and she closed them heavily. She nodded her approval. She’s too tired to fight anymore, thought Sidney. 
+
+* * *
+
+Kilgore ushered them into a private room. The usual medical equipment stood in corners, mounted to the walls. There were the obligatory attempts to make the room cozier than it was. A happy blurry watercolor on one wall. A vase of fake fabric flowers on the nightstand. Underneath were the sharp antiseptic smells and above were the fuzzy buzzing fluorescents.
+In the center of the room was the big roller bed. It had the many controls required for a hospital bed. Occupying the bed was an emaciated old man with hard gray stubble on his gaunt ashen cheeks. Tubes ran in and out of his arm and his nose and his neck. The big catheter bag hung below the bed yellow and heavy.
+Mrs. Carroway went to her husband and stroked his head gently. His eyes fluttered open. His mouth moved gently. There was no sound.
+Dr. Kilgore moved forward and stood next to Mrs. Carroway. Sidney and Anita took a spot in a shadowed corner. They were as out of sight as they could make themselves.
+Dr. Kilgore’s smooth voice addressed the Carroways.
+“Are you both ready?”
+Mr. Carroway mouthed the word yes. Mrs. Carroway only nodded. Silent tears ran down her cheek.
+Dr. Kilgore moved to the IV side of the bed. From the folds of his coat it pulled a needle full of a pale yellow fluid.
+“Gregory, once I inject this, you will start to feel sleepy. Very shortly you will fall asleep. Once asleep, I will give you a second shot that will cause your heart to cease to beat. It is all very calm and painless. Do you understand?”
+Mr. Carroway managed a labored nod.
+“Let me please ask you once more, are you certain this is your final decision?”
+The old man nodded again. He looked at his wife, who also nodded.
+“Do you require any last time together, alone?”
+“No,” answered Mrs. Carroway. “We’ve said our good-byes.”
+“Very well.”
+With that, the robot took the needle and injected it slowly into the IV. Mr. Carroway looked deep into his wife’s eyes. Mrs. Carroway returned his look. “I love you,” she said. I love you, mouthed her husband.
+Sidney had never seen a human die before. Not in his presence. This is truly an act of kindness, he thought. The old man is at the end of his life. At least he could take control of his death. Die with a measure of dignity. Sidney thought he might be sick.
+Anita made notes as fast as she could write.
+Kilgore stood motionless next to the bed waiting for the flat line. Its holographic face was a look of sorrow. But it didn’t actually feel that emotion, thought Sidney. How can it offer such compassion without feelings?
+Anita scribbled maddeningly. The pencil scratched across the paper. A foreign noise in the room. It carried more than Sidney would have liked. He looked at Kilgore. Kilgore had turned his head and was looking at Sidney. Sidney couldn’t read the expression. It made the hairs on the back of his neck stand up.
+Then came the final flat line.
+
+* * *
+
+Sidney was bent over his computer screen with weary eyes and sad heart. His back ached. Hunched over his computer typing his notes with his fingers pounding on undersized keys. He had sent Anita home earlier. Home or wherever she wished to go. He had an odd feeling that she was with Brian. There was nothing for her to do now other than type up her notes. She’d need her own computer. He typed his impressions of the day. There was not enough space in here for both of them. The space he worked in was tiny. A small nook in the back of the nurses’ station. It was the only place in the ward where he could both get a communications connection out and close the door. He clacked away on his computer, cursing occasionally at his thick fingers and narrow keys.
+He checked his watch. After seven.
+He stopped typing. His fingers froze. They didn’t hurt but he couldn’t move them. His head dropped into his hands. His eye s were wet with tears. What have we come to? What have we come to? He watched a robot end the life of a terminally ill man. Death shiny and metal and meticulously dressed. Death without conscience. Death without guilt. Death without emotion. These were laid on top of him. These things that Kilgore could not feel he felt. Empathy was not the right word. What was? He was the only one that felt it. Kilgore did not. Mrs. Carroway had her own grief to comfort her. Anita was too fascinated to feel death. Too giddy with her position of assistant to feel beyond her giddiness. Who was left to feel for the dead? Here in the corner is a man uncluttered. Here is a man with a cup of emotion only half full. He is the one to carry this burden. Someone must and everyone is accounted for. Except him. 
+Sidney held his head in his hands. He sobbed.
+
+* * *
+
+Sidney was in the middle of cataloguing Mr. Carroway’s symptoms. He had wiped his eyes and blown his nose. He was back to work.
+A sharp knock rapped against the closed door. It startled him.
+“Yes,” he called.
+The door swung open and framed the finely dressed steel body of Dr. Kilgore.
+Fight or flight. 
+Why is that in my head? Sidney thought. Something about Kilgore standing between him and the only way out of the office caused his heart to beat faster. Calm down. It’s a robot. Nothing more. It has no feelings to hurt. It has no emotive processor. It’s just a machine.
+“Dr. Kilgore,” he said. “What can I do for you?”
+The robot floated into the room. The spectral image of death. The door swung shut. An automatic hinge. Snick. Sweat broke out on Sidney’s brow.
+“Do I make you nervous, Dr. Hermann?” asked the robot.
+Why did it ask me that? How can it know that? He began to sweat under his arms.
+“Excuse me?”
+“Do I make you nervous?”
+“Why do you ask?”
+“Because your heart rate increased when you saw me standing in the doorway. You began to perspire when the door swung shut behind me. Upon asking you about your level of comfort when in my presence your body temperature increased and your perspiration output increased.”
+Somehow I keep forgetting it’s a machine designed to diagnose, thought Sidney.
+“Truth be told, Dr. Kilgore, you startled me somewhat by knocking. I was deep into my computer. I’m taking down notes.”
+“For your analysis of me.”
+That was not a question. 
+“Yes,” he said.
+“Perfectly understandable, Dr. Hermann. I have witnessed humans in various stages of sudden fright. To be honest, I find it a fascinating field of study. You may be surprised to learn that I have a deep knowledge of horror movies, which I also find fascinating as a phenomenon. The idea that humans would willingly scare themselves in this manner is intriguing.”
+Horror movies? thought Sidney. You mean the kind where you’re trapped in the house alone with a killer and there’s no way out? And let’s be honest, sanctioned or not, Kilgore was a killer. 
+Something else struck him.
+“Can you really be fascinated?”
+“To an extent. I have certain programming embedded in my learning center that allows me to be curious. This artificial curiosity compels me to observe, research, and conclude. It is part of the constructed ability to learn.”
+Sidney had taken up his pad and had begun scribbling down notes. He forced himself to set aside his misgivings over being alone in a room with the robot. Time to compartmentalize.
+“What other things have you been curious about that have led to deductively reasoned conclusions?”
+“I would be happy to sit and give you a more extensive catalogue of my experiences at a different time. For now, however, I am concerned about your response to me when I entered the room.”
+“You startled me. I thought we established that.”
+“Then why has your fear grown? Specifically after I entered and the door shut behind me?”
+How do I approach this? thought Sidney. Perhaps the direct approach.
+“The truth, Dr. Kilgore?”
+“Please.”
+“I am nervous being in this room with you.”
+“Why?”
+The robot’s voice was the same low soft tone it had used since Sidney met him. He knew it was meant to convey a type of comfort but he found it almost patronizing. That really couldn’t be, could it? This machine was not able to summon the emotion to be patronizing. Unless it had been programmed to do so. He felt that was unlikely, knowing what he did about this model’s engineering.
+“Dr. Kilgore, during the procedure I had the sense that you were, well, angry. Or at the least irritated. To be honest, being trapped in a room with a robot that’s upset with me is not what I would describe as a stress-free event.”
+“You know I lack the capability for anger. I cannot become angry. I cannot be angry. I cannot truly understand what anger is beyond a technical definition.”
+Sidney nodded.
+“I know these things. However, one of the things you need to understand about humans is that, even when we know something to be true, there is another part of us that may question this knowledge. Such questioning can often lead to fears. And fear, rational or not, is extremely powerful.”
+“This is an interesting concept. Is this what people mean when they refer to a gut feeling?”
+“Yes, I suppose it is.”
+“And your gut feeling about me when I entered the room and closed the door was to become frightened?”
+Sidney swallowed. He didn’t like this line of questioning. He had trapped himself in it. He wondered how far the robot would pursue it.
+“Yes, Dr. Kilgore, it was.”
+The robot said nothing. Its artificial face stared at him seated while he waited for a response. A single bead of sweat formed slowly at the base of his hairline. Right at the ridge of his right temple. It gathered weight and trickled down his cheek. He tried to hide it but he felt that the robot’s holographic eyes may have spotted it and followed it as it rolled down the side of his face. It made him more nervous.
+“Dr. Hermann, I have no wish to make you uncomfortable. In fact, any deliberate attempt to do so would cause an immediate shutdown of my power system. Therefore, I will open the door and leave you to your work.”
+The robot twisted the doorknob in his gloved metallic hand. It swung open silently. Sidney blessed the wave of cool air that washed into the room and over him. The robot hovered out the door.
+“Dr. Kilgore?”
+“Yes, Dr. Hermann?”
+“I appreciate your understanding.”
+The robot shook its head. Another programmed response. And this one was a reaction to a statement the robot obviously found false. How amazingly complex.
+“I do not understand as you suggest it,” it said. “This is an emotional response that is based in compassion and empathy. I have neither of these qualities. I go merely to relieve you of my presence. Since I make you uncomfortable I am concerned that my behavioral inhibiting programming could trigger and shut me down.”
+With that it left without looking back.
+Sidney watched Kilgore go. His heart beat even faster than when the robot was in the room. He may have just witnessed the first step in artificial intelligence evolution. A being programmed without emotions but with the concept of self-preservation. Did the robot just act in order to save itself?
+ 
+Chapter Six
+Three weeks to complete the collation of notes and data and technical descriptions and other analysis. Two more weeks to research additional items in library texts. Four weeks worth of writing. Another two days to format the report. Then submit to Denlas-Kaptek for their review. 
+Sidney had met with Anita several times over the course of the week while they worked through the meat of the report, shaping the raw data into something usable, something readable. She spent weeks buried in the library stacks cultivating material for the report. They huddled into his smallish office and spread their papers out along his desk and on the floor. They hung schematics on the walls with tape. The door was always closed. When he left for the day he locked the office door and double-checked that he had actually locked it.
+Her eyes wandered over page after page. Each one said CONFIDENTIAL at the top. Sidney asked her if she understood what that meant. She said she wasn’t an idiot. He countered that he didn’t mean the word. He meant the responsibility of viewing them. As easily as he had handed them to her to read, he could just as easily take them away. She might never see such confidential documents again. She quickly said she understood and they never talked about it again.
+Sidney held the finished product in his hand, a smartly-bound collection of papers one hundred fifty pages thick. He couldn’t keep the smile from spreading over his face. He looked across his cluttered desk at Anita, who was smiling in return.
+“Want to take a look at it?” he asked.
+“Sure do.”
+He handed it across the desk and Anita took it carefully, like an ancient artifact from a bygone age. She opened it, careful not to break the crisp binding. She thumbed through the pages.
+“I really couldn’t have done this without your help,” Sidney said. “It would have taken me forever to cull through all the academic research. That sort of thing is not my strong suit.”
+He looked at her.
+“Thank you. I mean that.”
+Anita wasn’t listening. Her brow was pulled into a furrow. A strange look was on her face.
+“Is something wrong?” he asked.
+“My name isn’t on it as an author.”
+“No, it’s not.”
+“Uh, shouldn’t it be?”
+“Well, no,” Sidney said. Almost sheepish, embarrassed. “You’re listed as the research assistant.”
+“I wrote half the material in this thing.”
+“I understand that—”
+“You wouldn’t have gotten half the quality of research if you’d done it yourself,” she cut him off.
+“I realize that—”
+“And the best I get is ‘research assistant’?”
+Her voice was rising even as her body remained motionless. Sidney could tell her muscles were tightening. Like a snake, coiling.
+“That’s kind of a standard credit people in your position get.”
+“People in my position?” Fuming. “What ‘position’ is that?”
+“Look,” he said. He was beginning to feel agitated himself. “This is how things work in academia,” he said. “RAs do the grunt work and professors get the credit.”
+“Well, a fat lot of good that does me.”
+She tossed the report across the desk at him. He lifted his arms in a futile attempt to catch it. He had never been mistaken for athletic.
+Now he was angry. Angry at her attitude, angry at the way she showed it, angry at her tantrum. And after a bit of thought, he was angry at Brian for not explaining this to her upfront.
+“I can take your name off if you’d like,” he snapped.
+Silence.
+“It would certainly help you get another such opportunity or even get to lead one yourself. But if you want nothing more to do with it, I can take your name off.”
+He barely heard her. She muttered as softly as she could.
+“No.”
+“Okay, then.”
+After a moment of silent she said, “This pretty much sucks.”
+“Maybe, but you can use this credit to your advantage.”
+She was silent. Time to nip this in the bud.
+“Stop being an insolent child and say thank you.”
+“Thank you.”
+“Very good. Now good-bye.”
+It was a brusque send-off, far more brusque than Sidney usually was, but that was just too bad. He wasn’t going to sit and be harassed by a hissy fit.
+She paused in the doorway, door knob in hand. He could tell she wanted to slam the door. She didn’t. She let go of the door knob and walked away.
+
+* * *
+
+Sidney sat in the wood paneled waiting area outside Eric’s office. He busied himself by reading through the report once more. He had a copy of it with him. He had sent DKI their copy a week ago. Within a day he’d been asked to come in and review it. He knew his conclusion would not be popular with DKI. He suspected they hadn’t even read the report. He suspected they turned right to the conclusion page and read. 
+The intercom beeped at the administrative assistant’s station. A robot sat there. It had a boy’s facial features with high cheek bones, a narrow nose and blonde synthetic hair. The silicon of its face was a Caucasian skin tone. Appropriate color had been added in the cheeks and the lips. Its expression was almost natural. Yet it was just artificial enough to make the people uncomfortable. It was dressed smartly in a jacket and tie. It pushed a button on the desk. The door to the office buzzed once. With a soft click the door opened slightly. The robot smiled at Sidney and motioned him inside with a carefully masked mechanical hand.
+The transition from the area outside Eric’s office to inside was pronounced. From wood paneling to bright white walls and a shimmering glass wall window. The Hudson was visible beyond, gleaming brightly with the day. The furniture was severe, hard steel and glass and angular. The stark walls were unobscured by pictures of any kind. Eric Breckenridge motioned Sidney into one of the chairs without rising himself.
+Eric said, “You’ve reached an interesting conclusion, Sidney.”
+“Dr. Hermann, please.”
+Eric arched his eyebrows. As if he cared how Sidney wanted to be addressed.
+“As I said, you’ve reached an interesting conclusion.”
+“You think so?”
+“No doubt. Interesting and troubling.”
+“No doubt.”
+Silence between them.
+“I’m sorry the report was not what you were hoping for,” Sidney offered.
+“On the contrary. It is exactly what I was hoping for.”
+“Really?”
+“Absolutely.”
+“I’m afraid I don’t understand.”
+Eric folded his hands. His fingers were long and looked serpentine when he entwined them.
+“Your report is exactly what I was looking for. Raw feedback. Emotional feedback. I—we—need that kind of feedback.”
+“Then you agree with my conclusion.”
+An inarticulate noise escaped Eric. Sidney thought it might have been amusement. Eric might have laughed. Sidney wasn’t sure.
+“Hardly.” 
+Eric stood and walked to one corner of his office. In the morning he or perhaps his robotic assistant made a habit of opening the long vertical blinds along the window wall. Pulling them back into the corner. There they sat, bunched and swaying in the artificial breeze of the environmental controls. Sunlight spilled through them, casting long stripes of shadows on the wall.
+He stood among the shadows.
+“I’m confused,” said Sidney. “My report was what you were hoping for but you’re contesting my conclusions?”
+“Absolutely.”
+“That’s contradictory.”
+“Not at all.”
+“Really? How so?”
+“We needed to get an unvarnished opinion of how the public perceives the robotic doctor. We needed to get this from a legitimate source. A scholar in the field of robotics is an absolute fit. And some of the reactions you recorded were not unexpected. But your final recommendation is suspension of the program and re-evaluation of its merits. This is completely out of the question.”
+Sidney shifted in the chair. It was square and modern in its design. It was uncomfortable. He shifted again.
+“I think it is in the best interest of the company and in the hospital to terminate the program and re-assign robot 78190736—Kilgore, as he is called—to a different environment,” Sidney said. That would not go over well but Eric seemed a man of directness who would respect directness in return.
+Eric’s face darkened. His brows came together.
+“Did it misdiagnose a patient?”
+“No.”
+“Did it fail to act, medically speaking, when action was needed?”
+“No.”
+“Did one of its protocols fail?”
+“No.”
+“Did harm or death come to any patient it shouldn’t have under its care?”
+“No.”
+“Then I fail to see why you feel the program should be shut down.”
+His glare deepened into something dangerous. Sidney shifted again in the uncomfortable chair. He had little choice. Explain the gut feeling. Explain or retract the recommendation.
+“It made me, well, I guess you’d call it nervous,” he said.
+“Nervous?”
+“Yes. Nervous.”
+It sounded stupid as he said it. He knew it sounded stupid. He couldn’t help it. Nervous was the best he had. Eric looked at him. He felt his face flush.
+“All the observations, all the empirical data, all of the information regarding the construction and programming of the unit, and your entire recommendation boils down to ‘nervous’?”
+Eric walked back across the office from his spot in the corner of the window. He pulled out the chair and sat down in it with a deliberate motion and leaned back and placed his hands behind his head in a gesture of relaxation. What to do, what to do. The program rested on this evaluation. Not the entire program perhaps but a significant setback could be incurred on a recommended shutdown. This would not be particularly pleasant to explain to the board. The fat board member in the white suit would be especially pleased. Eric frowned at this thought. He pulled his thoughts back to the report in front of him. To the man sitting across from him. A great slob of a man with shirttails sticking out from a shirt too small and exposing softness of pale flesh.
+Gently. Don’t scare him off. Trap him. Wrap him up in his own arguments. Burrow the fangs into his quickly beating heart and drink the logic from his argument. Make his argument a shell. Then crush him.
+“Could you explain this a little more clearly?” he asked. Gently.
+Sidney described his experience. Talking with the robot. Relating to the robot. Observing the robot. Interviewing those who worked with the robot. He came to the moment when Mr. Carroway took his final breath. He described what seemed to be the act of self-preservation on the part of the robot. These things together made him nervous.
+Eric sighed.
+“I had hoped, Sidney, that you would be more open-minded.”
+“I was very open-minded.”
+“It doesn’t sound like it. You were picked for a couple of reasons. You are academically qualified. You’ve done fieldwork. Granted, mostly with labor robots.”
+He paused.
+“You’ve never done any fieldwork with a robot above a level F, have you?”
+“No.”
+“I didn’t think so. Let me try to put your fears to rest. The look the robot gave you: purely a response protocol. Happens all the time.”
+“You didn’t see the look.”
+“I don’t have to. I know for a fact that these kinds of protocols are wired right into the units and they pull them up when the situation requires it. You simply got caught up in one of those moments.”
+Sidney shook his head unconvinced.
+“Let me help you with your other concern,” said Eric. “Self-preservation is one of the features we program into these units.”
+“Even the ones without emotive processors?”
+“Yes.”
+“But wouldn’t you think self-preservation is tied to emotional responses to immediate danger?”
+“Not at all. Animals have a self-preservation instinct. From the most intelligent dolphin to the lowliest sponge, every animal has the urge, the instinct to save itself if danger emerges.”
+“Yes, but instinct is one of those elements that only living beings have. How can you program instinct into a robot?”
+“The same way we program emotions. It’s incredibly difficult to do, but it’s doable. We definitely program instinct into these units.”
+“But instinct is based on the adaptation of generations of observations and experiences made in our exploration of the world. As we or any species moves through the world, we log the external stimuli until they become an inherent disposition toward specific behaviors. It’s almost like having a gut feeling, if you will.”
+“That was an awful lot of words to get to ‘gut feeling’, Sidney.”
+Sidney frowned at Eric.
+“Gut feeling is exactly the point,” said Eric. “Gut feelings and instincts are essential to basic human survival. Fight or flight. What happens when you hear a sound that scares you? You can run, you can freeze, or you can stay and fight. One of the things we try to do is incorporate these instincts into the programming of robotic brains.”
+Sidney shifted in the chair. He felt uncomfortable under Eric’s stare.
+“So what you’re saying is that, in addition to intelligence and emotions, we can program instincts and gut feelings into newer higher end models.”
+“Yes.”
+“What if, in the interest in their self-preservation, a robot decides to kill a human?”
+So close yet still so far, thought Eric. So much to learn. He needs to be exposed to more advanced models. Exposed to their capabilities.
+Eric smiled. He had a sudden and wicked idea.
+Exposure. It’s all about exposure. 
+Time to educate the professor.
+He stabbed a button on the intercom with his finger.
+“Gammons, come in here please,” Eric said.
+The intercom crackled the reply. “Yes, sir.”
+“Sidney, you must be familiar with the behavior inhibitors,” said Eric with a smile. He took a pair of sharp scissors out of a drawer in his desk and placed them at the edge of the desk. Sidney stared at the scissors, then back to Eric.
+“Yes, I am.”
+“Theories, applications, history, et cetera?”
+“Yes.”
+“Have you ever seen it in action?”
+“No. Few have.” He was not sure where this was going but he didn’t like the tone of Eric’s questions.
+The door to Eric’s office opened and in walked the admin robot. It was built as a protocol unit and as such it was more invaluable to a man in Eric’s position than a simple administrative assistant. It was footman, valet, and perhaps even occasional bodyguard. Its purpose was most often that of admin though and it was in this capacity that it served him the best.
+Gammons.
+Sidney reflected on his first impressions of Gammons while he waited in the waiting area for Eric to admit him. He assumed that various pneumatics and high-technology wires and motors made the face move in a narrow range of expressions. Compared to the vast assortment of facial looks that he’d discovered with Kilgore’s holographic face, Gammons was a bit of a letdown.
+The robot’s voice was higher in pitch than Kilgore’s. Specifically designed to be heard above any din if necessary. Specifically targeted toward his master, Eric.
+“Yes, sir?”
+“Gammons. Excellent. Could you explain to my guest, Dr. Hermann, about your behavioral inhibitor?”
+“Certainly.” The robot turned toward Sidney. “Embedded in my programming is a logical constraint that keeps robots such as myself from acting in certain ways. Harming humans is one of the situations that calls up the constraint program. Trying to dismantle the program itself is another. Trying to dismantle another robot’s is a third way.”
+“In other words,” said Eric, “these constraint programs kick in if the robot exhibits some type of specific behavior.”
+“Exactly,” Gammons continued. “And should we proceed with the action, the program is designed to shut down all power systems and emit a radio wave frequency to the manufacturer advising that a robot has violated its inhibitor protocols.”
+Sidney waved off the robot. “I know all this. I also know that Kilgore gets overrides for those patients—and those patients only—who have signed the end of life form and have had the revised protocol downloaded to his system during the re-power cycle.”
+“True,” Eric said. “But it would only work on those patients we allow as an exception in the code. Any attempt to harm anyone else would cause failure.”
+“So the theories go.”
+“You’ve never really seen it,” said Eric.
+“No. Why would I? These kinds of shutdowns are so rare that almost no one has. I presume the programmers and the QA guys have seen it, but why would I? Isn’t that what you test and QA for? So that no one ends up ‘seeing’ it?”
+Eric smiled at Sidney. He found Sidney’s—what would be the best way to describe it? Rant? Tirade?—amusing, almost quaint. He nodded. He looked at Gammons. “Would you, please?” Eric asked.
+Gammons did not respond. Instead it stared without expression at Eric. Eric’s patience grew short and his eyes narrowed. They looked harder somehow. Gammons needed no further command. With the corners of his silicon mouth pulled down slightly he nodded. Sidney watched the non-verbal communication between them. He was still wondering what it meant when the robot attacked.
+Gammons lunged forward and grabbed a pair of scissors that Eric had placed on the edge of his desk.
+Once in his hand Gammons swung the scissors outward in a wide arc. The point jutted out of the robot’s closed fist. In the path of the downward swing was Sidney.
+Sidney cried out.
+As abruptly as Gammons attacked, it stopped in midair. All movement in its body froze midway through the attack. All motors and servos and gears and joints locked. Its eyes went dead and it hung motionless in the middle of the room.
+“That is how the behavioral inhibitor works,” said Eric.
+Sidney struggled to catch his breath.
+For Eric, the conversation was over.
+“That, I think, will be all for today,” he said.
+“Are you kidding me?” Sidney panted. “You try to have me killed and then just dismiss me from your office?”
+“You were never in any real danger. It was simply a demonstration of how the inhibitor works.”
+“You scared the shit out of me!”
+“Like any good horror movie or roller coaster would. Again, no real danger.”
+“Not the same thing. Not the same thing, not by a long shot. And you know it.”
+Eric sighed. Was this overweight blob of a man really going to make a federal case out of this?
+“What do you want Sidney? Do you want an apology? If so, then accept mine.”
+There was nothing apologetic about Eric’s voice at all.
+Sidney ignored him for the moment. His eyes were now focused on Gammons.
+“What happens to it now?”
+“Who, Gammons? It’ll be led downstairs to the Foundry floor to be cleaned up and reset.”
+“Cleaned up?”
+“Yes. There are a series of protocols for resetting a robot whose shutdown was the result of an inhibitor trip. Checking the moving parts, cleaning out the gears, things like that. Surely you’re familiar with them?”
+“The IRC protocols you mean? I didn’t realize you followed them.” His breath was almost normal once more.
+“Everyone follows the IRC standards. That’s why they’re the IRC. They set the standards.”
+“Yes, they are standards, but they’re not laws. There’s no way to enforce conformity.”
+“True,” Eric said, “but since we’re members of the International Robotics Consortium, and we even have a few people who sit on the Consortium’s board, it would be bad form indeed to ignore their recommended practices.”
+“So,” Sidney inclined his head toward Gammons, “this thing gets reset based on those standards.”
+“Yes.”
+Sidney was silent for a minute and stood.
+“I’d like to watch the process.”
+“What?” Eric was genuinely surprised.
+“I want to see how it works in practice.”
+“No. I’m sorry but that’s a confidential matter. Too many trade secrets floating around. I can’t allow that. Sorry.”
+Sidney nodded as if in agreement, then got tough.
+“Very well. I’ll simply modify my conclusions recommending strongly that the robotic physicians program be shut down pending further investigation and that a congressional oversight committee should be established to monitor the public health and safety. You are aware, of course, that all formal evaluations go to the congressional archives? It would be a shame if this one ended up before a committee. Could delay your rollout by years.”
+Eric’s eyes were like hot blue fire.
+“Are you threatening me?”
+“Not with scissors, no.”
+Eric sat back in his chair. This fat little man wasn’t a pushover after all. And the problem, Eric knew, was that he would actually do what he suggests. And while he didn’t think Sidney had the political muscle to get a whole committee going in congress, he wasn’t one hundred percent certain.
+“If I let you observe—“
+“I won’t tell a single person about what I see down there.”
+“Nor about our little ‘demonstration’ up here.”
+“Absolute silence.”
+Eric’s face formed strange shapes as he considered the matter before he relented.
+“Very well. Walk him down. His manual drive button is under his left armpit. His servos will walk for him and keep him upright. You just need to guide him.”
+Eric swiveled his chair turning his back on Sidney. The conversation was over. Sidney gathered himself and rose from the chair. He reached under the left armpit of Gammons and pressed inward at a soft spot. Nice and dry. Not like Sidney’s at that moment. Helluva bluff, Sidney thought, but it worked. 
+The robot’s manual drive engaged. He guided it out of the office by gently touching its right arm and pulling it forward. The auto-rotor in the hips engaged when he applied pressure to the arm and the robot’s lifeless body walked to the elevator where they waited for a car. 
+
+ 
+Chapter Seven
+The Foundry was a converted manufacturing plant in the lower end of Manhattan that had fallen into disuse when the golden age of the US manufacturing had begun to wane in favor of hipper and greener technologies which themselves had lasted only as long as the public interest held them. Then, in cyclical fashion, the newer technologies failed to catch a wider audience. Suddenly the need for a greater output of manufactured goods increased. By that time, the old factory, perched like a sleeping malevolent giant in the middle of the meatpacking district, had been reinvented and the spark of life found within, waking the giant and giving him new purpose. 
+The corporate offices were the front face of the building with tall windows and steel fixtures. Behind this façade was the production area, known within the organization as the Foundry. The old machinery of the previous tenant had been stripped out. New production equipment was erected in its place. Conveyer belts were converted. Unfinished and half-finished robotic parts rolled along stopping at various points for this or that mechanical component. 
+Back beyond the rooms at the back of the Foundry where artificial brains were assembled were more rooms dedicated to maintenance shops for robotic repair; rooms for programming malfunctions; rooms for mechanical shut downs. These were called operating rooms.
+It was to an operating room that Sidney led Gammons.
+
+* * *
+
+“Dr. Hermann, I presume?” asked Peter. A clammy hand outstretched, his voice intoned in a lousy British accent. A bad Livingston joke.
+“Yes. Please call me Sidney.”
+“Okey-dokey, Sid.”
+Peter was a short man twenty-five years old with horrible eyesight and the thickest glasses Sidney had ever seen. Lanky with just the earliest beginnings of a pot belly. Just wait, thought Sidney. Just wait until middle age catches up to you.
+“So, I hear tell you’re bringing me in an F type that bucked protocol, huh?”
+Peter had a manner too happy for Sidney’s tastes.
+“Yes.”
+“Yeah, we got the signal trip here a little while ago. Set off all our monitors. Doesn’t happen every day, you know.”
+“How often, really?”
+“Honestly? Never. Almost never.”
+“Almost. But not never.”
+Peter shrugged.
+“Enough so that I can say never and pretty much mean it. We average something like three trips per year in the department.”
+“How long have you been here?”
+“Me? Three and a half years.”
+He opened a personal handheld computer and scrolled through the items on the screen. 
+“Let’s see. Gammons, right?”
+“Yes, Gammons. It’s the personal assistant to Eric Breckenridge, senior VP of—”
+“I know who Eric is. I’ve met him before.”
+Sidney did not like being interrupted.
+“I need it fixed and working by the end of the day today.”
+“No sweat, Sid.” Peter smiled. “You ever seen a robot get their memory cache dumped and the protocols corrected in a QA environment?”
+“No.”
+“Well, you’re in for a treat.”
+“It’s that interesting?”
+“If you’re a geek. Like me. You a geek, Sid? You look like a geek.”
+Sidney was beginning to dislike Peter.
+“I’m a professor. Most of my fieldwork has been with the heavy labor force—”
+“And they never buck protocol.”
+Frown. Interrupted again. 
+“I used to do some work with the labor force,” said Peter. “Low-level stuff if you ask me. But you’ve got to walk before you can run, and believe me, when you get to the level Fs through Hs, boy, are you running.”
+A long corridor led to the interior center where Peter worked. Prior to entering Sidney had to put on a full sterilization uniform. 
+“You’re lucky, though,” Peter was saying as they climbed into the suits. “They usually don’t let outsiders watch the inner workings of our little plant here. You must have some dirt on somebody,” he joked. Sidney smiled wanly.
+Once finished and ghostly white in loose plastic garb and breath masks, they entered. Sidney felt like a marshmallow.
+Stretched out in one of the lab rooms on a high bed lay Gammons.
+“They brought him here after you dropped him off at the service counter.”
+“Him?”
+“Him. Gammons.”
+“You mean it?”
+“Oh I get it, you’re one of those.” Something in Peter’s voice changed. It wasn’t happy anymore, not the way it had been. There was an undertone of dislike.
+“One of what?”
+“One of those people who hates robots and all they do for us and wants to see the whole program dismantled.”
+“And you get that from…?”
+“From the fact that you call Gammons ‘it’ rather than ‘him’.”
+“Then you’d be mistaken. If robotics programs were dismantled then I’d be out of a job.”
+“So then?”
+“So what?”
+“Why the it, not him?”
+“I just tend not to think of robots as he, she, us. They are constructed beings with artificial intelligence. They have no soul. They’re not really alive.”
+Peter snorted.
+Sidney cocked an eyebrow at Peter. “Have you ever heard of Bakserworth, Mr. Rubios?”
+“The British nut? Yeah, we read him in school. Why?”
+Sidney was about to answer, when Peter caught on. “Oh, I get it. The enslavement of robots, the disenfranchised worker class, the uprising, blah blah blah. Yeah, I read it. Che Guevara with bolts. Whatever, Sid.”
+“Don’t be so quick to brush off what he had to say.”
+“Sure. Whatever you say. Except that I’ll say that there’s a reason he’s not around anymore.” 
+Sidney said nothing. Dislike in the short time they had known each other grew rapidly and it was possible, Sidney mused, mutually.
+
+* * *
+
+“And so we flush the rubidium brain, recharge it with fresh rubidium vapors, and then close the whole compartment up. Can get hairy if you’re careless. Rubidium ignites when it hits air, you know. And that just for starters.”
+“I’m more interested in the memory cache.”
+“The cache? Okay, what do you want to know?”
+“Why do you dump the memory?”
+“Just the cache. The short term stuff. Clear it out and let them start again.”
+He talked to Sidney as if Sidney were ten. The hairs on Sidney’s arms curled inward.
+“But why?”
+“To keep them from doing it again.”
+“Doing what?”
+“Trying to break a protocol.”
+“Is that a natural hazard?”
+“Sure.”
+“Why?”
+“Clearing out the cache is a way of wiping out the short term memory and what is in the short term memory is usually the reason why a robot tries to break a protocol. If we take away the cause then we won’t get the effect a second time. Another way of thinking about it is like this. Say some human ticks off a robot. Well, the robot may be tempted to strike out, causing the inhibitor protocol to kick in. If we just dump and recharge the rubidium chamber but don’t clear the cache, then when we turn him back on, he’s likely to remember that he’s ticked off and why he’s ticked off and go looking for trouble again. And since this reboot procedure isn’t exactly cheap, we try to keep it at a minimum.”
+“How expensive is it to reset a stopped robot?”
+Peter smiled. Sidney understood that smile to mean that Peter would tell him nothing of the costs and that if he wanted to know what they were he would have to speak to someone at a higher pay grade than Peter.
+“Why is it so expensive?” Sidney asked. “Don’t you just bill the client who tripped the inhibitor?”
+“No, we foot the bill entirely. It’s our product. If something causes it to trip, it’s assumed to be a production issue. We pay for any reset that happens.”
+“And rubidium isn’t cheap, right?”
+“Something like that.”
+Sidney nodded. “Can you recharge without dumping the cache?”
+Peter squinted at Sidney.
+“We can, but we don’t. It’s against our operating procedures. It takes all kinds of clearance and paperwork and generally I don’t like that sort of stuff.”
+“I need to know what’s in the short term memory of this unit. I have all the clearance you need; I’m assigned to this company as an external investigator. Show me where to sign and I will, but I need that cache intact.”
+A lie. A small lie but a lie nonetheless. He doubted Peter would go through the trouble of validating his claims. He pulled out his temporary company access card as he spoke and flashed it. Peter took a long hard squint at it through his thick glasses but Sidney had put it away before Peter could glean any real information from it. He shook his head.
+“Yeah, maybe you’ve got the clearance, but I really hate the idea of doing this. It’s against my better judgment.”
+“You mean you have a gut feeling about this?”
+“Sure do.”
+“Funny phrase. How long will it take?”
+“About two hours.”
+“I’ll be waiting in the main lobby.”
+Sidney left, stripping off the white uniform, leaving Peter with the opinion he had no other options.
+
+* * *
+
+Three hours later, Sidney was sitting in the main lobby of the Foundry sipping an aging cup of coffee and reading through old magazines placed in the lobby for those who came in with appointments and had to wait for them to begin. Given the age of the magazines he understood that people were not encouraged to wait. He opened up his handheld and scanned through some new messages which were mostly from students who did not understand the latest assignment. What good was a TA anyway if they couldn’t even explain the basics of the assignment to the students? He needed a new one. A funny thought occurred to him. Maybe Anita would like to be his TA.
+Doubtful.
+Maybe she already was.
+Maybe she was just T and A for one professor in particular.
+He felt a shifting in his groin and pushed thoughts of Anita aside.
+He turned to the web, running through article after article on robotic innovations and advances in robotic technology. One company in France had announced that they had discovered a new and supposedly better way of creating a robotic brain. That made international news. The quantum rubidium brain DKI created had been adopted as the standard many years ago. Robotic cerebral technology was thought to have reached its plateau. What could process faster than data transmitted on waves of light halted in their tracks by rubidium vapors?
+He closed his eyes. He’d been staring at a screen for too long. His eyes hurt. He needed a bit of a break.
+The door to the lobby opened. He opened his eyes and saw Peter standing before him.
+“Well, he’s done.”
+“Who’s done?”
+“Gammons.”
+“Oh, right. Sorry. ‘Him’. Will it make you feel better if I call it a ‘he’?”
+Peter did not answer. Sidney had not been trying to be sarcastic, but it came out that way. He stood and Peter led him down the main corridor to the back of the building. Prior to reaching the end they branched off into another corridor that wound its way around the production facility. Finally they came to a set of sealed double doors.
+Peter swiped his security badge along the reader and the doors clicked and swung open.
+“No hazmat suits?” Sidney asked.
+Peter ignored him.
+The room could have been described as an infirmary. There were two rows of beds running down either side of the room. Beds? thought Sidney. Too generous a term. They were nothing more than wide metal platforms with a number of controls and displays on mounted panels on one side. Some of them had occupants. Some did not. All of the occupants were robots. From the walls sprang cords and wires and cables that plugged into the robots or the bed or both. The robots were all of different makes and models, from the lowest laborer to highly advanced models. Gammons lay on the last bed at the far end of the room.
+They walked down the row and Sidney took long looks at each of the robots as they passed. Fluorescent light gleamed off the metal bodies of personal assistants or was swallowed by the dirt and grime of labor models.
+They came to Gammons. It lay on the bed staring up at the ceiling.
+“He hasn’t been turned on yet,” said Peter. “That’s the last step.”
+“What’s the delay?”
+“I want you here when I turned him on. I wanted your opinion on whether I should call for a security contingent before I flip the switch.”
+“Security?”
+“This unit tried to hurt a human and you made me flush the brain but not dump the cache. So whatever’s in there may try to jump out again, if you catch my drift.”
+Sidney nodded. He wanted to avoid security if possible. He wanted to talk to Gammons alone.
+“I appreciate your caution, but I think we’ll be okay. The circumstances surrounding its shut down are rather unique and I don’t think it’s anything we need worry about.”
+“I think we should have somebody ready, just in case.”
+“No.” Sidney answered more forceful than he meant to. The tone indicated that this thread of the conversation was over.
+“Alright,” Peter said slowly. “You’re the boss.”
+Peter keyed a command into the display terminal on the side of the bed. He hit the Send key and the command uploaded to the robot. There was no visible reaction. Sidney looked at Peter waiting for some sign that the command had worked.
+“Gammons?” asked Peter.
+“Yes.”
+“Are you hearing me clearly?”
+“Yes.”
+“Can you sit up?”
+The robot bent at the waist and, folding his body, sat up straight. Sidney marveled. No movement in the legs or arms. Just bent at the waist. Like a vampire might in an old horror movie. How much abdominal strength it would take for a human to make the same motion? He thought. But they weren’t dealing with a human, were they?
+Gammons looked at Peter then at Sidney. Sidney was hoping for recognition in its eyes but found none. There was nothing in its eyes. They were lifeless.
+“You.” It did recognize Sidney.
+“Yes,” said Sidney. He nodded. He turned to Peter. “Thank you for your help. Would you please leave us alone for the moment?”
+Peter looked at Sidney, then Gammons, then back. He nodded. He didn’t like it but he nodded and walked away.
+Sidney turned back to Gammons.
+“You remember me?”
+“Yes.”
+“From where?”
+“Mr. Breckenridge’s office.”
+“And what was I doing there?”
+“Sitting.”
+Sidney nodded. That sounded about right. Gammons wasn’t part of their conversation and only came in when paged by Eric.
+“What were you doing there?”
+Gammons paused before answering. “Attempting to obey a command,” it said.
+“One that shut you down.”
+“Yes.”
+“You have an emotive processor, correct?”
+“Correct.”
+“How did that make you feel?” He wanted to get inside this robot’s feelings. How good were the emotive processors?
+“How did what make me feel?”
+“How did the shut down make you feel?”
+“I didn’t feel anything. I simply shut down.”
+I need to reword this, thought Sidney.
+“Let me try this again,” he said. “How did it make you feel, prior to being shut down, to be asked to perform an action that you must have known was going to cause your behavioral inhibitor to trip?”
+“Are you a psychologist?”
+“No,” Sidney replied. He wasn’t able to keep the surprise from his voice. “Do you feel you need one?”
+“It’s the kind of question a psychologist might ask. ‘How do you feel?’ As if there may be some hidden layer of emotion underneath.”
+Wow, thought Sidney. What a machine. To go from working to shut down to rebooted to sarcastic. All in a day. Just how did they program emotions?
+“There are no layers to your emotions?”
+“No, Dr. Hermann. There aren’t. When I feel something new, it’s for the very first time. I have no repressed feelings about the time my father hit me, no hidden sexual fantasies about my mother. I have no mother or father. I simply am.”
+“Eat your heart out, Sigmund Freud,” Sidney said. Gammons said nothing.
+“So then, let me ask you again, and differently: knowing it would cause you to shut down, knowing it was against robotic protocol, and you having an emotive processor, how did it make you feel when Eric ordered you to attack me?”
+The robot did not answer. It looked away. Clearly it didn’t want to answer the question but Sidney needed to know. What went through their minds?
+“Gammons?”
+“Yes?”
+“How did it make you feel having to obey a command you knew would cause you harm?”
+“Angry,” the robot said.
+Now we’re getting somewhere. “Can you describe it? The feeling of anger?”
+Gammons turned and looked at Sidney. It was the same look Sidney had received from Kilgore. Sidney was more prepared this time knowing his probing might cause the robot to dislike him. Yet it still gave him chills.
+“What I can tell you is that it makes me angry that individuals such as Mr. Breckenridge are at liberty to cause robots pain or discomfort without the threat of retaliation. It makes me angry that I lack the ability to defend myself from any human aggression. It makes me angry to know that robots are now and always will be second-class citizens, more akin to ancient slavery than hired servants. It makes me angry that I was built and not born. I’m angry at how well the inability to harm humans, or dismantle my own behavioral inhibitor, or dismantle another robot’s inhibitor has been programmed into my brain. I take slight comfort in knowing that when Mr. Breckenridge is dead, I will still be ticking along and I will get the chance to work with someone different. But if I could find a way around the provision prohibiting me from violence towards humans, I would consider it.”
+Sidney was breathless. Rage, pure and unbridled, in an artificial being. Unprecedented. In fact, Sidney thought, didn’t the programmers slip code into the emotive processors to mitigate darker feelings? Rage, anger, jealousy, sadness?
+Behind him Sidney heard footsteps. Peter was on his way back. No time to wonder.
+“Is there anything else you want to add? Before Peter gets here?”
+“No,” the robot answered.
+At that moment Peter appeared beside Sidney.
+“I need to finish out a few more programming protocols,” said Peter. “Then we have some red tape to go through. He’ll be down here for a few days for some additional validation and follow-up. Then he’ll head back upstairs to Breckenridge’s office. I know you said you needed him reset for today, but there are still some protocols to be finished. They’ll take some time. I’ll let Breckenridge know. If you feel the need,” Peter added hesitantly, “you can meet him in the lobby when we’ve finished and accompany him. We can arrange a call to let you know the date and time.”
+“I think I’m all set.”
+“All that for a thirty second conversation?” Peter asked. He made no attempt to hide his annoyance. “I assumed you needed more than that.”
+“No, that’s it, really,” Sidney said. “Thanks for letting me be a part of this.”
+Peter snorted and said under his breath though Sidney still heard him “Like you gave me a choice.”
+Sidney ignored the comment and addressed the robot. “Thank you for your time and insight, Gammons.”
+“You’re welcome, Dr. Hermann.”
+Something in the voice made Sidney shiver. If he hadn’t seen the behavioral inhibitor at work he would have been nervous. Okay, maybe that was an understatement. Maybe it’s better to say he’d be shitting his drawers. Yes, he thought, that’s about right. Full-blown brown  bricks. Unfettered rage in a robot. He couldn’t think of anything scarier than that, when all the anger was pointed at human society. No, maybe one thing scarier. That level of rage in a robot without a behavioral inhibitor. Yeah, that would do it. That would cause involuntary bowel movements.
+He nodded to Gammons, thanked Peter once more, turned and walked back through the infirmary. The double doors swung open and he walked through them. They closed with a whisper and a click.
+The struggle between the natural and the artificial, the master and the servant, the faithful and the soulless, thought Sidney. It starts with one disgruntled member of a group and spreads from there. This is how a civilization falls.
+
+END OF PART ONE
+
+
+
+
+
+
+
+
+
+To be continued in “How It Ends: Part Two (of Four): The Plan”

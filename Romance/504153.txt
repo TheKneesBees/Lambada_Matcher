@@ -1,0 +1,732 @@
+﻿
+The Shadow on the Wall
+
+Copyright 2014 Manoj Nair 
+Published by Manoj Nair at Smashwords
+
+
+
+Smashwords Edition License Notes
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people.  If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was not purchased for your enjoyment only, then please return to Smashwords.com or your favorite retailer and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+
+
+
+Table of Contents
+
+
+
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+Chapter 10
+About the Author
+
+
+  
+
+
+
+
+Chapter One
+Hari adjusted his tie for the tenth time. He knew that the knot was perfect. There was no way it would not have been perfect, his father had knotted it or him. All that he had done, was loosened the knot and placed it in the suitcase while packing. Luckily, the room he was in was air-conditioned, it was the middle of March, and in hot, humid Mumbai, a tie was the last thing anyone would want to wear. He looked down at his shoes. There was a coating of dust on them. On the bus, he had not been sure as to where he was supposed to get down and had gone a kilometer up ahead. The walk back, had put the dust on the shoes. He checked to see if anyone was watching then began rubbing his shoes against the back of his trousers. The candidate sitting next to him caught this, and smiled. Out of the corner of his eye, Hari looked at the young man. His shoes were shinning, his shirt his trousers everything looked costly. He was even wearing a heavy wristwatch. He had on a strong perfume, which was giving Hari a headache..
+‘ Rich kid,’ he thought and sighed.
+
+The interview was to start at nine in the morning. He had reached half an hour before the scheduled time, but had found the hall was already packed. All those who came for the interview had a small plastic tag, which said ‘Visitor’. The instructions were that they had to attach it to the front of their shirts, and keep it-displayed prominently, while on the premises. The sofas in the reception area were already full. Those left standing got some plastic chairs. 
+
+The technical interview panel was in a cabin, next to the reception area. After the interview, those selected stayed back while the others handed over the plastic tags and left. The next round for those who had cleared the technical rounds was a meeting with the HR team. Hari had been observing all this closely. There was nothing else to do. He and the young man sitting next to him were the only candidates left in the room now. 
+
+Hari peeked through the folder, which he had on his lap. All his mark lists were there. His B.E results were arranged semester wise. The photocopies were in a separate section in the folder. He checked the copies of the passport size photographs. Yes, there were a dozens of them in a separate cover. 
+He looked at the clock on the wall. It showed 3.30 in the evening. 
+“Mr. Rajesh, you can go in now,” the receptionist said. The young man sitting next to him got up and went towards the interview room. 
+The receptionist looked at him, smiled, and whispered, “Best of luck”. 
+Hari went through his certificates one more time. It would be his turn next. He looked around and realized how huge this office was when compared to his previous employer’s one-room workplace. 
+‘And this is only their reception area’, he thought.
+The entire office was air-conditioned and occupied two floors of a skyscraper in Andheri, one of the suburbs of Mumbai. The train journey to reach here had been the first he had made in his life, alone. This was his first job interview in a year and Hari was desperate to make a good impression. 
+Mentally, he began checking his strengths and weaknesses. Language would not be a problem here for as an Army man’s son, he had travelled across the country and knew Hindi quite well. English, he could manage with slight grammatical errors. He knew that in the software industry, technical skills were all that mattered. His academic records were also not that bad.
+He had stood second in his district, in his board exams. His village, Devipuram, was around ten kilometers from Trivandrum, the capital of his home state of Kerala. Overnight, Hari had become a celebrity in his village. His photos appeared in all the major newspapers and he even got a five second mention on the evening TV news. The school had held a function to facilitate him. A girl from another school had topped the district. Her parents were doctors and she had tutors for each subject. What had made Hari’s story special for the media was that, he had achieved his success without any help from guides or tutors. His father would anyways have not been able to afford it. 
+V.N.K Pillai had retired as a Subedar, a noncommissioned officer, from the Army. The family survived on the pension V.N.K got for the years he had put in the army. Hari’s mother, Devaki was a homemaker. The family had one more member, Hari’s younger sister, Priya, who was six years younger to him. 
+After the spectacular success of his board exams, his grades two years later had been just average. His father had noticed it and had given him a piece of his mind. V.N.K was not one to sugar coat his words. When they flowed from his tongue, they burnt and scalded all, who were unfortunate enough to be in their path. 
+“Do you think money grows on trees?” he had asked Hari. “I had put thirty years of my life on the borders, living away from my family, suffering extreme cold and heat. All of that for what…this? Do you know how much you have scored? You have managed a mere sixty percent. That is just a first class. That is thirty percent lower that the ninety, you got in your board exams,” he said, shouting at the top of his voice.
+
+Devaki could hear her husband from the kitchen. Thirty years of marriage had taught her that running to her son’s aid when V.N.K was in full flow, only aggravated him further. She knew and so did Hari that the best way to handle V.N.K was to keep quiet, avoid eye contact, and let him finish whatever he had to say. Once he had exhausted his quota of words, he would cool down equally fast. 
+When it came to Priya, however, V.N.K’s rules were quite different. She was her father’s pet. No matter what she did, he never scolded her. The girl took full advantage of it and unlike her brother; she was below average in her studies. 
+“Girls do not need to study. Once she gets married all that would be left in her life would be pregnancy, motherhood and caring for a family. Let her enjoy as long as she is in my house,” V.N.K would tell Devaki. 
+Hari went on to get his BE in computer science from an engineering college in Trivandrum. Unlike most of the others in his Engineering College who had come in by paying lakhs of rupees as ‘donation’ to secure the seats, Hari had got in solely on merit. 
+
+After completion of his B.E, he had joined a small firm, Om Software, in Trivandrum. He had worked there for a year on a monthly salary of two thousand rupees. There they had made him work for more than twelve hours a day. At times, they even made him do some of the office work like getting tea for the boss or carrying the shopping bags when his Boss’s wife came to the office. Hari never complained about it for he desperately needed the experience, which he knew would help him in his career.
+
+At Om, he learnt everything about development. He knew that all programmers dreamt of joining big companies. The big firms paid well, but there the developer would end up as a member in a team of a thousand. This is where a one-room enterprise like Om stood apart. At Om, the developer was on live projects from day one. The programmer got an opportunity to learn everything from requirement gathering, analysis, system design to actual development, unit testing and deployment. Direct interaction with the client was another part of the learning experience. The application developed at an organization like Om would be nowhere near, what the software majors put out in terms of code quality or levels of testing, but for the developer the experience gained, would be complete. It covered the entire scope of the software development process. His tenure at Om had come to an abrupt end as one fine morning the owner suddenly decided to close shop. The owner had decided to move into the textile business, which he found to be more profitable than software development! V.N.K had been furious when he had heard of Om closing down. He had wanted to come to Hari’s office and beat up the owner!
+
+Hari smiled as he remembered all this. His parents, they seemed so far away now. It was just two days back that he had caught the train from Devipuram and come to Mumbai. Indigo Software, was a multi-national software services provider with offices in all corners of the globe. This job opening was for its office in Mumbai. They required a Dotnet developer for a project, which was to start in a month’s time. They wanted a minimum of a year’s experience, and that, was exactly what Hari had. 
+Sitting in their Mumbai office, Hari looked around him. The hall was huge; on one side, it had a glass wall, which had the entrance door. There were plush sofas for visitors on two sides, the receptionist sat behind a desk, which covered part of one wall. Next to her desk was the entrance to the main office. Hari smiled as he remembered how small the office at OM was. The entire office could easily fit inside this reception area. 
+The receptionist looked up and saw Hari smiling. She thought he was smiling at her. One look at his frayed shirt collars and cheap trousers and she had sized him up. She was not looking at spending the rest of her life at the reception desk. She wanted to go ahead in life and knew that it was certainly not going to be with someone like this young man sitting in front of her, smiling from ear to ear. She looked at him and frowned. 
+
+‘Oh, she thinks I was smiling at her,’ he thought and looked away immediately.
+The door of the cabin opened and the previous candidate stepped out. He went up to the receptionist, took out his plastic visitor-tag, handed it and whispered something. She smiled back at him.
+The buzzer on the reception table interrupted their conversation. She looked at a piece of paper lying on her desk and called out, “Mr. Hari Kumar”, she said and returned to her conversation with the other candidate. Hari, jumped up, upsetting the folder in his lap, bent down picked it up and went towards her desk.
+“ Should I go in now?” Hari asked. 
+“Why else would I call you?” she said, looked at the other candidate still standing at her desk and they both laughed. 
+“Thanks,” Hari replied. He was too tense to note the sarcasm in her tone and made his way to the cabin. 
+“Please may I come in Sir?” Hari asked at the door.
+“ Yes, please, and please keep the door open, the smell of perfume from the previous candidate is too strong in here. I can hardly breathe,” said one of the interview panelists. The two other men on the panel laughed. They were sitting behind a desk and facing them was a single chair for the candidate.
+Hari reached for the certificates in his folder as soon as he sat down. 
+“No.. no… we don’t need your certificates right now,” the person in the middle said. “We will first ask you a few questions, and then we will decide what to do with your certificates. Are you ready for your technical interview?”
+“Yes, Sir”, Hari replied. 
+“Can you tell us what is the difference between public, static and void?” one of the panelist asked.
+Hari smiled, the opener was easy. The questions came one after the other. 
+“Can multiple catch blocks be executed?”
+“What is an object? “
+“What are Custom Control and User Control? “
+“What is the difference between value types and reference types? “
+“What is an interface class?”
+Half an hour later, Hari got up to leave. 
+“Wait outside,” the man in the middle said. 
+“Ok Sir,” Hari said, 
+“You do not need to call me Sir, my name is Gopalakrishnan. You can call me Gopi” he said and smiled at Hari.
+The receptionist did not look up from her work, but held out her hand. Hari ignored her and went towards the sofas. 
+“You can go now,” she said. 
+“But I was asked to stay,” Hari said. 
+“Who said that?” she asked. 
+“Mr. Gopalakrishnan - in the cabin said that,” Hari said. 
+“Let me check,” she replied sounding unconvinced. She called up someone on the intercom, listened for a few seconds, and put the phone down. With an incredulous look on her face she said, “You have to wait. There will be a HR round next. If you clear that you are selected.”
+Chapter Two
+It had been a month since his appointment at indigo Soft. The HR round had been a formality. The technical rounds were the deciders and in those, Hari had scored well. Of the fifty people who had turned up for the interview, only five had cleared. The interview was on a Friday and he was told he could join on the following Monday. “Welcome to Indigo”, the lady from HR had said, “you will get your joining letter on Monday once you come in. Office hours are from nine to five”
+“Thanks”, Hari said.
+Hari was stunned. He had not expected to get through on his first attempt and had booked his return tickets as well. He had reached on a Friday, the interview was the next day, and the return ticket had been booked for Sunday. 
+“I don’t have a place to stay here,” Hari said to the lady from HR.
+“ Well, that can be a problem, in Mumbai, “ she said. “By the way where are you staying at present ?”
+“ At the dormitory in the railway station. I have a return ticket for Sunday”.
+She stated laughing. 
+“Why, weren’t you expecting to get through in the interviews?” she asked. 
+“I have never given an interview in a big company before, and was not sure what to expect”. 
+“Well the company does provides temporary guest room facilities. We do have a number of employees who come from other states and need temporary accommodations. Your problem is that this facility would be available to you for two weeks only. By then you would have to find some other accommodation. By the way, my name is Shipra Rai, and I lead the HR team in this office. We handle onboarding of new employees.”
+As Hari was leaving the building, the receptionist got up, looked at him, smiled and said,” Welcome to Indigo, Sir,”
+‘I may be from a village, but I am no fool,’ thought Hari, smirked and went out.
+As he stepped out of the building, he realized that he would have to change his plans, now that he had the job. First, he had to go to the railway station to cancel the return ticket, next he had to get his luggage out of the locker, then take a rickshaw and go to the company lodge and finally get a room there. First off, though he had to call up his father and give him the good news. 
+“You got the job?” his father asked. 
+“Yes appa, I have to join on Monday”, Hari said, “The starting salary is twenty five thousand rupees per month”. 
+“25,000?” V.N.K asked. 
+“Yes appa, twenty five thousand - per month.” There was a pause at the other end of the line. 
+“That is more than what I got when I was in the army. I am proud of you my son,” V.N.K said. “I am very proud of you.”
+It was only later that night as he settled back on the bed in the lodge, that the importance of what he had achieved that day sank in. He – Hari Kumar had landed a job at one of the top software development firms in the country. A salary of 25,000 meant he could start making a sizable contribution to the family expenses. As an employee with Indigo, he got facilities that he had never had before. He got an account with a major bank, which came along with ATM and credit card facilities. At the office, he had a desk with a high end PC for development and a desk phone. He was still getting used to these improvements in his life when he ran up against the first problem in his new job. 
+The company lodge facility was free for the initial two weeks, after that any extension required approval from senior management. The additional stay was charged. The charges were a stiff 5000 rupees per week, deducted directly from the employee’s salary. Hari started the search for a house and soon realized why Mumbai was one of the costliest cities in the world. It was not that there were no flats available for rent; the problem was that the rent was more than what he was earning in a month. All the others in his team lived with their parents and did not have this problem. Finally, one of his colleagues suggested he move to a chawl. Chawls were individual rooms in buildings that could be three or four stories tall. The tenants shared common bathroom and toilets. The rent for these single rooms could be anywhere between a thousand to five thousand rupees per month. Hari did not think twice and grabbed the offer.
+Shifting was easy; all that he had, fitted easily in the single suitcase which he had brought from Devipuram. An auto rickshaw deposited him at the chawl and he himself carried the box to his room, which was on the third floor. It took him a few days to get used to the chawl routines. Years of living with V.N.K had taught him a few things and the most important of them all was a love for a disciplined and regulated life. He started getting up at five in the morning. After brushing his teeth, he would go for a morning jog. 
+Hari had been a good athlete in school. His health had taken a hit while in college, where his focus had been more on his studies. He planned to set that right now that he had the opportunity. He set himself a target of five kilometers a day. There was a road right outside the chawl. In one direction, it lead towards the railway station while in the other, it took one to the outer suburbs of Mumbai. The road towards the railway station was always busy, so he preferred to run in the opposite direction. Besides the road on this route had trees on both sides and the air was relatively clean. 
+“So how many miles do you run every day?” Vijay asked. Vijay was Hari’s friend and colleague in the same project. The project, Hari was allocated on was the same one for which he had been interviewed. Gopalakrishnan Reddy, or Gopal who had interviewed Hari, was the Project Manager. The development team consisted of two tech leads, four module leads, and eight developers. Hari was one of the eight and Vijay was one of the first friends he had made in this team. 
+“I run about five kilometers every day,” Hari said. 
+“How do you know, it is five kilometers. Do you carry along a pedometer?”
+“ Why would I need a pedometer? There is a bus stop right outside my building. From there the next bus stop is roughly two and a half kilometers away. That would make it five kilometers both ways.”
+“ Very smart! You didn’t tell me the time you take to complete your run”
+“Around forty five minutes at a normal pace”
+“Is that good or bad?”
+“ I do not know. All that I know is that I am comfortable at that speed”
+“Hmm that is the correct answer. By the way, how is your life at the chawl coming along? Any pretty girls there?”
+“ Why, why do you want to know about the girls?”
+“ Well if there are any, just let me know and I will take it up from there”
+“Ha.. ha.. ha … very funny. Well there are a few old aunties and some girls but they are too young for you… most are still in school or nursery”
+Someone’s phone started ringing and the sound filled up the ODC. The ODC or the offshore development center was the walled in area where the development team sat. Depending on the importance of the project, some development teams sat in ODC’s while others sat in the normal work areas. It all depended on the client and the type of project that they were working on. Usually projects belonging to financial institutions had ODC’s. Gopal’s project had some of the strictest access rules. There were three CCTV’s outside the ODC entrance and three inside. The door had a biometric lock and there were security people at the door to ensure compliance. 
+“Whose cell phone is that?” Gopi asked. “How many times have I got to tell you guys not to bring your cell phones to your desk.”
+“ Sorry, it is my new iPhone”, it was Sunil one of the developers. 
+“Any idea how much that phone costs?” whispered Vijay to Hari. 
+“How much?” 
+“Cheapest would be around 45000” 
+“45000 for a mobile. That is almost twice my salary,” Hari said. His voice carried to Sunil, who turned back and said, “Actually it is around 50,000, but you know, it is worth it”
+“My Nokia cost 5500,” Vijay replied, “tell me what happens when someone calls you on a 50000 rupee cellphone. Do you get to see the person on the other side – or do you get to touch them. How does it work?”
+The ODC erupted in laughter, Vijay was the comedian in the group, and even Gopi smiled at that. 
+“IPhone or not, you have to deposit it at the security desk, Sunil. No camera phones allowed at your desk. Please do not repeat this,  ” Gopi said. 
+“ Shit man,” Sunil said as he walked towards the security desk with his phone. 
+“And also the phones need to be on mute”, Gopi continued. 
+“Sunil, you have never been to the US, so where did you get the American accent from?” Vijay asked.
+There were sniggers from different parts of the room. Sunil pretended not to have heard that. 
+“How can he afford to spend so much for a cell phone?” Hari asked Vijay. 
+“You think he bought it with his salary. His father is a rich businessman and sponsors him. Do you know how much he paid for the seat in the engineering college? The amount had eight zeros”.
+Hari’s was amazed. He could not imagine anyone spending an amount like that just to get a seat in a college. All that his father had to pay for him was his college fees and that too at times had been difficult. 
+“So when are you planning on buying a mobile phone?” Vijay asked. 
+“I want to save money. Can’t afford to spend it all on a cell phone”
+“I am also saving money. One day I am planning on buying a Rolls Royce”
+“On this salary, I think you will need a couple of lifetimes to save that much!” replied Hari and both the friends laughed.
+
+“If both of you jokers are done laughing, maybe we can get some work done”, it was Mohan one of the tech-leads. 
+“Mohan, Hari and I are planning to start a union. Software Developer Workers Union - SDWU. I will be the president, naturally, and Hari the General Secretary”.
+The look on Mohan’s face clearly spelt that he was not in the mood for jokes. 
+“Come here both of you and bring your notepads with you,” Mohan said. 
+“The first issue on which we would agitate once we have our union would be to allow thirty minutes in a day for jokes,” Vijay whispered to Hari as the two walked towards Mohan’s desk.
+
+That night Hari began writing on a piece of paper.
+Total income: 25000
+In hand: 23000
+Rent: 3500
+Food: 3000
+Miscellaneous Expenses: 2500
+Travel: 2300
+Total: 11300
+Balance: 11000
+He did not like what he wrote down. The balance should have been more. The expenditure on food and travel was really hitting him. He had his food at the office cafeteria. The travel was by state transport buses and unavoidable. Somewhere he had to cut down on the expenses. 
+‘I would have to do something about it,’ he thought. 
+.
+Chapter Three
+The early morning jog was when Hari did his planning for the day. The cool, clean air seemed to help with the thinking process.
+‘I have to find cheaper lodgings, or at least cut down on some of the unessential expenses,’ he thought. ‘Cut down on what, food, travel, I can’t cut down on those. The miscellaneous expenses - there should be some scope there.’ 
+He was too deep in thought to notice that he had taken a turn in the road and was now on an unpaved path. A small stream was flowing in the distance and he seemed to be in a heavily wooded area. 
+“A forest here, in the middle of Mumbai!” said Hari. It was not possible to jog anymore so he started to walk. It was a holiday, so there was no hurry to get back and he decided to investigate the path further. There were trees in all directions. The path was just wide enough for one person to walk on. Shrubs and creepers added to the greenery on both sides. 
+‘Let me see where this path leads, as it is, today is a holiday so don’t have to go to office,’ thought Hari and continued along the path. The thick undergrowth weaved and wound its way around some trees until finally it reached a small clearing. In the middle of the clearing, there was a small hut. The hut was made of wooden rafters and looked old. Hari looked all around him but could not find another soul in sight. 
+“Does anyone live here,” he shouted. His voice seemed to echo in the trees there. A couple of steps lead to the main door of the house. There were a few windows with glass panes, all covered in dust. Hari peeped through the panes. The house seemed to be empty. The entire house was made of wood and stood on posts, which lifted it a few feet of the ground. 
+‘May be it was to keep the flood waters out of reach of the wood and prevents rotting’, he thought. ‘The stream that I saw may be flooding this area during the rainy season’.
+ He went up to the door and slowly pushed it open. It slid open with a sound that only hinges rusted from years of neglect could make. A warm, dusty draft of air hit him as the door opened inwards. As he entered the room, his footsteps echoed on the wooden floorboards. There were three rooms and there was a door at the back. The house considering its age seemed to be in a rather decent shape.
+ 
+“I wonder who used to stay here,” Hari said aloud. His voice echoed in the house and for a brief moment, he was scared. The only sign of life he could see in the house were some broken glass bangles pieces, lying scattered on the floor in one of the rooms. That same room had a large dark stain on one of the walls. The stain looked like a shadow. The shadow a woman would cast if a strong enough light was shining from the opposite direction.
+‘ Maybe this room was used for cooking. This must be the soot from the burning charcoal,’ he thought. Then he remembered that he had been in the house for quite some time and it was time to get back. He softly closed the doors and made his way back down the steps. Suddenly he felt as if someone was looking through the glass panes of one of the rooms. He turned and looked back but there was no one there. He smiled and walked back the way he had come.
+He forgot all about the house for as soon as he reached his building he saw Vijay standing there at the gate.
+“What are you doing here?” He asked Vijay. 
+“Today is a holiday. Today is also a Friday and the weekend is coming. In addition, my parents have left for a cousin’s marriage and I am all alone at home. All are good enough reasons to celebrate”, Vijay said. “Let go for a movie”. 
+“Movie? That costs money. How will I ever save enough money if we go for movies and eat at hotels?”
+“ You can save money after you retire. Right now, you are young and the day is young. Let’s celebrate”
+“By the way”, Vijay looked at Hari conspiratorially and asked, “Do you drink?”
+“ No.. And I do not plan on starting it now”, said Hari. 
+“Me neither. Just checking what kind of company I keep. My parents wouldn’t like it if your company were to spoil me.”
+“ Me spoil you?” Hari laughed. Vijay was fun to be with, the two ran to the bus stop and got on the first bus that came their way. The weekend passed by and then again, it was Monday. 
+That morning, again Hari went jogging in the direction of the hut. Today he reached the place quickly as he already knew the route. There was no doubt in his mind now, no one seemed to own that hut. Leave alone owning no one even seemed to have come near that area in a long-long time. His footsteps from the previous week were still undisturbed on the floorboards. He walked around the structure and the more he looked around the more he was sure that the place was indeed deserted. The thick foliage of the trees, the years of dust and dirt on the floor and the walls all pointed towards the same conclusion. 
+‘Someone stay here would need access to water, ‘he thought.
+He remembered having seen a small stream on his way to the hut and found a shortcut from the house to the water source. 
+‘Water problem solved,’ he thought.
+Hari sat on the front steps and calmly looked at the problems he would face. He asked himself questions and gave his own responses to them. 
+‘Owner of this house?’
+‘ Looking at the hut and the way it is maintained, I don’t think this house has had an owner for some time’
+‘Advantages of living here?’
+‘No rent, cut on food costs – I can cook something’
+‘Disadvantages’
+‘No electricity. The question is do I need any electricity? If most of my time, I would be in the office, why would I need any electricity. All I need this place for is to come here and sleep’
+‘No one to speak to? Why should that be a problem? I hardly speak to anyone in the chawl’
+‘Toilet would be a problem. For that I would have to use the jungle’, he though and smiled. ‘Small sacrifices need to be made for the greater good’ he thought.
+Balancing all the pro’s and con’s, Hari was more than eager to move in. The savings in money was huge and that one factor over came all his other concerns. He could see his father’s face lighting up with a smile stretching from ear to ear, as he would receive all the extra money from his son. V.N.K had never asked his son to contribute towards the family income but all the same was happy the first time he got a cheque from Hari for ten thousand rupees. Now he could contribute a lot more than that.
+Hari informed Vijay about his decision to move to this hut. 
+“What are you mad? You say it is in the middle of a jungle and yet you are ready to go there. “
+“I need to save money”
+“If you had been a girl I could have told you some interesting ways you could make money”
+“One of these day, I might just hit you”
+“Don’t get upset. Ok come on. Let us celebrate. How about going to a hotel and having lunch?”
+Hari moved the same week. He had needed an extra bag as the number of clothes he now owned had increased slightly. Going to the office of a MNC required him to be decently dressed. In addition, he had purchased a couple of buckets, plastic mugs, some basic utensils, bed sheets and a sleeping bag. Vijay helped him with the shifting. The auto rickshaw deposited them on the street and from there the last kilometer was through the forest lugging the suitcases.
+They had started early in the morning. By the time, they had cleaned up the house and put everything in place the friends were completely exhausted. 
+“O God. I have never worked so hard in my life. Not even at my own home, “Vijay said and collapsed on the floor tired.
+They had bought some bread and butter, which they had for lunch and then too tired to do anything further they both fell asleep on the sheets spread out on the floor. By the time they woke up it was around three in the evening. The sun was gone down below the tall trees and it was starting to get dark. 
+“I had better run my friend. I must hand it to you though, it takes guts to stay alone in such a place”, Vijay said and retuned back to civilization, leaving Hari all alone. 
+After Vijay left, Hari looked all around him. The glass panes looked clean now. They had brought a few buckets of water from the river and cleaned up the floor and the walls. The wet wood panels were giving a musty, smell and Hari had to open the windows to let out the smell. He ate the remaining bread slices and went to sleep too tired to think. It was his first day in his new house. 
+The next morning, by the time he woke up he realized there was no way to check the time. It was a Monday and an office day. He dressed quickly and rushed to office. The half an hour walk to the bus stop was one of the disadvantages of life in the hut. The advantage was that he was the only passenger from that point and was always able to get a seat to sit on the bus.
+
+“So you are alive? I thought you would not be coming to office today after all that work”, Vijay said as he saw Hari settle down at his desk.
+“I have some purchases to make,” said Hari “Have to buy some stocks of food. Today morning I realized I had nothing to eat.”
+“Buy a couple of bottles of jam’s and pickles. Bread, you can buy every other day. Stock up on rice and pulses. Start a small hotel and that could become a side business.”
+“ This is now getting to be costly,”Hari said. 
+“Most of it is a one-time investment. You do not need to buy bed sheets every day or buckets for that matter. At the end of it, you will see it turn out much cheaper.”
+“Very true, plus I think I need to get a cheap cell phone. That way I can keep in touch with the outside world and also use it as an alarm clock.”
+“You know you could watch dirty videos on your cell phone? Where you stay you can also have the volume turned on full , since there would be no one anywhere near to catch you.”
+“ I do not watch dirty videos. That is not why I want to buy one. Also my budget is two thousand rupees only”
+“Why don’t you try this. This was something we did when we were children. You would need two matchboxes, one piece of string and two small nails. Tie the nails to the string and attach one matchbox to each end. Keep the wire taunt and guess what, you have a communication device. It will cost you five rupees maximum. One rupee for the equipment and four for my technical expertise”
+Vijay like his own joke so much that he started laughing even before he could finish his sentence. Even Hari joined him. He liked Vijay. The boy knew how to take out the seriousness from any situation.
+That evening as he returned to the hut, he had a bag full of groceries with him. While arranging the provisions in one of the rooms, which he was planning to use as a kitchen, he noticed something shine out of the corner of his eye. This was the room with the stain on the wall. As he bent down and peered, he noticed that it was the glass bangles pieces. 
+“I clearly remember having thrown them out of the house. Maybe I missed some pieces,” said Hari to himself. In this house, he had started the habit of talking out aloud. There was no one to notice and helped reduce the silence. He picked up the bangle pieces and threw them out of the house. 
+The next morning as he was tying his shoes, he noticed the glass bangle pieces were back in the same spot from where he had picked them up the previous evening. Too busy to think about it he rushed to office.
+The glass bangles pieces kept appearing every time Hari threw them out. 
+“Must be some rodent with a glass bangle fetish”, said Vijay
+“May be. Anyway, I have stopped throwing them out. As it is, once I reach home, I am too tired to do anything at all. Just eat whatever is available and drop off to sleep”
+The project was entering the testing phase and the workload was getting hectic. The testers were finding all sorts of defects and the development team was to work round the clock to close them out. Hari was putting in around 12 – 14 hours at work. He would leave at eight in the morning and return – if lucky by eight. By the time, he reached home it would be around nine. He was now familiar with the location of every stone and shrub in his path and rarely needed to use the torch, which he carried in his office bag. He preferred to way back home in the moonlight.
+The day the testing completed, Gopi, had set up a party in the office for the team. That night by the time, Hari got down at the bus stop it was already ten thirty. Hari needed his torch to get to his house, as there were dark clouds in the sky, hiding the moon. He had had a heavy dinner at the party. The loud music there had given him a headache. Feeling a bit uncomfortable, he sat down on the steps leading to the house and rested his back against the wall. The gentle breeze and moonlight felt relaxing and before he realized it, he had wafted of to sleep. 
+
+He saw a young woman sitting on the steps leading to the house. He saw himself, lying there with his head resting on her lap. He could not see her face clearly. Long black tresses covered part of her face. She had a jasmine garland in her hair and the thick, sweet smell from the flowers filled the air around. She was gently massaging his forehead. As he looked at her, he could see tears in her eyes. A drop of tear formed at the end of her eye. It slowly rolled across her cheek and fell down on his face. Then another drop fell. With a start, Hari woke up.
+ He looked up but the skies were clear, the clouds all seem to have disappeared and the moon was shining through. It was a full moon that night. He got up and started going inside the house. Then he stopped and sniffed the air. There was a strong smell of jasmine all around. 
+‘What a vivid dream. It almost felt real, ‘he thought. 
+“There must be a jasmine growing nearby and the breeze must be blowing the scent over,” he said. It was a Friday. With the testing completed, Gopal had given everyone the weekend off. Too tired to think Hari fell asleep in a short time. 
+ The next day was Saturday. Hari decided to sleep late but force of habit opened his eyes at five. He lay there in the sleeping bag, looking all around the room he was sleeping in. It was an old house no doubt. 
+‘Must be over a hundred years old’ he thought. There were intricate carvings on the rafters; he had not noticed that before. As his eyes swept to the other rooms, he noticed the dark mark on the kitchen wall there. No amount of washing had removed the stain. 
+‘The shadow seems to be getting more distinct with each passing day,’ he thought, 
+“This woman in my house may be only a shadow on the wall as of now, but all the same she is my companion. Someone with whom I will be spending much time in this desolate corner of the world” he said and started laughing. 
+“So my dear what is your name? Were you the one who rubbed my head yesterday and made my headache disappear” he asked the shadow on the wall and laughed some more. It was time to get out of bed.
+Hari realized that it was going to be a long day. Vijay and his parents were out of town on vacation and he was all alone. One whole day alone in the house would be boring. He thought of going for a movie, but quickly dropped the idea. Then he thought of calling up his parents on his new mobile phone. It had cost him around two thousand rupees and was one of the cheapest models available. It had no camera and had buttons instead of the more popular and costly touch screen display that the shopkeeper had tried to interest them in buying. The advantage was that it did not violate any of the restrictions in the ODC and he could carry it straight to his desk. He dialed the number of his house in Devipuram. 
+
+He spoke to his father first then his mother. Then Priya came on the line. She was only half way through her story about how boring her studies were when his mother took the phone from her and asked Hari to disconnect. After putting the phone down, Hari realized that, he missed his family members. It would have been good to have someone to speak to on such days. He had stopped the habit of going on his morning run. The very act of walking to and from this house to the nearest bus stop was good enough as an exercise that he did not need anything extra. After his breakfast, which was usually bread, eggs and butter he pulled out an old novel, went to the doorstep, sat down, and began reading. After some time his back started aching by sitting on the step. He brought out his sleeping bag, rolled it out near the front door, lay down on it, and continued reading the book. The sun’s rays were now falling straight at him and he felt drowsy. He did not realize when he fell asleep for by the time he woke up it was dark. He looked at his cell phone it said eleven in the afternoon but it looked as if the sun had already set. 
+
+There seemed to be some sort of a smoke all around, which surprised Hari. 
+“What is this?” he asked himself and waved his hands slowly through the smoke. The smoke felt wet to the touch, small drops of water formed on his hand and face as the smoke covered the house from all side.
+“ Oh, it is a fog”, he said. It was not the first time he had been in a fog. As a child, moving across different army cantonments, he had experienced all kinds of weather conditions. He felt it was growing thicker and thicker by the minute and soon, he could hardly see more than a few meters in front of the house. 
+
+Then he thought he heard something. He listened carefully and there it was again. The sound seemed similar to the sound made by the silver anklets, women usually wore on their feet. It seemed to be growing louder and louder as if someone was walking towards him. In the almost one month since he had moved in to the house, he had not seen any one else in that area. Other than himself, Vijay was the only other person who had come to this house. The sounds of the anklet were now quite clearly audible. He was also able to see someone walking towards him. It was a woman dressed in bright colors and she was coming towards him. 
+
+Then suddenly his cell phone rang and startled him. He took out the cell from his shirt pocket and looked at the number. It was from his home in Devipuram. He put it to his ear and said, “Hello”.
+It was Priya’s voice on the other side. As Hari listened to her, he looked up towards where he had seen the woman come towards him in the fog, but there was no one there now. He looked all around but there was no one there. 
+“Hello…Hello. Cheta are you there” Priya’s voice from the cell brought him back to the present. She called him ‘Cheta’ or brother. 
+“Priya, did we not speak just now? Why are you calling again? ” He asked. 
+“ I want a mobile phone. Please can you buy me one?” Priya said. 
+“Why do you want a mobile phone? Does Amma know about this?”
+“ Do you think she will allow me to get one? All my friends have it. I am the only one in my class who does not have one. It is so embarrassing,” she said. 
+“Look, I don’t have the money now. Let me see if I can get you one next month”
+“One month from now?”
+“ Let me see”
+“Promise”
+“No  ...no promises. Let me see if I have the money”, Hari cut the call and returned the phone to his pocket. 
+“The girl needs to stop acting like a kid and take her studies more seriously”, he said to no one in particular. He then remembered about the women. He looked again but here was no one there. The fog also seemed to have thinned out. He came out on to the small clearing in front of the house and looked all around. There was no one there. 
+‘There might be some tribal people living in these forests’, he thought. He had not seen her face clearly but the dress she wore resembled a half sari, which was something that young girls wore in the south. 
+“I didn’t know, girls wore half saris here in Mumbai. Anyway who am I to comment on women’s clothes?” said Hari “let me check with the expert on this subject”
+“Half-sari? What is that?” asked Vijay.
+“In the south, it is a dress worn by young girls or those who are too young to wear a sari and too old to roam around in a frock” 
+“Ok now we are entering into interesting territory,” said Vijay.” By the way, since when have you started observing girls’ clothing with such interest? I thought that was my area of specialization”
+“Wait, let me show you what it is”, said Hari and typed “Half sari” in Google in his system and clicked on images. Within seconds, the computer monitor was full of images of women in various stages of undress, most of them showing their midriffs and striking seductive poses. 
+The two boys were busy scrolling through the rows and rows of images and did not notice Mohan who had come up behind them.
+“Well, if you two are done watching the images, I want you to meet someone”, he said. There was a girl standing behind Mohan. 
+“This is Manju Haridas, who has just joined our team as a developer”, Mohan said “Hari I am making you her buddy. You will introduce her to the other team members, introduce her to Gopi, also show her where the cafeteria, restroom and library are.”
+“ I could do that”, Vijay volunteered. He had noticed that the new comer was quite good looking. 
+“Ah, yes Vijay. Have you finished writing the test cases that I had asked you to yesterday?” Mohan asked Vijay.
+“Test cases, what test case? Oh, yes..those test cases…. Yes…yes..I should be able to complete them by tomorrow”, Vijay replied.
+“I want them by today EOD. No excuses”, Mohan said and walked back to his desk. 
+Vijay slid up to Hari and whispered, “Enjoy”, and went back to his desk. 
+“Welcome to Indigo”, Hari said but did not get a response from the new comer. She was still looking at the screen full of girl’s photos on Hari’s monitor. 
+“Oh I am sorry”, Hari said and quickly closed the browser. 
+“We were just trying to look up half saris. You know for reference... I mean, to understand better… to…” Hari said. “Anyway come let me introduce you to the Project Manager”
+Later that day at lunch, Vijay was very keen to get all the details.
+“So what did you talk about?”
+“What?” 
+“With that new girl. That Manju , who has Manjued into my heart and soul”, said Vijay with a dreamy look in his eyes.
+“ I introduced her to Gopi, showed her the cafeteria, and told her where the rest room was” 
+“That is all. Oh my God! Of all the silly people on this planet, Mohan has to choose you to guide her”
+“Why what is wrong with me?”
+“ What is wrong with you? You had your bosses approval to roam around with the prettiest girl in Indigo for one whole day and all that you did is you showed her where the rest room was. Oh God! Please pardon this man for his sin’s he doesn’t know how to appreciate beauty. By the way, did she ask about me. I mean while you were escorting her to the rest room, did she ask who was that dashing, handsome young man standing at your desk and talking to you… any question of that kind?”
+“Well she did notice the web page full of girly picture you were ogling at when she had come to my desk…. Remember the research on half sari’s that we were doing?”
+The two friends burst out laughing. 
+“By the way, talking about half saris, what are you planning on doing to the girl in half sari who turned up at your house?”
+“ I didn’t see her clearly, it was too foggy”, Hari said.
+“ Next time she comes, call me, I will take it up from there” 
+“Take up what and from where?” Hari said and the two again started laughing. 
+“My… I think.. I have started thinking like you “, Hari said 
+“My friend, if you become like me, and it will only be an improvement on what you are now.”
+That night as Hari blew out the candles and prepared to go to sleep, he saw a head outlined against the glass panes. Someone was looking through the window. For a second he was shocked, but recovered quickly and shouted, “Who is there?”
+There was no answer. Since his college days, Hari had the habit of sleeping with his torch behind his head. He turned back, took it in his hand, and switched it on. As he shone it at the glass panes, there was no body there. The moonlight was now shining through the glass.
+He got up and went to the door, opened it and stepped out of the house. He shone the torch in all directions. There was no one there. The only sound he could hear was the sound of the wind as it floated through the trees and rustled its leaves about. 
+“I do not have time for this nonsense. Tomorrow I have to get to office early,” he said to himself. Switched of the torch and went back in. He was asleep even before his head hit the sleeping bag. Had Hari been awake, he would have noticed, that the light that was coming into the room was again blocked. Someone standing at the window and watching through the glass panes was blocking it.
+Chapter 4
+Manju Haridas had become a topic for discussion for Vijay from the day she had stepped into the Indigo Office. Her parent were originally from Kerala, but were now settled in Bangalore. Her father was a retired IAS officer and her mother was an IFS, on deputation with the UN. Her parents had divorced and now she divided her time between them. She had travelled all over the world and spoke English with a British accent. Her dressing sense was what impressed Vijay the most. It was this dressing sense that got her into trouble with the HR team. 
+“How about you changing your desk with me?” asked Vijay
+“Change my desk? Why would I want to change my desk?” asked Hari.
+“ Well for one, you occupy the cubicle right next to Manju, which does not make any sense at all. That place should be given to someone, who values beauty”
+“You know one of these days you are going to get into serious trouble, Vijay. You know Indigo has a sexual harassment policy right”
+“I am the one being harassed here. By the way, have you noticed her legs? You can hardly miss them in the short skirts she wears. Quite shapely aren’t they. Makes me happy that I joined Indigo”, Vijay said. 
+“My God! Vijay. If someone from HR hears this even I would be in trouble.”
+“ HR consists of a bunch of old women. They are all jealous of her”
+The short skirts did create a problem and before long Manju got a memo and a copy of the official dress policy. As her buddy, Hari was asked to explaining the dress code to her. 
+“This is something that the HR should do,” he had protested, but HR would have none of it. 
+“As her buddy you need to handle it at the first level and then if you are unable to do it, it should come to us”, said the HR representative.
+“ It is a stupid policy”, said Manju. “I should be allowed to wear whatever I feel comfortable in”
+“See the idea is that others should not feel uncomfortable,” said Hari. 
+“Right, so that they can do their research on half saris. You are all such hypocrites. I hate it here. Do you suppose I would wear a salwar kurta like an old maid”, said Manju and stormed out of the ODC.
+Hari was glad that the conversation was over. Manju was difficult to handle. The girl was technically good, but had serious attitude issues. She argued with all, even Gopal was not spared at times. 
+“I would not mind if she argues with me,” said Vijay. “Forget arguments I am ready to lose anything that she wants me to lose”. 
+“You know Vijay, your problem is that you do not have problems in life” said Hari “Look at me since moving into the new place I have hardly got time to think of anything else. Everything for me has been a learning experience.”
+It took Hari some time to get used to the cooking, though. Back in Devipuram, Devaki ensured that he devoted his complete time to his studies and never entered the kitchen. Here he was the chef, diner and the dishwasher all rolled into one. He would start to cook some vegetable and then realize that his kitchen was missing some of the basic ingredients like salt, pepper, or oil. Slowly he learnt what all were essential in a kitchen. The rest was easy. The only problem was getting the kerosene for the stove. You needed to have a ration card to buy kerosene. Vijay’s parents pitched in here and gave Hari their share, as all their cooking was on LPG stoves.
+One evening, Hari saw some flower petals outside the front door. For a brief second he froze but then a gust of wind blew the petals away. 
+‘The wind which must have brought them here,’ he thought and went in. Then the fog rolled in. 
+“One thing about the fog in this forest, when it comes, it brings the night with it”, he said as he stood at the front door watching as the fog slowly covered up the house. After a few minutes, he got tired and decided to go in and make himself a cup of tea. That was when he heard the sound of the anklets again. He peered in the direction from where the sound had come and soon could make out the figure of a young woman walking towards him. In the thick fog, he could see only the upper part of her body. As she came nearer, he could see that she was her late teens, and dressed in a half sari. She was very fair and had long curly black hair. Oiled and neatly combed it reached up to her waist. She had a garland of jasmine flowers in her hair and the smell even from the distance was quite strong. 
+She stopped at a distance under the trees at the end of the open space in front of the house. 
+“Hello, I am Hari and I live here”, Hari said in Hindi.
+Much to Hari’s astonishment, she replied in his mother tongue, Malayalam. 
+“I do not speak Hindi, well, though I can understand it. I will speak in Malayalam,” she said. Hari was surprised. The last thing he expected in this forest was to meet someone who could speak Malayalam, that too someone so pretty. 
+“Who are you?” Do you live in this forest?” he asked. 
+“My name is Sumangali. We used to live in this house”, she said.
+“Oh I … I am sorry. I did not know anyone was living here. When I came here, I found it empty and moved in,” said Hari. 
+“That is ok. We don’t live here anymore. ”
+“You said ‘we’. Is there anyone else with you?” asked Hari. 
+“Yes my father. He is the priest at the nearby Sri. Rama temple. We live in the temple now. ”
+“Oh ok. Where is this temple?”
+The girl pointed in a direction behind the house. Hari thought for a moment. He had walked through most of the forest in the immediate vicinity. The forest in the direction she was pointing was almost impenetrable. He was enjoying the conversation with this pretty girl and did not want to start an argument, so let it go. 
+“What are you doing roaming around in this forest?” he asked. 
+“Why don’t you tell me about yourself?” she asked him.
+“Well my name is Hari, as I have already told you. Hari Kumar. I am from Kerala. I am working at Indigo Software as a senior Software Developer and I live here. That is my short story”
+“How do you know Malayalam,” she asked.
+“That is because I am from Kerala, my language is Malayalam. Where are you from?”
+“ We are from Vanchinad”, she said.
+“Vanchinad” Hari started laughing. No one calls it Vanchinadu, the name the world uses is Trivandrum now or more correctly Thiruvanathapuram. Vanchinadu was the name used almost a hundred years ago. 
+The girl smiled, “That is what we call it”.
+“Your Malayalam is a bit funny, slightly formal, don’t you think? Nobody uses such formal language anymore”
+“You can teach me your way of speaking”
+“I certainly can. But I don’t teach for free”, he said and smiled.
+She smiled back at him and said, “I could bring you food”
+“Yes that would be nice. How about some chicken and fish, it has been days since I have eaten either”
+“We are Brahmins, pure vegetarians. I can get you berries from the forest”
+“For that I would teach you only the basics of modern language,” he said and laughed.
+“ Berries and fruits are all that you need to survive in the forest”
+“I could also teach you Hindi”, Hari said.
+“ Why would I want to learn Hindi? ”
+“Well that is the local language. Might as well learn it if you want to live here”
+“Who told you that I wanted to live here?”
+“ Why, don’t you like it here?”
+“ This is a bad place. Bad things happened in this house,” she said. 
+“Why what happened?” Hari asked.
+The girl did not reply but turned as started walking back through the fog, “I have to go back. My father would be waiting for me. It is time for the evening pooja.”
+She walked away and slowly disappeared in the fog. The sound of the anklets was growing faint in the distance. 
+“When will I see you again?” he shouted in the fog. 
+“Soon… you would see me soon” the voice seemed to come from somewhere near but he could not see anything in the fog.
+Hari stood there for some time, thinking.
+ “Now that is a very pretty face.” he said and smiled. The fog seemed to be thinning away. As it was getting dark, he went inside and got busy with his cooking for the night. 
+The next day as he came back from the office, he found some berries and fruits placed outside his front door on a plantain leaf. He smiled. 
+“Hmm so my girlfriend has taking over the catering service,” he said to himself. He looked all around but did not find her. He went in had a bath, came out, sat on the steps and began eating the berries. 
+“She was right, they are indeed filling. That is good now I don’t need to cook tonight,” he said. ‘I wonder where she has disappeared,’ he thought.
+“ Sumangali madam, are you there?” he shouted ‘Come we can share this”
+There was no response so he continued eating. After he had finished it all, he got up and turned to go in when he heard her voice “Did you like it?”
+He turned around and said, “I knew you would be hiding somewhere close by. You could have shared it with me”. In the moonlight, he could see her standing in the shadow of the trees. He wondered how he had missed seeing her before. 
+“I don’t eat much,” she said. 
+“Oh ok. You could at least have sat with me. So what if you don’t like to eat. You can talk, I will listen and eat”. 
+“I was watching you eat,” she said. She turned and started walking away. After a few steps she stopped turned looked at Hari and said, “I will always be watching over you, “ then she turned and ran away into the trees.
+“ Strange girl” said Hari, “always runs away after a few words. By the way, what does she like roaming around in the forest in the moonlight? Must meet her father and ask him about it”
+
+“She brought you some berries and fruits?” asked Vijay. 
+“Yes”
+“Then?”
+“ What ‘then’?”
+“I am asking what happened after that?”
+“ Nothing I ate them and then after that she ran off”
+“Why did she run off?”
+“ How do I know? She always runs of after saying a few words.”
+“ Ask her to bring you some local brew. The tribal’s in the forests areas make a deadly brew. Goes down well with meat and eggs”
+“She said she is a Brahmin”
+“Don’t tell me Brahmins don’t drink or eat meat. My friend I know Brahmins and Jains whose love for the good stuff in life would put me to shame!”
+“ I thought you said you did not drink.”
+“ I do not drink. I was referring to the meat and eggs part. Oh! So now, you doubt your best friend over a girl who gives you fruits and berries. Alas! That is the effect the female of the species has over the male. I am hurt”
+“That is good! Now let me finish my work in peace. You can also look into your work for a change.”
+“ Yes, I will. I have no interest in speaking to you anymore. You have hurt my sentiments”
+The two continued their work in silence for a minute. Then Vijay turned at Hari and asked, “So when are you planning on introducing her to me?”
+“Not now. Let me get to know her better.” 
+Chapter 5
+
+Sumangali’s visits became from frequent. On a normal day, Hari would be in office until six in the evening. Returning by bus, he would reach home by seven. After a bath, he would come out of the house and sit on the steps at the front door. Within minutes, she would arrive. With him sitting there on the steps and her standing at a distance under the trees, they would talk. He told her about his day in office. He told her about Vijay, Gopi and Mohan. He told her about his father, Devaki and about Priya, his father’s pet. She laughed when he told her how he had made the first nervous trip to indigo soft for the interview. Then one day he told her about Manju.
+“Is she very pretty?” Sumangali asked. 
+“She is ok… Vijay thinks she is very pretty.”
+“What do ‘you’ think? Don’t you think, she is pretty?”
+“ I do not look at her or for that matter any woman in office ‘like that’. It is a work environment. I like to keep it professional.”
+“Environna… what is that?”
+“ I mean a place where you work. My office is a place where I go to work. Think of it like your temple. People come there to worship. One does not go there to ogle at the women. It is same in a work place, you go there to work not look at other people. At least that is my idea of a work place.”
+“You are a very decent person“, she said. 
+“ How can you say that?”
+“ I know. You are a kind hearted, nice person. My father would like you a lot.”
+“Talking about your father, when are you taking me to the temple. I have roamed around quite a bit in these forests but have never seen any temple here. Also now it your turn to tell me your story. I have told you everything about myself.”
+She turned to leave. ”There is nothing worth telling about me,” she said. 
+“Don’t leave. Come and sit over here. Why do you always have to stand at a distance? I find that very uncomfortable.”
+She stopped, turned back and said, “Unmarried girls do not sit and talk to strangers. If my father catches me talking with you he will get very angry.”
+“Stranger? You know everything about me. I am not a stranger any more. By the way, just now, you said your father would be very pleased to meet me. Now you say that he would get angry. Why don’t you make up your mind? You remind me of the old Malayalam movies that I used to see, back in Devipuram! You look like one of the actors from those movies. Long curly hair neatly combed and oiled. Half sari. You need to change your wardrobe. Start by keeping your hair short. Who keeps waist length hair these days? It is such a waste of time. All that combing and oiling,” Hari said and started laughing. Sumangali laughed with him and then ran off into the trees. 
+
+“So how much progress been you made in your romance with that tribal girl?” Vijay asked. 
+“What progress? She still runs of after a few words.”
+“ Hmmm. That is not good. You need some expert assistance,” Vijay said with a mock serious look on his face. 
+“Her father is a priest at the local temple. He will cast a spell on you and turn you into a mouse or something like that,” said Hari and started laughing.
+“ Your sense of humor needs to improve. You know what; I see a lot of areas where you need to work upon and improve,” Vijay said mimicking Gopal. “No worries though, with me, you are in safe hands! I will starts you personality improvement program, from this weekend itself. Guess what, I am coming over to stay at your place. ”
+“I know you are coming there just so that you can meet Sumangali.”
+“Well I have to admit that is one of the reasons, but the main reason is that my parent are going to attend another wedding in our family. I refused to go with them, but I also do not want to spend my weekend alone. I can call you over but then you know they type of person I am…..” 
+“Silly & foolish?”
+“No..helpful and friendly, you dummy. I am coming over this weekend. No.. no don’t thank me. Well, if you must, you can but I am doing this out of the goodness of my nature.”
+
+That weekend, the friends took a large supply of snacks, soft drinks, novels as they made their way up the path to the house. Vijay had bought along his portable stereo, some music cassettes and an ample supply of batteries. The house where normally Hari could hear the flapping of a bird’s wing was now full of laughter, sound and very loud music. 
+“Now for the pièce de résistance my friend, guess what I have bought?” Vijay asked. It turned out to be a bucket of fried chicken with the logo of a popular brand pasted all over it. The two friends attacked the food with vigor. An hour later exhausted from their efforts both of them collapsed on the floor and fell asleep. That evening, it started to rain. The rains which normally hit Mumbai around the mid of June were delayed that year. When it started, the rain though seemed determined on making up for the lost time and poured day and night. For Hari, these were the first rains in the new house. 
+
+A week went by before he realized that Sumangali had stopped coming to the house. He had become dependent on her fruits and berries in the evening and had gladly skipped his evening cooking chores. Now he had to restart all of that. 
+‘It must be the rains. All the paths would be muddy,’ he thought. He himself was finding it difficult to make his way down the path from the house to the main roads. 
+Then one day the rains took a break and let the moon come out to brighten up all the shrubs and stones on the way. As Hari was treading his way back over the path, he heard the familiar sound of anklets behind him. He turned around but could not see her. He resumed his walk. Again, the sound of the anklets came and this time it was quite close. 
+“So now you are playing games with me, are you?” he said.
+He could hear her laugh; the gentle, cool winds seemed to carry it from all directions.
+“ Why did you stop bringing me fruits?”
+“ You do not need it. You like to eat all those dead animals. How can you call it food? All that dead, rotting, flesh.”
+“Oh, so that was the reason why you stopped coming. My friend Vijay had brought it with him. He had come to meet you as well. You never turned up that week.”
+“Shouldn’t I decide who get to meet me and who doesn’t?” 
+“Yes mam, you can decide who can meet you and who can’t. You should have met Vijay. He is a good boy. Slightly silly but well-meaning, helpful and very funny.”
+
+They had reached the house and as he climbed the steps, Hari looked back. In the clear moon light, he could see the house, the trees, the small clearing in front of the house, but there was no one else there. 
+“Arrgh .. this girl … she will drive me mad. It is late at night and she is playing hide and seek in the forest” he walked in and slammed the door shut. 
+After a bath in the cold rainwater a relaxed and refreshed, Hari came out of the house. The plantain leaf with the fruits was there. He smiled. She was standing under the shade of the trees in the distance at her usual spot. 
+“So you have pardoned me. Look, I am sorry. It is just that I have been a non-vegetarian all my life. It is not easy to stop a habit you have formed over a life time”
+“I don’t like it when you eat dead animals”
+“Do you know that almost ninety percent of the world eats non vegetarian food?”
+“ I do not care. I just don’t want you to eat it.”
+“ Wow, the way you say it is as if you are my wife”, said Hari and began laughing.
+She did not answer. 
+“I am sorry. I just meant that as a joke,” Hari said. 
+“I do not mind. I do not mind it at all” she said and ran away. 
+“Another day of exciting conversation with the friendly, neighborhood, pretty girl ends” said Hari and went back in to the house.
+
+The next day in office, the team was busy in a meeting when Hari’s cell began to ring. Gopal frowned, “Have I not told all of you a thousand time that cell phones have to be on mute in the ODC?”
+“ I am sorry, Gopal. Please can I take this call? It is from my home. They would not call me during office hours unless it is an emergency”
+“Ok, as an exception, this time I am allowing it. Team let us take a fifteen-minute break. We will regroup at Eleven fifteen”
+Hari could not attend the regroup. It was his mother on the phone. She had called to inform him that V.N.K had suffered a heart attack and was in hospital. Devaki wanted her son to come home. 
+Chapter 6
+
+
+
+“Get these medicines from the pharmacy in the hospital. I need them in half an hour,” the nurse coming out of the ICU told Hari.
+“Give me ten minutes”, he said and rushed down the stair in the hospital. The ICU was on the second floor and the pharmacy was on the first. It took him more than an hour to get the medicines and return to the ICU. When he returned the nurse was not there. By the time he found her, she had forgotten why she had asked for the medicines in the first place! 
+‘So much for asking me to hurry’, he thought. 
+One day later, they moved V.N.K to the army hospital. V.N.K had suffered a minor attack, while out on his morning walk and had collapsed on the street. Luckily, he was not far from home and someone had recognized him and had called up the nearest hospital. Devaki and Priya were informed and they in turn had called up Hari. 
+Hari had left office and gone back straight to his house, grabbed some clothes, and rushed off to the railway station. With no reservations and on an open ticket he had made the two-day journey crouched in a corner of the packed general compartment. One week in the private hospital was expensive, luckily Indigo covered employee dependent medical expenses. A week later, they returned home. 
+One of the first things, V.N.K said on reaching home, was that he planned on getting Hari married. He had also selected a girl for him. It was the daughter of one of his colleagues from the army. Hari had protested but his mother silenced him. She reminded Hari that V.N.K’s health was in a delicate condition and the least he could do was not to aggravate him. 
+Since Hari was there only for a fortnight, they asked the girl’s parents to come over. This was against all accepted customs. Traditionally it was the boy and his family that went to the girl’s house. The boy would ‘see’ the girl, and if allowed they spoke. Then the elders fixed the marriage. Discussions on dowry were optional and went on separately.
+In Hari’s case, given V.N.K’s health condition and the fact that the parents already knew each other, tradition was set aside. Hari was a prize catch in the village. Reasonably good looking, well – educated, with a very promising career most fathers would have been happy to snare Hari as a groom for their daughters. The two families met over tea.
+Anjana was in her second year in college. She was quite, studious and was learning bharata natyam one of the traditions forms of dance. 
+“Let the kids talk. These days it is not like what it was during our times. Then our parents arranged everything. In my case, my father had set up everything. I had come on my vacation. He called me and said ‘There is a girl in that house. You will marry her’. All that I said was ‘Yes father’. We did not dare questions their decisions,” V.N.K said and all those in the room started laughing. 
+“Yes, yes ..Let them talk.  Show us the house in the meantime, “said Anjana’s father. Except for Hari and Anjana the others left the room. There was an awkward silence as the two sat there looking at the floor. Then Anjana broke the silence, “I do not want to get married now”
+Even though he was planning to get married so soon he had not anticipated this. The abruptness of the comment stumped him.
+“ Why is there a problem?” he asked.
+“ I want to study; I want to get a job first. Only then can I think of marriage. My parents are forcing me into this, “she said looking straight at Hari.
+Hari struggled to find the right words and mumbled, “That is fine with me. I am also in no hurry,”
+The elders returned from their tour of the house. 
+“We are planning on the marriage only after a year. As it is both of you have just crossed the marriageable age of 21 and 18 so we will wait for another year, “said V.N.K. “I hope that is alright with you.” 
+“That is perfectly ok, we are in no hurry either, “said Hari. 
+
+“ What, are you mad? Getting married so soon? Vijay’s voice carried to all parts of the ODC and before Hari could even respond, the whole team had gathered around his desk. 
+“Tell us all that happened.”
+“Tell us about the girl.”
+“This calls for a party. Hari is paying and we want to go out to a restaurant, don’t try to buy us out by getting in a dozen samosas”
+“Do you have her photos?”
+“ Well, my mother put a photo of hers in my bag. She said I was so that I do not look elsewhere. “Hari said and the whole team laughed with him. 
+“ As my friend, there are some basic standards that you have to maintain. Bring that photo tomorrow. First of all I have to approve her,” Vijay said. 
+“She must be like you. Traditional, oil in her hair with thick spectacles, “ said Manju. “A half sari fan!”
+“Actually she is quite pretty, “said Hari. 
+“I doubt that. A girl from a village, what dress sense would she have I can only wonder,” Manju said and went off to her desk with a sarcastic laugh. 
+“What a sweet laugh,” said Vijay as he looked at her back.
+“ What is her problem? She reminds me of an angry cobra. Always ready to strike,” Hari said. 
+“Don’t say that. You are hurting my sentiments. Anyway bring that photo tomorrow.”
+Chapter 7
+
+Hari had been away for just two weeks but even after such a short period, there were noticeable changes all around the house. The incessant rains had turned the gentle stream into a river. The flow of the water was fast and it was muddy. There seemed to be a lot more greenery all around now. The rains had certainly done their job. As Hari reached his house that evening, he noticed rose petals spread out at the entrance. He smiled, “My vanchinad express has been visiting.”
+He had a bath, changed, and then took stock of all the work remaining. The house need to be dusted, the dirty clothes had to be washed and food stocks were low. By the time he had completed the cleaning of the clothes and hung it out to dry, he could hear someone knock at the door. By the time he could open the door, Sumangali was standing at her favorite spot under the trees. 
+“How do you manage to run back so fast up to the trees? One of these days, you are going to fall and break your neck.”
+“Why do you leave without telling me?” she asked. She seemed to be angry. 
+“Oh! I am sorry. Well there was no time to meet you or say goodbye. My father was not well and I had to rush back home”
+“Oh! Then it is ok. I was worried. You were not here but most of your things were still here so I was just wondering. How is your father now?”
+“ He is ok. He had a minor heart attack.”
+“What is that?” She asked. 
+“Well it is like an intense pain that you feel in your heart and you faint. Normally happens to old people."
+“Did you miss me?”
+“ Huh… well. Honestly, I was too busy running around and caring for my father to have missed anything or anybody.”
+Sumangali looked down and appeared sad. Hari thought of trying out some humor. 
+“Do you know my parents were planning on getting me married of?”
+“ What?”
+“ Yes, my father is now seriously thinking of getting me married of. He has even found a girl for me. It is the daughter of one of his friends. They even asked them to come to our house, so that I could meet her!”
+“ You met her?” Sumangali said. Her voice sounded high pitched and agitated. 
+“I tried to avoid but then I did not want to trouble my father, especially at a time when he is not well. Anyway, no worries, they are in no hurry. Nothing will happen for a year at least.”
+“Then what?”
+“ I do not want to get married now. At least not for another five years. I want to settle down. Buy a house of my own and only then will I think of marriage.”
+Sumangali seemed to be worried. She started walking back and forth talking to herself. Hari could just hear snatches of her talk, “There is too little time”, “I cannot let that happen” she seemed to saying over and over and then she walked away and disappeared in the thick foliage.
+“Well, that my friend means she is in love with you, “Vijay said. 
+“What how did you deduce that, Sherlock?”
+“What else would it mean? Ok tell me this? Why would some girl bring you food every day?”
+“It is fruits and some berries”
+“All the same you eat it don’t you?”
+“Yes, that is because it saves me the time to cook for myself”
+“Well, the point is she does bring you food. Ok next point why does she come there everyday to talk to you?”
+“That may be because she is bored at the temple. She has no other friends and just wants to while away her time.”
+“That may be the case but let me tell you. It is just not possible for a young man and a young woman to remain just friends. There comes a time in such a relationship when they cross from being friends to being something more than that. Which in this case would be lovers. She is from your part of Kerala isn’t she?”
+“Yes, that is what she told me. Look she is a Brahmin, we are Nairs. I don’t think caste wise her father would allow it.”
+“Have you asked him?”
+“Asked him? Forget asking, I have not even met him as yet.”
+“So let’s do it this way. This weekend let’s close this chapter once and for all.  You go and meet her father and discuss this with him. You like her don’t you?”
+“Well … I.. I have never thought about it. I mean I have never thought about her as a life partner.”
+“Oh boy. For almost six months an attractive girl comes and talks to you daily, brings you food and you are telling me you have not thought about her. Tell me you are not gay are you?
+Hari punched Vijay in the gut. 
+“Ouch! That hurt. I mean if you are, let me know, or else my reputation as a ladies man would be in danger.”
+“Ladies man! That is a good joke,” Hari said and started laughing. 
+“By the way what about that other girl’s photo. You were supposed to bring the photo of the girl you had seen in Kerala”
+“Oh I forgot. I will bring it tomorrow”
+That evening Sumangali did not come. The fruits were there at their usual place but she did not turn up. Hari waited for some time and then went in to sleep. Before retiring to bed, he took out Anjana’s photo from his bag and placed it in the pocket of the trousers he would be wearing to office the next day. 
+On his way to office on the bus, he remembered about the photo that he was supposed to take with him to office. He checked his pocket but did not find it there. 
+‘Must have dropped it at home,’ he thought.
+Later that evening he looked all around for the photo. He checked his bags, the floor, and the pockets of his other trousers. Then he looked up at the wall and there on one of the walls he saw the photo. It had a large number of nails stuck in it. There was some kind of a slime all over it and it appeared burnt. 
+“This girl is mad. Why the hell did she do that for?” Hari was angry.
+He went out to the front door and started shouting, “Sumangali…Sumangali”
+“I know you are there somewhere hiding behind the trees. Why did you do that to the photo? There was no need for that,” he shouted.
+There was no response from any direction so he went back in and prepared to cook his food. That night as he slept he heard Sumangali’s voice repeating, “I will not let you go. I will not share you with anyone.”
+
+“Man she is desperately in love with you. This is now getting serious,” Vijay said the next day in office. 
+“Hmm. You know for the first time in your life I think you are right. We do need to meet her father. What do I tell him? Usually it is the elders in the family who do all the talking in such matters.”
+“No worries my friend. I will be coming with you. I will be the elder in this case. You just need to sit there and observe. Nod at all the right times and smile a lot, leave the rest to the experts,” Vijay said.
+That evening Vijay came with Hari to the house. The rains had eased up a bit and as the two friends sat outside the house, talking there was a gentle cool breeze coming in from the trees. 
+“So let’s do a trial run. First of all do you love this girl?”
+“ I think I do.”
+“That answer will not do. You have to be 100% sure. Do you really love her?”
+“ She is good looking, very shy, takes good care of me and is a bit crazy.”
+“That does make her a perfect fit for you. Do you want me to talk about marriage with her father?”
+“ That may not work out right now. Well you see, she is a Brahmin and I am not exactly from the higher castes. There is no way her father will agree,” Hari said softly. 
+“What were you planning on discussing with her father?”
+“ I was thinking of talking to him in general terms.”
+“Like what the weather, politics and the football world cup?”
+“Let us just understand what the situation is in their house. Indirectly see if he would be open to a inter caste marriage and then decide what is to be done.” 
+“That would be a good way to start. So let’s go and meet him tomorrow.”
+
+
+Chapter 8
+
+
+
+The next day, the two friends started of early after breakfast. October 2, was was Mahatma Gandhi’s birthday and a holiday at the office.
+“What a waste of a perfect day. I could have slept until 1 P.M., then woken up and had a heavy lunch and again gone off to sleep. Instead, here I am trudging through this forest searching for an old priest!  The sacrifices that I make for my friends,” said Vijay theatrically. 
+“Don’t worry. To compensate for this I will take you to a movie. Also, I will be the ‘elder’ when you plan to get married. I promise”, said Hari. They were walking along the path, Sumangali used to run away on after her conversations with him. 
+“That, my friend will take some time. Now that you have mentioned it, let me see, what kind of a girl would I, want to marry. Hmm, that is an interesting question. Let’s see…. she should be beautiful, intelligent, should be able to understand my jokes….Manju could have been a good choice.”
+“Why do you say ‘could have been’. You liked her didn’t you?” Hari asked. 
+“Which part of the world do you live in my friend? Are you not aware of the latest gossip in the ODC? Sunil and Manju have been inseparable of late. They are together all over the place - cafeteria, library. Someone even saw them making out at that movie theatre near our office.”
+“Yuck. I never said this before, because I knew you like her, but that girl disgusts me. She has a such a low sense of morals,” Hari said. 
+“Unfortunately that is how the world is my friend. Which century do you come from? It is quite normal these days for girls to have boyfriends before marriage. No wonder you like this girl who still wears half sari’s, “said Vijay and started laughing. “ By the way talking about ‘your girlfriend’, where exactly do you think are we going?”
+They seemed to have walked into the thickest part of the forest. The trees had totally blocking out the sunlight and there were huge boulders and rocks all around. Soon it became obvious to the two that they were lost. They looked in every direction and it was all the same. It was then that they noticed the stillness; it was absolutely quite in this part of the jungle. No birds or animal sounds, even the wind did not seem to be blowing. All around them there was a deadening silence. 
+“Ok now where do we go from here? I don’t see any point in us carrying on unless we know exactly where we have to go,” said Vijay. He sat down on some rocks and began massaging his legs, “I am too tired to walk anymore”. 
+“Let go a bit further and then if we don’t see anyone, we will return,” said Hari.
+Reluctantly Vijay got up. The two friends made their way through some huge boulders and came upon what looked like a clearing in the forest. All around them, they saw huge stone blocks lying on the ground. They seemed to have delicate carvings on them.  A little ahead, there was an old ruined structure, which looked like an old temple. There were stone pillars in all directions, most of them broken and crumbling. Weeds and vines were growing all around and grass almost a feet tall covered everything. There was no statues of gods there, but a small oil lamp was there right in middle of the structure. The lamp seemed to have been in use for it was full of oil and there was black soot all around. 
+“I think your girl-friend has made a fool of you,” Vijay said “there is no temple here. There is nothing here but these ruins. Come let’s go back.”
+That evening Hari did not speak much as he was accompanying Vijay to the main road. Vijay had to get back that evening and could not stay the night. They found an old man sitting at the bus smoking a beedi, a handmade cigarette with a pungent odor. A bundle of branched and twigs was lying on the floor. The colorful shawl he had on looked to be of tribal origin. 
+“Baba, do you live in the forest here?” Vijay asked him. 
+“Hmm,” the old man replied blowing out thick smoke from nose. 
+“Then you must know these forests quite well. Do you know if there is a temple here in this forest?”
+The old man did not reply, but his hand with the beedi stopped halfway to his mouth. 
+“I think he is slightly deaf” whispered Vijay and repeated his question in a louder voice “Is there a temple in this forest. A Rama temple?”
+The old man looked at both of them and replied,” Why do you want to know?”
+“ We wanted to meet the priest of the temple. This man, my friend likes the priest’s daughter and wants to talk about her hand in marriage”
+Hari shifted his weight on his feet uncomfortably and said “Well, We just wanted to talk to the priest. Please can you tell us where we can find him?” Hari asked.
+The old man threw his beedi away and got up from the bench hurriedly. He looked at the two friends and in an angry tone asked, “Is this some kind of a joke?”
+Hari and Vijay did not understand how to react to the aggressive tone of the old man and just stood there looking at him. Vijay replied in a soft tone,” No baba, we just wanted to know if there is a temple in this forest. We searched for it the whole morning and found only some ruins there.”
+“Why were you searching for the temple?” the old man asked suspiciously.
+“The priests daughter had asked him to come and meet her father at the Ram temple,” he said pointing at Hari.
+The expression on the old man’s face changed from anger to one of curiosity and then of concern. He turned towards Hari and asked,” She spoke to you?”
+“Yes, baba. She had mentioned about the temple. She did not ask me to come to meet her father, but then I wanted to meet him.”
+The old man sat down again on the bench. He looked in the distance and kept quiet for some time. Then he said,” Why don’t you two boys sit down.”
+The bus was due any minute, but they did not want to disobey the old man’s wish and sat down awkwardly next to him. 
+“So how do you know this girl?” the old man asked.
+Hari quickly told his story. How he had found the hut and later moved in. How he first met Sumangali and how she would daily come and talk to him. 
+“How well do you know her? I mean have you seen her from up close?” the old man asked. 
+“She always stays at a distance. Does not come close. Why.. Why do you ask?” asked Hari.
+The old man looked at Hari for a long time. Hari felt uncomfortable under the old man’s stare and tried to avoid eye contact. Then the old man said,” Young man, do you have any idea how lucky you are?”
+“Lucky? Why? I don’t understand” Hari asked.
+The old man did not reply immediately. He looked straight ahead at the trees in the forest for a long time and then let out his breath as if he had been holding it all back for a long time.
+“ I can see from your face that you are an honest person and have not made up just to make fun of an old man. Both of you are young but since your very lives are in danger here I think I should tell you the truth,” the old man said. 
+“The truth.. what are you talking about, baba ?” asked Vijay.
+“The girl you say you have been speaking to she died a hundred year ago in these forests. You have been speaking to a ghost. An evil ghost,” the old man said.
+Just then, the bus turned around the corner and halted at the bus stop. 
+Chapter 9
+
+Both Hari and Vijay were stunned. The old man was now quiet and took out a beedi from his pocket. He slowly light it and started smoking. The two friends just stood there with their mouths open looking at the old man. The bus driver blew his horn impatiently as he did not see anyone climbing aboard. 
+“Your bus has come” the old man said. “Aren’t you going to get on? I am just sitting here to rest my tired limbs. ”
+“Forget the bus,” Vijay said.” What did you just say?”
+The bus continued on its journey, but no was interested in the bus now. 
+“I am telling you the truth. I know you young people do not believe in all this but what I am telling you is the truth. I know it because I have seen it all happen right in front of my eyes. Off course I was a young boy then and all this happened years ago,” the old man said. 
+Hari and Vijay sat down again as they listened to the old man narrate his story. 
+“The events that I am about to narrate happened back in the 1940’s. I was ten years old then. This place, which you see as a forest now, it was a thriving village back then. We called it Haripur, the abode of Vishnu. Ours was a quiet village with about twenty families, which made up around a hundred people in. Sadashiv Rao Patil was the jamindar, the landowner of the village. He owned the lands on all sides of the village. The villagers worked on his lands and paid him a part of the proceeds as taxes. Sadashiv was a good man, pious and religious. He was just and helped the villagers when they had any needs. Sadashiv had a son. Laxman Rao who was the opposite of his father in every sense of the word. Born in the lap of luxury, Laxman never had to work in his life and could not understand the pain and hardship the farmers had to undergo to survive. He would cruelly treat anyone who defaulted on the debt payments even when his father was ready to forego the collection. With a gang of goons, he used to terrorize the villagers. He was a drunkard and spent his share of his father’s money on dancing girls besides wine. He would roam around for months. The people also were happy with the arrangement as the less they saw of his the more life was peaceful for them. ”
+The old man paused here. He seemed to be out of breath. He lit up another beedi and continued with his story. 
+“Sadashiv Rao was sad to see his son waste his life in this manner. He consulting astrologers and offered pooja at temples in various pilgrim spots in the hope that it could reform his son. Then one day someone suggested to him that the best way to atone for ones sins was to build a temple. Sadashiv liked the idea very much. The one thing Haripur lacked was a temple and he stared work in all earnest. The temple he built was not huge but it was beautiful. Gracefully carved stone pillars supported a dome shaped ceiling, which was visible from all corners of the village. The construction took a year and as its neared completion, the search for a priest to conduct the daily poojas started. There were no Brahmins families in the village and tradition dictated that only a Brahmin well versed in the shastras could be made the priest. To bring someone from another village was expensive. It at this time that Sadashiv remembered a friend that he had made some years ago while on a pilgrimage in south India. He had always had a desire to travel to the pilgrim spots of the southern states. One day while on the pilgrimage somehow Sadashiv got separated from the other members of the pilgrimage group. In a strange land where no one understood his language, Sadashiv roamed around for half a day trying to find help. Help came in a form of a Brahmin who not only knew Hindi but took Sadashiv to his house and gave him food. The Brahmin helped Sadashiv regroup with the other members of his pilgrimage group. A grateful Sadashiv took the brahmins’s address and details and requested him to contact Sadashiv whenever in need. 
+Sadashiv out a letter to him invited him to take over the job of the priest. The Brahmin agreed and came to Haripur a month later. Along with him came his teenage daughter, Sumangali. His wife had died at childbirth and the brahmin was a father and mother to the young girl.
+There was a grand festival to mark the consecration of the temple and the entire village was invited and feasted for three days. It had been a grand occasion for all and Sadashiv was extremely happy with the way things had proceeded. The Brahmin, Vishnu Narayanan Namboodiri for that was his name turned out to be an erudite scholar knowledgeable in the Vedas and the holy books. He started a satsang a holy gathering, where people would listen in as he expounded the meaning of the slokas from the Bhagvat Gita. The happy villagers pooled resources and built a small house for the priest and his daughter. This house built entirely of wood and was raised on a few pegs to keep the flood waters away.”
+
+The old man’s second beedi had also finished. He threw the stub away and stood up to stretch his limbs out. Hari and Vijay, who were listening with rapt attention to every word he had said so far, just followed the old man with their eyes, waiting for him to restart his narrative. After a few minutes of walking around the old man sat down and said”I don’t have any more beedi’s do you have any?”
+Hari shook his head and the old man looked at Hari.
+“ I don’t smoke. Forget the beedi, once you complete your story, I will buy you a packet of cigarettes”, Vijay said.
+“ One full packet?” the old man asked. 
+“Yes one full packet” Vijay promised. “Now get on with the story.”
+
+“A few month after the temple consecration, Laxman returned. He had been roaming around the bigger towns spending his entire father’s money on dancing women and liquor. When the money ran out and the liquor bars and dancing girls stopped entertaining him, he had to return to Haripur.
+The first thing he saw as he neared Haripur was the completed temple. Laxman, had always considered the money his father had spent on the temple as a waste. Looking at the grandeur of the temple and the sign of festivities that had been going on he was sure millions had been spent by his father. He was furious. He went home and got into a shouting match with his father. Finally, a furious Sadashiv Rao told his son to get out of the house. Sadashiv also told him that he was not to expect anything as inheritance unless he mended his ways and helped in his father’s work. 
+Laxman was mad with anger and as he stumbled out of the house, it was as he was roaming around the village that his eyes fell on the priest’s daughter, Sumangali. The girl was playing with the children in the village square. Sumangali was beautiful, very fair with long waist length curly hair. The girl liked to dress in colorful clothes and always wore a pair of silver anklets. It was uncommon for a Brahmin to interact with people from the lower castes but Vishnu Namboodri had progressive views on the caste system and his daughter carried the tradition forward. She loved playing with the children of the villagers.
+For Laxman all his frustrations and hatred for his father crystallized into a lust for Sumangali. He watched her from her distance and waited for the opportune moment. 
+The moment came when, that evening Vishnu left their hut for his evening worship. Laxmi used to accompany her father for the puja. That day however she could not go immediately and was to join her father after some time. Laxman sneeked up behind the house and watched as Sumangali was getting dressed in the house. Her beauty and youth was more than what an intoxicated Laxman could handle and he jumped in and attempted to rape her. It was at that moment that Vishnu returned to the house. He had forgotten some items for the puja and had hurried back. As he entered the house a half dressed Sumangali rushed out screaming for help, chased by a Laxman who was unsteady on his feet.”
+The old man stopped his story at this point and started coughing. The friends were beside themselves with exasperation. The normally cool Hari was the first to burst out, “Oh no, don’t stop now. Do tell us what happened after that. ” 
+“I could do with a drink of water,” the old man said. “ I have been talking for some time now and at my age, it is not good or my health”. 
+“Will you please finish the story first? If you tell us the whole story, I will pay you a hundred rupees,” said Vijay. 
+“And the packet of cigarette. You said you would buy me a full packet of cigarette. “
+“Yes that too. My God! How can you think about cigarettes at a time like this?” Vijay said. 
+“Please baba can you continue”, said Hari. His voice sounded weak, he was looking at the ground, and he looked tired.
+“Ok, I will continue. But remember about the hundred rupees and the packet of cigarettes.”
+“Yes… yes you will get both. Now please continue,” Vijay said.
+The old man cleared his throat and let out a huge sigh. 
+“What happened after that was sad. The old priest immediately understood what was happening. He grabbed Laxman and the two started fighting. The priest was an old man, Laxman was young and also under the influence of liquor. He beat the priest savagely; the villagers were too scared to help after all Laxman was the son of the Jamindar. The priest was bleeding profusely and as he lay there in front of the house, Laxman fled from the scene. A shocked Sumangali was watching all of this. Some women put a sari to covered her body. She just stood there unable to move or react, watching as if in a dream. Then after laxman had run away, she ran over to where her father lay on the ground and she sat down beside him on the ground. Gently she lifted his head, placed it on her lap, and began rubbing his forehead. Laying there on the ground, with his head on his daughters lap the old priest passed away. 
+Sumangali remained holding him for a long time as the villagers gathered all around and watched. She did not say a word or cry. She just kept on massaging the forehead of her dead father. Then she placed the head on the ground, and went inside the house and closed the door. She hung herself in one of the rooms. People say there is a mark of a woman on the walls of the room even today. I don’t know for I have never dared to go into the house.”
+“ What happened to Laxman? Where was the Jamindar when all this was happening?” asked Hari.
+“ The villagers were shocked by the tragic turn of events.  Someone had rushed to inform the Jamindar, but by the time he reached the spot, it was too late. He along with the villager cremated the priest and his daughter that same evening. Now, about Laxman. When the effect of the liquor had worn of, he realized the seriousness of his crime and decided to escape from the village. He though that while escaping he would steal all the money in his father’s safe. The third day after the priests death, it was a full moon and Laxman chose that day to rob his father. He was successfully in robbing the old man and had almost made his way out of the village when fate stepped in. The next morning the villagers found his badly mangled body lying outside the now abandoned house of the priest. A story spread that it was Sumangali, who had returned as a ghost, and killed Laxman. On moonlight nights, people started seeing the young girl walking in front of the house. The story spread and people scared for their lives started leaving the village. The Jamindar was also one of those who left the village, there was nothing left there for him now, and people said he became a wandering fakir. Within a matter of months, the once bustling Haripur turned into a desolate and forsaken place overgrown with creepers and bushes. The forest moved in and the covered up what remained.”
+The old man got up to leave.
+“Here take this,” said Vijay and gave him a hundred rupee note from his pocket. 
+“And this”, said Hari and he also gave the old man a hundred. “We don’t have cigarettes so buy a packet yourself.”
+The old man started to leave and then stopped and came back. He put his hand on Hari’s shoulder and said,” Son, listen to this bit of advice from an old man. Do not go back to that house. She is evil. She has killed a man and she can kill you.”
+As the old man walked away, the two friends sat there in silence. Several minutes passed before Vijay spoke,” So what now?”
+“ I am thinking,” said Hari. 
+“Are you going back to the house?” Vijay asked. 
+“Why shouldn’t I?” Hari asked.
+“ After what we just heard are you mad to go back to the house?” Vijay asked. 
+“Do you believe that old man? That fool made that all up for a packet of cigarettes and some money”
+“Hari don’t be a fool. I think the old man was telling the truth or at least telling us what he had heard about the place.” Vijay said. “Think of it this way. In a place like Mumbai where people find it difficult to find a place to stay, how come there is this abandoned house in the middle of the forest.”
+“ I do not believe a word of what the old man said. I am going back to the house. Your bus is coming,” said Hari. 
+“Hari don’t be silly. Your life is at stake here. Come to my house stay with me”
+“Don’t be foolish. I am going back to the house. There is no connection between the two girls. The girl I know is just some tribal girl and she would not harm me. It is getting dark so either you come with me back to the house or go home.”
+Hari saw off Vijay on the bus and returned to the house in the jungle.
+As he reached the front door, he heard the sound of anklets. Sumangali was standing there below the trees in her usual spot.
+Chapter 10
+
+Hari did not say a word, but kept looking at her. The old man’s story kept coming back in his mind. 
+‘What do I know about this girl?’ he asked himself. The more he thought about her the more he realized that he hardly knew anything about her. All that he had seen of her was what was visible through the thick fog or on moon light nights. She was always alone and always came visiting at night. Why would a girl roam around alone in a forest? 
+“What are you thinking?” she said. 
+“Who are you?” Hari asked.
+She did not answer but kept looking at him.
+” Today my friend and I went to visit your father. We wanted to see the temple, your temple, the one you always talk about. We roamed around the forest for hours and found nothing. Then we met an old man, who told us a story”, Hari paused. “It was a story of a village, full of happy people. That was until a father and his daughter came to the village and tried to build a life here. Something happened to them, this father and daughter, something horrible and tragic. The old man said that the curse of that daughter destroyed the village. Can you imagine that an entire village destroyed for the sins of one man! Now you tell me, who are you? “
+Sumangali did not say a word but stood there in the shadow, her beautiful eyes cast down. Then the wind started blowing. Hari could see a tear roll down her cheek. He kept quiet for it was now her turn to speak.  
+“He was a bad man,” she said after a long time and the tone of her voice changing. Gone was the sweet, singsong voice and it was replaced by a screechy, menacing tone. Slowly she looked up and her eyes were red slits and her brow furrowed. 
+“He was a bad man. He killed my father. He tried to misbehave with me. What should I have done?” she was now shouting. The voice echoed in the trees.  The wind had picked up pace and was blowing with the intensity of a storm. The windows and the roof was rattling all over the house. The moon as if scared hid behind thick dark clouds that had come out of nowhere. All that Hari could see were two red spots where her eyes had been. They were glowing and pierced the dark and he could not see anything else. For the first time since he had moved to the house, Hari was scared. His legs started shaking and beads of perspiration formed on his head. He jumped down the steps and started running. In his fright he did not know where he was running. He tripped and slipped falling flat on his face on the mud path and fainted.
+He dreamt that he was floating. No.. not floating but someone was carrying him. He looked up and saw that it was Sumangali. She was her normal sweet self, the Sumangali he knew. The Sumangali who laughed with him and brought him fruits and berries. She was talking in her singsong voice. 
+“Do you think you can run away from me? Please do not be afraid of me. I can never hurt you. I love you.”
+The next morning when Hari woke up, he found he was in his room. The last thing he remembered was running in the darkness. There was a slight pain in his head, he touched his forehead and winced in pain. There was a swelling there from the fall. The events of the last night came back to him in a flash. 
+‘Was that a dream, or did all that really happen?’ he thought. It did not take him long to decide.  He jumped up and started packing. Somehow, he lifted the two suitcases and struggled through the path towards the bus stop. He called up Vijay from the bus. 
+“Thank God, you are safe. Come to my house and stay with me for a few days. We will find some other place for you to stay. For the time being stay with me,” Vijay said.
+
+He moved in Vijay’s house. They did not tell Vijay’s parents the complete story for they knew no one would believe it. Two weeks later an opening came up in a nearby housing complex to share a flat with a group of other youngsters as a paying guest. Hari moved in. The flat was at walking distance from his office. The friends never spoke about the house or what had happened there. 
+In office, the project was ending. The testing at the client side had passed with no major defects reported and the application moved to production. This marked the successful end of the project. Gopi was extremely pleased with the successful delivery of the project. It had been a long ten months for the team and celebrations were due. The team began planning in earnest. Suggestions ranged from dinner at a five star hotel to travel and stay at Goa. Finally, the team settled on a picnic followed by a dinner at a five star hotel. The spot chosen for the picnic was a waterfall, which was relatively close by and fitted the budget of the team. Gopi posted the details of the picnic spot and the name of the hotel on the ODC notice board. Vijay was one of the first to read the notice. He almost fainted.
+“Do you know where we are going for the picnic?” he asked Hari. 
+“Some waterfall I heard” said Hari. 
+“Not some waterfall. Remember that waterfall ear the house you stayed. That is where we are going.”
+Hari tried to avoid being on the team going for the picnic but Gopi would have none of it. Hari had been the star of his development team and there was no way he was going to excuse Hari from all the fun. 
+“Hari, you have to learn to relax,” Gopi said. 
+“Even I wanted to take the day off. Instead of coming for the picnic, we will come directly to the hotel for the dinner,” said Vijay.
+“Nonsense, I want both of you there in the picnic. What is this? I am asking you to have fun and not asking you to work over the weekend and you are making excuses!”
+Finally, the friends had to agree and join the group.
+The picnic was on a Sunday and a bus had been booked to shuttle the group to the spot. Sunil and Manju sat separately and seemed to be enjoying the proceedings more than the rest. Their friendliness at times was getting too intimate and Gopi had a tough time keeping them under control. The rest of the team though had fun with their jokes and songs. 
+When the team reached the picnic spot, it was Vijay who told the group. 
+“Do you know there is a hut behind those trees? Hari used to stay there. It is a spooky hut right in the middle of the forest and he stayed there all alone,” said Vijay.
+“Is that true, Hari?” asked Gopi. 
+“I was trying to save some money” said Hari as the group broke into a laugh. It had been almost two months since Hari had left the house but the memories were still fresh especially now that they were so close to the place. Sunil and Manju exchanged meaningful glances. An hut in the middle of the forest offered endless possibilities.
+The two got up and slowly made their way to the back of the group. Gopi was expecting something like this from the start. Technically what team members did in their personal life was none of his business, but during this picnic, they were his responsibility. He was not letting these two spoil the outing. 
+“Sunil. Please can you come over here?” he asked.
+“Shit,” said Sunil. Reluctanly he made his way towards Gopi.
+“Come soon I will be waiting for you at the house” whispered Manju and walked in the direction of the house.
+Manju had a tough time making her way through the shrubs and trees. Without an occupant, the forest had reclaimed the path leading up to it. 
+“Shit!” Manju said as a thorn tore through her sandal and pierced her feet. 
+“This was a stupid idea,” she said to herself. For a brief moment as she pulled out the thorn she contemplated returning to the group. Then she thought about what Sunil would say. How he would mock her and how the others would join in. 
+“No. No one makes fun of me. They will say I was scared,” she said to herself and walked up to the house. 
+‘He is such a loser,’ she thought as she imagined Hari living there. She could not imagine how anyone could live in such a run-down place, far away from the city, no running water or electricity. 
+The door creaked as she pushed it open. She pushed her way through cow webs that cris crossed the door. On the floor she saw remnants of recent habitation.  A broken pen here a dirty rag there. She entered another room. The sun was shining outside but inside, the house was full of shadows and dark places. 
+She looked at the wall and froze. There was a silhouette on the wall. It looked like it had a form, a distinct shape. 
+“It looks like a shadow on the wall, the shadow of a girl,” said Manju to herself and her voice echoed in the empty house. For a moment she felt scared. The shadow was sharp and she could clearly make out the nose and the even a pendent dangling from an ear lobe! 
+Then something strange happened, Manju felt as if she the shadow moved. Too fascinated to shout or run she watched as the dark shape began to bulge in the middle as if it was alive, as if it was coming out of the wall. Manju felt as if the world was spinning around her. She wanted to scream, to shout for help but no words come out of her mouth. She stood there transfixed, blankly staring at the wall. She saw the shadow coming out of the wall and floated towards her. It was made of millions of dust particles which were whirring and buzzing with a life of their own. The last thing Manju felt before she fainted was the shape enveloped her from all sides. She thought she could hear the buzz of bees in her ears, but there was nothing that she could do as she drifted off into un-consciousness. 
+
+ “So Sunil, why don’t you share your experiences with the team?” Gopi asked. 
+“My experiences? Experiences of what ?” Sunil said.
+“Your experiences on the Project. The good, bad you experienced on the project. Especially the bad ones,” Gopi said and laughed at his own joke. 
+“His experiences are more of the non-project variety. Not sure he would want to share them here,” Vijay said and immediately got a stern look from Gopi.
+ I … My.. “Sunil mumbled. His mind was elsewhere. Manju had been away for sometime and no one had noticed as yet. He could imagine her waiting for him in the hut, which they said was in the forest. He knew well the scent of her perfume and the taste of her lipstick. This picnic he was expecting to learn more. The last thing he wanted to do was share his experiences on the project. 
+
+Gopi kept Sunil busy with the main group and it was only when lunchtime came that someone noticed that Manju was missing. 
+“Where did she go?” Gopi asked and no one seemed to know the answer. Gopi ordered the team to search the area. A search in the immediate vicinity, draw a blank. The team regrouped. It was then that Sunil volunteered the location.
+“I think there is a hut here where Hari used to stay. She must have gone there,” he said in a low voice. 
+“What ..why ?” Gopi was livid. “Hari please can you go and find if she is there. Wait we will all come with you. ”
+The team slowly made their way through the clearing and finally reached the house. Hari and Vijay were leading the group but both looked as if they would rather be somewhere else. The house was exactly as Hari had left it. From a distance, they could see that the front door was open. As they came near, they saw something lying across the front door step. It was Manju. She seemed to have fainted on the floor. 
+“There should be some water here” said Hari and went towards his kitchen. In his hurry to leave he had left a few utensils behind. One of them had some water in it, he was about to return with it when he noticed something had changed in the room. It took him a minute to realize what was different now. It was the mark on the wall. The shadow on the wall, it had disappeared. 
+Manju remained unconscious for a whole week. There seemed to be nothing wrong with her and the doctors were puzzled. They were not able to explain why she was not regaining consciousness. They ran a battery of tests on her but drew a blank. Her mother has not been able to come and had asked one of her aunties who lived in Pune to be by her side. The aunty was surprised when Manu suddenly opened her eyes one morning, looked around and started speaking. The first thing she spoke was, “Where is Hari?” 
+Manju made a complete recovery and the baffled doctors, snow perplexed by her sudden recovery, permitted her to return to office. 
+At the office the project now completed, the team members were all on what the software industry referred to as ‘the bench’. This is a phase when the developers are not on any active projects and usually are free or on some training. Hari and Vijay, both were in the cafeteria. They were taking a well-deserved break after months of hard work on the project and laughing at a joke, when they saw someone coming towards them. It was a girl, who looked vaguely familiar. It was only when she reached their table that they realized that it was Manju. She was wearing a half sari. Her hair was well oiled and plaited back. She had glass bangles on her hands and a jasmine garland in her hair. 
+She came and sat next to Hari. She looked at him and said, “Didn’t I tell you that I would never leave you.” She was speaking in an old Malayalam dialect.
+
+~~~
+About the Author
+Manoj Nair is a ‘weekend writer’ and is based out of Mumbai, India. The son of an Army officer, Manoj has travelled across the length and breadth of India. His stories and novellas are a reflection of life in India as seen through his eyes. Married with a college going son, when not writing he is a Senior Manager with a Software development Multi National. Read more of Manoj’s stories at http://www.shortstoriesforall.com/
+
+You can also reach him at manojofficial@gmail.com
+

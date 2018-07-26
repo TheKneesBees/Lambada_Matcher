@@ -1,0 +1,1005 @@
+﻿DBS Publishing LLC
+Copyright 2015  by DBS Publishing LLC
+Smashwords Edition
+
+The Pulse Orgins
+
+
+
+A World without Power
+
+When the power went out at the North Highlands Hydroelectric Plant in Columbus, Georgia, the oddest thing for Todd Broderick was that he instinctively thought to call Georgia Power, the very power company he worked for. He forgot for a moment, where he was. If the hydroelectric plant that provided hundreds of thousands of residents with electricity no longer had any juice, it was unlikely that power existed anywhere else in the area. Therefore, the question of whom to contact first became an issue in itself. The phone lines weren't working anyway. Neither were the cell phone towers, or cell phones for that matter. Everything was dead.
+
+Todd stepped outside to examine the vast row of power lines running to the plant, not expecting that they would provide any answers to the scenario before him. He went back inside the plant, where not a single transformer, generator, computer, or light bulb was functioning. In ten years of working for Georgia Power, Todd, an electrical engineer, had never witnessed a sudden and complete shutdown of an entire power facility. At North Highlands, like most hydroelectric plants, river water is siphoned through water reservoirs and converted into electricity through turbine-powered generators and transformers.
+
+The problem, as Todd would later discover, was that all the transformers had blown out at virtually the same time. There had to be a protocol in dealing with such a matter, and even if Todd had been told at some point what to do, his mind now drew a startling blank. It could have had something to do with his mental and physical state, for he had been counting on an uneventful day and a chance to sit back and nurse his hangover, free of worry or stress. He needed it. The crisis befalling the plant was the last thing he needed, and the thought of throwing in the towel, heading home and going back to sleep seemed most appealing of all.
+
+Monday September 21, 2020 8:05 a.m. Columbus, Georgia
+
+By the time Todd arrived to work that morning, the temperature was already nearing the nineties. He wore dark sunglasses to cover up his tired eyes and heavy bags. He wondered why he picked a Sunday, of all nights, to drink well into the early morning. However, he had learned his lesson. Sundays were a terrible night for poker. It wouldn't happen again. He couldn't even remember if he had won any money. His poker buddies had kept the game going well past four in the morning. He passed out on the host's living room couch around five, and woke up to the sounds of his friend's displeased wife making breakfast for their kids. After a moment of awkwardness, he scurried out the door like a lost puppy.
+
+It was irresponsible of Todd to take it as far as he had; at least that's what he told himself. He had worked too long for Georgia Power to show up late dazed and swimming with alcohol from the night before. It was a risk not worth taking. As he drove past security and shuffled into the power plant, there was nothing he wanted more than to curl up at his desk and get some rest. The Advil kicked in, relieving some of the pain in his head, but he still felt dehydrated, weak, and tired. “Please let this be an easy day,” he thought, holding his forehead and squinting. Once inside and out of the heat, Todd went straight to the employee break room on the second floor and made himself a cup of coffee: black. He then went to his office, on the bottom floor, to pull himself together. He had a team to check on to ensure that the generator gauges throughout the plant were correctly ascertained and recorded for daily output and performance during peak usage hours. Before going on the main floor and meeting with the other technicians, Todd closed the door of his small, darkened office and slumped back in the swivel chair behind his desk. He opened the top drawer, pulled out a pink bottle of Pepto Bismol, and mixed it into his coffee. For some peculiar reason, he had no doubt that it was going to be a long day.
+
+  An hour later, Todd was getting back into the swing of things. His team of technicians monitored a series of generators the size of automobiles that produced up to 1,000 megawatts of electricity each. Personnel on the floor were required to wear hearing protection, due to the loud noise. Todd had donned a pair of red headphones, but they couldn’t muffle the hangover pounding in his head. Suddenly, a crew member holding up a clipboard shouted to him, looking concerned. As soon as Todd looked over to him, the entire room went quiet.
+
+Each generator systematically winded down, as if someone had pulled a switch. Initially, Todd didn’t think anything was out of the ordinary. His mind was a little slow that morning. But as the room grew quieter, with little more than the faint whirring of motors, he focused on what was happening, and removed his headphones.
+
+"What the hell's going on?" he asked his co-worker.
+"That’s what I was trying to tell you, the gauges went haywire. We're losing the generators. They've shorted out. Gone kaput!" the man replied. Stoic concern showed on the faces of every technician in the room as they witnessed an unimaginable event: a complete plant shutdown. Todd climbed the ladder leading to the top of one of the generators. He paced the circular walkway around the generator to understand what had happened, then stopped and called out to his team.
+
+"We need to check everything, get some specialists out here. Let's move, people."
+The team dutifully complied as they exited the room to inspect the rest of the plant. Wherever they looked, everything was much the same. Not a single transformer or generator left operating. Todd instinctively went for his cell phone to make a call, but the display screen was black as if the phone had been shut off. He tried to turn it on, but nothing happened. This wasn't too unusual since Todd hadn't charged it the night before. He went back to his office and picked up his landline phone but heard no dial tone. He reached for his computer mouse, moved it in circles on the pad, and was met with a blank monitor screen.
+
+The bizarre lack of power seemed more like a bad dream that grew worse with each faulty device he encountered. It was something inconceivable. Whatever was going on had to be temporary. Any moment now his computer would turn back on, his phone would work, and most important of all, the generators would spring back to life again. Workers clustered in small groups, looking stunned and proposing different theories about what had caused the outage.
+
+“We gotta tell the mayor or governor or somebody. This is a serious," one man urged excitedly.
+"Could be a terrorist attack," another man suggested.
+"Is someone going to take charge of this thing, or are we just going to fumble around all day?" a frustrated woman asked.
+
+Todd avoided eye contact and questions from his crew, and continued past them, heading toward the plant manager's office, hoping to find him in. The woman was right; someone needed to take charge. Suddenly, another worker pushed through a set of double doors, frustrated and covered in sweat. His hair hung disheveled, and his eyes were filled with worry as he scanned the area looking for a familiar face.
+
+"Hey, can someone give me a jump?" he asked. "It's hot as hell out there, I’m late, and I can't get my car to start."
+
+Suddenly two words flashed ominously through Todd's head: Electromagnetic Pulse—EMP. A sneaking premonition, had surfaced, and the more he thought about it, the more the idea was beginning to make sense. What, other than an EMP, could have simultaneously taken out power, communications, and vehicles?
+
+Straining to focus all his attention on the idea, he tried to recall everything he had read and learned about EMPs. There were two types: a man-made electromagnetic pulse, which had negative effects on electronic equipment. And a weaponized nuclear EMP that could have detrimental effects on all electronics. Anything with a circuit, chip, motherboard or voltage within the radius of such a weapon would no longer function and, in most cases, would be unrepairable.
+
+A high-altitude nuclear EMP, or HEMP, deployed at nearly 100,000 feet, could have incredible range. Depending on size and mass, a HEMP could cover entire continent-size areas. Nuclear EMPs, he knew, were complex and multi-pulsed to varying degrees of intensity. The damaging electrical pulse had the capability of traveling distances of hundreds of miles in mere nanoseconds, causing electrical breakdowns and creating havoc.
+
+Conventional EMP weaponry had existed for decades, going back to the Cold War. But few believed a credible threat possible in the early twenty-first century. The frightening scenario involving a disabled electrical grid that provided electricity for 300 million citizens drew serious congressional concern in 2001 when the U.S. created an Official EMP Commission. But priorities, and the country, for that matter, had changed through the years, and there was no going back.  
+
+Todd had been briefed about the effects of EMPs a few times during his tenure with Georgia Power. He had been taught several of the "myths" surrounding the aftermath of an HEMP detonation, including the fact that all cars would be dead in the water. Perhaps Johnson—the man who ran in asking for a jump—had just left his headlights on for too long and killed the battery.
+
+ “Think, dammit,” Todd said as if scolding himself. What the hell else could it be?
+He decided to bypass his boss's office and ran outside into the employee parking lot, which was baking under the Georgia summer sun. He opened the door to his Suzuki XL7 and sat at the wheel. Turning the key would settle, once and for all, whether the various power outages were linked. It would also confirm or disprove the myth surrounding EMPs and car engines. Todd stuck his key in the ignition, breathed in, and turned the switch. The ignition clicked, but the engine failed to start. Nothing happened. Todd tried again and again, but all he heard was clicking. He popped the hood and jumped out to examine the engine. Everything was intact.
+
+"You need a jump too?" a voice asked behind him. Todd turned and was met by Johnson who had himself returned to his car, accompanied by a co-worker holding jumper cables and wearing a yellow hard hat and sunglasses.
+
+"I don't know yet," Todd replied in a daze.
+"Not even lunch time and the day has already gone to shit," Johnson said.
+Todd leaned against the front of his car and shook his head in frustration. He felt his hangover come back in full force. "I don't think this is routine," he said. "This means something. Could be an attack."
+
+"Johnson, you want a jump or not? I don't have all day," the man with the hard hat said.  
+Johnson looked at the co-worker with an annoyed expression. "Sorry, didn't know you had so many places to be. Let's give it a try." Johnson turned to Todd. "Let me know if you need any help."
+
+Todd scratched his face and nodded. As the two men walked away, he slammed his hood down then shielded his face from the glowing sun blazing in the cloudless sky. A world without power, he thought. Is it even a possibility?
+
+
+
+
+The Hunter
+
+Sunday September 20, 8:05 a.m. Milledgeville, GA (The Day Before)
+
+Deep in the forest near the Oconee River, up a hill of long and winding dirt roads, sat an obscure old-fashioned house overlooking the town of Milledgeville. The caretaker of the house, James, had been up since five in the morning, hunting. He was a reserved and serious man, with a head of thick, black hair and a graying beard. It was his Sunday routine since hunting season began. His preferred weapon for hunting game was a crossbow. But not just any crossbow; he was quite particular with the type he used. Size, weight, and range were important components, as was the reliability of the scope. He had named the crossbow Sydney, an affectionate tribute to his Uncle Sydney, to whom he had always been close. Name aside, he liked the crossbow, and it had long been broken in. Its force and distance were an adequate 350 feet per second. Generally, with crossbows, anything that fires less than 250 feet per second is ineffective for long-distance hunting. Because he liked to move around while hunting, he wanted nothing that weighed more than six to eight pounds. Anything over ten pounds was not practical for James. He usually hunted upwards of four to six hours.
+
+Sound was also a big issue. Slow, careful movements while hunting were something James had understood ever since he was a child when his uncle would take him. James’s ideal crossbow had cocking and latching action that was dependable, quiet, and smooth. It was important to not scare potential game away. Wearing light camouflage pants and a jacket, James moved along the Oconee River looking for white-tailed deer. He cradled the crossbow while scanning the brush ahead as each step from his hunting boots crackled dry leaves below.
+
+He stopped next to an oak tree and drew his binoculars, surveying the area intently for any signs of wildlife. It was slightly after dawn. Sunlight beamed through the looming pines and big-leafed magnolia trees. James adored the woods. It was his sanctuary. He reveled in the quietness of the early morning. Birds called to each other to signal the rise of a new day. Squirrels leaped and dived among the native Georgia pines. Witnessing nature's daily revival was a simple experience James cherished. Next to hunting.         
+
+James Cook, a Georgia native, was in his fifties, fifty-five to be exact. He had always been somewhat of a woodsman but had moved to Milledgeville following a divorce from his wife of twenty-five years. They had been separated for a little over six years now. Their split was mutual for the most part. They had a son, Cliff, who lived in California with his wife and kids. James was hard pressed to think that the rambunctious boy he once knew now had a wife and kids of his own.
+
+Living in rural Milledgeville had created a rift between him and his son. They weren't estranged, but James rarely heard from Cliff lately. They both lived different lives. James was a college instructor who taught history at Georgia College in Milledgeville. Cliff worked in real estate development, selling land for high prices to businesses and corporations. Through it all, Cliff couldn't understand James' lifestyle any more than James could understand Cliff's. Cliff drove a Prius while James drove a pick-up truck. Cliff didn't know how to cook, whereas James killed and skinned his own game for food. Cliff liked the city and moved his family to San Diego, whereas James considered living in the city to be problematic on all accounts. He didn't like the tight spaces, the noise, the pollution, the population density, and the high taxes.
+
+As a Marine and Gulf War Veteran, James had fought in Operation Desert Storm and Desert Shield in the early 1990s. He was eighteen when he joined as an infantry man and served for four years. When he returned home from active duty, he had been shaped him into a different person. He had made it to the rank of Sergeant and would probably have stayed in longer had not his wife, Anne, pressured him to come home and get out. They had married before he left, and James soon decided that a long-term military career was not what he wanted, for himself or their relationship, despite whatever positive qualities he had gained from his experiences. After returning home, James enrolled in college to earn the only degree that made sense to him: history. Though his parents said it was a worthless pursuit and Anne had her doubts, James stubbornly pursued the goal he wanted and didn't stop until he achieved it.   
+
+As a woodsman, James believed in the concept of self-sufficiency, so much so that he immersed himself in the lifestyle of a "prepper." The very nature of being a prepper was about being prepared. James foresaw a national breakdown on the horizon, the likes of which had not been seen in the history of the United States. He saw disaster in the future. By 2020, the national debt had reached—coincidentally enough—twenty trillion dollars. Unemployment was a staggering 25 percent, and a record number of 150 million people were not working. He believed that the nation's economy, one way or another, was destined to collapse; it was a matter of economic law. When the Federal Reserve could borrow no more, it would trigger the fall. And this was for starters.
+
+An economic crash, as far as James was concerned, demanded careful rationing of all life's most basic necessities. James lived in a large four-bedroom house stocked with preserved food of all kinds. His stores included dried food, canned food, frozen food, and pickled food, enough to last for more than a year in the event of a food shortage. He had an impressive amount of fuel reserves locked in a pinewood shed that James built himself. The house ran on well water that could be pumped by hand if necessary. Solar panels aligned the roof generating a moderate amount of electricity—enough to power the lights if needed. The house also had two backup generators in the event of a major power outage. He drove a '75 Ford F-150 diesel pick-up truck, manufactured before computer components were installed in all modern vehicles.
+
+	Through the years, he had performed regular maintenance on the truck to keep it in the best condition possible. It was an antique as far as anyone else was concerned. The looks he got when driving the truck around town were worth the price of admission. For James, choosing that particular truck was a strategic decision. He had read that vehicles manufactured before the 1980s didn't have computer parts susceptible to EMPs. After doing some extensive research, James became a believer in the threat of EMPs and could think of nothing worse, aside from a nuclear attack. Nothing would push the country faster to the brink of collapse than the loss of power and electricity.
+
+He was living in serious times, although most he knew people were oblivious. There was no silver lining in sight. James's plan was to live off the land the best he could in the event of the inevitable. But he wasn't the only one. James was one of a small group of individuals who had agreed to work together in the event of an economic meltdown or natural disaster. He was the caretaker of the bug-out house they had purchased together, chosen for its remote and tranquil location. They had all met through a local on-line chat group while trying to find answers to the unknown: how to survive the tide of uncertainty in 21st-century America. There was a young couple who lived in Savannah, a family who lived in Atlanta, and James. Together, they were part of a prepper group determined to make it through their once-vibrant and free nation's impending collapse.   
+
+
+
+
+The Couple
+
+Sunday September 20, 8:05 a.m. Savannah, GA.
+
+If there was one thing Mark Moss paid attention to, it was finances. He and his wife, Janice, lived in a small, two-story, two-bedroom house in the suburbs of Savannah. They seemed the picture-perfect young American couple. They hadn't any children yet and had only been married four years. So far, they had been happy. Mark didn't see any point in rushing things. Circumstances, such as work and money, played a role in their ambiguity about starting a family. Janice, however, felt that it was time. At twenty-eight, she had begun to grow concerned, but hadn't yet figured out how to express her feelings about it to Mark. She wasn't sure if he'd understand. Marriage so far had been wonderful.
+
+Mark was thirty-one, and had a full head of dirty blond hair. To him, there was no rush. Janice had always wanted children, but it never seemed like the right time to talk about it. That morning, they sat across from each other in the kitchen, sipping coffee and reading the morning paper. Mark had a lot on his mind. He had just started a new job working at a Nissan dealership, and after two weeks of long hours and tireless efforts at making a good first impression, he had made six sales.
+
+He was giddy with a kind of excitement not shown in months. After walking away from a low-paying job in retail management at a clothing factory outlet store, Mark had his first full-time job. Mrs. Andrews, his boss at the dealership, had asked if he would meet her for coffee the next morning for a casual discussion. That was how she had put it. Mark had no idea what that meant, or why she had requested face-to-face so soon. His mind raced as he began to over-think the entire scenario.
+
+"Just quit thinking about it," Janice said, interrupting his train of thought. She could tell, just by looking at him, that he was worried. "She asked you to coffee for a casual discussion. Probably just to assess your thoughts about the job. Think about it; if they were going to fire you, she wouldn't waste the time. Not on someone who's only been there for two weeks."
+
+Mark thought to himself. “I hope you're right.”
+
+The television was on in the living room. Inane banter of the Sunday talk shows could be heard at low volume. Windbags pundits talked in circles about the economy, and how to fix it. For most Americans, money was tight, no matter who you were, where you lived, or what you did for a living. The super-rich were mainly unaffected; they always would be. So were the politicians. But for most people, any attempt to make an honest living was a struggle.
+
+ Mark and Janice felt that they were financially hanging on by a thread, and it was for this very reason they strayed from the subject of pregnancy. Mark may have been using it as an excuse not to have children, for all Janice knew. She was suspicious. Mark laid his touchscreen tablet on the table and spread some cream cheese on nearby blueberry bagel. He flashed Janice a quick smile and took a bite. It tasted perfect.
+
+Sunday was their day. It was a time when they could spend the entire day together. Mark looked forward to it, as did Janice. They worked so much during the week that they rarely saw or spoke to one another until the weekend. Janice worked for a hiring agency in town, often deluged with the job-seeking unemployed. She saw first-hand the results of a faltering economy.
+
+“We're coming back from it; I can just feel it," one of the pundits declared from the television set. The talking heads had an answer for everything but weren't telling people what was really going on, as far as Mark was concerned. He tuned them out most of the time. He had to if he didn't want to lose his mind.
+
+Mark and Janice were similar in many regards. They both came from working-class families, both had only associate’s degrees, and a slight amount of student debt as a result. Neither one of them could afford to go back to school for a bachelor’s degree.
+
+"We'd never be able to pay them back. It's one giant trap," Mark had said. Janice tended to agree. If they saved up enough money, one of them could finish college, but they hadn't got there yet. They invested in gold and silver for financially stability in case of an economic collapse. Having silver served the same purpose. It was a solid commodity, and would come in handy if the dollar lost value during hyperinflation. Their investments were small, and it was money they didn't have, but it was necessary, they felt, to have something outside of cash, credit cards, and a bank account.   
+
+They lived a frugal lifestyle and strived to be debt-free, though they weren't perfect. They did the best they could do. Sunday was not the day to worry about it. They were fortunate enough to have one day out of the week not to think about work, money, and wave after wave of distressing economic news reports. They sat in their bathrobes—Mark wore plaid, Janice wore blue—in the natural light of their kitchen, and enjoyed each other’s company. Sunday was their day to relax.
+
+"So what do you want to do today?" Janice asked after taking a sip of cappuccino. She knew what he was going to say. Mark said the same thing every week. He looked at her through the lens of his horn-rimmed glasses. "I don't know. What do you wanna do?"
+
+"We could go for a walk," Janice suggested.
+Mark smiled. "You need a dog for a walk. Otherwise people just think you're weird."
+Janice gave him a disapproving look in return. She even crossed her arms to emphasize her displeasure.
+
+"I'm kidding, only kidding," he said, extending his arm toward her.
+"Very funny," Janice said back. "We can't afford a dog."
+	Mark looked up, surprised. "Look who's telling jokes now," he said.
+She knew she could get to him. Even with their jabs, there was still plenty of love between them. They had a rare combination of love and understanding, two fulfilling assurances in a marriage. Mark took another bite of his bagel, and the subject soon moved on to other matters.
+
+“When was the last time we checked our food stock?" he asked.
+Janice thought to herself for a moment. "Um. I'm not sure. It's been a few months."
+"Try a year. We're slipping, Janice. A lot of it is probably expired by now. We should clean out the basement today, and re-stock."
+
+It was the last thing Janice wanted to do with her Sunday. She answered Mark with little enthusiasm. "I don't want to spend our entire day rummaging through the basement. I need a break, Mark, we both need a break."
+Mark didn't want an argument. He scratched his chin, took the last bite of his blueberry bagel, and pushed the plate away. "Tell you what we'll do. Let's go to the park today. Then we'll hit up the farmer's market."
+
+"I'd like that," Janice said. "I need to swing by the book store too."
+"Anything you desire," Mark said in a mock thespian voice. He got up from his chair and walked over to Janice, placing a kiss on her cheek. "Would you like to join me in the shower?" he asked, rubbing her shoulders.
+
+"No way," Janice replied, pushing him away. "You're a water hog."
+
+Mark walked off laughing toward the bedroom. Janice took another sip from her mug, and got up to turn the television off. The talking heads continued to theorize about economic conditions. She had heard enough and shut it off with the push on the remote. Mark and Janice were preppers every bit as concerned about the future as James, their counterpart in Milledgeville. Except they had gotten comfortable, and prepping was not as important them as of late. Their investment in the bug-out house was the greatest commitment they had made yet. They also owned a bug-out vehicle, which sat in the garage, and hadn't been started in months. Their interest in prepping waned as other priorities took over, and they were fairly certain that their prepping skills would never really be put to the test.
+
+
+
+
+The Family
+
+Sunday September 20, 8:05 A.M. Atlanta, GA.
+
+	 It was morning at the Robinson house, an African American family who in lived in a bustling neighborhood on Atlanta's west side. Christina toiled over her stove, pouring pancake batter on a griddle as bacon sizzled on the burner. She wore her favorite pink robe and slippers, and her short hair was tied in a small bun. Christina's husband, Terrance, was still sleeping soundly, and their children—Richie, Tobias, and Paula—were dragging themselves out of their rooms, lured by the aroma of Sunday morning breakfast. It was the best way to get her kids out of bed and then ready for church, a constant weekly battle. Richie, their eldest at seventeen, was the hardest to manage, as he often took advantage of his father's frequent absences. Terrance was a truck driver who spent a good deal of time on the road. What he had seen along his routes over the years had greatly disturbed him. He told Christina that the country was rapidly changing. He could see it. Poverty was everywhere. Many once-great cities populated by millions had become decrepit ghost towns. Fuel, food, and power costs had risen considerably, and he believed that hyper-inflation was just around the corner.
+
+Such a frightening premonition had thrust Terrance into the prepping movement. It wasn't long before he became knowledgeable in the preparation techniques of all kinds. His children were as resistant to his attempts to teach them survival techniques as they were to their mother's insistence on going to church. For Terrance and Christina it was an uphill effort all around. Most young people didn't see anything wrong with the way things were as long as they had their electronic gadgets and diversions. Few had even heard of a "prepper.” They certainly weren't being taught anything about it at school.
+
+Terrance had asked each of his children to carry a portable handheld two-way radio on them, good for distances up to thirty-five miles. It took a lot of convincing, but he explained to them that cell phones weren't always going to work all the time. In the event of an emergency they needed to have their radios with them. He expected them to have them charged daily as well as on-hand. Their ambivalence was countered with a demonstration of the range and ability of the handhelds. Tobias and Paula thought they were cool. Richie had the most objections. He thought the whole idea was stupid.
+
+"I don't ask much from you kids," Terrance said, "but I'm asking this. Always have them on you when you leave the house, period.” There would be no argument. Eventually the kids complied. Terrance won his first battle; however, they still had a long way to go.
+
+"Richie! Tobias! Paula! Get out here and eat your breakfast before it gets cold!" Christina yelled from the kitchen. The children walked like zombies from their rooms down the hall rubbing their eyes. Tobias was fourteen and just starting high school. He was not as tall as his 5' 10” older brother, but was tall and lanky in his own regard. Richie was in twelfth grade and looking forward to graduation. He and Tobias both had medium fade haircuts and strong brown eyes. They could have been twins if not for some different facial features. Tobias had more of his mother's features—high cheek bones and vibrant smile. Richie had more of Terrance's squared jaw and thick face. 
+ 
+Paula, the youngest, was thirteen and just starting eighth grade. She was a petite girl who with was always particular about how she dressed and looked. She wasn't vain as much as she took her appearance seriously at such a young age. If everything played out right, all three of their children would graduate from high school in the end. Nothing would please Terrance and Christina more.
+
+"Quit your lollygagging and move," Christina commanded her lethargic children. They slowly entered the kitchen groaning. She placed a large platter of pancakes in the center of the circular table. Paula was a little more awake than her brothers, so she was first to her seat.
+
+"Morning, Mom," she said with a smile.
+
+Christina turned around from the stove and smiled back. "Good morning, sweetheart." She noticed her two sons’ painfully slow movements towards the table, as if they were heading to the gallows. "Y'all hurry up and eat so you can get ready. We got church in an hour."
+
+"What about Dad?" Richie said. "Why does he get to sleep in?"
+"Because your father works for a living. Once you move out and provide for your own family you can miss church all you want."
+
+Richie was familiar with the routine. When he got his mom started she was bound to never stop.
+"Got it, Mom. Damn," he said, pouring syrup on his pancakes.
+"Watch your mouth," Christina snapped back.
+
+Richie took a slow bite of food while looking down. He couldn't stand church. He didn't want any part of it. Not a single one of his friends still had to go to church. It was embarrassing. Every week he would try to get out of it, and every week it would just start an argument. This particular morning he would try again.  
+
+"I can't go to church today; I got too much school work to do."
+"Your school work can wait. If it weren't for church you'd be sleeping, so don't give me that," Christina said as she placed a bottle of syrup on the table.
+"But─"
+"All I ask is for one hour out of the week so you can set a good example for your brother and sister. That isn't asking too much," Christina interrupted.
+"It ain't right, I shouldn't have to go to church if I don't wanna," Richie shot back.
+"Just eat your food. It's not open for debate," she said sternly. Richie said no more, but it was clear he was upset.
+"I agree with Richie," Tobias chimed in, with a mouth full of food. "Church is boring."
+Christina pivoted around from the counter, holding her coffee mug, waiting for the fresh pot to brew. "Then I suggest you find something entertaining about it. Maybe try paying attention for once—and don't talk with your mouth full."
+
+Tobias said no more. Christina looked to Richie. "See what kind of example you're setting? You kids need church. It's good for you. When you're adults─"
+"─We'll thank you, I know. You say that all the time," Richie said, looking down at his plate. He barely had touched his food. His mind was elsewhere: school, his friends, his girlfriend, and his music.
+"I say it 'cause it's true," Christina answered. "Now enough griping and eat your food."
+Her children stopped talking; only emitting chewing sounds. Pop music from a portable radio sitting on the window played lightly, as a breeze swayed the thin curtains above the sink. The coffee was ready, and Christina poured a cup. She planned to surprise Terrance with coffee in bed but wouldn't risk bringing him breakfast; he was too messy.  
+
+She was tough by nature, but had grown even more vigilant over the years. Her role as a sometimes-single parent had a lot to do with it. Though there was some give when Terrance came back home, she ran the house unquestioned. Terrance's salary alone wasn't enough to pay all the bills, so Christina took a part-time job working the cash register at the Dollar Store.
+
+Her life had changed considerably when, after a few weeks on the job, she was held at gunpoint and robbed by a local hood wearing a ski mask. It was near closing time when he strolled into the store casually and unexpectedly. He rushed the counter, stuck the barrel of the pistol directly against her head, and yelled at her to empty the register. Her life was on the line. She could see his eyes—bloodshot, frenzied—and knew that there was a good chance he would pull the trigger, even over what little money she had in the register. Her hands fumbled with the register because she was inexperienced in opening the drawer without first ringing up a sale. What she was doing wasn't working.
+
+"Open the register, bitch!" he seethed. "Hurry the fuck up!"
+
+His spittle sprayed her face as he pressed the barrel harder against her skull. She began to shake uncontrollably, unable to speak, while desperately trying to remain calm. Miraculously, the register drawer popped open after a few tries, not a moment too soon. Fear gripped her further when she looked into the drawer and saw that there wasn't much money inside. The other cashier had collected her till just hours before. All Christina could see were a couple of twenties, fives, and ones. The man took notice of the paltry score before him. He wasted no time clutching every last bill before he leaned in closer, his index finger wrapped around the trigger.
+
+"Now where's the rest?" he asked.
+"That's all we have," Christina said in shaky voice. Tears ran down her face. She knew it wasn’t true but just wanted the man to leave. The rest of the money was in the back office, but she feared that if he brought her in there, she would never make it out.
+"Don't lie to me, bitch. Gimme the rest or I put a bullet through your head."
+"I don't─"
+"Last chance."
+"I don't know!" she cried.
+
+She was the only person in the store that evening, and there was only a slim chance anyone was going to come in and stop the man. There was no quick solution. He was either going to shoot her right there or take her into the office. She was frozen with fear, but her instincts told her that the back office wasn't an option.
+
+"We got nothing left!" she persisted. "Sales were low today."
+"Bullshit, this store makes money. I seen it. Now I want the rest or I'm-a kill you. That's a promise."
+
+Just when she thought there were no other options, the entrance door chimed as a pair of clueless customers walked in. The holdup man was immediately spooked, realizing that he might be in over his head. A young black couple entered then stopped dead in their tracks when they saw what was happening. Christina nearly collapsed in relief upon seeing the couple, but she also feared for their lives as well as her own. Any steps the gunman made now would be irreversible. He took one look at them, and then rushed past and out the door in a fury. Christina fell to the ground on her knees crying.
+"Damn, Miss, are you okay?" the male customer asked while approaching her counter.
+
+Christina was too numb to respond. The police were called, and a report was made, but nothing ever came of it. The way Christina saw it; she would always be a sitting duck, a sheep. She was unable to go back to work for a couple of days but then realized that she had to. She couldn't live her life in fear. There was an inherent risk just walking out the door, so what difference did the Dollar Store make? Next time, however, she would be prepared.
+
+After taking a few self-defense classes, she began to consider something more. She wanted a gun. And so began Christina's love affair with weapons. She soon purchased a 9mm handgun, a .22 assault rifle, and a 12 gauge shotgun within a year after the robbery.  Strangely enough, it was not the weapons that had the most expense, it was the ammunition itself. Bullets had become a scarce commodity. The government had purchased billions of dollars’ worth of ammunition in an unprecedented sweep.
+
+After purchasing her weapons and applying for a concealed weapons license, Christina felt as if she had made an important first step. Her greater concern, however, involved guns in the house, and the safety of her children. The guns were not toys, and she knew how pop culture glamorized them without teaching the responsibilities of owning a weapon. She decided to keep them locked in a large biometric gun safe hidden in a closet to which only she and Terrance had access.
+
+Terrance's main concern was that she didn't know how to properly use them. She was moving too fast too soon. He insisted that she go to the range and familiarize herself with firing. That way he wouldn't worry about her as much while he was gone.
+
+"You should take the kids too," he suggested in bed one night.
+"I will, soon. They're not ready yet."
+"At least take Richie. You can't protect them all by yourself."
+"I said, I will."
+
+Terrance didn't push the issue. In their twenty-two years of marriage, he rarely questioned her. He would support her just as he always did. At the time of their wedding, she was eighteen, and he was twenty-one. Now she was forty-two and he forty-five. The time had flown by. He didn't think he looked like a forty-five year old man when he looked in the mirror. He still had his hair and hadn't turned gray yet. His face had little wrinkles. He felt he could pass for thirty easily. But when he saw pictures of himself from a decade ago he could see the difference. He wasn't as fit and youthful looking. He had gained weight in his face and all around for that matter.
+
+The stress of having and raising three kids had taken a slight toll on her features too: light bags under her eyes and wild hair, even though she wore it natural. Christina wasn't into wigs, weaves, or anything of that nature. She was still skinny as the day they met, and that, for the most part, worried Terrance. His wife could never gain weight. She was always slightly underweight. It could have been the constant stress or something else. He just didn't know.
+
+They lay in bed that Sunday night after a nice day together before he went back on the road the following day. Terrance gave his wife a kiss before going to sleep.   
+"Terrance?" Christina asked after he had turned over.
+"Yes?" he asked, still facing away.   
+"You still find me attractive?"
+
+Terrance turned back around and looked at her with surprise. "Of course I do, baby," he said, after giving her another kiss.
+"It's just. You're gone so much. And I know that you're trying, but sometimes I wonder. I just need to make sure."
+
+She would never outright accuse him of having an affair, unless her intuition told her something. But Terrance didn't seem like that kind of guy. However, she could never be sure. A man was a man, despite all his good nature. They kissed again, and Terrance leaned over to dim the light. He knew the option of sleep wasn't going to happen for a while. Christina needed some reassurance.
+
+As African Americans in an African American neighborhood, Terrance and Christina felt somewhat alone in their prepper lifestyle. Other families they knew showed little concern about what the Robinsons believed to be dangerous times. Even at the Mt. Vernon Baptist Church they regularly attended, it was hard to bring up the subject of prepping to anyone. "You one of them doomsday people?" A church parishioner named Jacquelyn had asked them that during their after-church lunch.
+	
+	There was simply no getting through to the people they knew, although that didn't stop them from trying. Eventually they had to look outside Atlanta. They searched online for other groups located at some short distance and came across Mark, Janice, and James. A relationship and bond was formed from then on. They trusted each other. They relied on each other. And each day, as the news got worse, they believed in each other.  No one knew for sure when their trust would truly be tested.
+
+
+
+
+
+
+
+The Prepper Pact
+
+James, the Mosses, and the Robinsons all lived within practical distance of each other. James had initiated the prepper group by searching for individuals who wanted to pursue an investment into an ideal "bug-out" house he had found in rural Milledgeville. Many people were naturally suspicious of James' offer, but he eventually found some takers. Milledgeville rested squarely between Atlanta and Savannah, though Savannah—on the coast of Georgia—was farther away. Geographically it made sense to both the Mosses and the Robinsons once they investigated the investment. He would live in the house, maintain it, and stock it with food and supplies if they agreed to split the cost of the property and the mortgage. The location was ideal for James, as he taught classes at Georgia College with an M.A. in Contemporary History. James loved history and reveled in Milledgeville's past.
+
+He had worked at Georgia College for more than five years. It had been nearly a year since he last saw anyone in his prepper pact. The last time they met was on a Labor Day weekend. The Mosses and the Robinsons took the drive to Milledgeville to check out the house and catch up with James and each other. For the Robinson kids, it was a simple barbecue with a friend of the family's they had never met before. Richie, Tobias, and Paula were curious about their parents’ newfound “friends.”
+
+"Why'd we drive all the way out here just to hang with some old white people?" Richie asked Tobias, who didn't know.
+
+Over the year, James heard less from his prepper pact, and wondered about them. They still sent checks for the house payments but seemed less interested in maintaining contact. It was nothing personal; they just had lives to lead.  He just hoped they'd be ready when the time came.
+
+Serious prepping took time and commitment, a challenge to anyone with a family and bills to pay. James lived an isolated life in the bug-out house, but he was happy. He'd always been somewhat of a loner and had been able to manage since the breakup of his marriage, and the distance from his son and grandchildren. He had his students. Each semester, he reveled in teaching the importance of history. He wanted them to realize that knowing history was the key to understanding the future. Knowing the past, James believed, prevented a society from making the same mistakes. Those who forgot the past were doomed to repeat it. It was for this reason James was an enthusiastic and dedicated teacher.
+
+The Robinsons had no intention of ever moving to a place like Milledgeville for good. The Mosses liked Savannah, every bit as much as the Robinsons had their roots in Atlanta. Terrance and Christina were admittedly proud people. Their run-down neighborhood on the outskirts of the city had got progressively worse over the years, but they were reluctant to move. They discussed the matter one night after a recent string of shootings around the neighborhood.
+"This is our home," Terrance said, "and we're not going anywhere."
+"But I don't know if I feel safe sending the kids to these schools any longer," Christina argued.
+"We're not moving, and that's final," he said. Eventually, they agreed to invest in the bug-out house because of its distance from the city.
+"When everything goes down, we'll be safe. And if I'm not here, you best gather up the kids and take the car to the house without me," Terrance said.
+She hoped the day would never come. Terrance was sure calamities were right around the corner, but each day passed and things seemed to remain the same. Terrance and Christina were both Georgia natives. Just staying financially afloat was enough for them. The prospect that everything could quickly change for the worse seemed very real, but they hoped they were wrong in the long run.
+
+The Mosses, frugal as they were, considered the cost of living reasonable in Savannah. They liked the weather, and they liked living near the coast. They bug-out house looked to them to be a wise investment. Mark was uncertain about working with James at first, cautious about just giving their money to a stranger who lived in the woods. But after an exhaustive background check and meeting James in person several times, Mark warmed up to him. James seemed to be the genuine article. A man intent on survival. They made payments on the mortgage, and the group eventually paid off the entire cost of $66,000. To mark the occasion, the Mosses and The Robinsons celebrated over the Labor Day weekend. It was the last time they had seen each other. A year had passed since then, when suddenly the power went out, and everyone's worst fears came true.   
+
+
+
+When the Lights Go Down
+ 
+Monday September 21, 2025 7:30 A.M. Savannah, GA.
+
+Mark woke up and immediately felt anxious the morning meeting with his boss. He looked over at Janice and saw that she was still sleeping. He wanted to wake her up to get some reassurance, but she looked too peaceful. Her shoulder-length dark hair was splayed over her pillow, covering the side of her face. She was lying on her side, facing Mark, with the curvature of her body steadily rising and falling with her breathing. He snapped out of his funk and placed a foot on the soft beige carpet below. The room was still dark, but one pull of the curtain over their large bedroom window, and sunlight would fill the room.
+
+After two weeks of trying to make a good impression at work, he felt that everything was riding on a single morning coffee meet. He would soon be sitting across from his boss, and he wanted to be awake, alert, and on-point. His morning routine began with a cup of espresso, followed by a hot shower. By the time he was dressed, it was five minutes to eight. He had plenty of time and started to feel good and ready. He tucked his long-sleeved button-up shirt into his dress pants then flipped his collar up to adjust his blue tie. Janice peeked her head into the bathroom.
+
+"Look at you all dressed up and ready to go," she said with a smile.
+"An impressive sight, if I do say so myself."
+Janice stretched. "Well don't take too much longer making yourself beautiful; I need to get ready for work myself."
+Mark adjusted his tie then straightened it with a pull. "Don't mind me, do what you need to do," he said.
+Janice pushed her way into the bathroom. "Move it, bub," she said. "Time's up."
+He circled around and pulled Janice closer toward him, holding her arms down. "When I'm rich and successful, you won't be able to push me around anymore," he said.  He looked at his wristwatch, and then re-adjusted his tie. "Bathroom's all yours, honey, gotta go." He flew out of the bathroom, leaving Janice standing in front of the mirror.
+"Good luck with your meeting," she said.
+Mark ran back in the bathroom and gave her a quick peck on the cheek. "Sorry, love you!" he said, then flew back out.
+"Love you too," she answered.
+Mark grabbed his suit jacket from the bed, moved quickly downstairs. "Have a good day at work," he shouted.
+"You too," Janice shouted back, and then she heard the door slam. She looked at herself in the mirror. Her hair was a mess. The light skin on her face was breaking out slightly into red bumps. She would have to put on an extra layer of moisturizer to control it. At twenty-eight, Janice was still young at heart and appearance. She examined her face and looked for any signs of age. Her hazel eyes shined in the light. Her thick and shapely lips could still be seductive when they needed to be. And her hair, originally brown, had been dyed black. She suddenly realized that she had to battle rush-hour traffic with less than an hour to get to work. She had to be there by 9:00 a.m. and it was already past eight.
+
+She threw off her bathrobe and jumped in the shower, in a slight panic. She foolishly turned the shower knob too fast and was met with a spray of water that felt like ice. She tried to switch the knob in the other direction and was blasted with scolding hot water. "Damn it!" she said. Eventually she got it worked out.
+
+Mark jumped into his dark blue, two-door Chevy Cavalier and backed down the driveway. Once he was on the road, he realized he had more than enough time to get to the coffee shop. It was 8:15, the coffee place was fifteen minutes away, and he didn't have to be there until 9:00. Now he would be too early. Mark wondered if being too early was worse. He didn't want to look as though he had been waiting too long for her. He had to remind himself to stop worrying, and that it wasn't a date.  
+
+Things on the highway weren't too bad just yet. After some time in stop-and-go traffic, Mark found his way to the Barnie's coffee shop, right down the road from the Nissan dealership. He lived very close to where he worked, which was an added benefit of the job. He could probably ride a bike to work every morning if he didn't have to dress business casual. Normally he didn't wear a suit, but he wanted to look as professional as possible for the meeting.
+
+Mark pulled in the Barnie's parking lot at 8:50. He wasn't sure if his boss had arrived yet, but found a parking space in the back and noticed a black Nissan Altima that looked like her car three spaces over. Barnie's was busy, and nearly every parking space had been taken. He got out of his car and walked hurriedly to the front entrance. There was already a long line at the counter.
+
+Mark glanced around looking for Mrs. Andrews. He walked past the front counter, turned to his left, and entered a quaint seating area. She was sitting on one side of a high table in the corner. Mark felt relief, and walked over the table to meet her. Barnie's was noisy with the commotion of patrons, employees calling out orders, and light jazz vibrating from the sound system.      
+
+ His boss was dressed in a dark single-button blazer with a white shirt underneath and slim, black pants that went down to her ankles. Her graying hair was tied back in a bun, and she looked very business-like, especially wearing her thick black-framed eyeglasses. She was at least ten years older than Mark but still attractive. She had a tall coffee in front of her and was reading over some files lying on the table. Mark grew nervous noticing the paperwork, but trudged over to her table as she looked up and noticed him with a smile.
+
+"Mark, so nice to see you, good morning," she said, holding her hand out.
+Mark smiled back enthusiastically and shook her hand. "Mrs. Andrews, thank you, nice to see you as well."
+"Please have a seat," she said, as she cleared her files off of the table.
+"Sure," Mark replied as he pulled out the stool on the other side and sat down.
+As they looked at each other, she noticed he didn't have a coffee. "Oh, I'm sorry," she said, holding one hand to her mouth. "You didn't get your drink yet. Please, put it on my card." She pulled a credit card out from her purse and handed it to Mark. "Thank you," Mark said, and slowly taking her card.
+
+"No problem, I insist," she said. Mark walked back to the counter and ordered a pumpkin spice latte. October was right around the corner. He made it back to the table, handed his boss her card, and took a seat. "Thanks again, Mrs. Andrews."
+"Please, call me Evelyn," she replied. “
+Mark took a sip from his latte, and tried to think of something to say, but Evelyn beat him to the punch.
+"How was your weekend?" she asked. A standard question in any sense. Mark folded his hands on the table and responded. It almost felt like the job interview all over again but a tad more informal.
+"Oh it was great. Very relaxing. Got to spend some quality time with my wife. Got some shopping done, you know, a nice quiet weekend. How about yourself?"
+Mark glanced at her hand and noticed a ring on her finger, just like him. He was glad to know she was married. They had something in common after all.
+"Mine was pretty much the same. Though a little more hectic. I've got a meeting later with some executives from Nissan, and I spent all of Sunday working on my presentation."
+"That's crazy," Mark said, not sure what else to say. He was no expert on the matter. "Nothing like a morning meeting to mess up your Sunday," he added. He suddenly cringed, aware of the comparison he had just made. Evelyn got right to the point.
+"The reason I asked you here today, Mark, is to go over a few quick things. I felt it better to talk in a relaxed environment, face to face."
+He suddenly grew more nervous. Evelyn moved in a bit. "I'd just like to say that we're very pleased with your work performance so far. The office likes you, the customers like you, and I've heard nothing but good things. To make six sales in a matter of two weeks is extremely impressive as well."
+Mark was confused but maintained eye contact as she continued.    
+"The point is, we're happy with your work so far, and I just wanted to let you know that. You've put in a lot of hours and show quite a bit of dedication for someone who's only been with us for two weeks." Evelyn paused. "Basically what I'm saying is to keep up the good work."
+"Well, thank you, Evelyn, thank you very much," Mark said. He could breathe again, and felt that his worrying had been for nothing.
+"If there's any questions about the job or about anything else, just let me know," Evelyn said.
+Mark clasped his hands, thinking. "Um. Nothing at the moment, I just want to thank you for the feedback. I'm very happy to hear it."
+She suddenly grew more serious. "Now I'm going to give you some careful advice. I've worked for Nissan for twenty years and have realized nothing happens overnight. Don't let the past two weeks go to your head. You've been great, but I've seen a lot of great ones crash and burn. Consistency is the key."
+
+	Mark nodded in agreement. "Thanks for the advice," he said.
+"No problem,” she said, looking at her watch. "Shit, it's 9:10. I'm sorry, Mark. I should have had us meet earlier so we could talk more. I've got to get to that meeting."
+"That's all right," he said, taking another sip of his latte. "I've enjoyed our talk."
+"Me too, let's do this again sometime in a couple of weeks and see where you're at." She grabbed her files, rose from the stool, and stuffed them in her large, red leather purse. "Sorry to leave so soon; see you in the office. And by all means, stay and enjoy your coffee."
+"No problem, thank you."
+
+Evelyn smiled and nodded while attempting to maneuver around the other tables. The lights in the coffee shop then went dim, startling her. Mark perked up and looked around as the lights came back on. Before he knew it, they flashed off again. The entire store went dark. Daylight streamed through the curtains.  A brief moment of silence fell over the busy Barnie's crowd; then everyone resumed their conversations. Mark waited and waited, but the power didn't come back. Strange as it was, he thought it even odder that every vehicle outside the coffee store was at a dead stop.
+
+Evelyn turned around to address Mark, with a look of slight annoyance. "Perfect timing. At least we got our coffee," she said. Mark got down from his stool and followed her. They passed the busy counter. Three lines had formed, and a group of people who had paid for their orders were waiting off to the side. They made their way past several customers who just wanted their coffee. The two female cashiers were offering apologies left and right.
+"I'm sorry everyone, our system is down. Until we get the power back on, we can't fill no orders," Tanisha, the cashier on the right, announced.
+"But what about those of us who already paid?" a skinny, bald man called out, waving his receipt in the air. "You gonna give us refunds, or what?"
+"Yeah!" a woman added.
+"I want my money back," a man said.
+Other disgruntled murmurs followed. The store manager came from out back and asked for calm, but nobody wanted to hear it.
+
+Mark and Evelyn made it outside and were met with the sight of complete gridlock on the main road. The Nissan dealership was only a few miles up the street.
+"What in the hell is going on here?" Evelyn asked as she took off her reading glasses and replaced them with a pair of Armani sunglasses from her designer purse.
+
+Mark looked around. Not a single car was moving. It was eerily quiet for a busy Monday morning. A few hawks circled overhead, cawing as if issuing a warning the people below. Evelyn hurried to her car, and Mark followed. Her high heels clicked on the pavement with each step as she rushed ahead and dug into the purse to retrieve her keys. Two cars sat in the middle of Barnie's parking lot exit motionless. The drivers stubbornly remained at the wheel, turning their ignition keys over and over. Flustered, Evelyn entered her Nissan and closed the door. Mark remained in the middle of the parking lot absorbing the stillness of everything. Customers shuffled out of Barnie's in a daze, squinting at the sun. The two stubborn drivers in the parking lot got out of their vehicles and walked around them in utter confusion.   
+
+From the driver's seat, Evelyn opened her car door. "Just wonderful, my car won't start," she called.
+	Mark turned to her. It was no routine power outage around him. There was something more. Something had disabled every vehicle in the parking lot and, from the looks of it, every vehicle on the road.
+"What happened when you turned the key?" Mark asked.
+Evelyn didn't answer; she was too busy digging around in her purse. She pulled a slim iPhone out and swiped its screen with her manicured red fingernails. Nothing happened. The screen was blank, there was no power.  
+
+She noticed him looking at her. "I'm calling a cab; I don't have time for this nonsense. I'm already late for the meeting." She stared at her phone’s powerless screen as if offended. She held down the power switch and got nothing. "Can't this thing hold a charge for more than five minutes," she said with growing desperation. "Argh!" she added. "What a morning."
+
+Mark approached her car, trying to stay clear-headed. The Barnie's crowd assembled back to their vehicles and was met with the same fate. None of their engines would start.
+
+"Why don't you pop the hood?" Mark suggested. She nodded back, leaned down and pulled the hood release. "It's probably the battery," she replied. "Maybe I left my headlights on."
+
+Mark walked over to the front of car, and stood over the engine, not knowing where to start. He tried to put the pieces together. The entire scenario he was witnessing seemed familiar. He'd read books about it, science fiction dystopia books detailing a massive strike against every electrical circuit—from a network server down to a clock radio. Such destruction was initiated by a magnetic pulse with voltage so enormous it caused a blowout in all things electronic. If something ran on an electronic chip of any kind, which most things—then it was toast. Too many signals alerted him to something much more significant.
+
+"What do you see?" Evelyn called from the driver's seat. She gripped the wheel shaking it. Her chances of making it to the meeting in time seemed unlikely with each passing minute." To Mark, nothing in the engine looked out of the ordinary. The car battery was connected at both ends. Everything was intact. Nothing was burnt, fried, or exploded. Mark held his hand over the engine and felt slight warmth but again, nothing unusual.
+
+"Everything looks normal," Mark answered. "Try it again."
+Evelyn turned the key again. There was no click or spark. "Nothing," she said. "Dammit!"
+Mark left her hood open and squeezed back through the cars. "I don't know what to tell you, Evelyn. I'll try my car."
+"Please do," she said looking up in desperation. "I'm already late for my meeting."
+
+His blue Cavalier was waiting for him, but provided no answers. He turned the key as Evelyn stood nearby tapping her heel on the ground nervously. The Cavalier was dead. Instead of the dashboard lights coming on or the A/C kicking in, his car was no better than any of the other useless hunks of metal now littering on the highway. He didn't want to admit it, but he could only make one reasonable assumption: an EMP had been launched against the city.
+
+"Nothing?" Evelyn asked in surprise as Mark climbed out of his car. "What's going on? Did someone mess with our engines? Gangs maybe? What kind of sick joke is this?" She was frantic and rambling to herself, and Mark tried to approach her with calm.
+
+"Evelyn, this was no accident. And I don't think it's simple vandalism either. This could be a coordinated attack. It would explain the power going out at Barnie's. Your phone not working. Our cars not starting."
+
+"What are you talking about?" she asked in disbelief while fishing for her phone again.
+"I'm talking about an Electronic Magnetic Pulse. An EMP. If someone launched one as a nuclear strike, it would disable everything that uses circuits or computer chips. Our power grids, communications, and mobility would be no more. This is some serious shit."
+
+Evelyn stared at him through her sunglasses with serious doubt. "How could such a thing happen? It's not possible." She pulled out her cell phone and swiped the screen. "I'm calling a tow truck. I don't want to leave my car here with hoodlums running all over the place."
+
+Mark looked around and saw mass confusion in the parking lot. Agitated people stood beside their cars, trying to get their phones to work.
+
+"Calling a tow truck might be a problem. If the cell towers are out, you're not going to get anything out of that phone." Mark pulled his phone from his pocket to verify. Normally the screen displayed the date, time, and weather. It was as if his phone had shut off. There was nothing but a blank screen.                         
+"This is ridiculous," Evelyn said. She held the power button on the phone with her thumb, and became lost in a cycle of frustration and helplessness.
+"You might have better luck walking to work at this point," Mark said, gaining her attention.
+"I don't know," she said. "In these heels?"
+Mark wasn't sure what to tell her. She was his boss, after all. In the event of an EMP, he knew that he had to get home to Janice. That was first. A long-term scenario of an EMP was predicted as "catastrophic" by the very commission who authored the study he had read a few years back. It would take weeks, perhaps months, but sooner or later things would reach a breaking point. People would grow desperate as necessities dwindled. Mark didn't want to think of how bad things would get after that. Survival for him and Janice was about taking action while things were still normal. Before they fell apart. He approached Evelyn and put his hands on her shoulders, startling her.
+"Evelyn, I can promise you this. If you need help, stick with me, and I can get you home to your family. The power is not coming back on. You have to believe me."
+She gave him a look of understanding then backed away, out of his reach. "So you're saying you're not coming into work today?"
+"There's not going to be any power there either. All the cars on the lot, every last one of them, will be in the same shape as yours or mine.
+"I appreciate your concern, Mark, I really do. I'll be fine though. Nothing right now is more important than getting to that meeting. Maybe I'll just walk, like you suggested."
+There was no time left to convince her of anything. Mark gave her a genuine smile of hope. "Best of luck to you, Evelyn. Thanks again for the coffee."
+
+As he walked away, she went back to her car, and studied it in a state of denial. Mark went through the parking lot and onto the sidewalk that ran along the main road. His house was about five miles away, and he figured he could make it on foot. He would get the bug-out car and pick up Janice from work, but there was no guarantee that the bug-out car would even work. They had stored it over the years in the backyard shed for the express purpose of an EMP scenario, but he couldn't remember the last time he had started it.
+
+Time was of the essence. A turn of good fortune arrived when he saw a bicycle store in the line of shops ahead. He walked quickly down the sidewalk, maneuvering around dazed people who blocked his path. Every person's face was buried in their non-functioning phones. They desperately pleaded with them to work. It was sad to see so many people so reliant on indifferent pieces of plastic that offered them no answers. Mark attempted to stay focused and not get diverted from his task, even though he wanted to explain to everyone what he believed to be happening.
+
+The bike store, like every other store, was dark inside and completely without power. The sales clerk, a tall skinny man with short wavy hair and a polo shirt, stood against the counter messing with his cell phone. The entrance door was propped open, and the man took little notice of Mark when he walked in. The small store was full of bikes lined up against the wall and hanging from the ceiling. Mark checked his wallet and, much to his relief, counted one hundred and twenty dollars in twenties.       
+"How ya’ doing?" Mark politely asked the man.
+The sales clerk looked up surprised. "Oh, hi. Sorry, I didn't see you come in. This shit with the power is crazy."
+Mark scanned the store for a possible purchase. "It sure is. My car broke down, and I'd like to purchase a bike." He didn't have time to burden the man with his EMP theories.
+"Yeah, I noticed a lot of cars like that. Could be the busiest day of the year for me if this keeps up."
+Mark laughed. He was surprised the store hadn't been cleaned out yet.
+"So what kind of bike you lookin' for?" the clerk asked. "Wait, a minute," he added. "Do you have cash?"
+It was a strangely direct question, but Mark understood the clerk's predicament.
+"Yes, I have cash," he answered.
+The clerk breathed in relief. "Good then. Our credit machines are down, and I can't very well take IOUs."
+"I understand completely," Mark said.
+"What can I help you with then?" the clerk asked.
+
+Moments later, Mark emerged from the store with a 10-speed Huffy Mountain Bike. It cost him $110 plus tax, and while he could have gotten something cheaper, his instincts suggested reliability.  Mark rode the bike down the sidewalk weaving around pedestrians who, themselves, seemed lost and confused. Any police officers with the misfortune of being stranded found themselves hounded and mobbed with questions of what was happening. "I wonder," Mark thought, "if I'll ever see my car again."
+
+
+Professor Cook
+
+Monday September 21, 2025 8:30 A.M. Milledgeville, GA
+
+  James pulled into the faculty parking lot of Georgia College thirty minutes before his morning class started. He liked to arrive early and go over his lesson plan briefly before class began. His office was a short walk from the parking lot to the humanities building. Inside, he took a seat at his desk, cluttered with notes and history books, and placed his briefcase on the oak surface. A tall bookcase stood nearby, stocked with many fiction, nonfiction, war history, and literature.
+
+The new semester brought a slew of fresh-faced undergrads that James had gotten to know over the weeks. They were a good group of kids and, James enjoyed their energy, spirit, and eagerness to learn. For his first class he’d prepared a lecture on the Civil War. The war fascinated him, not just because of its high costs—the largest number of war deaths in American history—but because of the complex and traceable events that led to the war and ultimately into a divided country. There were major lessons to be learned from the Civil War, lessons he would focus on during his lecture.
+
+James gathered his notes and took one last sip of coffee from his oversized mug. In the corner of his desk sat a dusty ten-year-old framed picture of James, his ex-wife, Anne, and his son, Cliff. He didn't have a more recent picture, and until he did, the dated family photo would remain.                    
+
+He walked into his classroom, carrying a satchel over his shoulder and a coffee mug in his hand. His wore gray tweed coat, pants, white dress shirt, and blue tie. Five minutes to nine, and ten of his fifteen students had already taken their seats.
+"Good morning, class," James said as he walked to his desk at the front class.
+The students, most of them fresh out of high school, said hello and nodded back politely.
+"Good morning, Professor Cook," a girl seated in the front row said.
+ James placed his satchel on the table next to his podium, and proceeded to go through his lecture notes. A massive dry erase board hung behind him, covering nearly the entire length of the wall. He grabbed a nearby marker and wrote the day's date on the board: Monday, September 21, then wrote, The American Civil War (1861-1865).
+
+It was almost time to start class. James put his glasses on and turned to face the class at the last of the stragglers slipped into the room and sat in the back.
+"Good morning again, everyone, I hope you had a great weekend. I know most of you labored hard on school work and abstained from anything remotely relaxing and fun."
+The class laughed politely.
+
+"Last week we had discussed at length the American Revolutionary War and the War of 1812. Hopefully, you learned a lot about those events in high school. And I hope that you were able to gain a more advanced perspective from our discussions. With that in mind, I want to stress the notion of the significance of war itself; the reasons we go to war, the high costs involved with these decisions, and the end result of years of battles and bloodshed. War is an exercise of force, whose purpose is to achieve a desired goal. Sometimes that goal is just, like ending slavery in the Civil War. Other times the goals are ambiguous; World War One, for example. It is my view that no meaningful change in history or society occurs except as a result of war. This is not to say that I'm pro-war. Terms like pro-war and anti-war don't really mean a thing.”
+
+He paused for a moment before continuing. “Though they do mean something in an ideological sense, what I want us to discuss are the events that lead to wars, the execution of those wars, and how society rebuilds and reconstructs itself after such catastrophic bloodshed."
+
+The students remained quiet, attentively listening.
+
+"Behind me I've written the dates of the Civil War, an event that we're all familiar with. It is the costliest and most significant war in America's history. It showed the true results of a fractured republic. It showed what it means to be a divided nation, and the results of that division when compromises can't be met. We can theorize that had Lincoln accepted the southern states’ call for secession—eleven states in all—the war could have been avoided and slavery would have existed for another century or longer. That, among other dilemmas, was what our sixteenth President faced when calling on Union troops to defeat the Confederate army. The Civil War began April 12, 1861 and officially ended June 22, 1865. A long and difficult reconstruction process followed throughout the South in attempts to repair the war-torn and decimated landscape so that it could rejoin the Union. The fundamentals of the war were fairly simple. One side wanted to split from the main body while the main body itself wanted to remain intact. So let's think about this. Could a Civil War of such magnitude possibly ever happen today? Could we imagine such a thing? Do we believe that such a thing is beyond the realm of possibility?"
+
+The class was silent at first. One student in the middle row raised his hand.
+"Yes, Eric?" James said, pointing.
+Eric lowered his hand and spoke. "Of course it is," he answered.
+"And why is that?" James asked, pacing in front of the dry erase board with his hands locked behind his back.
+	"Because there will always be divisions," Eric said.
+"That's true. Some divisions are greater than others. Many philosophers throughout history have suggested that to exist is to exist in perpetual conflict. But what about our nation's motto, 'United we stand, divided we fall?' Are we dishonoring those values when division is created?"
+Eric thought for a moment then answered. "I guess it depends on what kind of divisions those are."
+"Very good, Eric, very well said," James replied, satisfied. He turned to his class after picking up a textbook from the table.
+
+"Let's open our books to chapter three and dive right into the years leading up to the Civil War." As James continued, the lights in the auditorium flickered rapidly then went out. The momentary distraction threw James off a little. He tried to look at the book but could barely see anything. Faint light streamed through the small windows near the high ceiling, preventing the room from falling into complete darkness. Small chatter began to grow louder when the overhead lights showed no signs of coming back on. Several students were even more perplexed to find that their laptops were dead. At the very moment the lights flashed, their laptop screens went blue and shut off. The synchronized outage of all things electronic was eerie to say the least, but no one could pinpoint the cause.
+
+"That's strange," one student said out loud. "What the hell happened to my Mac?"
+Other students, with their tablets and cell phones out, felt the same abject confusion.
+"All right everyone, let's just stay calm. The lights should be back on soon." Though he wasn't sure of this himself.
+"Yeah, but my computer went out too, and it's running on battery. How did that happen?" A girl in the front row called out.
+Murmurs from the class followed.
+"What do you think is going on, Mr. Cook?” another boy asked. "My cell phone's dead too."
+In unison, all the students in the class took out their phones and tried to get them to work. To their near horror, they were met with blank screens, as if all their phones had been synchronized to shut off at the same time.
+"Please, everyone, put your phones away. We don't want to get carried away here. Just give it a couple minutes, and the lights should be on."
+"I'm not getting anything on mine. It won't even turn back on," a disappointed boy said, pressing the power button of his iPhone.
+"Me neither," another male student added.
+
+James placed the history book on the table and sighed. As long as the lights were out, he was going to have trouble maintaining the students’ attention. He leaned against the table and waited, deciding to listen to what the students were saying. Something hit him. A pattern emerged, and he suddenly perked up. “It couldn't be,” he thought. “That's insane.” Or was it?
+
+ He was a prepper after all. He drove a 1979 F150 for a reason. Years ago, James had bought the truck not only for its affordability and low maintenance but because he wanted to be prepared in the event of EMP attack. Conventional wisdom suggested that a magnetic pulse powerful enough could disable all vehicles with a microprocessor, electronic wiring, or computer parts. On the other hand, James had also read that such claims were considered a myth. He read that most cars wouldn't be affected anyway because wiring and electronics are well shielded against electromagnetic interference. There was no real certainty either way. At the very least, James knew that diesel engines, like that in his Ford, had no ignition system and would be protected against electromagnetic manipulation; at least that was what he hoped.
+
+James's mind began to wander, as he still hadn't fully accepted that anything so serious had interrupted his morning lecture. He students were still griping about their electronics when he excused himself from the classroom and went down the hall to check on his colleagues. The first thing James noticed was that the lights were out all over. The building had no power. There was no air conditioning, no emergency lights, no functional vending machines, nothing. He stuck his head into the office of one of the adjunct professors, a thirty-something named Pat, who taught English composition. Pat sat at his desk staring at the blank screen of his laptop.
+
+"Good morning, Pat. Everything okay?" James asked.
+"Damn power went out, right when I was in the middle of grading one of my student’s online assignments." Pat buried his face in his hands in frustration. "This is unbelievable. Nice fucking timing."
+"Yeah, same here. I was in the middle of a lecture.”
+"I don't understand it. My laptop wasn't even plugged, but why would it go completely dead like that?"
+"I don't know," James said, thinking. He tapped his fingers against the wall, trying to think of ways to offer Pat some help, but didn't really know what to say.
+"Have you talked to anyone else?" James asked.
+"Nope," Pat said, putting his face back in his hands.
+James looked around. "I gotta talk to my class; I'll catch up with you later.”
+"This is a nightmare," a distracted Pat mumbled in weary defeat.   
+James walked back down the hall, looking through the windows of the other classrooms. Each room had the lights out. One of the double doors flew open as a classroom of students, clearly frustrated with the power outage, entered the hallway and walked out of the building. James opened the door to his classroom and found that most of his students still remained. Only a few had left, most likely in frustration.
+"Power's out through the entire building," James said. "I may have to find the Faculty Director and see what he wants to do."
+"None of our phones work, not one," one of his students, Ryan, called out from the middle row. James stopped to think for a moment. He had left his cell in the truck accidentally and had no way of verifying it for himself. He asked Ryan if he could take a look at his phone. Upon examining it, he could see that the screen was completely blank. James pushed the power button, but nothing happened.  There seemed to be something more to the case than just a random power outage. He began to put together the pieces, and offered the class a theory.
+"I think it's fair to say this power outage is a huge distraction. We'll wrap things up so I can investigate."
+"What do you think happened, Mr. Cook?" Ryan again asked.
+"I don't know for sure, Ryan. Our electronics have been disabled," James answered.
+"How?" a girl in the front row asked. The students were looking at him, waiting for an answer.  
+"So far everything looks to me to be consistent with an EMP type scenario. How many of you have heard of an EMP?" A few students raised their hands.
+
+James continued. "An electromagnetic pulse is capable of sending a burst of energy into the air that can be fatally damaging to electronics. The threat of a nuclear EMP weapon was a very real concern back during the Cold War, but it's since become more of an unlikely threat. The purpose, however, of engaging in electronic warfare would be to eliminate the entire infrastructure of a country in order to create panic and chaos. I'm not certain, but it would explain your laptops and cell phones not working."
+
+"What should we do?" Ryan asked.
+"I would go home and stay indoors for the day. Just lay low until the problem is fixed. If you're able to stop by the store, see if they have any power. If not, stock up on what you can with cash."
+"Cash?" a girl said laughing.
+"Yes, cash."
+
+The ultimate question entered James's mind. He wanted to go to the parking lot and see if his truck would start. He wanted to see if any vehicles were working. "Class is dismissed for now. Everyone stay safe and keep in touch with me, that is, if you can get your cell phones working. I'm hoping this will all pass soon."  
+
+The students slowly got up, grabbed their bags, and left the auditorium, still in a great state of confusion. Cell phones, smart phones, tablets, Wi-Fi, and the Internet. They couldn't imagine life any differently.
+
+James walked down a hall towards the parking lot when the Faculty Director, Dr. Ron Keppler, stuck his head out of his office and called him in. "James, can I talk to you for a minute?" he asked. James stopped, and entered the office.  "Please have a seat," Dr. Keppler said. There were two vinyl chairs in front of his desk. An enormous bookcase stood against the wall behind him. James sat on the chair farthest to the left as Dr. Keppler studied him.
+"What's going on?" James asked. Dr. Keppler wasn't his favorite person in the world. Though they got along professionally, Keppler was often condescending, even though he was ten years younger than James.
+
+"That's what I was about to ask you," Dr. Keppler said in response to James' question. Keppler stared at him though a pair of wide-rimmed glasses that rested on his nose.
+
+James stammered slightly. "Well, I know that the power went out in the middle of my class, and it hasn't come back on. I know that my students’ laptops and phones have been disabled. Other than that, I'm not sure. Do you know anything about it?"
+
+"I haven't a clue, but I'm sure it's only temporary," Dr. Keppler answered. He smugly leaned back in his office chair, and James sensed a juncture in their conversation. "I noticed you dismissed your class early," Dr. Keppler said.
+"Yes, that's correct," James answered.
+"Do you think that was a wise move?" the Director asked.
+"I don't see why not. The power outage was very distracting."
+"And you told them it was an electromagnetic pulse attack?"
+James paused, unresponsive. Dr. Keppler continued, "I spoke to a few of your students on their way out. Seems you have some pretty outlandish theories about the whole thing."
+"I believe an EMP is a possibility, definitely. It would make sense," James said.
+Dr. Keppler laughed. "I don't doubt your conviction, James, I really don't." His chair squeaked as he leaned in closer. "I just don't think we should be filling our students’ heads with wild scenarios, calling this a terrorist attack and such."
+
+James felt offended. "I never said it was a terrorist attack."
+"All the same," Dr. Keppler said, waving a hand in the air. "The point is that the students are worried, and this EMP talk has them in a frenzy."
+"They should be worried," James said defensively. "There's a very high probability that all these disabled electronics are linked to an EMP attack. I've done plenty of research on the matter."
+"Ah yes, your research. In that cabin you have in the middle of the woods, slaughtering animals, and preparing for the apocalypse?"
+"Excuse me? I think you're way out of line with that comment," James said, his anger rising.
+"I'm sorry, James," Dr. Keppler said. "I didn't mean to offend you. I just don't want the students to be worked up into some kind of panic."
+"What panic? They left the class in an orderly fashion. Are they confused? Yes. There's no reason to keep them in the dark about anything."
+Dr. Keppler smiled. "Nice pun. Let's just wait and see what happens before we go spreading any more wild tales."
+"Very well, but in my professional opinion, this school needs to take appropriate action to plan for weeks, if not months, without power."
+Dr. Keppler rose from his chair. "I appreciate the advice, James, but what I'm concerned about most is creating a panic." He pointed at James sternly. "You are not to tell this theory of yours to any other students or faculty members whatsoever. This is a matter of safety."
+James sat silent for a moment, feeling himself being pushed into a corner. "You're issuing a gag order?"
+"Take it however you want to take it. This college has a reputation to keep. You're a good teacher, I give you that, but I would advise you to keep your personal life—the hunting, doomsday prepping, and end of the world theories off this campus. Good day, James." Dr. Keppler stretched his arm toward the door, indicating it was time for James to leave. There was nothing more to say. James rose from his chair, and left the office. Dr. Keppler sat down, satisfied to have put James in his place.  
+James's fears were confirmed as walked the parking lot, carrying his satchel over his shoulder. Several faculty members stood over the open hoods of their cars, all clueless as to why their cars weren't starting. The hot Georgia sun provided no mercy on the dry, cloudless day. The lack of air conditioning had already been evident in the building, was actually cooler outside. He spotted his truck and walked a few rows over.
+"James! There you are," a voice called out.
+James turned around and saw one of his colleagues, Denise, a professor of U.S. Political and Cultural Studies. She was frazzled and breathing heavily. Her blonde pageboy hairstyle blew in a quick and welcome breeze that suddenly swept by.
+"I've been looking for you; I just came from your classroom."
+"Denise, hey, what's up?" James answered, putting his sunglasses on.
+"I saw everything, James," she said emotionally.
+James walked closer to her. "What are you talking about? What did you see?"
+"Your students, I passed one of them, her name was Amber. She said you told them that an EMP blast in the sky caused the power to go out."
+James attempted to correct her. "I said I believed that could be the case; I don't know for sure at the moment."
+"Well, I do," Denise said. "I saw a large blast in the sky about twenty minutes ago. It was more like a flash, actually. It took only a second and practically threw me to the ground. I was on my way to my car to get some files. I thought maybe an airplane blew up or something. I just don't know."
+"I believe you, Denise, don't worry. From what you're telling me, it sounds like you witnessed an aerial nuclear explosion. It's probably how the electromagnetic pulses were deployed. From what I know, it takes only seconds."
+"I tried to start my car, but it's dead. My phone. My laptop. They're all dead," Denise said.
+She was shaken up, so James put his hand on her shoulder and tried to calm her.
+"Everything is going to be okay. I'm about to try to start my truck, and then I'm out of here. If you're having car troubles I can give you a lift home if you want."
+Denise smiled. "That would be great," she said, touching his arm. They walked to his truck, as James hoped for the best. Off in the distance, near the bus ramp, a bus was stopped in the middle of the street with several students standing around it. Others zipped by the scene on bikes. James and Denise approached a beat-up F150.
+"All right, let's see if this works," James said, entering the driver's side.
+Denise looked at the vehicle in wonder. "Wow," she said. "This car is an antique."
+"Sure is." James placed the key in the ignition, and put his foot on the clutch.  He cranked the engine while holding onto the stick shift. The truck roared to life without issue. James let out a heavy sigh in relief.
+"It starts. I can't believe that it starts!" Denise said, looking into the truck through James' side window. He grinned and looked over at her.
+"Go ahead and hop in. I'll take you home."
+She got in and looked at the minimal interior of the truck in awe. There was no carpet. The long bench seat in the front was old and worn, and the radio looked like something out of the 1950s.
+"How did you start it?" she asked while shutting her door.
+“I just turned the key,” James said.
+He moved stick shift into reverse and backed out of the parking space. They fled the lot while drawing the curious attention of several nearby onlookers. All the traffic lights were out, and motionless cars were blocking both lanes. James did his best to maneuver around them. Stranded commuters barely took notice, as their attention was focused on their own vehicles.
+"Not all cars are susceptible to EMPs,” James said to Denise. “At least from what I've read. I'm sure that military and law enforcement vehicles are designed to withstand the attack. I sure hope they are. I know the government has taken some precaution in that regard. My truck was designed before computer circuitry became a standard part of the engine. This is a 1975 Ford F150. Is it old as hell? Yes. Is it invincible? No. Is it completely safe from an EMP? I don't know. It's running now. I mainly got it because it's diesel and the engine is reliable."
+"Why diesel?" Denise asked.
+"Because in the event of massive fuel shortages, you can use alternate measures in lieu of diesel fuel."
+"Like what?"
+James thought for a minute. "Like vegetable oil, for instance."
+Denise laughed. "Yeah, right!" she said.
+"It's true. I tried it before. Truck runs just the same."
+"That's crazy," Denise said, staring ahead.
+"Let me know where I'm going here," James said.
+"Oh, I'm sorry, take a right at the light up here." Her voice dropped when she saw how many cars were in their path. At least ten alone blocked the road to her neighborhood street. James drove on the side of the road to get around them.
+They arrived at her house, located in a quiet, nearly empty neighborhood. She exited James's truck visibly shaken. She closed her side door and walked to James's side.
+"Thank you so much, James. I really don't know how to thank you."
+"You just did," James replied. The thought of inviting her to his bug-out house crossed his mind, even though he knew that she was married. He couldn't help it. "Good luck and stay safe."
+"Do you think things will go back to normal soon?" she asked.
+"I'd say it depends on the extent of the EMP blast and how prepared emergency teams are for it. Just make sure that you get plenty of food, water, and supplies from the store before their shelves are emptied. A couple of days of this will be all it takes."
+"But how?" Denise began.
+"Ride a bike. Walk if you have to. I can't stress it enough. You have to be stocked up."
+Denise touched James's hand. "Thank you again," she said, turning to her small one-story three-bedroom house. She waved and walked in through the front door. James waited until she went inside, and then drove off.
+
+ Twenty minutes later, roughly thirty miles away from Denise's, the Ford flew up the winding and bumpy dirt road leading to James' bug-out house. It was time for him to take the first step in preparing for the lengthy and treacherous aftermath of what was a probable EMP strike. He was not surprised to enter the house and find it without power. He was also not surprised to find his cell phone lifeless and inoperable. He had generators stored in the shed with more than fifty gallons of fuel on hand. Some of the house ran on solar electricity, including the outside lights and some electronics. He had also routed the back-up power of his kitchen refrigerator to the solar system, which would keep it running for a little while longer. He had a large 12-Volt batteries stored for essential appliances in case of an emergency. The kitchen oven ran off propane. Many things in the house were designed to run in the event of a power outage, and James felt vindicated for all of his hard work.
+
+ He filled his bathtub with buckets of water to have on-hand for washing and cleaning. He fished out all the flashlights, battery-operated radios, and batteries and placed them on the kitchen table. The radio in his car didn't pick up any signal, and he had no better luck with the portable radios or television. It seemed as if they'd all been fried. Through all of this "quick prepping," it never occurred to James to go to the police or emergency services to find out what was going on. His first instinct was to get to the bug-out house and get in contact with his prepper pact. For the time being, they even took precedence over his son and grandchildren.    
+
+James walked down into the cellar, light beaming in through the small windows, and retrieved a large protective metal case. He placed the case on a table and opened it. Inside was a radio transmitter, similar to a Ham radio that he began to set up in haste. The radio ran off lithium batteries. The protective case was meant to shield the radio from electromagnetic pulses, and as he completed assembling its components, the radio turned on without a problem. James sat and clutched the microphone in his shaking hand. He moved the knobs to reach the proper frequency where he could communicate with his prepper pact. He used their call signs, holding down the transmitter button.
+
+"Blue Sixty, Blue Sixty, come in Blue Sixty, this is Red Raven," James said. "Blue Sixty" was Terrance's call sign. James continued. "Badger Beast, Badger Beast, come in, Badger Beast." "Badger Beast" was Mark's call sign. He heard nothing. He tried again and again, having faith that they would soon answer his call. It was the only way he could find out how far the attack had reached.
+
+
+
+
+Good Morning, Janice
+
+Monday September 21, 2025 8:30 A.M. Savannah, GA
+
+Janice faced rush-hour traffic every morning. She always found herself battling against the clock, as it took no less than an hour on the highway to get to work. Miraculously, she would make it to work by 9:00 a.m. every time. All of this, she supposed, could have been avoided by getting up and leaving earlier, but her body didn't seem to allow it. Janice was stubborn in her routines, and rushing to work was one she wasn't going to change, despite any benefit to her sanity. Halfway to work she sat back and listened to a talk radio show, "Earl & Company in the Morning," in which they discussed nothing of great significance. It was all about jokes and laughs. Sometimes she didn't want to be inundated with the news and seriousness.
+
+In World News, the Middle East was raging with violence, as terrorist networks and so-called "sectarian groups" had effectively seized control of several countries in the region. Russia was moving on previously held territories in Europe, China was quickly advancing into the top spot as the world's top superpower, and they had already overtook America as the world's biggest economy. Iran and North Korea were unstoppable in their pursuit of a large nuclear arsenal. And this was in addition to all the problems occurring within the United States. It was too much to listen to at times. Too much to take in. To avoid depression, Janice listened to the humorous and trivial banter of "Earl & Company" instead.
+
+Janice worked for an employment agency and recruitment company, Terry Services, Inc., a "temp agency" sourcing skilled workers for outside businesses. Her job involved processing applicants, scheduling interviews, and assisting walk-ins with appointments and general information. Each day was busy from open to close, but she also noticed a troubling lack of temporary jobs available overall. Sometimes her agency couldn't find applicants any work.
+"Well, how did you get this job?" a frustrated man who couldn't find employment asked her.
+"I applied for it like anyone else," she answered.
+"Lucky you," the man said, storming out of the office. As a result, applicants were upset and short-tempered.
+
+Janice pulled into the vast parking lot, just before nine, and saw that people were already lined up outside the building, looking for work. She thought it was ridiculous how people expected to find work the moment they walked in. Janice approached the front entrance, and pushed past the line of people at the door. She wanted to help them, she liked to help them—it was her job—but it seemed simply overwhelming for a Monday morning. She walked inside the building, past a cramped and full waiting lobby, went down a hall, and entered her office.
+
+A knock came at her door. Janice looked up and saw her co-worker, Laura standing outside her office. "It's a madhouse out there," she said to Janice.  
+"I expected it to be busy, but this is just, I don't know. Mondays, what can you do?" Janice said. She looked at her watch. It said 9:08.
+"Time to get to work," she said, sitting down at her desk.
+“Good luck,” Laura said, walking away.  
+She had twenty applicants to process for temporary positions. The first was a man named, Josh Tracey, a computer analyst recently laid off from an IT firm. He was overqualified for most of the positions available, but would take anything they had. Janice went outside to the lobby and called out her first appointment. "Mr. Tracey?" she said.  A thirty-something nebbish man who sat squished between two other applicants on the waiting room couch stood up.
+"That's me," he said, walking towards her.
+"How are you this morning?" Janice asked. Mr. Tracey was wearing a faded suit, and his bushy hair was unevenly cut, looking as if he did it himself.
+"I'm doing well, thank you for asking," Mr. Tracey replied.
+They went to her office, and she closed the door.
+"Have a seat, please,” she said, pointing to the chair in front of her desk. Mr. Tracey sat.
+Janice continued. “So today is orientation. There's additional paperwork to fill out, orientation, and then we'll set you up with your new temp job.”
+"Baggage handler at the Savannah International Airport?" he asked, reading over his paperwork.
+"Yes, that's correct," Janice said.
+
+Before Mr. Tracey could respond, the overhead lights flickered out. Simultaneously, the screen on Janice's computer turned blue, and then shut off. There were no windows, and the room was extremely dark. It took a moment for her eyes to adjust, but Janice could see Mr. Tracey sitting in front of her.
+"You OK, Mr. Tracey?" she asked.
+“I'm fine,” he said from the darkness. “What the hell happened? Who turned out the lights?”
+Janice stood up and looked around. “Excuse me for a moment; I just need to see what's going on here."
+"Did your people forget to pay the power bill?" he asked with a laugh.
+"I certainly hope not," Janice answered. She got up and left her office to check out the lobby. The lights were out there as well.
+"Power's out," a seated man from the lobby said.
+"I see that," she answered. She left the lobby and walked past her office and down the hall to her co-worker Laura's office. There were no windows in the hall, and it had gotten dark very fast. She knocked, and Laura told her to come in. Janice opened the door. Sunlight beamed in through the tall windows behind Laura's desk. "I was right in the middle of drafting our newsletter,” Laura said, clenching her fists. “Son of a bitch, I forgot to add it to the share drive. Ugh!"
+"I'm sorry," Janice said. “I don't know why it went out.”
+"Who the hell knows,” Laura said. "There's no storm. Not a damn cloud in the sky."
+Janice shook her head. "Hopefully it will come back on soon. I have a lot of people waiting out there. I'll talk to you later." She walked back down the hall as Laura stared at her screen in a daze.
+
+Back in her office, Janice found a small flashlight in the top drawer of her desk. She pulled it out and turned it on. Mr. Tracey had wandered off, and he was no longer there. She could hear co-workers outside her office complaining that their cell phones weren't working. The scenario seemed familiar. It was something Mark used to talk about. Something called an EMP attack that destroyed power systems and electronic devices. Something that would take the country back to the 1800s in a matter of seconds if it could really happen. She dug her phone out of her purse and saw that it had fared no better than the others. The screen was blank, as if all its power had been drained away. Janice sat at her desk and thought for a moment.
+
+"Excuse me, miss, just what in the hell's going on here?" an angry old man asked, breaking her concentration. He had left the lobby and found to her office, a highly irregular move for an applicant.
+"One moment, please, sir," she said. She picked up the receiver of her land-line phone to call her boss, Brian. There was no dial tone. It was as if the phone wasn't even plugged in. She slammed the receiver down in frustration. She got up from her desk, and pushed past the man. “I'm sorry, I don't know what's going on.” The man was not satisfied, and yelled at her as she walked away from him. He reeked of alcohol.
+
+Janice left office of the temp agency and decided to look elsewhere in the three-story building. The elevators weren’t working, so she headed for the stairwell. People were exiting, hurrying down as she was climbing up. She searched the second and third floors and found them to be the same as the first: dimly lit, full of confused wanderers.
+	
+She went back down to the first floor and exited the building. She was met with an unruly cluster of people on the bottom floor. Various job-seekers from all walks of life had convened outside the doors, lost and aimless. They wanted to know why the power was out. They wanted to know how much longer before everything magically came back on. Many of them held cell phones, frantically trying to get them to work. Without the guidance of their electronics, they looked to Janice for answers.
+	
+She was about to make her way back inside when she noticed an unusual quietness from the nearby highway. She could see the highway from the parking lot. It looked to be frozen in time. Vehicles sat motionless in what looked like early-morning gridlock. Nothing was moving, not even an inch. Janice stared, waiting for one of the hundreds of cars on the four-lane highway to move. Suddenly, she noticed something else: drivers and passengers were exiting their cars then circling them, looking perplexed.   
+
+Her boss, Brian, called out to her from outside the building as she walked to her white 2015 Toyota Corolla. "Janice, where ya’ going?" he said, standing with his hands on his hips.
+“Damn,” she thought. She was about to leave.
+She turned around and yelled back, "I just have to get something out of my car."
+She unlocked the driver's side door and stepped in. She stuck the key in and turned the ignition switch. At first, she thought she was doing something wrong. She checked the dashboard to make sure that the vehicle was in park and tried again.  The SUV wouldn't start, and Janice had no clue why. She tried the engine ten more times, getting nothing. She tried it in neutral, reverse, and drive to no effect. Her hand was tired from turning the key so many times. She walked back to the building in a daze as her boss greeted her sarcastically.
+"Little bit of car trouble?" he asked.      
+"Looks like I'm not the only one," she answered, signaling to the motionless gridlock on the highway.
+
+Mark pedaled home in haste, hoping that, for some unexplainable reason, Janice hadn't left for work yet. As he rode up their driveway, he saw that her car was gone. Mark thought for a moment, considering whether to drive their bug-out vehicle to Janice's office and rescuing her. But maybe her car worked after all. Maybe she got lucky. Mark didn't know the range of EMP blasts. He didn't know if its effects had spread across town, across the state, or over the entire country. He noticed his elderly next-door neighbor sitting on his front porch swing. Mark stepped off his bike, practically drenched in sweat. He had taken off his suit jacket and rolled up his sleeves, but there was no escaping the sweltering heat. He checked his cell phone again. It was still dead. His neighbor looked peaceful on his porch swing, in perfect contrast to the chaos Mark had fled.
+"How's it going, Mr. Harper?" Mark called.
+Mr. Harper leaned forward on his cane and squinted. He wore a short-sleeved buttoned-up shirt tucked into his dress pants, colorful red suspenders, and a braided sun hat. He fanned himself leisurely with a paper fan.
+"I'm doing fine, how about yourself?" he said.
+Mark walked closer and stood under the shade of Mr. Harper's chestnut tree.
+"Doing all right. Bit of a scare today with the power. It's like some kind of blackout. How are you holding up here?" Mark hoped that Mr. Harper would say that the power was running fine.
+"Blackout?" Mr. Harper said. "I didn't even notice it. Just been sitting on my porch drinking some sweet tea." Mr. Harper held up a glass and finished the last of it. Just looking at the empty glass made Mark thirsty. He had to get inside to see everything for himself. Whatever was happening, Mr. Harper was oblivious to it.
+
+"Well, I gotta pick Janice up from work. I'll see you later, Mr. Harper," Mark said, waving.
+"You tell her I said hello," and he began swinging back-and-forth.  
+"Sure will," Mark responded. He walked up the steps into his home and unlocked the front door, hoping to find by a cool, air-conditioned living room when he stepped inside. That wasn't the case. The power was out. Mark walked around the living room, dining room, and kitchen checking each appliance. Nothing worked. He opened the refrigerator and looked in. Only darkness. The motor wasn't running, and it would be only a matter of time before all the food inside spoiled. Mark leaned against the counter thinking to himself.
+
+“What are we going to do?” Mark muttered out loud. “What in the hell are we going to do?”
+He thought of their food storage in the basement and how most of it was expired. He thought of their money, their assets, and their online accounts. He thought of ATMs, and not having in cash, and looters. The banks would soon be the most chaotic places imaginable, next to the supermarkets and gas stations. The bug-out house was a consolation to his worries. Mark considered their options. He needed Janice's input. Traveling to Milledgeville and leaving their home behind was a huge step, but a necessary one if things got worse.
+
+Mark went to their backyard shed. He opened the wooden double-doors and found their bug-out parked inside, covered with layers of dust and grime. They owned an American classic: a red 1970 Plymouth Road Runner with a rear spoiler and lots of attitude. The door squeaked open, and Mark climbed into the driver's seat.
+
+He wasn't surprised to find that the car wouldn't start. He hoped simply because the battery was dead. For that reason, they stored three car batteries on a shelf in the shed along with ten five-gallon cans of reserve fuel. Frustrated, Mark popped the hood and grabbed some tools to disconnect the dead battery so he could install a replacement. He was confident that the car would start in the end. If it didn't, then he would have to rethink his entire strategy. He was not looking forward to riding his bike to Janice's office in ninety-degree heat. He swapped out the batteries and ensured that the replacement was tightly connected. He sat at the wheel, placed the key in the ignition, and paused. He really didn't want to find out. If the car didn't start, he would be devastated. "Please," he said under his breath. "Please..."
+He turned the key and felt the miraculous roar of the Plymouth's engine.
+"Yes!" he shouted, hitting the steering wheel with excitement.
+He revved the engine methodically then held the gas pedal down. He had always kept the car below half a tank to prevent corrosion. Now he had to fill it up with twenty gallons worth of fuel reserve. Out of ten fuel cans, he would have six left. He hoped that would get them to Milledgeville, if there were no gas stations operating. He shut the door and idled out of the shed onto a path that led him to the front yard. He waved again to Mr. Harper and sped off down the street in hopes of finding Janice. Mr. Harper waved back and smiled, still unaware of anything out of the ordinary.
+
+Janice paced back and forth the parking lot in front of her building, wrestling with her options. Without a car, she didn't have many. She could walk home under the hot sun, or she could wait, and hope that Mark would soon arrive. She thought of their bug-out car, and wondered if there was any chance that it still ran. Perhaps an EMP had nothing to do with anything going on. Maybe it was all in her head. Her co-workers wandered dazed through the parking lot examining their cars and trying to get their cell phones working.
+
+The highway was a sight to behold. Commuters walked down the highway like some kind of mass protest. Janice was caught between a desire to maintain her routine, and the realization that things were different now. She decided to wait. The power company had to intervene at some point. They would have the protocols in place to deal with such a thing. The government as well. She thought of the hospitals, prisons, schools, gas stations, and banks. There had to a plan to deal with a crisis of such magnitude.
+
+She looked out toward the highway again and there, right before her eyes, saw the results of an aerial electromagnetic pulse. If an EMP had been launched, it meant America was at war with someone. Janice thought about their home, their investments, and lives. Her head spun with panic. She looked back to the office building. More people had walked out, and were chatting with each other. She could feel sweat building on her back, under her shirt. Only ten feet away from her building, and dehydration had kicked in. She walked back to the building and stood under the shade of a nearby oak tree.
+
+Mark drove the Plymouth through back roads to reach Janice's office. He wanted to avoid the highway as much as possible. Too many cars as roadblocks, and too many people. The back roads were not without their share of wanderers and broken-down vehicles either. He felt no satisfaction passing anyone, but he had his hands full as it was. He was only a few miles from Janice's building.
+The Plymouth crept down back roads, its loud motor gained attention from everyone in its path. Mark drove slowly; cautiously attentive to whatever obstacles might be in his way. The paralyzed traffic created an eerie silence, pierced only by the sound of Mark's car, which could be heard miles away.
+Janice heard the sound of Mark's Plymouth in the distance. She was standing under a nearby Oak Tree next, as many others convened outside the building. She saw the mysterious Plymouth as it turned into the parking lot, confounding every bystander along the way.
+
+"Hey, man!" a young man covered in tattoos shouted. He held his arms out as if flagging Mark down. "Let me get a ride!" he said as Mark passed him by. The man jogged after the car, and soon others joined him. Mark looked in his rearview mirror and saw that he was being followed. A large group of desperate people trailed behind him. He would have little time to get Janice if she was still there. He gripped the steering wheel, and his eyes swept the parking lot as he searched for his wife.
+
+Janice’s attention was drawn to the odd sight Plymouth. People were following it like parishioners after their prophet. The car sped up, but couldn't shake them loose. Suddenly it dawned on her that the Plymouth was no ordinary car, it was Mark's bug-out car coming to get her.
+
+A sudden sense of relief and happiness swept over her. Mark slammed on the brakes in front of the building and kept the engine idling. He looked frantically for Janice in the crowd. Against his better judgment, he pressed down on the horn as it sounded a muffled blaring. Janice ran toward the car, away from her perplexed co-workers. The mob behind the Plymouth had gained ground and had almost reached the rear bumper when Janice flew to the passenger's side. Mark leaned over and pushed the door open for her, his face filled with both anxiety and relief. Others were crowding closer.
+"Janice, thank God!" he said, and reached across to help her inside. "Hurry up and get in!"
+She swung her legs inside, and plopped down into the seat. Her door swayed open as Mark pulled away from the building and drove in the opposite way, trying to lose the mob following them.
+"Come on, asshole!" a sweaty man billowed out in raspy breaths. "Give us a break here!"
+Janice slammed the door shut, and hunkered down in the seat. The mob tried its best to keep up, but soon the Plymouth moved out of range, bumping over a parking median and onto the main road. They weaved between perfectly still vehicles in their way. Mark feared that their path would soon be blocked by a pack of frustrated motorists.
+"We have to take the back roads," Mark said. "The highway is much too dangerous."
+"What's going on, Mark? Is this an EMP?"
+Mark kept his eyes on the road, taking a moment before answering. "Pretty damn good chance," he responded.
+"What are we going to do?" she asked. "My friends at work are stranded. I didn't know what to tell them."
+"Right now it's the only thing that makes sense. We have to assume the worst. We have to be prepared. This is what it's all about, Janice. We knew something bad was coming."
+"I know, but─" Janice began. She stopped and covered her face with her hands, grief-stricken.
+They pulled off the main road, going back the same way Mark had come. It was longer than taking the highway but safer. Mark looked at Janice sympathetically and trying to think of how to console her.
+"How are you holding up?" he asked her. "Are you okay?" He reached over and placed his hand on hers.
+Janice looked up and sighed. "I was sitting at work, talking with one of our applicants when the power went out, just like that." Janice snapped her fingers.
+"Same thing happened with me."
+"At first I didn't think much of it,” said Janice, “like it was just a downed power line or something, but as soon as I saw the cars, I knew it was something different. Then the cell phones and everything else went."
+"Electromagnetic pulses. That's what they do," Mark said.
+"Yes, but for how long?"
+"What?" Mark asked.
+"How long will it be like this?"
+Mark couldn’t answer. He looked around and took the next turn towards home. Their windows were down allowing in cooling gusts of wind. They passed stranded motorists by the dozens, careful not to make eye contact. It felt wrong to leave them, but there were far too many.
+ “There's nothing we can do for them right now. Right now it's just you and me," Mark said.
+"How long will everything be like this?" Janice asked.
+"It could be days, months, or years. The government is supposed to have taken measures to minimize the effects of an EMP blast. There's no telling what they came up with, or what sort of emergency plan they have in place."
+
+Suddenly in the creeping silence, Mark and Janice heard helicopters in the air; an army of helicopters it seemed. Janice looked into the sky and saw them coming into view. They were painted blue and white, and looked to be law enforcement. Mark grew paranoid at the presence above, as they would clearly identify their Plymouth as one of the few, if not the only, cars moving on the road. However, they flew over them without a care, and over the horizon, out of view.
+
+They made it back to the house, without any clear answers. Janice was shaken, where Mark was focused. He felt that they needed to get to the bug-out house as soon as possible. As they pulled into the driveway, Mark looked over to Mr. Harper's front porch. His neighbor was no longer there. Only an empty swing remained. They parked, and Mark helped Janice out of the car, holding her hand as they walked back into the house.
+
+"Silly question," she said, "but our house... is it...?"
+"No power, sweetheart. Just like everything else." Mark led Janice inside. The house was stunning in its silence, and humidity. Mark walked through the living room, shutting the blinds to block any view from outside. Janice sat on the couch, and looked at her silver shiny wrist watch. The hands weren't moving. It had stopped at 9:10 a.m.
+"Thanks you for getting me," she said. “I guess you were right about that old car.”
+Mark turned from the window to look at her. “I never knew for sure. We're very lucky.”
+The smile on Janice's face vanished as a distressing thought came to mind. "Our finances," she said. "What about our money?"
+Mark walked to the couch and sat next to her, placing a hand on her knee. "I'm not going to lie, honey; right now it doesn't look good. Our gold investments should be okay. We have a few thousand in cash stored in the safe. As far as our savings, I just don't know. The banks are down. We can't call them. The ATMs aren't working. Even if we showed up there, they can't do a thing until the system is up. In another day or two the banks will probably be either the most secure or dangerous places on earth. Everyone is going to want cash, and once they realize their credit cards are worthless, they're going to get angry and desperate."
+
+Janice rested her head on Mark's shoulder, and for a moment they were just quiet.
+"Is it Milledgeville, then?" she asked softly. After doing the math in her head, Janice, like Mark, had soon came to the conclusion that the bug-out house was the place to be.
+"It's looking that way," Mark said. "Why don't you rest for a minute? I'm going to try to get in contact with James."
+Mark got up and walked toward the basement. Janice looked at him curiously. "How are you going to do that?" she asked.
+"I'm going to try him on the radio," Mark answered and continued walking toward the stairs.
+Oh, well. Good luck with that. Janice stretched her legs out on the couch and lay back. Her mind raced in a million different directions. She looked up at the popcorn ceiling and became paralyzed by her thoughts.
+
+Mark found the radio, secured in a thick metal case. Once it was set up on the table, it looked like something from an old war movie. The 500Hz main transceiver sat in the middle, fitted with plastic knobs and buttons. At the end of an attached, coiled cable was the receiver. Mark flipped the power on and could hear static through the handheld microphone. The radio ran off of a 12-volt battery attached inside. It was an ideal means of communication in emergency situations. Mark trolled the frequencies, moving through its digital display, searching for anything resembling radio activity. He reached 1407, which was a station he knew James sometimes frequented.
+"Red Raven, Red Raven, this is Badger Beast, do you copy?"
+He released the button on the handheld mic and waited. There was nothing but static. Mark continued. "Red Raven, come in Red Raven, this is Badger Beast, do you copy? Over."
+A sudden sound crackled over the mic. "Badger Beast, this is Red Raven. Over."
+Mark was elated. As a result, he fumbled slightly with the receiver.  
+"Awesome! So glad you're there. Over," Mark said, foregoing any type of radio etiquette.
+"How you holding up on your end? Over," James asked.
+Mark held down the button on the handheld and spoke. "It's pretty bad here. Possible EMP strike occurred early this morning. All power is out. All devices. Bug-out vehicle is operational. Over."
+"Same here. EMP has spread to Milledgeville and beyond. Over."
+"What is the status of our rally point? Over." Mark asked.
+"Rally point is a go. Over."
+"Great, we'll leave first thing tomorrow morning. Over."
+"Sound good. Over."
+"Will see you soon. Over and out," Mark said.
+
+Mark switched off the radio and set down the hand mic, pondering their urgency. He estimated that they had at least a week or two of normalcy, waiting for emergency assistance like everyone else. But even before the black out, things had reached a tipping point. All the economic problems and general discontent going on throughout the nation only needed one match to light the fire. Driving to Milledgeville days after the fact would almost guarantee trouble at the hands of an even more desperate mob. They had to leave soon. Mark went to the living room and stood over Janice as she lay on the couch, still deep in thought.
+"I think we should leave tomorrow morning," he said.
+Janice sat up and stared at Mark, considering his suggestion, but she looked more worried. "What about our house? All of our stuff?"
+Mark sat down next her, sinking into a plush cushion. "We’ll take everything we possibly can. We’ll hide our valuables, or pack them up. It's going to take some work, but we can do this."
+Janice seemed wary of Mark's suggestion. "Do you really think we need to leave so soon? We don't know what could happen. They might have the power back on in a few days. Like you said, they have protocols for this sort of thing."
+
+"Janice, we need to do what we've been planning for all this time. We have to take advantage of the bug-out house. We're not going to stay there forever, but it's going to be safer in the long run. Think about it. The longer we wait, the more dangerous it's going to get out there. The more dangerous it gets, the more unlikely our chances are to ever make it to Milledgeville." Mark paused. “Listen," he said, leaning in closer. "I talked to James. Milledgeville's almost two hundred miles away, and they're going through the exact same thing we are. We have no idea the scope of this."
+
+Janice nodded but still couldn't feel the same urgency Mark did about leaving. "If we waited a couple of days, we could then leave late at night if we had to. It would be safer out. Fewer people, fewer everything."
+
+"We can't sit here and wait for them to come for us. You saw how many people chased after my car in your parking lot. That was, what, a few hours after the attack? How do you think those same people are going to react after three days with no power?"
+Janice said nothing as Mark placed his hands on her arms and looked into her eyes. "I don't want to do anything that you don't want to do. Just consider it. Think about what I'm saying. I'm only concerned about our safety. You're my wife, and I can't do any of this without you."
+Janice felt her eyes water but tried to not to get more emotional. Everything she had dreaded was happening at a frightening speed. She looked into Mark's eyes and tried to arrive to an answer.
+
+
+
+
+
+Pandemonium in Atlanta
+
+Monday, September 21, 2025 8:45 A.M. Atlanta, GA
+
+Interstate 75 was a nightmare, typical of Monday morning rush-hour traffic. Terrance had left his house a little later than planned and was on his way to Dearborn, Michigan, in his eighteen wheeler semi. As of now, the forty-foot trailer hitched to his glossy red cab was empty. Thirty pallets of copper wire awaited him in South Carolina then on to the Wolverine state. By his own estimate, he was an hour behind schedule, which, in the trucking business, was not a good thing. He knew I-75 would be a pain, it always was. Once he found himself in the thick of it, he tried to think of alternative routes, but few existed. He called other drivers on CB radio, asking them how far the gridlock extended. The news wasn’t good, and Terrance soon found there was no way around it. Traffic was going to be crawling no matter which route he took. He only had himself to blame for any delays. If only he’d gotten out of bed earlier and hit the road.
+
+He thought back to that morning. The cool bedroom, the soft pillow tucked under his head. It was still dark outside, and then the alarm clock buzzed. "Ten years," Terrance muttered under his breath as he finally sat up in bed that morning. "Ten more years and I'm done." He had a lot of years on the road. Could he do ten more?
+
+	Terrance felt the absence of his family every time he left home. He believed, over the years, that he would get used to it. Having a steady job, after all, wasn't something to take for granted. Even with Christina working, they were making just enough to get by.
+
+His boys were in high school now, and all Terrance and Christina asked and hoped for was that they graduated. If they could make it that far, their parents would feel they had done their jobs. Terrance stared ahead, squinting against the rising sun. The light was blinding, even with his sunglasses on. Traffic clogged the road as far as he could see. "Dammit," he said, downshifting to a crawl. Terrance hated to be late, especially when it involved his haul, but had little control of the situation. He held the CB microphone in his hand and spoke, hoping someone was listening.
+"Any way around this cluster in the Big A?"
+A static-filled voice replied over the radio. "Clears up in about six miles," the man said.
+"10-4,"Terrance said back, "You see the 85 exit up there, Big Boss?"
+"That's a go," the man responded.
+"Good thing. Got to get to the Carolinas before noon."
+"What's your 99?" the man asked.                        
+"Dearborn, Michigan."
+"Good luck with that, buddy," the man said.
+"Thank ya' much," Terrance said as he hung the microphone up.
+
+He had left the house later planned.  Just a few more moments with the wife and kids had cost him dearly, but his next three weeks on the road would be lonely. In the end, he thought it was worth it. Terrance decided to crank up the radio and listen to some old-school R&B, which only made him think of Christina. He tipped the bill of his hat down to deflect the sun's blinding beams and took a sip from his large, steaming coffee cup. He’d picked it up at the 7-Eleven where he had fueled up before starting the journey.
+The coffee tasted good, and it looked to be a nice, ordinary day, when suddenly, everything changed. Suddenly a bright flash streaked across the sky like some kind of all-encompassing lightning bolt. Following the flash, Terrance noticed silence on the radio. His switched to his CB radio, and heard nothing, not even static. His engine sputtered out, and a thin, wavy line of smoke rose from under the hood. Terrance stomped on the gas pedal, but the truck didn't respond. He shifted to neutral and coasted a few feet before applying his brakes to avoid hitting the station wagon in front of him. He shifted into park with a quick jerk of the stick and then applied the parking brake.
+
+"Shit," Terrance said, removing his hat and wiping a thin layer of sweat on his forehead. His truck had died, and he wasn't even out of Atlanta yet. Of all the unpredictable bullshit in the world, he hadn't expected it. Maybe it was a blown gasket. Maybe the battery had failed. Something, somehow, had triggered a shutdown. In all his time driving, Terrance had never experienced a complete and random shutdown in the middle of the Interstate. He gripped the wheel with one hand and turned the key repeatedly in the other. He heard mechanical clicking noises from the steering column and little else. Then he heard nothing. The truck was deader than a twelve-hour roadkill.  
+
+He shifted from neutral to park to reverse and tried to start the truck in each gear. He was afraid for a moment that he was holding up traffic behind him and pushed the hazard light button on his dashboards. The lights didn't work anymore than the radio or anything else inside or outside the truck worked.
+
+Terrance glanced into his side mirror, and then looked ahead. Traffic had stopped in both directions. An overhead traffic sign which had flashed “Heavy Congestion Ahead” a moment before was completely blank. Every car was frozen in time. Terrance rolled down his window manually and looked outside. A motorcyclist passed slowly in between lanes, gripping his handlebars to maintain balance as he doggedly pushed the bike forward with his legs. Terrance watched as the cyclist inched down the interstate. Drivers in cars around his truck appeared riddled with confusion.
+
+Hundreds of engines had shut down in unison. Drivers were left at the mercy of their once reliable vehicles, stopped dead. It was only morning, and already hot. The weather forecast predicted peaks in the high nineties throughout most of the day. Terrance saw no coincidence in any of it, and believed something major had just happened.
+
+To get a clearer picture, he decided to get out of the truck. No matter what he did, or how many times he turned the key, the truck wouldn't restart. Terrance climbed down the steps onto the pavement of the interstate and slowly walked in between cars on the five-lane highway to see if was any better up ahead. Other drivers and passengers had the same idea. Hoods opened, children cried, frustrated drivers cursed under their breath, and all the while, Terrance observed everything, trying to get an idea of what was happening.
+
+"Just stay in the car, Linda, I'll handle this," a nearby man said. He sounded confident but looked totally dumbfounded as he examined the engine of his white four-door Buick Regal. His wife ducked back inside and sat anxiously watching from the passenger's seat.
+"Son of a bitch!" another man shouted as he fiddled with the connectors of his car battery.
+"What the hell is going on?" A woman asked a girl who was standing next to her. They stared at their smart phones in disbelief.
+"My phone's out," a man said.
+"Mine too," another responded.
+Terrance hustled some distance down the road before he stopped and turned around. He reached into his pocket to pull out his older model flip phone. He was a man who still used road maps. Even his modest flip phone was completely dead, like the other more recent models of the people around him. He held down the power button, waiting for the screen to flash on, but nothing happened. He opened it from the back, took out the battery, then placed it back in. No results.
+
+"Ma'am, is your cell phone working?" Terrance asked a sharply-dressed woman leaning against the side of her Volvo, wearing an exhausted expression. Her eyes looked away from her phone and up to him for only a second.
+"I've got nothing," she said.
+"No bars?" Terrance asked.
+She looked back at him with a hint of annoyance. "No, I mean I can't even get the phone to come on, which is totally crazy, because I just charged this thing this morning."
+
+"Thank you," Terrance said, walking back to his truck. The simultaneous loss of vehicles and cell phones were linked in some way he hadn't quite figured out yet. He had a handheld two-way radio in his truck. It was the same one that he had asked each member of his family to carry in case of emergencies. If the radio still worked, it would be the first time he had ever used it to contact them. The first time in which it had been necessary.
+
+“Can't be true,” Terrance thought, shaking his head. “There's got to be another explanation.”
+He suspected an EMP strike. It seemed plausible. The morning's events had hit him unexpectedly and hard, just like everyone else around him. He climbed back into his truck and searched the glove compartment for his handheld radio, wrapped in layers of plastic and aluminum foil. The added precaution was to ensure that the radio would function after such an attack. He’d read about it on a prepper forum. To protect a piece of electronics, they said, the item must be wrapped in a non-conductive material. Again, Terrance had no way to know for sure if the theory would work, but it had seemed worth the try. He had placed the radio in a Ziploc bag and wrapped it in aluminum foil. He then placed the wrapped radio in another Ziploc bag and, again, wrapped it in aluminum foil. For the final step, he placed the radio in a small brown paper bag and sealed it.                
+
+Terrance unwrapped the radio in anticipation, and once exposed, he quickly switched it on by the turning the volume knob. A red light came on, and static sounded through the speaker. He felt a flash of happiness and relief and was genuinely surprised to find that the radio had power.  It was powered by four AA lithium batteries. He hoped that his wife and children had taken the same precaution and kept their handheld radios wrapped as well.
+
+The semi sat in the middle of the highway, motionless, already an artifact in a sea of other disabled vehicles that showed no indication of moving anytime soon or possibly ever again. Terrance gathered the rest of his belongings—a backpack with snacks, bottled water, some clothes, soaps, some cash, and lastly, his snub nose .38 revolver. He closed the glossy red door of his prized semi-truck and patted it gently. "Goodbye, Deborah," he said, while running his hand across her side. They had spent the last ten years together and had seen most of the better part of the entire majestic USA. With his backpack slung over the shoulders of his plaid shirt, Terrance walked down the highway, heading in the direction from which he had just come. His only option was to get back home and get his family together. He just hoped they had their radios on them.
+
+The extent of what was happening, how it happened, and what was in store was not known by Terrance. He could only speculate. As he moved at a brisk pace, every other commuter on the road seemed engulfed in confusion. Some stood by their vehicles staring into their hoods in desperate anticipation of answers. Others paced, muttering under their breaths. Some, like Terrance, abandoned their vehicles all together. Others sat in their cars waiting for help that would never come. He came across a station wagon, at least ten years old, and found an elderly woman at the wheel, nearly passed out from the heat. Terrance lightly knocked on the side of her car to get the woman's attention. Her eyelids opened, and she glanced at him from behind the thick lens of her vintage-framed glasses.
+
+"Excuse me, ma'am, are you okay?" Terrance asked.
+"I..." she began.” I don't know. My car... it just stopped. I don't know what to do."
+Terrance opened the long, squeaky door with care, so as not to alarm the woman. "Your car isn't going to start again," he said. "You need to find yourself some shade and hydrate. Here," he said. He then swung his bag around and pulled out one of his bottled waters and handed it to her.
+The woman took the bottle and smiled. "Thank you," she said.
+"What's your name, ma'am?" Terrance asked.
+The woman thought for a minute, almost confused for a second. She took a drink from the bottle then answered. "My name is Maya," she said.
+"Hi, I'm Terrance," he said, taking Maya's arm. "Let's get you into some shade."
+Maya was apprehensive about leaving. "But, my car. We can't just leave my car there. It's not safe."
+"Everything is going to be okay," Terrance answered. "Your car will be fine for the time being. It isn't going anywhere."
+About a quarter mile ahead, they found a police car amidst the traffic. The uniformed officer stood outside his car, messing with his police radio. A small crowd had gathered around him, trying to get answers.
+"People, people," the office said with his hand in the air. "I have no clue what's going on. I'm trying to contact the station and get some answers. Just bear with me here."
+The questions came from all sides as Terrance approached the officer.
+"This woman is in need of assistance, sir. She was very dehydrated when I found her. It's got to be at least ninety-five degrees out. Can you keep an eye on her? Make sure she stays in the shade?"
+The officer looked at Terrance, startled, then to Maya. Clearly, he wasn't sure what to say. His stress level seemed to rise in sync with the rising red flush on his face. "I don't know. I guess I can try to... hold on," he answered while messing with the palm-sized mic in his hand. The officer turned back to them, flustered. "Just, just have her sit over there in the shade. I'll try to get her some help."
+Terrance led Maya toward a large wall on the side of the road that divided the highway from the opposite lanes on the other side.
+"Just stay here and hydrate," he instructed. The old woman nodded and leaned against the cement divider wall of graffiti while gripping the water bottle in her hand. "The officer should be able to help you soon," he continued. Still confused, she didn't respond but managed to give Terrance a smile. "Take care, Maya," he said.
+He continued down the highway having five miles to clear on foot to his neighborhood. If the Atlanta Police Department were unprepared for an EMP strike, Terrance believed that rioting and looting weren’t too far off. Maddening frustration was in the air, especially over the decimation of their cell phones. People were throwing their phones on the ground in a rage, smashing them to pieces. No one seemed to know how to cope. Tensions were high and would soon grow higher.
+
+Christina sat in the kitchen of their house about to light a cigarette when she hesitated, lighter in hand. She quit six months ago. That was her story. Only now the power was out, and her 1996 two-door red Chrysler LeBaron wouldn't start. It was 9:30, and she was thirty minutes late for work. What she hadn't told Terrance was that she kept a pack hidden in the kitchen drawer, stuffed behind a heap of junk mail.  
+
+Tobias, Richie, and Paula were all at school, their third week of a new grade, and for the most part, they seemed to be doing well. She didn't know what to make of the sudden power outage. It unnerved her, as did her car not starting or her cell phone not working. Christina walked outside, put the month-old cigarette between her lips, held the lighter up, and lit it.
+
+Three miles from the house, Terrance tried the handheld radio once again. He turned the frequency knob—with numbers in intervals of ten from 1 to 100, searching for a signal that would allow him to call Christina. In the past, he had told his family to always go to channel 40. He had no better luck on 40 than he did on any other channel. He had no way of knowing if any member of his family even had their radios on. As he got deeper into the city, he saw the inner workings of pure chaos in the making. It wasn't just cars and cell phones. Power was out through the entire city. Shops were hastily closing their doors. People on foot marched through the streets aimlessly, trying to find a bus or taxi to take them home. Those who had been on buses soon ventured out and joined the others walking.
+
+The city was no place to be. Once those grappling with the loss of power or transportation realized that things were not going to go back to normal, it would be a much more dangerous world. That was Terrance's thinking.
+"The end is here! The end is finally here! Do ya’ hear me?!" an unkempt vagrant shouted, jumping in front of Terrance.
+
+Terrance pushed him aside and kept walking. He saw the familiar off-ramp exit a mile ahead, the one closest to his neighborhood. The likelihood that Atlanta had been hit with an airborne EMP seemed greater with each moment. He thought of the bug-out van. If his handheld radio survived the EMP blast, there was a chance the van had too. Terrance remained positive. It was his motivating factor to getting back home on foot.
+
+Christina had just finished her second cigarette. She was wearing her green work polo shirt, and black slacks, but going to work seemed unlikely. She wanted to see if the power outage extended beyond the neighborhood. She hadn't walked her neighborhood streets in some time. A slew of recent break-ins had made her neighbors paranoid and antisocial. She looked at her smart phone again. Its lifeless screen gave no solace. She couldn't charge it any more than she could drive her car to work. She walked back inside and sat in the kitchen, trying to wrap her head around everything.
+
+She thought of Terrance on the road, wondering if he was okay. Wondering if he was stranded somewhere on the highway. Then she remembered the radio, the embarrassingly bulky radio, bundled in Ziploc bags and aluminum foil, which she had been carrying in her purse for so long. It could be her only way of getting in touch with him. She grabbed the radio from her large green vinyl purse on the kitchen table left the kitchen, tearing away the protective wrap.
+
+She swung open the screen door and walked down the steps of their front porch onto the modest patch of lawn. She held the radio up in front of her and switched it on. The sound of static was like music to her ears. After stepping over Paula's bicycle in the middle of the lawn, Christina fiddled with the knob trying to remember which channel Terrance had told her to use. After a frustrating start, she heard what sounded like a voice. She froze and held the radio as still as she could in the air.
+"Robinson family. Are there any Robinson family members out there?”
+Christina's eyes lit up with joy. It was Terrance. She brought the radio to her lips. "Terrance, Terrance, it's me, baby. It's Christina." Her heart was pounding.
+A pause. "That you, Christina?" His voice was muffled, but it was him.
+"Yes, it's me! I just told you that.”
+"I'm coming..." his voice faded slightly. Christina held the radio to her ear then brought it back to her mouth.
+"What'd you say? I'm losing you," she said.
+His voice came back louder. She could hear that he was breathing heavily.
+"I said I'm coming home,” he repeated. “Truck broke down. Power's out everywhere. I'm on foot and will be there in about an hour. I’m exhausted. The sun’s killing me."
+"But the bug-out van, I could come get you," she said.
+"No. Don't touch it. Just wait for me to get home. We have to get the kids."
+"You crazy? You're not gonna last an hour in this heat." she said forcefully.
+"Already walked a couple of miles. I'll be fine. Do not take the van."
+Christina didn't know where the keys were, anyway. Terrance could have them, for all she knew.
+"Call the kids..." Terrance said. "I gotta save power on my end. Keep trying the kids until we hear something."
+Christina thought it unlikely the kids would have their radios on, but she agreed to try calling them anyway. "Terrance..." she paused. “Terrance, what's going on?"
+"EMP sweetheart; it's taken out all the power."
+"Are you sure?" she asked, her voice trembling.
+"No. I'm not. But it's the only thing that would explain it. Atlanta is gonna turn real bad real soon."
+"What are you saying?"
+"I'm saying we need to get the hell outta the city."
+"But, Terrance," Christina began.
+"Just listen to me. We're gonna get through this. Together. It's the only way. I gotta go. Get the kids on the radio." Terrance was off the channel, leaving Christina with only static. He got under her skin at times, especially when he was short with her, but she wanted to trust his instincts.
+
+Terrance had made it a long way, the walk nearly bringing him to his knees as he inched his way toward their neighborhood street, Maltby Drive. Drenched in sweat, his hat doing what it could to shield him from the merciless sun, he pushed on. The backpack sagged heavier with each mile. It dug into his shoulders and had trapped the heat and sweat on his back. He had already downed two bottles of water with only one left.
+
+"Richie, Tobias, Paula, are any of you there?" Christina called into the handheld. She was outside pacing throughout their tiny lawn. A couple passed by on the sidewalk and gave her a strange glance. Her voice grew more desperate by the moment. After five minutes of calling, she heard a voice of a teenage boy on the other end. She couldn't tell which son it was at first but was ecstatic nonetheless.   
+"That you, mom?" the boy asked.
+"Who's this, Tobias or Richie? Where you boys at?"
+"It's Tobias, Mom. I'm in class. I don't know where Richie is."
+Suddenly another voice came over the transmission. "I'm in school too, you dummy."
+"Richie, is that you?" Christina asked.
+"It's me. School's a mess right now. All the power's out. Do you and dad know anything about this?"  
+"Listen, boys, we don't have a lot of time. Your father's truck stopped working on the highway. He's coming back. Have they released anyone from school yet?"
+There was a slight pause. "No," Tobias said.
+"No," Richie answered.
+"I want you both to find each other and stay together. If your father's van works, we'll come get you. If not... you'll both have to walk home."
+Another pause. Then Richie, sounding upset, came over the radio. "Walk home? Are you crazy? It's one hundred degrees out there."
+"That's only if his van doesn't work. If it does, we'll come get you."
+"They opened all the windows, told us to wait until they figured out what was going on," Tobias said.
+"I'm outside anyway, sitting football bleachers. I wasn't gonna sit in class like the rest of them," Richie added.
+"Boys, listen to me. Tobias, I need you to find your brother, and I want both of you to stick together until we get there. If we get there. Go to the football bleachers and wait there with your radios. The reception will be better outside."
+
+She could almost hear Richie sighing on the other end. "Why are you freaking out? What's the big deal this time? End of the world again? This is ridiculous."
+She wanted to choke him over the radio but tried to control herself. "Richie," she said sternly, "now is not the time. Just do as I ask." She paused for a moment then pressed the side button to speak. "Meet Richie at the football field. Both of you stay there and wait for us to call you over the radio."
+
+As she lowered her radio, she noticed a figure lurching toward her from down the street. It was a tall man moving beyond the waves of heat rising from the hot pavement, looking almost as if he were a mirage. The man was wearing a red and white tucked-in plaid shirt, blue jeans, and a hat. It was Terrance, the only man in the neighborhood who dressed like him. She ran from the yard and down the sidewalk to her exhausted husband at the end of the hill. "
+
+Terrance!" she shouted.
+Terrance looked up at her as if getting his second wind. She jumped into his arms, pushing him a few steps back. “Thank God you made it!"
+He gasped for air. Christina stopped and looked at him. "You crazy man, we need to get you inside before you die of heat stroke."
+He nodded as she led him up the hill, past the suspicious eyes of their neighbors and into their home. Once inside, Terrance took off his backpack, plopped down on the living room sofa, and dropped his hat to the floor.
+"I opened up all the windows. There's a slight breeze outside, so it might help." She walked toward the kitchen. .
+"It's good enough. Just glad to be out of that sun," Terrance said, taking a swig from his last bottle of water. "Did you get in touch with the kids?"         
+Christina walked back to the living room and handed Terrance a glass of cold water. He took it as she sat on the couch next to him. "Better enjoy it while you can. Fridge ain't gonna stay cool for much longer."
+"You speak to any of the kids?" he asked again.
+"I talked with Richie and Tobias, but not Paula. I'm not surprised either."
+"They in school?"
+"Yep. They're there. Both of 'em said that the power was out and everything else too. Cars, cell phones, damn laptops. Just like here."
+"Honey, it's an EMP. I know it. This is what they do. We've been attacked. This city is going to eat itself alive─"
+Christina placed her palm on Terrance's face, silencing him. “We can't get all worked up about it now. We got to get our kids. You got to see if that van'll work."
+Terrance nodded in understanding. "All right," he said, rising from the couch. "I'll go out back and try it. If it starts—if by some miracle we can drive it, we get the kids, bring them back here, and start packing."
+"Packing?" Christina asked.
+"Milledgeville. The bug-out house. Our family will be safe."
+"But the kids─" she began.
+Terrance moved from the touch. "But the kids what?"
+"We're gonna have to sit down and talk with them. They're gonna want to know why."
+"So we try to tell them..." Terrance began. "In the calmest manner possible."
+
+The bug-out van, a blue 1977 GMC Chevrolet, was parked in the backyard under a large blue canopy. Weeds had long grown around it, but the vehicle itself was in relatively good condition. Terrance had started it up only a few days ago. He regularly drove it to get fuel running through it, from its thirty-five-gallon tank. He opened the driver's side door, holding onto the hope that he had left. He sat in the driver's seat and took a deep breath. The moment of realization had come: he and his family were pinning their hopes on a piece of machinery over forty years old. Terrance felt that his family's very survival depended on it. He stuck the key in the ignition, almost not wanting to turn it.
+
+“You gonna sit in here all day, old man?” he asked himself. “Turn the key.” He closed his eyes and made himself do it. The engine sputtered then shut off. "Shit," he said. He tried again. The engine choked and heaved.
+
+ "Son of a bitch," Terrance said, slamming his fists on the steering wheel. He placed his hand on the shift lever mounted on the steering column, and lowered his head in prayer. A few seconds later, he pumped the gas and brake pedals with hopes of running some juice through the car before trying again.
+"One... two... three," he said, and then he turned the key. The engine kicked in and came alive in all of its internal combustion glory. Terrance held the gas pedal down, revving the engine to its top speed, then slowly releasing his foot. The van idled without a hint of a problem. Terrance raised his head in relief. He wiped the sweat from his face with a nearby rag and looked at the van's red liner above. His heart was beating rapidly, and he didn't know if it was because of excitement, panic, or outright exhaustion.              
+
+Christina heard the sound of the engine and came running outside of the house. "You got it working! I can't believe it," she cheered. She poked her head inside and practically jumped into the driver's seat.
+"Hop in," Terrance said "Let's go get our kids."
+"Do we have enough fuel?" she asked.
+"Might have to use some of the reserve, but we'll get there, one way or another."
+"Aye, aye, captain."
+
+The blue van slowly lumbered from under the canopy and out of the backyard. They were soon on the road, gaining the attention of every bewildered person they passed.
+.
+
+
+
+
+Prepper Headquarters
+
+Monday September 21, 6:00 P.M. Milledgeville, GA
+
+The four-bedroom, two-bath home in Milledgeville was an ideal retreat for trying times. The house was supplied with well water, and in the event of a prolonged power outage, several twenty-two-kilowatt standby generators had been installed as a backup power source. James had also installed shielded solar panels designed for low-capacity power storage. In all, there were three diesel fuel generators and ten solar panels.  James had spent the better part of the year preserving, drying, freezing, and pickling all kinds of fruits, meats, and vegetables. Even preserved food expired at some point, so he always paid close attention to what he was storing and for how long.
+
+Each room had a bed or two, a dresser, a closet and other furnishings. Having several different families together under one roof for an unknown period of time could be problematic if morale sunk too low. James did all he could ahead of time to ensure that the house was sustainable, livable, and practical for all who would soon be there, taking shelter from the storm. He knew that the Robinsons had three kids—a young daughter and two teenage boys. He had met them before and thought them to be a good bunch, but problems could arise during an extended stay. They would no doubt grow restless after a while, as kids did, adding stress to an already stressful situation. In the end, he just hoped that their parents would keep them under control.
+
+Monday had been a day like no other, starting when James had to flee work in his bug-out truck after canceling classes. If all electronics had been destroyed in a single blast, it could take months, even years, before normalcy was restored. If a high-altitude nuclear electromagnetic pulse (HEMP) had been launched over the greater Georgia area, the radius stretch for towns, even cities.  
+
+Such an attack would change everything. He and the other preppers had little faith in the state and federal government's ability to manage a major crisis. The concept of the bug-out house was to live self-sufficiently, and out of necessity. Only time would tell if it worked out in the end.
+
+James spent the latter part of the afternoon in his basement monitoring the radio and trying to find out anything he could. His cell phone no longer worked. Upstairs, his computer was fried, and the television was out of commission. These were appliances that were all plugged in, which could explain their demise. However, the back-up generators still functioned, probably due to the protective metal casing James stored them in. He had turned on the generators earlier and did a walk-through of the entire house, logging what did and didn't work. All the newer electronic appliances were nonfunctional.
+
+The house never had any central air conditioning, except for window units. Each room had overhead fans. The washer and dryer didn't work. The refrigerator and downstairs freezer ran off of large batteries. The toaster and blender still worked. The kitchen appliances were antiques, manufactured over forty years ago. They lacked the complex micro-circuitry of new devices such as computers, flat-screens, laptops, and smart phones.
+
+Water sill flowed from the kitchen sink. There was no dishwasher to worry about, but the oven worked just like new. The hot water heater was no longer working properly, which concerned James most of all. The septic tank was buried deep below the house, and seemed to be working fine. After checking everything in the house, James turned the main circuit breaker off and powered down the generators. Power conservation was the key, and until the others showed up, James would do his best.
+
+James sat in the basement, and listened. The radio was free from chatter of any kind. He had heard only from Mark Moss and nothing from the Robinson family.  Maybe Atlanta had been hit hard. Sprawling and heavily populated, it was not the place one wanted to be before, during, or after attack. Then again, the attack might not have hit Atlanta at all. James hoped that the Robinson family was okay. He knew Terrance to be a resourceful guy and had faith that they he would get his family to the bug-out house if necessary.
+
+James' mind drifted to his son and grandkids in California. He wondered how they were holding up. He faced a crushing desire to contact them and verify that they were out of harm's way. His mind drifted back to his classroom and the moment when the attack began. Everything had happened so fast. He started to think about his students and colleagues at the University. Things weren't good. He felt sick inside.  
+
+What was in store for everyone? Did it end with an EMP attack?  What else did they face?  A nuclear attack? Biological warfare? There were no answers. The most James could do was to sit by the radio and wait.
+
+The basement itself was heavily stocked with foods and supplies. Its naturally cool temperature was ideal for storing items with a long shelf life. Jars of canned, pickled, and dried food lined the shelves in the small pantry, adjacent to the main room. Other shelves within the basement were stocked with medical supplies, batteries, flashlights, kerosene lamps, matches, soaps and detergents, baby wipes, and gallons upon gallons of purified water.
+The basement also had its share of stored weapons, hunting rifles, pistols, and shotguns all stored in a large security safe, along with a sizable amount of ammunition. He had stored weapons and ammo as a last line of defense, if the bug-out house was ever attacked. It was a scenario James hoped, with all his heart, would never play out.
+
+He expected Mark and Janice to show up soon, either at night or by morning. He began to worry about Terrance, as he had heard nothing from him. James leaned back in his chair and took a sip of brandy from his favorite little glass. It helped calm his nerves and he had stored a fair amount of alcohol storage in the basement as well. As he took one last sip, the sun fell slowly below the clouds. Nightfall was approaching.
+
+James fiddled with the radio knob, continuing his search through the channels in hopes of hearing from Terrance. A few things were clear to him. First, he believed the blackout to be caused by an aerial EMP. Second, the blast hadn't destroyed everything, and the overall complexity of its effects had yet to be fully discovered. It would take more time to figure out why certain objects worked and others didn't. Third, government’s response to an EMP attack remained to be seen.
+
+As questions raced through his head, James heard a tiny coming from the radio. He jumped forward and nearly fell out of his chair in the process. He leaned in closer and turned up the volume. The voice crackled in and out, barely intelligible. James turned the reception knob slightly in an attempt to get a better signal. Suddenly the voice came through with urgent clarity.
+"...food, water, and shelter. You have coordinates, hurry before it's too late. Again, this is a message to all survivalists. Calling all survivalists, this is a message for you. At approximately nine this morning, the state of Georgia, as well as several surrounding states was hit by a high-altitude nuclear EMP. The blast reportedly occurred at 130,000 feet in the Earth's atmosphere. The damaging pulses distributed by the blasts have taken out roughly 70 percent of Georgia's power structure, affecting cell phones, computers, and vehicles. Planes already in flight seem generally unaffected as are helicopters and military trucks.
+
+If you're receiving this message, a lot of you already know this. You've been preparing for a situation just like it. Now that it has happened, you, like everyone else, are left wondering what to do. What you need to do is join us. Join our survival camp. No matter how prepared you are, your supplies aren't going to last forever. No matter how well concealed or hidden you are, you won't stay hidden forever. Even if your vehicle is still running, you're fuel won't last forever.
+
+At the survival camp, we don't promise to have an endless supply of anything. But what we do have is an abundance of good people. Survival experts. People that can hunt, kill, and cook their food. People who can purify water. Those who have helpful skills and even those who don't. Mainly we accept those who can contribute, but all are welcome to our camp. If you or your family are interested, prepare to copy as I lay out the coordinates of our location.
+
+It's very secure and removed from densely populated areas. Our position is represented in degrees and can easily be found by using a map and compass. We are located at 41 degrees north latitude and 96.7 degrees west longitude from the Oconee River landmark in central Georgia. This is the place you need to be, with other survivalists like you. We have plenty of food, water, and shelter for everyone. You have the coordinates; hurry before it's too late. One more time, this is a message to all survivalists..." And on the message went.
+
+It had gotten James's full attention. He dutifully copied the coordinates onto his note pad just in case. He switched the channel again in hopes of finding Terrance. The urgency of the radio message seemed strange so early in the EMP strike, but the message did help verify what James thought. It meant that there were other people, just like them, who were out there preparing for the worst. There came a time when one had to accept fate. When one had to accept that things were not going to be the way they had been. The choice between denial and acceptance was clear for James. He wanted to live in the now.
+
+
+
+Survival Camp
+
+In a darkened room, slightly illuminated by a single lamp on the table, a man named Russell sat in front of a large and sophisticated radio unit. He hovered over the microphone like a radio talk-show host. Only he had no show to perform. His job was to send a pre-written transmission over the radio every ten minutes, spreading the benefits of "Survival Camp." He pushed the microphone away, propped his feet up on the table, and leaned back.
+
+His dark, stringy hair hung over his forehead and into his eyes. He was a thin man with a sunken face, and though he couldn't have been more than thirty, his face was already deeply etched with wrinkles. He was satisfied with himself, but his expression didn't show it. He brushed his hair aside with his free hand, and simply stared ahead, cold and expressionless. In the shadows behind him, several other men sat at desks scribbling into notebooks and examining maps of the state of Georgia. They dressed like a dated militia in old camouflage pants, black, long-sleeved shirts, and boonie caps. One of the men, named Kyle, with a graying beard, made some marks on his map then rose from his chair and walked over to the radio. He placed a hand on the Russell's shoulder, gaining his attention. Russell turned around quickly and took his feet off the table.
+"Whoa, didn't see you there," Russell said.
+"How you holding up?" Kyle asked.       
+Russell coughed. "Doing fine. Just sent another broadcast."
+"Good, here I wanted to show you something," Kyle said, placing the state map on the table. He ran his index finger across the map and continued. "We're looking at this entire area potentially becoming some kind of fed refugee center. That's what I gather anyway."
+"Based on what, exactly?" Russell asked.
+"Based on the fact that Georgia ranks twenty-fifth in the state bankruptcies. Fifteenth in unemployment, and currently it has one of the largest welfare rolls in the country. In short, we're living in a ticking time bomb. I give it a week."
+Russell ran his hands over his scraggly face. "Jesus... this EMP business is the real deal. Who are we looking at here, Russia?"
+"No idea. In all honesty, my sources warned that it was going to be a dirty bomb, not this EMP business."
+"We need more people here, and we need them here soon. Not just any dipshit off the block either."
+"You specified survivalists, right?" Kyle asked
+"Yeah, of course," Russell said, sounding annoyed. "Survivalists, preppers, hunters, gatherers, all of that shit. I know what I'm doing here, thanks." Just as Russell wrapped up, he began to cough violently. His coughs were startling and painful sounding.
+Kyle placed his hand on Russell's back and gently patted. "Russ, maybe you should take a break, you know?"
+"Nonsense," Russell said, his eyes watering. "We get some more people here, and then I'll relax a little."
+"At least get some sleep," Kyle said.
+"I can't sleep. I've tried for the past three days."
+"You're a wreck," Kyle added. Then he began walking away.
+Russell propped his feet back up on the table. He grabbed the microphone and pushed the transmitter button on its base. He stared down at his ledger and repeated the written words once again into the mic, just as he had done before.
+
+
+
+

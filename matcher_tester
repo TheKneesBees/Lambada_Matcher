@@ -1,0 +1,21 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jul 18 16:25:01 2018
+
+@author: afleischer
+"""
+import time
+
+start_time = time.time()
+a = open("a.txt", 'r', encoding="utf-8")
+
+passage_counter = 0
+for line in a.readlines():
+    test = open("test.txt", 'r', encoding="utf-8")
+    passage_counter += 1
+    if test.read() == line:
+        break
+    test.close()
+print(passage_counter)
+print(time.time() - start_time)

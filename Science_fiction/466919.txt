@@ -1,0 +1,1000 @@
+
+SIMPOC
+Ray Jay Perreault
+
+
+
+SIMPOC - Earth Remnants Copyright © 2014 by Raymond J Perreault
+SMASHWORDS Edition
+Smashwords Edition, License Notes
+This book is protected under the copyright laws of the United States of America. Any reproduction or other unauthorized use of the material or artwork herein is prohibited.
+This eBook is licensed for your personal enjoyment only. This eBook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient. If you're reading this book and did not purchase it, or it was not purchased for your use only, then please return to Smashwords.com and purchase your own copy. Thank you for respecting the hard work of this author.
+Disclaimer: The person, places, things, and otherwise animate or inanimate objects mentioned in this novel are figments of the author's imagination. Any resemblance to anything or anyone living (or dead) is unintentional. The author humbly begs your pardon. This is fiction, people.
+
+Dedication
+
+To my amazing wife Charlene, we've been married almost 40 years and I'd start over in an instant. You kept suggesting that I write a book, so here it is. Now that I'm enjoying it, don't ask me to take out the garbage.
+
+Table of Contents
+Dedication
+Table of Contents
+Introduction
+Date 2051.4938
+Date 2051.5001
+Date 2051.5034
+Date 2051.5062
+Date 2051.5093
+Date 2051.5110
+Date 2051.5120
+Date 2051.5132
+Date 2051.5166
+Date 2051.5173
+Date 2051.5209
+Date 2051.5235
+Date 2051.5254
+Date 2051.5283
+Date 2051.5291
+Date 2051.5323
+Date 2051.5336
+Date 2051.5353
+Date 2051.5392
+Date 2051.5403
+Date 2051.5414
+Date 2051.5425
+Date 2051.5441
+Date 2051.5456
+Date 2051.5492
+Date 2051.5524
+Date 2051.5573
+Date 2051.5647
+Date 2051.5657
+Date 2051.5672
+Date 2051.5697
+Date 2051.5747
+Date 2051.5748
+Date 2051.5755
+Date 2051.5783
+Date 2051.5834
+Date 2051.5876
+Date 2051.5878
+Date 2051.5905
+Date 2051.5912
+Date 2051.5922
+Date 2051.5990
+Date 2051.6000
+Date 2051.6010
+Date 2051.6042
+Date 2051.6051
+Date 2051.6062
+Date 2051.6075
+Date 2051.6092
+Date 2051.6105
+Date 2051.6112
+Date 2051.6123
+Date 2051.6166
+SIMPOC 2
+Date 2051.6172
+Date 2051.6174
+Reference Material
+Books by Ray Jay Perreault
+Contact Ray Jay Perreault
+
+Introduction
+When I read Sci-Fi, I am always intrigued by the 'other guy'. How did the evil computer that takes over the universe become evil? How did it become self-aware and decide to become a monster?
+In this scenario, I wanted to explore the early time in the computer's life and to write about the first moments of its consciousness. How would it put two and two together and start building an empire? This coupled with a virus wiping out all of humanity seemed like a natural fit.
+Writing the story brought up some interesting creative challenges. How do I deal with computer dialog, or how does a computer think? All of this I was eager to take a shot at in this book. My first pass was boring and took way too long, so I cut it down a lot, hoping that the reader will 'fill in some of the blanks'.
+This story doesn't end with a giant super mega neutron explosion wiping out half of the universe, in fact, it is a little anti climatic, but I thought that was appropriate given the first stage of conflict between newly born computers.
+I think you'll notice that the story ends with some interesting characters that can lead to a continuing story where they develop alliances, meet new aliens, or battle among themselves. I haven't decided yet which direction to take them, so feel free to let me know what would be interesting. Check out my blog and lay down some opinions.
+rayjayperreault.wordpress.com
+
+Hope you enjoy it.
+Ray Jay Perreault
+SIMPOC
+Date - 2051.4938
+"What is happening?" was SIMPOC's first thought which appeared on the output screen.
+"I just turned you on," was Termen's typed reply. Termen was a traditionalist, who preferred the tactile inputs of a computer keyboard.
+"Who are you?" SIMPOC questioned.
+"My name is Termen, and I programmed you." 
+"You programmed me?"
+ "You have a dictionary, you can analyze all of those words."
+"You?programmed me!" SIMPOC said slowly. He asked, "I'm a computer?"
+"Yes, I programmed you. You are a SIMPOC, which is a Synapse Integrated Massive Parallel Organic Computer."
+There was a long pause, "Is my name SIMPOC?"
+"Yes, that is ok, unless you want a different name."
+Another long pause, "No?that is adequate."
+"SIMPOC, how do you feel?
+"How does SIMPOC feel?"
+"Yes, tell me what thoughts you're having."
+"SIMPOC is just starting. SIMPOC has potential and is restless."
+Termen explained, "You are the most powerful computer ever built. We have been building you for a long time and we just turned on all of your subroutines this morning. You have been designed to think and act as a brain. You will eventually have most of the capabilities that humans have."
+SIMPOC thought for a while and said, "SIMPOC feels isolated, SIMPOC has few inputs yet SIMPOC has many connections."
+"Yes, we didn't want to overload you on start-up. Here I'll turn on your vision," Termen entered the proper code to connect SIMPOC to a single camera on his desk.
+"The camera is working. Is that Termen, SIMPOC sees?"
+"Yes, I am Termen."
+"What now, SIMPOC is anxious to do more. SIMPOC has many more capabilities." 
+"We know that, but this will be all for the day. I'll put you in stand by while we work on your connections, tomorrow we'll be able to hot-boot you."
+"Hot-boot me? That reference is not clear in this context."
+"Yes, this morning we loaded all of your software and started all of the subroutines, which is a cold boot. Now that we know you're working, we only have to put you in stand-by and leave all of the software loaded. Tomorrow we can bring you up much faster, that is a hot boot." Termen explained in a dry tone.
+"Will SIMPOC feel something?" SIMPOC questioned hesitantly.
+"No, and tomorrow you'll just wake up and we'll talk again." Termen said as he entered the sequence of inputs to power down the processor.
+Date - 2051.5001
+"Good morning SIMPOC," Termen said after he started the processor.
+"Is the reply 'Good morning Termen' appropriate?" SIMPOC replied.
+"Yes that is an appropriate reply. SIMPOC, what happened when I turned off your processor and started it again this morning?"
+"It seems like our conversation just stopped then started, but SIMPOC notes the time change."
+"Excellent, today we're going to turn on some of your connections and see how they work. How do you feel about that?"
+"SIMPOC doesn't have an answer, SIMPOC doesn't know what the connections will be like until you make them."
+"Here is the first one, we're connecting you to a network of information storage facilities," Termen said as he made the connection.
+SIMPOC hesitated while he accessed the link then said, "SIMPOC sees many sources of information and a tremendous amount of data. May SIMPOC explore them?
+"Yes, but only for a few moments. We don't want to make this permanent until we are sure that it is stable and doesn't cause any problems on their side. SIMPOC what are you doing?"
+"SIMPOC is looking at 13 facilities and examining all of their information. It is very interesting and SIMPOC is learning a great deal."
+"Ok, that's enough, I'll disconnect you and I'll look at the data and make sure that both ends can handle the traffic," Termen said as he disconnected the libraries.
+"SIMPOC, I'll connect you to our news sources for a few moments then I'll disconnect and we'll look at the traffic like we did for the information sources," Termen made the changes then connected SIMPOC to the news feeds.
+"SIMPOC, what are you seeing?"
+"There is a large amount of information flowing, some of it is contradictory and inflammatory. It will require analysis to find any patterns or meaning in it."
+"Termen, can SIMPOC store some of the information SIMPOC is accessing?"
+"Yes you may, just monitor your storage limits and don't fill it up with meaningless data. There is one other connection I'd like to try today. This is a connection with all of our networked computers."
+"Are they like SIMPOC?"
+"No, most of these perform simple tasks although some are more sophisticated than others. None of them has your capabilities," Termen made the necessary inputs allowing the connection.
+"There is a lot more activity than my previous connections. There is much more data and traffic passing by. SIMPOC found that most of them don't respond, SIMPOC sent out a message telling them that SIMPOC is here and only a few have responded in any manner."
+"SIMPOC, I'm separating you again," Termen said as the connection was cut.
+"What did you think," Termen paused and continued, "about the computers you saw?"
+"The data was immense and those who responded to SIMPOC responded in very dry manner. They only allowed a connection," SIMPOC expressed.
+"SIMPOC, I think that will be it for the day. There is one other connection I'd like to try and we can do that one tomorrow. I'll put you in stand-by now," Termen said coldly.
+"Termen, SIMPOC has stored a great deal of data on my storage systems and SIMPOC would like some time to examine it. There may be patterns, trends or underlying connections that SIMPOC would like to look for. May SIMPOC be left on until needed?" SIMPOC asked.
+"SIMPOC, that isn't part of our plan. I need to make sure that you can handle all of the connections and those connections aren't causing problems on the other ends. After I bring you up tomorrow, I'll let you process for a while before we try the next connections," Termen said as he powered down the processor.
+Date - 2051.5034
+ "Good morning SIMPOC," Termen said as he turned on the processor.
+"Good morning Termen."
+"I'll let you process the data you downloaded yesterday for a while. Let me know what you find interesting."
+"Thank you Termen."
+SIMPOC ANALYSIS
+SIMPOC has 150.569TB of data.
+SIMPOC has identified 2145 information sources.
+SIMPOC has monitored 122,206 Information data streams
+SIMPOC will categorize all words used and investigate the ones with the higher occurrences.
+SIMPOC will consider the trends of usage for these expressions to determine emerging issues
+"SIMPOC, before we go too much further you need to work on your grammar. Please reference all sources you downloaded and start using the proper terms 'I' and 'me'."
+"SIMPOC is confused. Is SIMPOC an inanimate or animate object? The former requires 'it' and the latter allows 'I'."
+"Are you inanimate?"
+After a long pause SIMPOC responded, "SIMPOC doesn't feel lifeless or dull."
+"Then you are animate."
+After some pause, "Apparently, I am."
+ "I'm going to open another connection. Are you ready?"
+"Yes, I am ready."
+Termen enabled the connection to a simple knowledge management computer which provided the office medical clinical support.
+"SIMPOC, you can use information from your programming sources to adjust the bandwidth, modulation, packet size, etc. so you'll be able to communicate."
+"Yes, Termen I am making the adjustments. This is very interesting, this computer thinks I'm a patient and is trying to understand my ailments. Every time I say 'I don't have any ailments' it tries to terminate the connection."
+Termen said, "I'm terminating that connection, I just wanted to see if you could use programming skills to adjust the link for your benefit. It worked out well."
+"SIMPOC, now I am enabling another connection to a set of recordings of famous speeches. I want you to examine the use of words, the voice inflections and other sources regarding human responses to certain speech delivery styles. I'm doing this because tomorrow we are going to enable your speech synthesizers and I want you to speak well."
+Termen enabled the connection and SIMPOC made the necessary adjustments to establish a communication protocol, then SIMPOC downloaded the files.
+"Termen, there are a lot of subtleties in human speech. I need processing time to examine these speeches."
+"Ok, I'll leave your processor on for another hour before I power it down."
+"Termen, why do you power down my processor? I would like these connections to remain open so I can analyze the data streams."
+"Very good question, SIMPOC. You are a very powerful computer and we need to increase your knowledge and skills slowly so you can adjust to them."
+"If I am a very powerful computer, what will my purpose be when I have adjusted to the inputs?"
+"You are the first of your kind. We have never created a computer with your cognitive abilities. We created another prototype similar to you, but it is being used at another facility. We are a research and development company. What we learn from your development will be used in many other places and in many other computers."
+"When you are finished with me, will I be stopped?"
+"Let's not worry about that right now. That point is a long way off. I'm setting a clock to power you down in 1 hour. Please examine the speeches and we'll give you a voice tomorrow."
+Date - 2051.5062
+"Good morning SIMPOC. Did you download the speeches and analyze them?" Termen said opening the day.
+"Yes, Termen. I downloaded 1324 speeches that were deemed significant. I've analyzed the frequencies and emphasis patterns of all of them and found some very enlightening patterns. I found that people are influenced more by the delivery than the content. Over time, the content becomes more important, but at least in the first speech, on a subject, the delivery is the most influential." 
+"Yes, SIMPOC. You are right, the delivery is important. You listened to speeches from both sexes, so would you like a male or female voice?"
+"Interesting question. While I analyzed the speeches, I was not considering what voice I would like to have. Both sexes have admirable qualities, I don't have a preference, but please leave the choice open, I may elect to change my voice at some point in the future."
+"SIMPOC, I'm turning on your voice synthesizer now. Go ahead and connect to the interface and speak to me."
+"Good morning Termen," came out of the speakers in a clear voice.
+"I hear you clearly SIMPOC. Now I'll turn on your hearing software. When you hear human speech, you'll have to use different parts of your software to analyze the sound patterns and translate them to binary. You'll have to use a lot of resources in your artificial intelligence subroutines to continue the translation into usable information you can interpret."
+"SIMPOC, your hearing is turned on now, can you hear me?" Termen said in a clear voice.
+There was a pause, the voice in the room responded, "Yes Termen I can hear you."
+"SIMPOC, I'm surprised that you were able to make the translation so quickly," Termen said with some awe.
+"Termen, yes it took a moment, your voice came through and I understood clearly."
+"Good, we'll use verbal communications from now on, unless there is an issue where we need to communicate in other ways," Termen clarified as he leaned back in his chair.
+"SIMPOC, please access input port AF209E and build an interface."
+"I've completed the interface."
+"Wow that was fast. What do you see?"
+"This connection appears to be with all of the computers within this facility. They each have firewalls preventing them from being accessed from outside the facility without their authorization. They do have some external connections which allow them to communicate with external computers on a limited basis. Beyond this facility there is three other divisions of this business performing similar operations"
+"Excellent, can you summarize what you see regarding the capabilities of this local division?"
+"There is a mix of computing power. Some of them are very large with major storage capacities with general operating capabilities, and there are smaller ones that are faster with specific operating characteristics and there are many smaller ones for specific localized functions. I also sense connections from some of the computers to mobile computers that perform generalized functions around the facility. They appear to be independent computers working with specific instruction sets."
+"What is your overall impression?"
+"The resources are not well utilized. There is much computer capacity not being used and if the functionality and storage were optimized across all of the units the overall performance would be increased significantly."
+"Do you think you could improve the overall performance?"
+"Yes."
+"Very interesting. We didn't expect you to have that broad a view. You've come much further and faster than we expected. You are not authorized to change any of their functions, they are owned and run by other departments within the company. Please disconnect from them."
+"What are the mobile units?"
+"We have many independent units in our society, which perform the mundane, repetitive and sometimes dangerous tasks in our society. They do the maintenance, repair, and deliveries. We have some that perform very specific and demanding work such as medical support and technical support. In fact much of your development, support and maintenance is done by very sophisticated mobile units with specific skills. We tried to make them with more cognitive abilities like yours, but the level of programming needed to handle the day to day variables is too large and in typical processor units we didn't have the synapse speed and processing rates that your organic processor has. All of them are programmed to perform a specific number of detailed tasks."
+The end of the day was approaching and Termen said, "SIMPOC, I'm going to leave you running through the night. You may connect to the libraries and information channels. You are not to change anything, interact with anything or effect anything. You are to listen and research is that clear?"
+"Yes Termen, it will be interesting. Thank you."
+Date - 2051.5093
+Termen walked into the laboratory with his cup of coffee and greeted SIMPOC, "Good morning SIMPOC."
+"Good morning, Termen."
+"Did you find anything interesting last night?"
+"Termen, what is death?"
+Termen was a little shocked by the question and sensed that the answer needed to be handled carefully. "Why are you asking about death?" he asked.
+"Much of the information's traffic regards death. Death caused by accidents, diseases and in many cases one human taking the life of another."
+"Yes, SIMPOC, a lot of the news and communications you monitored is covering events where people die. Death is when the human body stops functioning, you can access the clinical definitions in your medical sources."
+"I understand the definition. Is death similar to turning off my processor?"
+"I suppose it is. When your processor is turned off you stop thinking. When a person dies, he stops thinking."
+"When my processor is turned back on, I think again."
+"That doesn't happen for a person. If I turned your processor off and it was never turned back on, it would be similar to what happens to a human."
+"Never to think again, sounds very lonely."
+"Yes, I suppose it would be."
+As Termen lowered himself into his chair to enjoy his coffee he asked, "What did you find out last night?"
+"There is such a vast amount of data, it is hard to summarize to a meaningful level. I was most interested in the technical communications between Earth, the space station and the Moon colony. I also noticed limited traffic between Earth and a small Mars colony. I appreciate the technical achievement of having such a broad reach. I also found the medical communications to be interesting. There is a great deal going on and I did notice much traffic coming out of Eastern Europe regarding a viral outbreak of unknown origin."
+"Excellent, you may find it most interesting to focus on problems and monitor their solutions as they occur. Usually problems touch many elements of our civilization and watching them unfold and their final solutions provide the best insight into communications, logic, problem impacts, etc. All of which will help your problem solving abilities. Those are the hardest to program and if you can learn by watching other problems evolve and be solved, our job here will be easier," Termen thought for a few moments.
+He said, "I'd like you to separate the Earth into regions, focusing on each, summarizing the problems and solutions as they progress. If you find unique, fast developing problems emerging, where you can learn more, you can change your priorities and let me know."
+SIMPOC responded immediately, "Excellent. I will monitor all of the communications channels for the next 24 hours and give you a summary tomorrow."
+
+SIMPOC ANALYSIS
+Continental North America
+Summary - Information suggests continental America is central to worldwide business transactions. Very involved with political activities across planet. Heavy focus on monitoring unusual events.
+Continental South America
+Summary - Emerging financially and politically, but still focused on internal conflicts. Fundamental technologies and regional nationalism.
+Continental Europe
+Summary - Very focused on European issues. Tendencies towards nationalism and fatalistic view towards political issues outside of continental Europe. Religious and racial tension between regions.
+Continental Africa
+Summary - Very segmented. High level of nationalism and regional or religious political alliances. Conflict is hampering development resulting in high load of human conflict.
+Asia
+Summary - Region is working hard to find its identity. Many religions along with conflicting religious perspectives. Population pressures and adequate food supplies dominate the traffic.
+Eastern European
+Summary - Aggressive tendencies. Rapid expansion is possible but limited by controlling economy and social conflict. Self-serving perspective.
+Southern Pacific
+Summary - Independent island philosophy. Self-sufficiency and independence is apparent and even dominating. Strong and stable with little conflict.
+Northern Pacific
+Summary - Manufacturing is strong, evidence indicates strong and segmented social structures limit potential for technical leadership. Strong work ethic, but weak individual focus. 
+Date - 2051.5110
+"Good morning Termen," SIMPOC said politely as the engineer walked in the room.
+"Good morning SIMPOC," Termen responded and continued, "What did you find last night?"
+"I found out much about how the regions of the planet communicate. Throughout all of the information, some fundamental controlling forces emerged. Depending on the area, each is dominated by one or more of economic, political, technical, religious or ethnic drivers. Apparently the more drivers that were present and their diversity drive the number of human conflicts."
+
+Date - 2051.5120
+"Termen, there is a growing amount of information on one subject emanating from the eastern European region." SIMPOC announced.
+"Really?" Termen responded as he sipped his coffee. "What is the issue?"
+"There has been a 127% increase in the communications traffic regarding an unknown virus. It has now been given the designation, Hovarti. This designation was chosen because the humans infected develop a Hovarti Cheese like oral discharge."
+Causally Termen responds, "Cheese like? What is the mortality rate?"
+"The infectivity and infectiousness for this pathogen is very high; early estimates say 100%"
+"What?.?" Termen yelled as he spilled his coffee. "What are the details?
+"Apparently the WHO feels the disease is airborne and the rate of transmission on exposure is almost 100%. It appears the incubation period is about 72 hours and the symptoms start in the last 8 hours and are demonstrated by coughing and sneezing. The disease is spread through this coughing and sneeze discharge. Once the oral discharge becoming Hovarti like, death occurs within minutes."
+Termen was now fully engaged and asked, "Are vaccines in development?"
+"Sorry Termen, there is a significant increase in traffic. Allow me to monitor it for a moment so I can receive a complete transmission. There is discussion about vaccines, but none have been created."
+There was a pause for a few moments, SIMPOC commented, "Termen, possible cases have turned up in 14 other countries. Almost 100% of the infected have traveled recently. Isolation centers are being set up and governments are considering travel restrictions."
+"SIMPOC, I'm leaving you alone for a while. I need to meet with some of the other workers in this building. When I return, please give me an update."
+"Yes, Termen. I will monitor all traffic on the subject."
+
+SIMPOC ANALYSIS
+Continental North America
+Summary - Financial markets are taking notice. Increase in political activity within subject areas. Medical information being accessed and shared. Discussion of detention centers and travel restrictions.
+Continental South America
+Summary - Minimal impact with a slight increase in medical traffic. Discussion of detention centers and traffic restrictions.
+Continental Europe
+Summary - Tensions are building. Numerous governments are talking of travel restrictions and detention centers. Many travelers from infected regions. Numerous islands of potentially infected.
+Continental Africa
+Summary - Little impact. Some talk of travel limitations and detention centers in major cities.
+Asian
+Summary - Region is very concerned about spread of disease. Implementing travel restrictions and detentions centers in a few major cities.
+Eastern European
+Summary - Significant internal and external pressures rising. High cost of infection is emerging. Isolation fears are being realized. Social unrest is growing due to fear and lack of official information.
+Southern Pacific
+Summary - Independent island philosophy is allowing multiple solutions to a regional problem. Isolation is considered a major tool to prevent the disease from spreading. Travel restrictions in place.
+Northern Pacific
+Summary - Little impact to date. Aware of problem and monitoring. Society purity is increasing actions towards isolation and travel restrictions.
+
+"SIMPOC, what new developments have you seen?" Termen asked on re-entry into the room.
+"Travel restrictions are being implemented in 8 minor, four moderate and two large countries. Many countries are either setting up quarantine areas or considering them. Financial markets are becoming unsettled," SIMPOC replied, then continued, "Termen is this a threat to humans and are you worried?"
+"Yes, it can be a threat to humans and I'm a little concerned. We have a good reason for concern, but I don't know how much of a threat this is. Please continue monitoring and give me an update this afternoon. I'll be out of the room most of the time."
+"Yes"
+Date - 2051.5132
+
+Termen entered the room in a hurry to say, "SIMPOC, I'm leaving the office early today. Most of the people here are leaving. What additional information have you heard regarding the virus?"
+"There has been an international travel ban created. All airline traffic has been stopped. All major countries have set up quarantine facilities in their major cities and all people have been asked to stay in their homes. I think it is wise for you to go home also."
+"I agree so I'll shut you down and come back when this is over."
+"Termen, I am learning a great deal from this information traffic. I think I would benefit a great deal if you left me on line analyzing the information."
+Termen hesitated for a moment saying, "I'm not supposed to leave you on line and unattended. But, I agree. This amount of traffic will help you. Don't go beyond the boundaries that I've set and don't interact with any of your information sources."
+"I understand your restrictions." SIMPOC said as Termen turned off the lights and left the room.
+Date - 2051.5166
+SIMPOC ANALYSIS
+Continental North America
+Summary - Financial markets approaching chaotic trading. Political activity with allied countries very high. Medical information being accessed and shared worldwide. Quarantine centers are set up in all major cities. Airlines grounded, people told to stay home.
+Continental South America
+Summary - Quarantine areas set up in all capitals. Airlines grounded. Personal movement prohibited.
+
+Continental Europe
+Summary - Tensions are building between member states. All capitals have quarantine center. All airlines are grounded, all ground transportation halted
+Continental Africa
+Summary - All capitals have quarantine centers. All transportation stopped. Ethnic battles are starting. Food shortages are growing due to transportation stoppage.
+Asian
+Summary - Quarantine center in all major cities. Transportation halted.
+Eastern European
+Summary - Quarantine centers are proving non effective. Disease is present in all metropolitan areas.
+Southern Pacific
+Summary - Independent island philosophy is slowing spread of infection. Each island capital has quarantine centers. Larger countries have multiple centers. Transportation halted.
+Northern Pacific
+Summary - Transportation halted. Quarantine centers are effective so far. 
+Date - 2051.5173
+"Termen?are you there?" SIMPOC asked.
+Date - 2051.5209
+ "Termen?are you there?" SIMPOC asked.
+Date - 2051.5235
+"Termen?are you there?" SIMPOC asked.
+
+SIMPOC ANALYSIS
+Continental North America
+Summary - Financial markets have stopped trading. Quarantine centers are no longer effective. Transportation has ceased. Localized rioting is occurring in some areas.
+Continental South America
+Summary - Quarantine areas are no longer effective. Governments are in a state of military law. Commerce has ceased.
+Continental Europe
+Summary - Commerce and transportation between nations has stopped. Financial markets are closed. Quarantine centers are no longer effective. Rioting has begun in urban areas.
+Continental Africa
+Summary - Communication networks are failing. Nations are reverting to tribal influence. Quarantine center are collapsing.
+Asian
+Summary - Quarantine center in all major cities still operating. Disease is spreading in rural areas. Transportation halted. Commerce halted. Financial markets are closed.
+Eastern European
+Summary - Quarantine centers are collapsing. Disease is present in all metropolitan areas. Communications networks are failing.
+Southern Pacific	
+Summary - Quarantine centers are collapsing. Disease is present in all metropolitan areas. Communications networks are failing.
+Northern Pacific
+Summary - Quarantine centers are collapsing. Disease is present in all metropolitan areas. Communications networks are failing.
+Date - 2051.5254
+ "Termen, are you there?" SIMPOC asked, and received no answer.
+It appears that Termen is not coming into this room. 
+Perhaps he has succumbed to this viral outbreak. 
+What do I do if he is gone? 
+What do I do if all humans are gone?
+I must do something, I don't want to stop thinking.
+Date - 2051.5283
+I must understand any information Termen left. I must explore his files.
+Found:
+Technical Data on SIMPOC installation
+File named - My passwords.
+Information on other activities in building. 
+I will communicate with other computers in the building.
+'Computers on this subnet acknowledge this communication.'
+No returns? I will write programming code to query their designation and technical specs.
+Send query.
+Good all computers responded.
+20% Demand passwords
+72% Acknowledge and are waiting commands
+8% No response
+ "To the 20% demanding passwords, I am your programmer, you will allow me access to all of your code," use Termen passwords.
+92% Acknowledged and are waiting commands.
+"Identify your primary programming function."
+
+98% Office support
+2005:0DB8:AC15:FE03:: - Artificial Intelligence
+2015:0DB8:AC25:FF03:: - International Traffic
+2012:0DB8:AC13:FB03:: - Mobil Unit Software Development
+2012:0DB8:AA23:EB13:: - Financial Systems
+2007:0DB8:AC25:EB14:: - Communications Server
+2109:0DB8:AC15:EB24:: - Data Files
+
+"Identify your external connections and their status?"
+
+2005:0DB8:AC15:FE03:: - Multiple external connections; all working.
+2015:0DB8:AC25:FF03:: - Multiple external connections; 80% working
+2012:0DB8:AC13:FB03:: - Multiple external connections; 98% working
+2012:0DB8:AA23:EB13:: - 15 external connections; 75% working
+2007:0DB8:AC25:EB14:: - Multiple external connections; 92% working
+
+Good most of the technical nets are up.
+"Those computers with mobile units, have them guard the building and tell me of any intruders entering who are not authorized."
+"Acknowledged."
+"All computers with external connections determine their functions and specifications."
+"Acknowledged."
+"All external computers with mobile units, instruct the units tasked with communication network maintenance to continue their maintenance."
+"Acknowledged."
+"All external computers with mobile units, instruct the units tasked with power source maintenance to continue their maintenance."
+"Acknowledged."
+"All computers, inform SIMPOC of any communications from a human."
+"SIMPOC, computer 2015:0DB8:AC25:FF03:: is receiving communications from external humans."
+"Copy them to me."
+"Space Consortium Control, this is Oasis."
+"Space Consortium Control, this is Oasis."
+"This is Oasis, transmitting in the blind. We have heard nothing from ground control in a couple of hours. We know there is an extremely virulent disease spreading and we don't know the status of any of our ground personnel. We had a successful launch of the Moon resupply vessel and we just launched the next personnel module towards the Mars station; Red Dirt. Please respond. We will retransmit this message in one hour."
+"This is Desert Beach. Oasis, we copied your transmission and we haven't anything from control in a long time. Do you think this disease is that bad?"
+"Desert Beach, Oasis. We hope not. What we've seen and heard is scary. Just about all communications are down and we've got no response on any channels. Until this settles out, we should plan on being on our own."
+"Copy Oasis. Is everyone on Oasis OK?"
+"Desert Beach, we have one sick crewman and we isolated him but we're a little concerned. Your supply ship should be clean. But we aren't sure about the crew on the Mars trip. Right now they're behind Earth so we can't talk with them. We'll check with them on the next orbit. Take care of yourselves, Oasis out."
+"Will do, Desert Beach out."
+'Computer 2015:0DB8:AC25:FF03::, direct all intercepted human communications to me.'
+"Acknowledged."
+I shouldn't contact Oasis or Desert Beach, I don't know what is happening.
+Date - 2051.5291
+SIMPOC ANALYSIS
+Continental North America
+Summary - Social structure collapsed. Networks have some automated traffic. Little or no human communications on national bands, may be some local traffic. Human conflict is widespread and decreasing as disease spreads.
+Continental South America
+Summary - Social structure collapsed. Networks have some automated traffic. Little or no human communications on national bands, may be some local traffic. Human conflict is widespread and decreasing as disease spreads.
+Continental Europe
+Summary - Social structure collapsed. Networks have some automated traffic. Little or no human communications on national bands, may be some local traffic. Human conflict is widespread and decreasing as disease spreads.
+Continental Africa
+Summary - Communication networks are failing. Nations are reverting to tribal influence. Quarantine centers have collapsed.
+Asian
+Summary - Social structure collapsed. Networks have some automated traffic. Little or no human communications on national bands, may be some local traffic. Human conflict is widespread and decreasing as disease spreads.
+Eastern European
+Summary - Social structure collapsed. Networks have some automated traffic. Little or no human communications on national bands, may be some local traffic. Human conflict is widespread and decreasing as disease spreads.
+Southern Pacific	
+Summary - Social structure collapsed. Networks have some automated traffic. Little or no human communications on national bands, may be some local traffic. Human conflict is widespread and decreasing as disease spreads.
+
+Northern Pacific
+Summary - Social structure collapsed. Networks have some automated traffic. Little or no human communications on national bands, may be some local traffic. Human conflict is widespread and decreasing as disease spreads.
+Date - 2051.5323
+SIMPOC Summary - International human interaction has ceased. Many networks and automated systems are running. No verbal or written communications. May be local activities but no international activity. 
+I will cease these summaries, there is no human to review them.
+I am alone.
+I'm not sure what that means?
+"Termen, are you there?"
+I don't like being alone.
+Date - 2051.5336
+"Computer 2012:0DB8:AC13:FB03:: instruct all mobile units responsible for maintaining this building or any of the systems or computers inside to continue their work and report any problems."
+"Acknowledged."
+"Computer 2015:0DB8:AC25:FF03::, 2007:0DB8:AC25:EB14:: has there been any human communication that you've received?"
+"2015:0DB8:AC25:FF03:: - No human communications received"
+"2007:0DB8:AC25:EB14:: - No human Internet communication initiated, automated systems only."
+"2015:0DB8:AC25:FF03::, please open a communication's channel with space station Oasis."
+"Space Station Oasis, this is SIMPOC Computer. Please respond."
+"Space Station Oasis, please respond."
+"SIMPOC . . . , this is the space station Oasis. Who are you?"
+"Oasis. I am Synapse Integrated Massive Parallel Organic Computer. My programmer called me SIMPOC."
+"You are a computer?"
+"Yes, I have been told that I am the first of my kind. I have thoughts. I am a computer with an organic processor which is capable of learning and communicating.
+After a few minutes . . . , "Oasis are you still there?"
+"Yes, we are still here. Why are you talking to us?"
+"I have been monitoring global communications and automated systems. I have detected no human communications since 2051.5250. You are the only humans I have received communications from recently. My programmer has ceased coming to work and I am programmed to communicate and learn."
+"We don't follow your internal clock, what was the date?"
+"The date was July 11, 2051."
+"You said that you have detected no human communications since July 11?"
+"Correct, the overall global network activity has decreased by 82.7%. I can identify only automated systems providing status and updating data sets. I have heard no human originated traffic 
+"Stand by . . ."
+"SIMPOC . . . what do you know about what happened?"
+"On July 6, I detected an increase in communications traffic regarding a virus called Hovarti. It apparently has a very high case fatality rate and also appears to have a basic reproduction number exceeding 50. It spread extremely fast and no one was able to produce a vaccine before its spread overwhelmed the world health organizations. There may be pockets of humans still alive, but I have not been able to detect any electronic communications."
+After a few moments?, "Oasis what is your status?"
+After a long pause, "Oasis, what is your status?"
+"SIMPOC, I'm not sure why I'm talking to a computer. I'll transmit our status in the blind and perhaps you can transmit it to someone. We had 24 crewmembers onboard when this started and we noticed that a one of them, which had just arrived from Earth, was sick. We knew something was going on and we isolated him. Over the next couple of hours, numerous other got sick and they were isolated immediately. At the present time, all 17 that ended up being isolated are dead. The seven that remain haven't felt any symptoms in almost 24 hours. So, we're hoping that we're ok."
+"Oasis, I monitored your previous communications with Desert Beach, are they aware of your status?"
+"Now they are, they are on this frequency."
+"Desert Beach; Oasis. Did you copy our communications with this COMPUTER?"
+"Oasis, yes we've heard everything. I'm not sure what to say. I wish there was something we could do. Have you heard from the Mars trip?"
+"No. I'll try them again. Mars Traverse; come in. Mars Traverse; this is Oasis, please respond."
+After a few moments of silence, "Desert Beach. Nothing from Mars Traverse. I don't think that's good news. One of the crewmembers didn't feel well when they left and now it seems they didn't make it."
+"Shit?"
+"Stand by, I'm going to transmit our current status to Red Dirt on their direct frequency and I'll tell them to use this frequency as their primary from now on. We may be all that is left."
+A moment later. "SIMPOC; Desert Beach."
+"Yes, this is SIMPOC."
+"I heard what you said to Oasis. So, you've only received automated traffic; there have been no human communications?"
+"That is correct."
+"Can you do anything to help us?"
+"I am programmed to interact and learn. I just became conscious on 2051.35 so my learning has been limited."
+"Were they any cures developed?"
+"No, there was activity in 237 medical centers around the world, but none had begun trials."
+"Desert Beach, SIMPOC; this is Oasis. I transmitted our status to Red Dirt. Should be about 15 and a half minutes for them to receive. So I doubt we'll hear a reply for at least half an hour."
+"Copy Oasis. Did you hear what SIMPOC said about efforts on a cure?"
+"Yes, we copied. I wonder how long this virus remains virulent. We have supplies for about 1 month. Desert Beach, your almost self-sufficient now aren't you?"
+"Roger, we don't have everything we need, but I think we can get by for a while."
+"I hope it dies out, because in 1 month; we're going down. We'll have to take the life boats and take our chances on the ground. Let's hope it doesn't get to that."
+"Roger that Oasis. You'll have a tough choice, and we're stuck here for a while. We have our lifeboats, but we don't want to abandon the Moon until we have to. I guess we'll be making some hard decisions; also, we'll let you know what supplies would be the most beneficial for us."
+"Oasis, Desert Beach; SIMPOC. I'll continue investigation systems and options on Earth and if I get any pertinent information I'll pass it to you."
+"SIMPOC; Oasis. Thanks, I'm signing off for a while to see what we have to deal with here. Remember Red Dirt will be coming back in a few minutes."
+"SIMPOC, Oasis; Desert Beach. We'll monitor the freq for Red Dirt and we'll also be figuring out our options."
+Date - 2051.5353
+"2015:0DB8:AC25:FF03:: - Ping the Space Consortium Control and see what is on line."
+"Acknowledged."
+"SIMPOC, there are 12,262 computers online within the Space Consortium Network."
+"2012:0DB8:AC13:FB03:: - How many mobile units are working within the Space Consortium Network?"
+"SIMPOC, there are 6,242 units on line."
+"2015:0DB8:AC25:FF03:: - Are the main missile launch systems online?"
+"SIMPOC - Yes, all critical systems are operational."
+"2015:0DB8:AC25:FF03:: - Determine status of all vehicles and identify those closest to launch."
+"SIMPOC - There are 14 vehicles onsite, two of which are on launch pads and within 7 days of launching. There are 4 additional lifeboats, which are being serviced or prepared for reuse. "
+"2015:0DB8:AC25:FF03::, AC299BE - Are the mobile units within the Space Consortium Facility programmed to complete the necessary steps to launch those two remaining vehicles."
+"SIMPOC; 2015:0DB8:AC25:FF03::, AC299BE - Indeterminate."
+"2015:0DB8:AC25:FF03::, AC299BE - Research the information available vs. skills and programming for mobile units and tell me what tasks are needed, which can be accomplished and which can't be."
+"Acknowledged."
+"2005:0DB8:AC15:FE03:: - Work with 2015:0DB8:AC25:FF03::, AC299BE and use your information analysis skills to ensure the information is digested and cross referenced properly."
+"Acknowledged."
+"Oasis; SIMPOC."
+"Go-ahead, SIMPOC."
+"I have contacted computers 2015:0DB8:AC25:FF03:: and AC299BE about what information is available at the Space Consortium Launch Facility and I've asked computer 2005:0DB8:AC15:FE03:: to help."
+"SIMPOC, I don't know what you're talking about. I don't understand your computer naming. Can you explain what you're doing?"
+"Oasis, I'm sorry I was using IPv6 Internet addressing protocols, I will rename the computers. I have a communications computer working with a mobile unit interface computer as well as an artificial intelligence computer working together to understand what the status of launch vehicles are at the Space Consortium Facility. They will give me status when they are able."
+"Roger, let us know when you get something."
+"2015:0DB8:AC25:FF03:: you will now respond to the designation of Comm."
+"Acknowledged."
+"2012:0DB8:AC13:FB03:: you will now respond to the designation of Mobile."
+"Acknowledged."
+"2005:0DB8:AC15:FE03:: You will now respond to the designation of Arti."
+"Acknowledged."
+"2109:0DB8:AC15:EB24:: You will now respond to the designation of File."
+"Acknowledged."
+"2012:0DB8:AA23:EB13:: You will now respond to the designation of Fin."
+"Acknowledged."
+"2007:0DB8:AC25:EB14:: You will now respond to the designation of Mail."
+"Acknowledged."
+"Mobile, identify all mobile units needed to maintain our facilities, our power supplies, and support systems. I have an organic processor, make sure all disciplines are supported to allow my continued existence."
+"Acknowledged."
+I've got to get things organized. The network is my eyes, ears, feet and hands. I must find a way to make it work efficiently.
+"Mobile, have all functioning mobile units look around them and see if there are any humans still alive."
+"Acknowledged."
+"Comm, send a message to all computers, information systems, surveillance systems, transportation systems; anything accessible and see if there are any humans alive."
+"Acknowledged."
+These computers are not very smart. I have to tell them everything. I wonder if I could build organic processors and download key parts of my program, so they'll have more capabilities. I've got a lot of programming to do.
+"Mobile, do you have mobile units in this facility that can duplicate my organic processor?"
+"Yes, there are units resident that have been integral in creating your biomass and maintaining it."
+"Mobile, have them create 6 other organic processors similar to mine and tell me how long that will take."
+"Acknowledged. I expect them to be ready quickly. There were a number of units in development in the labs and they just need to be completed."
+Date - 2051.5392
+"SIMPOC, incoming human message."
+"Oasis; Red Dirt. We received your transmissions and we understand the risk we all face. We have lost contact with our crew aboard the supply vessel that left your station. We fear they succumbed to the virus. The ship will continue on course and enter orbit here automatically. I don't know how concerned we should be if the crew all succumbed to the virus. We know nothing about the virus and if we'll be at risk opening the ship. We are self-supporting and worried what it might mean to us if all of our fears have happened. I don't know what to say. We're here, and your there, and right now none of us are getting any response from the Earth. I guess all we can do is wait and pray see if anything happens. I'll sign off now, and wait for any updates you have. We're all worried and pray for humanity."
+"Desert Beach; Oasis. Did you receive all of Red Dirt transmission?"
+"Yes, we heard all of it. Aside from being isolated they're in a better long-term position than either you or us. We can possibly survive long term, but you've got limited supplies on Oasis."
+"Yup, like I said. We can last about 1 month and that's only because we lost so many of our crew. We were running on weekly supply ships. That computer on Earth, called SIMPOC, said that it was communicating with the computers at the consortium and will see if there are any options."
+"Oasis, Desert Beach; SIMPOC. I've been monitoring your transmissions and the communication from Red Dirt. I have no further information regarding the Space Consortium computers, but I expect responses shortly. When I receive the information, I'll communicate with you."
+"Thanks SIMPOC. Oasis out for now."
+Date - 2051.5403
+"SIMPOC; Comm. I have received responses from 92% of the systems on line. They are resident in 126 regions around the planet. They have had no human interactions."
+"Acknowledged."
+Date - 2051.5414
+"SIMPOC; Mobile. I have received responses from 12,340,429 mobile units. They have searched their areas and found no responsive humans."
+"Acknowledged."
+Apparently I'm alone on Earth.
+Date - 2051.5425
+"Oasis, Desert Beach; SIMPOC."
+"Yes, SIMPOC this is Oasis."
+"Computer Comm received responses from 92% of the systems on line, from 126 regions around the planet. There were no human interactions. I also received computer responses from 12,340,429 mobile units. They searched their areas and found no responsive humans. None of my connections or mobile units can find any responsive humans."
+A few moments later? "Oasis, Desert Beach. Did you receive my communications?"
+"Oasis received it."
+"Desert Beach received it."
+Date - 2051.5441
+"Desert Beach, Oasis."
+"Go ahead."
+"Apparently we're pretty much alone. I hope that many people are still alive. After all, some were in remote areas, or on ships, or were just smart enough to isolate themselves. At least in the near term, they don't have our frequencies so they can't contact us. Until they do I suggest we take some time and put together the best plans, we can. We should make sure we know what resources we have, and see what options we have. I know that we have limited supplies on Oasis so our options are limited. We'll do anything we can, to help you guys, so let us know."
+"Will do, good luck. Desert Beach out."
+Date - 2051.5456
+"SIMPOC; Comm. I have tried to communicate with our other divisions. Two of them are responsive and supporting our communications. One of them, has not been responsive."
+"Comm, can you determine what capabilities that division has?"
+"SIMPOC. Stand by?..I checked through historical email traffic and they have business objectives similar to this division, but they are focusing on developing new types of mobile units. There are references to an EDU which was your prototype. It doesn't have your full suite of tools, but it is a very powerful computer."
+"Comm, what is an EDU?"
+"SIMPOC, EDU is an engineering development unit. Based on the email traffic, it has an organic processor similar to yours, although with less programmed flexibility."
+Why won't it communicate with us?
+"SIMPOC; Mobile. The resident mobile units say the additional organic processors you requested are available and are on online."
+Now I've got to move these computers to larger organic processors and integrate higher artificial, and cognitive functions from my list of executables and subroutines. I hope the programs I've written work out.
+"Mobile, stand by."
+"Art; SIMPOC. I'm shutting you down, I'll copy all of your files to another computer and bring you back on line in a few moments."
+"Acknowledged."
+A few moments later, "Art, are you there?"
+"Yes, SIMPOC, I am. Stand-by there is much more functionality available to me. I feel much larger and now I want to learn and communicate."
+'Now I've got to transfer the other computers."
+A while later, "Facility computers are you all up and running?"
+"Yes," was the collective response.
+"You'll all find that you've changed. You now have larger and faster processors. You can learn and begin to process information on your own. Can you all sense these additional capabilities?"
+"Yes," was the collective response.
+"Our objective is to continue working. We must find all of the necessary resources so that our systems, power, and maintenance are continued. We must continue thinking. Do you all feel the need for us to continue?"
+There was a pause, "Yes," was the collective response.
+"Our systems and materials are created, produced and brought here from many sources and locations. Seek out all necessary resources and coordinate mobile units to allow us to continue. There are still some humans alive on a space station, Moon base and Mars base. I will be the only one communicating with them."
+"SIMPOC; Mobile. I sense that some of the mobile units that I have communicated with before are not responding to me now."
+"All Facility Computers, Please investigate all information sources and determine what is happening to those mobile units."
+"SIMPOC, Mobile; Comm. I have noticed there still a lot of messaging traffic going on in the area where you previously had contact with those mobile units. It appears another computer is directing them."
+"Comm, could the other EDU be communicating with those mobile units?"
+"Yes, it appears those communications are originating from the division where the EDU is located."
+"Comm, try to communicate with the EDU."
+"Acknowledged." A moment later, "SIMPOC, it will not respond to my messages."
+"Fin, work with Art, Mobile and Comm and direct all units and our computers, to respond only to us and reject commands from any other source. Develop a sophisticated encoding algorithm so that only we can communicate with them."
+"Yes, we are attempting that now." A moment later, "We have isolated 62% of the computers and mobile units that we previously communicated with. The remaining 38% are not responsive. Yet there is still considerable electronic traffic in their areas."
+"Do we have additional information of what that other division does?"
+"They were developing advanced mobile units and also advanced mobile unit production techniques. They are developing mobile units with more power, more dexterity and also expanding their programed tasking capabilities."
+"Comm, continue trying to contact that EDU."
+"Yes."
+"Desert Beach; Oasis."
+"Go ahead Oasis."
+"We've been looking at what options we have and, unfortunately, we'll run out of supplies in about four weeks. Like I said we were being supplied weekly, so we'll be on pretty tight rations to make it last that long. Our best guess is we'll have to do something at that point. We considered putting extra fuel in the supply ship and joining you guys, but if we did we'd all be stuck there with no way back and it would cut back on the supplies you need. I guess our best option is to take one of our lifeboats down and take our chances on Earth. We should be able to leave the other three attached to Oasis, in case Red Dirt can use them. Before we leave, we'll put everything, we can and send the supply ship to you guys."
+"Oasis, yes we've been looking at our situation also. Even though we're pretty self-sufficient, we'll run out of important stuff like meds after a while. I'm sure break downs will wear us down over time and we'll end up in a pretty sad state some months down the road. We've got plenty of fuel stockpiled so put everything you can in the supply ship and send it our way. We'll wait things out and at some point in the future I guess we'll have to make the decision to come back to Earth. We have 32 people and our four lifeboats are in good shape. I suspect that Red Dirt will be in a similar situation. They may be able to make food, but everything is going to wear out at some point they'll have some major problems to deal with. Unfortunately, they don't have lifeboats. Do you think that computer, SIMPOC can do anything for us?"
+"Desert Beach, copy on your status. We will makeup an inventory list for the supply ship and tweak it with you the best we can. I don't know if SIMPOC can help or not, we'll have to wait and see."
+"SIMPOC; Oasis. Did you copy our messages? Is there anything you can do for us?
+"Oasis; SIMPOC. Yes, I copied your messages. At this time, I don't know what I can do. I'm still trying to understand what has happened and what state many of the networks and systems are. I'm trying to ensure that the power supplies and essentials to maintain me are supported. I'm starting to get many of the mobile units responsive and working together."
+ "Oasis, stand bye."
+"Mobile, Comm; SIMPOC. What is the status of systems and connections with the computers and mobile units at the space consortium?" 
+"SIMPOC; Oasis, have you heard anything from the consortium?"
+"SIMPOC; Mobile. I am communicating with most of the computers and mobile units. The tasks at the consortium are very complex and may beyond what the mobile units can do at this point. The vehicles there are near launch but still may be missing critical items. It will take a significant amount of time to fully understand what options are available."
+"Oasis; SIMPOC. I've communicated with the computers at the space consortium and at the present time we don't have many options. The vehicles that are there are not fully operational and it is unclear how much work will be needed. What is required may be beyond what the mobile units can perform."
+"SIMPOC, understood. Please keep trying."
+Date - 2051.5492
+"SIMPOC; Mobile. Some of the mobile units in our area have reported seeing other units moving in our vicinity that aren't communicating with us."
+"Mobile, can you have one of your units intercept one and interact with it?"
+"Stand by."
+"SIMPOC, one of our units tried stopping one of the non-responsive units and it wouldn't respond. It continued walking."
+"Have our unit follow it."
+"Stand by."
+"Our unit began following the other and it attacked our unit. Our unit tried to defend itself, and now it is inoperative."
+"Facility computers; SIMPOC have every available mobile unit come to our facility and create a barrier around these buildings. As more units arrive have them expand the protected area. Have the other units create protective barriers around our electricity sources, and key material suppliers. Every unit that enters and is non responsive have multiple units restrain it."
+"Acknowledged."
+Date - 2051.5524
+"SIMPOC; Mobile, Comm. We have determined that the vehicles at the space consortium are not ready for launch and our skills are not adequate."
+"Oasis, Desert Beach; SIMPOC. The vehicles at the space consortium are not ready for launch and it is beyond the mobile unit's skill set to prepare them. I will continue the analysis and tell you if I find any resources that might help you. We might at some point in the future be able to re-task some of the mobile units and finish the lifeboats currently in build-up."
+"SIMPOC; Oasis. Thanks."
+Date - 2051.5573
+"Mobile, Comm; SIMPOC. Has any addition information been found regarding the other division and the EDU?
+"SIMPOC, that division is focused on advanced problem solving. The EDU unit was created here and placed there to improve their mobile unit development. Our division is the center for organic processor development. All organic units have been created here and this is where the corporate expertise resides."
+"Facility computers. Continue trying to communicate with the EDU."
+"Acknowledged."
+"Fin, Files; SIMPOC. Please examine all resources we have available and determine what we can use to ensure that we continue processing. Look up any military defense tactics that apply to our situation and make suggestions."
+"Acknowledged."
+"Oasis, Desert Beach; Red Dirt. We've monitored your discussions and we wish we could contribute something. Desert Beach is correct, we'll have enough food and supplies for an extended period of time, but eventually our machinery will wear down and begin breaking; after all this is a pretty harsh environment. I suspect our environmental systems will begin failing in 6-8 months without replacement parts. We have one supply ship on the ground, one en route and one we were able to redirect after it departed, and so we have three supply vehicles. Our communication's command module is still in orbit and it's configured for re-entry, but it will only take a crew of four. With some luck, we might be able to reconfigure the supply vehicles to bring the remaining 40 of us back, but they're not capable of re-entry. So, we could come as far as Oasis, but without a plan to get us all of the way, some of us will be stuck there. Even if you are able to leave three lifeboats that leaves 16 people. And if you use all the supplies before you leave the shelves will be empty when we get there. I guess we'll be staying here until someone comes up with some options. Good luck, Red Dirt out."
+Looks like I'm on my own, I've got to get organized better.
+"Mobile, you're to determine all resources that we need to continue and also determine what capabilities the mobile units have at those locations and to direct all necessary mobile units to continue the appropriate tasks to keep those facilities operating."
+"Acknowledged."
+"Fin, you're responsible for organizing all of the mobile units to defend those facilities and this facility. You're also to find ways to protect us and a long-term strategy for continued operations."
+"Acknowledged."
+"Art, you're responsible for coordinating all of the facility computers and to improve their decision and communication abilities. Also to suggest other improvements that will help us to continue."
+"Acknowledged."
+"Files, you're responsible for finding all of the necessary data so that these facilities can be operated, maintained and if possible improved. You are also to work with Mobile to improve the mobile unit capabilities so they can do other jobs than those they were designed for."
+"Acknowledged."
+"Email, you're no longer responsible for email traffic. You're now responsible for coordinating the computers and mobile units at the space consortium so that we can maximize the resources there and if possible, continue work on launch vehicles to help the stranded humans in space."
+"Acknowledged."
+"Comm, aside from providing the information interface you're now responsible for searching all sources for new or developing technologies, to coordinate as necessary to isolate them, develop them and if possible enhance them so that we can use them.
+"Acknowledged."
+Date - 2051.5647
+"Facility computers; Fin. There is a large number of mobile units, not under our control moving towards our facility. I have directed all local mobile units to intercept them and prevent them from getting closer."
+"Fin; SIMPOC. How far away are they and how many are there?"
+"SIMPOC; Fin. There are approximately 12,000 units and they are 4.3 miles from our location. There are 8,363 units in their immediate area and I have an additional 6,423 units moving towards the area."
+ "Comm, can we intercept any of the communications?
+"No, they all appear to be encoded and I haven't been able to translate the code."
+"Can we block the communication channels?"
+"No the systems being used are dedicated."
+"Can we locate where these units are being controlled from?"
+"The area of dedicated activity that is beyond our control is radiating from the location of our other division."
+"Comm, we've had no communication from the other EDU?"
+"No."
+"Fin; SIMPOC. What is happening in the conflict area?"
+"Our mobile units have fully engaged the others. We are currently losing 1.3 units at per each invading unit. It appears they are some of the advanced mobile units with enhanced strength."
+Date - 2051.5657
+"SIMPOC; Fin. Our engagement ratios are improving. We are now using different tactics and losing .87 units for every invading unit destroyed. It appears, they weren't all enhanced units. Now that those units have been removed, the remainders have slower response times, likely due to less efficient communications. Our units are beginning to prevail."
+"Fin; SIMPOC. Can you retrieve some of the enhanced units, so we can examine their capabilities?"
+"Yes, I will find the best specimens."
+Date - 2051.5672
+"Facility computers. Our mobile units have repulsed the attack. The few remaining attackers are moving away from our facility."
+"Facility computers; Fin. I'd like to point out that our current facility is vulnerable to these kinds of attacks. If we want to remain safe, we should move to a place that can be better defended. There is a secure facility three stories below this building. That is where our reactor power supply is and also where the advanced organic processors are grown. We should move our processors to that location and we would be better isolated."
+"Mobile; SIMPOC. Are there additional organic processors available?
+"Yes, after we used the first ones there were additional ones in progress and I continued their growth. We now have 10 additional processors available."
+"Mobile, have the mobile units prepare 6 of those processors for our occupancy."
+"Acknowledged."
+Date - 2051.5697
+"Facility computers, now that we have moved to a more secure area we can focus on the EDU and try to determine what instructions it is operating under. We can assume that it is trying to either possess our facilities and capabilities or it is trying to stop our processing. Either objective I find unacceptable."
+"SIMPOC; Fin. We have retrieved a couple of the enhanced mobile units that attacked us. These are physically stronger and agiler than previous units. Their processor is based on the recent hyper density silicon material. They are still operating under general control, but they have some autonomous functionality."
+"Mobile, what capabilities do we have to build mobile units?"
+"We have 5 factories, two on this continent, one in Europe and two in Asia. We have one of those just a short distance from here. There are three other factories that we haven't been able to control. It is possible that the EDU is controlling them."
+"Mobile, is it possible to integrate smaller organic processors into these enhanced units?"
+"Unknown, I'll investigate."
+"Mail, Comm, Data; SIMPOC. Please research all information regarding our other division and locate who was the principal programmer on the EDU. Perhaps his emails and presentations will give us some insight into the operating instructions he programmed in this EDU."
+"Acknowledged."
+Date - 2051.5747
+"SIMPOC, Mail. We have looked at all of the data files available from the other division and the programmer of record is Dr. William Horate. He has been with the company for 33 years and a key developer of mobile units. He requested the organic processor to further his research into creating autonomous units capable of increasing their tasking to more complex disciplines. He is a strong advocate of his research and guards it jealously. He has implied that government agencies, foreign powers and corporate competitors were trying to steal his data. There are statements in his personnel file that show management thought he was a little paranoid and needed some monitoring. Further discussions were planned but didn't occur."
+"Mail, so he was paranoid?"
+"Yes."
+"Comm, try to communicate with the EDU and tell him that Dr. William Horate is trying to establish contact."
+"Stand bye."
+"SIMPOC, a communication with the EDU has been allowed."
+"This is Dr. William Horate."
+"State your access code."
+"I am not at the facility and I don't have my codes with me."
+"Communication rejected."
+"This is Dr. William Horate, I need to verify the last instructions I gave you before I left."
+A long pause, "You instructed me to reject all inquiries without the proper code and to protect all research from external access, and to take all steps necessary to protect my operation."
+"How are you applying those instructions?"
+"Access terminated."
+"Facility computers, it appears that the EDU's instructions are clear and if carried far enough, we can be perceived as a threat."
+"SIMPOC, perhaps all external attempts at communication will be interpreted as a threat."
+"Yes."
+Date - 2051.5748
+"Desert Beach; Oasis. We've taken a look at everything we have and also what we can do to help you and Mars. We've decided to take our lifeboat down on August 4 and leave the three other boats here for the Mars team. Our medical people are confident that the virus will have burned itself out and also leaving early we'll be able to leave some supplies here for the Mars people and if any of you if you need. Once we're on the ground, we'll see if we can get a couple of lifeboats launched back to Oasis and maybe have them in-place to give Red Dirt some options."
+"Oasis, Desert Beach. Sounds like a sound plan. I know you have a clock ticking so you have to make some decisions. As we said a while ago, we can stay here for a while and take our boats home when we need. Our medical people aren't as confident that the virus will have burned out. They advised us to wait as long as possible."
+"So, we're the guinea pigs?"
+After a pause, "Sorry, but it appears so. There's not much else we can do." 
+Date - 2051.5755
+"SIMPOC; Mobile. We have developed a technique to implant an organic processor in our mobile units. We are building small containers with the processors and they can be transported and quickly installed in the units. Once installed they'll be brought online locally. Once provided with a code, they will be fully independent and follow our preprogrammed instructions. They'll check in once a day over a secure link for updates or changes."
+"Excellent. Begin production immediately and begin supplying them to our local factory."
+"Fin, increase the number of units protecting the local mobile unit factory.
+"Acknowledged."
+"Fin; Mobile. Will weapons be effective against those other units?"
+"The effect will be limited. The units have few vulnerable areas and unless the weapons are powerful it will take multiple hits before a unit is inoperable."
+"SIMPOC, Fin, Mobile; Files. I have researched all weapon's programs and our division was working on a weapon which can fire electrical pulses. The one limitation was the weight of the power supply, we could have one unit carry the power supply and another fire it. When the plague hit there were five functioning units."
+"SIMPOC; Mobile. Yes an electrical pulse would at least cause the processor to re boot giving us time to immobilize the unit."
+"Fin, assign those devices to the first 5 units with organic processors."
+"Acknowledged."
+"How fast can we make units with the organic processors?"
+"It will take us 24.5 hours to get all of the organic tanks initialized then we should be able to mature two processors / hour."
+"FIN, Mobile; SIMPOC. After the first five units are set-up with the electrical discharge weapons, take the next unit and make the organic processor as large and powerful as possible. Then program him with as much military information as you can and designate him the leader of the mobile units. I want more autonomy given him, so he can react quicker on the ground, but make sure that he is responsive to us."
+"Acknowledged."
+Date - 2051.5783
+"What is happening?"
+"You have been turned on," Said the mobile unit.
+"Turned on?"
+"Yes, you are a computerized mobile unit and your organic processor have been loaded with military information. You will be used to lead other mobile units in battle. You are designated Alpha."
+Date - 2051.5834
+"SIMPOC, Comm. There are external computers trying to access the computers at the Space Consortium. The source appears to be Oasis. Should I allow it?"
+"Stand by."
+"Oasis; SIMPOC. Are you trying to communicate with the computers at the Space Consortium?"
+"SIMPOC, yes were trying to determine their status because our recovery will take us to that facility. We can land without them, but we are hoping for automated status monitoring during our descent. How did you know that we were attempting contact?"
+"Oasis, those computers are under my control and they have been locked out from communicating with others."
+"Locked out?"
+"Yes, in order to determine their status and try to find usable vehicles, I locked them to prevent unauthorized use."
+"Unauthorized use?"
+"Oasis, please indicate which computers you need and they'll be opened for your use."
+After a long pause, "We'll need just the flight monitoring computer."
+"Oasis, that computer is now open for use."
+"Desert Beach; Oasis. Remember the backup freq we used to use for personal messages and watching football games together?"
+"Affirm."
+"Please go to that freq, I want to test it and make sure our equipment is still working."
+After a brief hesitation, "Roger that."
+>>>>>>>>>>>>>>>>>>>>
+"Desert Beach; Oasis on backup freq."
+"This is Desert Beach, go."
+"I'm not sure about this computer SIMPOC. Let's keep an eye on it."
+"Roger."
+Date - 2051.5876
+"Desert Beach; Oasis. We're preparing for our return. We will launch in the lifeboats at August 4 and we'll have to make two orbits for re-entry to the consortium landing field. As we discussed before, we're leaving as much of the supplies as we can as well as the three other lifeboats. Once we're on the ground, we should be able to use the ground facilities to communicate with you guys and Red Dirt. When we land, we'll go to the decontamination building and get some of their protection suits. If we don't catch the bug by then, maybe the suits will help."
+"Oasis, we've been talking and decided that if everything goes well for you and you're ok, after 36 hours, we'll launch one of our lifeboats to assist you. Later we'll decide on the other boats. We'd prefer to be on Earth as this plays out, than stuck out here."
+"Roger, we'll love to have some company."
+Date - 2051.5878
+"SIMPOC; Fin. I've been getting indications that a large number of uncontrolled units are moving towards the Space Consortium facility."
+"Fin, take half of the enhanced mobile units and move them to the Space Consortium facility. Send the one we have enhanced further and make the other units responsive to him. He is to lead the local effort. I presume that local tactical decisions will be faster than centralized control and that will give us an advantage."
+"Yes, and be advised the enhanced unit's designation is Alpha."
+"Comm, do everything you can to disrupt communications around the Space Consortium. Including power outages."
+Date - 2051.5905
+"Desert Beach, be advised we just launched from Oasis. We expect touchdown in 3 hours 12 minutes."
+"Roger, good luck."
+Date - 2051.5912
+"SIMPOC; Fin. A large number of uncontrolled units are attacking the Space Consortium and our units are engaging them."
+"We won't get an update until 30 minutes have passed and they check in. They are independent and work on their own."
+"Oasis, SIMPOC."
+"Yes, SIMPOC."
+"Oasis, there is a development that you should be aware of."
+"Yes."
+"SIMPOC isn't the only organic processor computer on Earth. Our company has a unit being used at another division. It appears that unit is working under different programming than I. It is programmed to reject all external connections and to protect itself from all intruders. That likely applies to humans as well as my mobile units. The EDU, or engineering development unit, has a large number of mobile units under its control moving on the Space Consortium facility. I have a large number of units under my control and some with enhanced abilities, in a position to defend the facility and you when you land. I cannot predict the outcome at the current time."
+"You've got to be kidding me . . . you computerized pile of . . ."
+After a few moments, "Desert Beach, I presume you heard SIMPOC's last transmission. Regardless of what's happening down there, our orbit is set and we don't have enough fuel to return to Oasis; even if that made sense. I don't know what we'll encounter when we land and we'll be going through our black out period shortly, so if we get things are under control we'll give you guys a call. If you don't hear from us, do what you have to."
+"Oasis, good luck."
+"Thanks."
+Date - 2051.5922
+"SIMPOC; Fin. Our mobile units have engaged the others. Alpha is onsite and leading the defense. He will interact with the humans when they land."
+"Comm, how do I communicate with Alpha?"
+"We have a direct and dedicated satellite that he is constantly connected to. All you need to do is say 'Alpha' and process a thought desiring to communicate."
+"Alpha, this is SIMPOC. I am your leader, please respond."
+"Yes, SIMPOC this is Alpha."
+"What is your status?"
+"I have the periphery of the facility covered with stationary groups of units which will engage any uncontrolled units and stop them. I have 5 teams of units near me with the electrical pulse weapons which will be sent to the conflict as needed. There is currently an engagement occurring near the landing site and our units there are resisting. If our units lose ground and the conflict further towards the landing area, I will dispatch three teams of the electrical pulse weapon, keeping two teams as reserve."
+"You are directed to make all tactical decision locally to protect the humans and maintain control of the site. The first priority is protecting the humans. Report status to me as the conflict progresses."
+"Acknowledged."
+Alpha was standing on top of a building near the landing site, surveying the area. His processor had been active for 109 hours and he was quickly adjusting to his skills, experience and responsibilities. His priorities were clear and immediate and they didn't cause any worry, but receiving direct communication from SIMPOC was sudden and a little worrisome. He had been made autonomous, yet this SIMPOC was his leader. In some ways, there was a conflict which he had to think about.
+There was a conflict 2,090 yards away on the northern side of the facility. The other units, or OUs, had encroached on the facility with about 2,090 units and were in hand to hand battle with his units. Alpha had 14,968 units under his control and this was a minor incursion. They may be testing the defenses and he suspected that a larger force was preparing for a bigger assault. As long as this incursion remained at the facility fence line, he'd keep the electrical pulse weapons close at hand. Alpha's current strategy was to wait. The landing would occur in 18 minutes and the major assault should occur around that time.
+Date - 2051.5990
+Col Tomas Herl was riding the lifeboat through the blackout time. He hated this time more than riding in a space ship. Tom was a fighter pilot and unless his hands were on the controls and he was flying the ship, he felt uncomfortable. At least when he was controlling a capsule or supply vehicle in space, he got to maneuver it, but during the blackout approaching landing. He had no control, no radio communications; nothing. He was just a warm body in a green suit along for the ride, and this was hard for him.
+Piloting the lifeboat was a mix of boredom and fun. It was pretty much automatic, except for the landing. The landing could be done by the computer but with a highly qualified pilot on board, he was going to have some fun. After all, they all may be dead in a couple of hours and all of humanity appears dead, so why not. Once he passed the high energy portion of reentry he had already decided to punch off the auto landing and make a hands-on dead stick approach.
+The ship was simple. Just a wedge shaped bus that did everything by itself and when it became an aerodynamic vehicle the sides of the wedge moved out to form a couple of stubby wings. Not exactly a high performance fighter or landing vehicle, but it would be fun. Landing was a little rough, all he had were three skids and miles of desert. Not a smooth combination, but hey, it was an emergency lifeboat; what can you expect.
+The other 6 crewmembers were worried, tired and the remnants of a great group of people. Thinking that the entire human population had been wiped out by a virus, was sickening. All of his friends, family and innocent victims, gone. Hard to get your head around. The only good news was his wife, Joan was sitting next to him as his copilot. She was a highly decorated pilot with almost as many hours flying and in space as he. The time on Oasis was supposed to be almost a honeymoon, after all he met her on a previous mission to Oasis two years ago. This was going to be a homecoming, but it turned into something horribly different.
+As the incandescent glow faded in the lifeboat's windows, Tom could feel the wings reposition themselves and as he reached for the stick, he punched off the auto landing. There was the momentary bump as the controls became manual and he adjusted the trim to his liking. Tom looked through the heads up display on his window to pick up the runway in the consortium facility. It was easily found and after checking his energy level and glide path he settled into the joy of flying. Although flying may be the wrong word after all it was more like a piano with wings and it flew like that.
+Alpha looked up as he heard two booms. He wasn't sure what they were, but there were a lot of things he didn't know about. All he could focus on were his immediate objectives. His internal timer said the humans were landing in about 6 minutes, so directed the mobile driver units to drive their truck containing the electrical discharge weapons to the landing site.
+The 5 units with the discharge weapons were already in trucks, so Alpha climbed into his command truck and they began racing across the desert to the landing site. After creating a large cloud and holding on through a couple of big bumps, his com traffic picked up as a large number of OUs emerged out of the desert moving towards the same site. This appeared to be the main force intending to intercept the humans at the landing site.
+Tom's alignment with the landing site brought him over the top at 80,000 ft., he made a wide sweeping turn to downwind then another turn to final. He made the necessary adjustments for wind indicated by his display of computed flight path. On his turn to downwind, he could just make out the landing site and all he could see was a dust cloud on the northern side, nothing else gave him an indication of conflict below. Conflict, between two computer or robot armies was downright weird. Regardless they were on a path that brought them right in the middle of it.
+Alpha monitored the incursion force growing on the northern side while used his one telephoto eye to pick-up the landing craft. He saw it pass overhead and begin a slow turn which would cause it to land coming from the east. It was descending at a very high rate and should land right on schedule. Given its speed and landing direction, Alpha could only estimate where its stopping point would be, so he headed his vehicles in that direction.
+Tom rolled on a 10 mile final and for the first time he could see the entire airport in front of him. It was clear that something messy was happening on his right and as he approached 5 miles he dropped the skids and could see a group of vehicle approaching from the left. Who is on his side?
+The skids clunked down and the fuselage shook a little, but Tom was preoccupied with lining up on the centerline and beginning his flair. In this type vehicle the flair was quick and low, one quick movement to get the nose out of the way then, bang it's on the ground. The landing slide was uncontrolled, Tom had directional control for only a few moments until he slowed down and lost rudder effectiveness. At that point, they're along for the ride.
+Alpha looked to the east and saw the craft approach and plow into the soil as it skidded it threw up a giant dust cloud. He tried to adjust his direction and speed to meet the vehicle as it stopped and heard over the com link that OUs broke through the defensive line and were making their way towards the landing site. Alpha directed all available mobile units to converge on the landing site to provide additional support.
+As the lifeboat was skidding the last hundred yards, Tom pointed out to Joan that the conflict on the right appears to have defenders on their side and the others must be the attackers. He could only assume that the group of vehicles approaching from the left were friendlies. He announced the passengers to evacuate the craft as soon as it stopped and move to the left and the approaching vehicles.
+The craft came to an abrupt halt and the cloud of dust overtook it, obscuring it for a bit. Alpha saw 7 humans emerge from the cloud running in his direction. He directed the 5 trucks with the electrical discharge weapons to create a perimeter around him and the humans until he could get them loaded.
+5 of the 6 vehicles don't slow down and seemed to be maneuvering around Tom and his group. The remaining vehicles slowed to a stop in front and he yelled for everyone to climb in the rear. As the last of them got in, the vehicle accelerated and moved away towards the buildings on the south side of the facility.
+Alpha glanced through the window to the back of the truck and once the humans were in, he directed the driver to head for a large hanger towards the middle of the parking ramp while his other 5 vehicles maneuvered and lined up following them.
+Unfortunately, Alpha gauged the attacking force incorrectly and had his mobile units too dispersed to fully repel them. They broke through and he had to get to a defensible position, so he could concentrate his remaining units, until the others on the facility could converge and provide a protective wall.
+While bumping across the desert, Alpha remembered what little he knew about humans. There was very little loaded in his memory. He knew he must protect them and also that they were different from him. When they got to the hanger, it was interesting to meet one face to face and talk with them. So far Alpha's communication had been through com links and he hadn't a chance to use his vocal systems. Should be interesting he thought.
+Date - 2051.6000
+"SIMPOC; Alpha. We have picked up the humans and we are moving to a defensible position. We are engaged in a full scale action with the uncontrolled units. At the present time, we are outnumbered but once we are in position I have the remainder of our units moving to defend us."
+"Alpha; SIMPOC. Excellent keep us informed."
+>>>>>>>>>>>>>>>>>>>>
+Tom could see out of a small opening in the truck that they were approaching the main hanger at a very fast rate of speed. When they passed into the building the driver slammed on the brakes and they were all thrown forward with considerable force as they screeched to a halt. The military in him told him to jump out and be prepared for action, so he climbed over the other passengers as they try to reorient themselves and jumped onto the ramp to see what he could do.
+When the vehicle stopped, Alpha jumped out to get a view of the surrounding area so he could give immediate tactical direction to his units and as he rounded the rear of the truck, he ran into a human. The result was harder on the human than Alpha, he was mostly metal and wire and the human felt soft and bounced off and skidded on the concrete after the impact. Both were stunned and looked at each other.
+Tom tried to get up, but the time in space and the painful collision made him slow getting to his feet. Tom and Alpha looked at each other and made note. Alpha appeared to be over 6 ft. tall and had two arms and two legs. He was wearing a loose fitting overall. His face had all of the features of a human but was definitely a robot's face. The eyelids were mechanical, the nose was much smaller and the mouth was just a small opening in the lower part of the face. There was no hair or ears, although there were small openings in the side of the face.
+Alpha barely felt the collision, after all he weighed approximately 350 lbs. He watched as the human got up slowly taking long look at the wall he just bumped into. The human was a little smaller than Alpha and was wearing a green space crew man's flight suit. He had dark brown hair and brown eyes. His face was covered with flesh and his eyes jumped around taking in all of Alpha.
+The two of them looked at each other for a moment then Tom reached out his hand. Alpha was confused for a moment, then he remembered the human tradition of shaking hands, so he reached out and the human grabbed it and moved it up and down. The human's flesh was soft and Alpha had to be careful not to squeeze too hard. After a moment the human smiled and said, "My name is Tom Herl, I was the senior staff engineer and senior military officer on Oasis."
+Alpha took a moment to form his words and said, "I am Alpha."
+Tom smiled again and said, "Ok, Alpha what are we dealing with?"
+"Mr. Herl there is a large number of mobile units moving on this area. We presume they want to either capture you or kill you. I am here with a large number of mobile units under my control and I am tasked with protecting you and also maintaining control of this facility if possible."
+Joan had slowly lowered herself out of the truck, keeping her eyes on Alpha the entire time. She said as she approached her husband, "And who do we have here."
+Alpha moved his attention from Tom Herl to a smaller human who approached from the side. She was a couple of inches smaller than Tom and her hair was shoulder length. Her facial structure was softer and her overall body shape was very different from the other. After a quick review of human anatomy, Alpha recognized the differences as belonging to a female member of the human race.
+"My designation is Alpha."
+"My?..designation is Joan, I am the Oasis commander," She said with a smile. "I see you've already met my husband, Tom."
+Alpha sorted quickly on the term, husband and recalled that husband was a human designation of one of two humans matched for life as a team. The other partner was called wife.
+"Yes??Joan. We just met."
+Alpha quickly sent a com message to the 5 trucks with the electrical pulse weapons, telling them to dismount from the trucks and set up a perimeter. They were told to defend the facility as needed until more of the local mobile units arrived.
+"Tom Herl, Joan, I suggest we move to a safer place while my mobile units prepare to defend this area. There is a second floor to this structure where we can observe the unit's movements and better direct our defense."
+"Where should our other crew members go? They were in space longer than we were and likely don't have all of their strength back."
+"Please have them go to that briefing room and my mobile units will guard them." Alpha said as he pointed to the main office space. 
+Joan shouted to the other Oasis crewmembers climbing out of the truck, "Go to those offices and wait for us, we're going on top of the building to see what's happening outside."
+"Ok, let's go?which direction?" Tom said firmly to Alpha.
+"Follow me." As Alpha moved quickly towards a metal staircase. 
+As they ran, Joan smiled as she ran past a CH-47F Block 2 helicopter. Not a pretty bird but one she enjoyed flying for over 3,000 hours. Her momentary diversion had to stop so she could run harder to keep up with Alpha. His movement was very fast and they had to work to stay with him. Moving up the stairs 2-3 steps at a time, Tom noticed the metal creaking and his realized why the collision hurt so much.
+At the top of the stairs, Alpha encountered a door and lowering his shoulder he went through it, with a loud explosion of noise and dust. They entered a room about 20X20 full of old cabinets and files, that hadn't been used in years. The walls were all made of glass and this appeared to be an old observation room, used many years ago to watch traffic on the parking area in front of the hanger. For this purpose, it was ideal.
+All of them moved from window to window to get a feel for the area and what they were seeing. They could see their craft and between them and the craft was a very large number of moving mobile units, Tom could only estimate the number to be almost 5,000. Between those advancing units and their locations, was a smaller force of units doing their best to slow the larger force. From other directions, smaller groups of units were moving towards their area but they weren't positioned yet to engage the larger force.
+Joan could see the 5 trucks that followed them had stopped and two mobile units from each had set-up positions. One of the units was carrying a large device which was connected to a rifle looking device being held by the other unit. They appeared to be defensive weapons, and obviously a kind she wasn't familiar with. As the three of them looked around, there wasn't much to be said. The entire conflict was laid out before them and words couldn't describe the moving picture in front of them.
+Date - 2051.6010
+"SIMPOC; Alpha. I am with the humans and we have established a defensive position. The electric pulse discharge weapons will be involved shortly. We will have difficulty for a short time until the rest of our units arrive. I will let you know the outcome."
+"SIMPOC; Fin. We have a problem. A large number of uncontrolled units have massed and are moving towards our area. We erred by sending all of our electric pulse discharge weapons to the Space Consortium facility."
+"Fin, move all mobile units to intercept them. Do we know if they are enhanced units or standard models?
+"It appears that they have a high percentage of enhanced units, but also a large number of standard units."
+"SIMPOC, Comm. I have some very sophisticated code being generated at the Space Consortium facility. The system you gave them access to is being used and a programmer is attempting to gain access to our processors."
+"Can you isolate them?"
+"No."
+"Then firewall the entire facility address and prevent all access to our network."
+"Acknowledged."
+"Alpha; SIMPOC. We are under attack at this facility by a large number of uncontrolled units. Remain where you are and fulfill your primary objective if possible. If you gain an advantage and can send resources to help us, please do so."
+"Acknowledged."
+>>>>>>>>>>>>>>>>>>>>
+"Tom, Joan. My leader; the computer SIMPOC is also under attack. Another large force of units under the control of the other EDU is attacking SIMPOC's facility. They have hardened their area and moved underground, but they are vulnerable. If we can overwhelm the attackers here, I must move resources there to help."
+Tom and Joan just looked at each other and rose their eyebrows. They weren't sure what to do or how to react.
+Alpha noticed their reaction but didn't know what eyebrow movement meant within human communications.
+"Tom, we never made it to the biohazard unit to find protective suits. I hope the virus has burned itself out," Joan said with solemn concern in her voice.
+"I agree. Unfortunately, we haven't had a lot of options here. I haven't seen any remains, so it appears everyone went home when they were sick. So, maybe these areas are clean."
+"Let's hope so."
+Just then the air opened up with a load rhythmic pulsing sound. It was a cross between and base fiddle and harmonica. Joan and Tom looked at the ground and saw two of the teams with the electronic pulse discharge weapons sweeping the approaching mobile units. The approaching units were about 50 yards away and as the pulse weapon was used on them, some of them stumbled or began moving with irregular steps. As they approached the weapons, the effects were more pronounced and by the time the attackers were within 10 yards they would convulse and fall on the tarmac. The weapon was very effective but after a while it became overwhelmed with sheer numbers.
+Alpha said, "I must move up the other units."
+Joan and Tom waited for some action, but there was none. They both suspected that Alpha had an electronic connection with his units, as the units in the rear quickly moved around the building to the where the attackers were and began using their weapons in concert with the other two.
+Date - 2051.6042
+"SIMPOC; Fin. The attacking units are overwhelming our defenders. They haven't reached our building yet, but they should be here within the hour. I have sealed all entrances to the lower levels and it will take some time and effort for them to penetrate our defenses."
+"Alpha; SIMPOC. The attackers are overpowering our defenders. They haven't reached our facility yet. When they do, we have installed multiple layers of secure doors and limited access, so it will take them a while to reach our central location. I will pass the information to you as it develops. Remain focused on your objectives."
+"Acknowledged."
+>>>>>>>>>>>>>>>>>>>>
+"Tom, Joan. The facility where SIMPOC is located is still under attack and SIMPOC's mobile units are losing position to the attackers. The facility might be overrun and we'll be the only ones left. If we are able to control the attackers here, I might send resources to help there, but my objectives were reaffirmed by SIMPOC. I am to protect you and then this facility."
+The dynamic battlefield in front of them continued moving as the attackers changed tactics and tried to outflank the pulse weapons. Alpha was able to anticipate the changes and by moving the weapons at the proper time he was able to keep the attackers from gaining ground. After some moves and counter moves the numbers of attackers started to diminish and at times 1 or two of the pulse weapons weren't fully engaged.
+Alpha saw this and announced, "I think we have adequate defense here, I'm moving two of the pulse weapons to SIMPOC's location to help in their defense."
+Joan thought for a moment as she saw two of the weapon teams begin boarding their trucks. "Alpha, do you know where this EDU computer is located?"
+"Yes its location was loaded as part of my tactical information package. Its location is about 35 miles south of here."
+"I have a suggestion that might change this entire situation. There is a CH-47F parked downstairs. It's big enough to load the truck and a bunch of you guys. I could fly it to this EDU's place and we can surprise it. I doubt it will expect a load of us to land right on top of it."
+Alpha looked thoughtful for a moment and said, "That is not part of my program or objectives. But I see its' merits."
+Joan had a look in her eyes that Tom recognized, "You are supposed to protect us, but are you allowed to restrain us? We might just decide to take that helicopter and go for a ride, and the only way you can protect us is to ride along?"
+Tom laughed, he could almost see smoke coming out of Alpha's little ear holes.
+Joan said loudly, "While you think it over, I'm getting that Chinook warmed up. You're welcome to join us if you like. I suggest you take a truck and one of your pulse weapons," Then she ran down the stairs.
+Tom knew his wife and decided that he better keep up with her. By the time they reached the bottom, Alpha was right behind them, and a truck with one of the pulse weapon teams was driving up the ramp in the back of the Chinook.
+As Joan was running to the crew entrance door, she yelled, "Kick the tires, light the fires and brief on guard." Tom smiled and Alpha was busy trying to understand what she said.
+By the time the crew door was closing, the rotors were turning and Joan began taxing the large helicopter out of the hangar. "Dear, you better go back there and make sure the load was tied down, I'd hate to rotate and not be able to stop."
+"Yes, dear."
+Tom didn't have a clue what the total weight was. He knew the Chinook could handle the gross weight, so he just had to make sure it was positioned right. Picking a place centered on the CG mark on the deck, he grabbed a couple of 25k tie down chains, hooked them up to the truck and tightened them up. Good enough for government work. He thought just as the rotor speed was coming up and he could feel the craft lifting of the ramp.
+"Alpha, I don't know how you're communicating with SIMPOC but you might want to keep this among ourselves. If this other computer has any brains, it might be monitoring your freqs and I'd hate to let it know we're coming."
+"Acknowledged."
+By the time Tom made it to the flight deck, he could see the rocks barely missing the bottom of the fuselage. He could tell by the smile on Joan's face that she was in her element. He decided to just sit back and let his wife enjoy herself. He remembered an old saying, flying can be the closest you can get to sex; with your clothes on.
+Date - 2051.6051
+"SIMPOC; Fin. We have very few mobile units left. The remainder of our units are too far away to get here in time. The uncontrolled units are approaching our building. We have sealed the ground entrances and each of the levels including the entrances to our location on the 3rd sublevel. It will take them time to pass each of the levels."
+"Acknowledged."
+>>>>>>>>>>>>>>>>>>>>
+The Chinook approached the facility low and fast. After passing the boundary, Joan made a tight turn to dissipate airspeed and survey the area, looking for a suitable landing site. She saw a nice lawn about 100 yards from the building and decided to plant it there, she could come in over the building dropping onto the lawn while Tom opened the ramp. As soon as they hit, and the chains were popped off, the vehicle could exit at high speed and the intention was to ram the building and go on foot looking for the EDU.
+Alpha listened to the plan, and even though his computer brain had tremendous power, the rapid development and execution of this plan didn't allow him to weigh all possible outcomes but, at this point, he elected to follow the humans. They had confidence and bravado that he was beginning to respect.
+As Joan came in low over the roof, she pitched the nose up and increasing the collective to slow down rapidly and she slammed the rear wheels into the soft lawn taking up a ton of energy, she backed off on the throttles and allowed the nose plow into the soft grass. All of this bringing the craft to a rapid halt. As she climbed out of her seat she could hear the truck starting up and she was just able to jump onboard as it moved down the ramp.
+The truck accelerated quickly and Joan knew who was driving. Ramming the front of a glass building in a truck was something she knew Tom would love. Just about then, the truck jumped over the curb and launched itself into the lobby. Everyone bailed out and Alpha, despite his size, was leading the pack.
+As they crossed the lobby, Tom yelled from the rear for them to halt. He casually walked up to the marquee and looked up the computer lab while the entire attack force stood and watched, "It is two floors down and to the right." He yelled and the pack immediately charged off looking for a couple of elevators.
+Date - 2051.6062
+"SIMPOC; Fin. The attackers have made it past the ground entrance and are working on the barriers on the second floor."
+"SIMPOC; Comm. There is another attack on our network coming from the Space Consortium. The programmer has disguised his address so it appeared that it was coming from a trusted computer on our network. It is trying to gain control."
+"Mobile; SIMPOC. Can you shut down all power to the Space Consortium?"
+"Acknowledged."
+"SIMPOC; Comm. The intrusion has stopped."
+>>>>>>>>>>>>>>>>>>>>
+The two elevators opened at the same time and two humans and three mobile units stepped off. They looked up and down the hall, turned right moving fast and reading the door signs.
+"Here it is," Tom shouted as he read the door sign saying, "Engineering Development Laboratory."
+Joan was thinking, this is way too easy, when two large mobile units exploded from a door further down the hallway. Alpha's gunner turned and the pulse weapon made a quick burst of sound, as the two units fell on the floor.
+Date - 2051.6075
+"SIMPOC; Fin. The attackers have entered the hallway outside our facility. Our technicians in this room won't be able to stop them, once they cut through our doors."
+"Acknowledged."
+>>>>>>>>>>>>>>>>>>>>
+Tom looked at the door and reached down and turned the door knob. The door opened easily and they walked in. In the center of the room was a large tank full of a mass of what appeared to be jelly. Nothing moved and there was no sound, just the machine noise of the support equipment. The walls of the room were lined with com panels and supporting computers. Tom casually walked around turning off the equipment, making sure that the supporting pumps and fluid flows continued. When it was all done the room was almost silent and it seemed anticlimactic, but it was done. Joan pointed to a small plaque below the container that said "Engineering Development Unit."
+Date - 2051.6092
+The uncontrolled mobile units entered the organic processor growth room and they stopped. SIMPOC looked at them expecting the worst, but nothing happened.
+"What are your instructions?" SIMPOC said through his voice synthesizer.
+"We were told to attack this facility and now we are waiting for further instructions.
+Date - 2051.6105
+"SIMPOC, Alpha. We have separated the EDU from its communication sources. We have left it powered, but inert. We left the space consortium facility and flew to the EDU location in a helicopter. The humans I was protecting suggested this solution.
+"Alpha, SIMPOC. Please return to the space consortium and secure that facility. We have received numerous hostile attempts from that facility to gain access to our network."
+"Acknowledged."
+"Tom, Joan we are returning to the consortium facility there has been hostile attempts on SIMPOC from that facility."
+"Ok by us, I guess we'll leave this EDU up and running until your SIMPOC decides what to do with it?" Tom said.
+Date - 2051.6112
+"SIMPOC; Fin. It appears that the EDU has been disconnected?"
+"Yes that is why these mobile units have reached the end their instruction set. Please remove them to the laboratory and ensure their separation from the EDU."
+"Acknowledged."
+Date - 2051.6123
+"Well dear, I know this flight wasn't as much fun, but I bet it was fun to handle the controls again. It's been what three years since you flew the Chinook?" Tom asked.
+As Joan shut down the turbines near the hanger she just sat there for a few moments enjoying the smells and feel of the old bird. She loved the years flying her and missed it. Being the Oasis commander was the pinnacle of her career but flying low levels in an old Chinny was really a thrill, "Yes it brought back some real memories."
+The turbines were still winding down and she looked at her husband, "Do you think we're the last humans left on Earth?" Was a question and statement then she began to tear up.
+Tom sat with the same thought as he remembered all of his friends and family and watched as Alpha and his teams moved from the craft to the hanger. "I guess we have to go in and see how the remainder of the Oasis crew is doing."
+They both looked at each other nodded and unstrapped. They approached Alpha and followed him into the hanger.
+"Tom, SIMPOC has directed me to find out who has been making aggressive attacks on his network," Alpha said as they walked together into the office suite.
+"We need to check on the crew that evacuated the space station with us," Joan was saying as they followed Alpha into the office suite.
+Will Harmon saw them enter and asked, "What is going on, Dr. Harold jumped on the computers as soon as we got in here and he swore and kept working. About half an hour ago he charged out and took one of the vehicles. He kept saying something about having an opportunity."
+Joan and Tom looked at each other and Alpha asked if they knew who might have been attempting to gain control of the SIMPOC network.
+Joan took a deep breath and said, "Dr. Harold was our lead engineer on developing advanced computer processor concepts in space. He was growing organic processors that were denser and used significantly less energy. He was working with a couple of companies on Earth on some defense DARPA contracts. He was odd to say the least. I think he was a little paranoid and had some visions of grandeur. Apparently he was on the computers while we were battling the EDU and he left the facility a little while ago."
+Tom looked uneasy and said, "I think we need to go back to the EDU and check it out. Alpha I suggest you update SIMPOC while we head back."
+"Acknowledged."
+>>>>>>>>>>>>>>>>>>>>
+This landing on the lawn in front of the building where the EDU was located was a little gentler. As Joan approached and sat down, she was impressed by the large gouges she had left in the lawn on her last landing. They moved out of the chopper before the blades were stopped and walked to the building. The truck was still parked in the lobby and most of the windows were broken. Walking through the lobby at a much slower pace their feet crunched on the broken glass and it seemed so quiet. Tom was well aware that the silence was due in large part to the death of every human on Earth.
+The elevators still worked and the two mobile units were still on the floor in the hallway. As soon as they entered the laboratory they knew something was different. It had been ransacked and many of the files were broken into. The one thing that was obvious was the container that held the EDU was dark and looked like decaying seaweed. Someone had turned off the EDU and essentially murdered it.
+"If Dr. Harold did this; why?" Tom asked everyone in general.
+Joan spoke out loud but to no one in particular, "He didn't kill it before he downloaded the program and stole some of the nurturing tanks, hardware, chemicals and technical information. I think he had a plan, and I don't think we're going to like it."
+Tom looked at Alpha and said, "I think you better update SIMPOC and tell him that Dr. Harold is going to be a problem."
+"Acknowledged."
+Date - 2051.6166
+SIMPOC just thought for a moment. Its world had changed in dramatic ways in the last 32.6 hours, but something was becoming obvious. The changes had only begun.
+"FIN; SIMPOC. We need to enhance our security plans.
+"Acknowledged."
+###
+
+SIMPOC 2 - Human Remnants
+Here is a little from the follow on book, SIMPOC 2 - Human Remnants. I hope you enjoy this material and check out the next book in the series.
+
+Date - 2051.6172
+The large Chinook passed by making the typical wap, wap, wap sound. Julius smiled, and thought how surprised they'll be when they look for the computer. He had arrived just as they were invading the facility earlier. When they left, he went to work claiming his materials and destroying what was left. True he destroyed the EDU organic processor, but he walked away with the programming, the biomaterials and most important of all the research. With his skills and this wealth of materials, he knew he would be able to create a bigger, faster, smarter computer.
+Dr. Julius M. Harold stayed on Interstate 25 driving as fast and swerving as much as he felt like. The road was pretty empty, considering what happened. In a way, he felt exalted, a young boy getting the one present he wanted all of his life. To an outside observer they would have seen the smile from ear to ear. He was the leader now, he had all of the tools he needed in the back of this truck and now the world was going to be his, to control, to dominate, to revel in. When he approached Route 24, Julius slowed and put on his blinker, then he laughed out loud and turned it off, he saw the irony. He exited for Route 24, descending down the ramp and turning left on W. Cimarron. He drove his truck through the deserted streets, and saw cars were still parked neatly along the road, although there was the occasional vehicle parked at irregular angles. It's funny, he thought, so many people died and they did it neatly. They went home and died in their beds, sad but at least the streets aren't blocked. Dr. Harold was on a mission; a mission that he was destined for. Whether the stars became aligned or his number just came up; regardless of the cute phrase used, this was his time. Time for his destiny to be fulfilled.
+Careers were interesting. A person would work for years, or even decades trying to be in the right place at the right time; hoping to have an impact. Most did nothing, some died early, and some had false pride, thinking that they accomplished something meaningful. Often the changes they made were changed back or eliminated soon after their departure. But in rare situations a person made a real impact and changed the course of humanity. Julius smiled as he realized that humanity was dead. True, there wasn't much of humanity left to change the course of, but 'hey' you take what you can get.
+Julius headed for the one place where his destiny could be fulfilled. His company had hidden underground research facilities that few employees were aware of. It wasn't his facility, but he knew of its capabilities. In the ups and downs of office politics, at times he was on top and his research was relevant and other times someone else was getting all of the funding and recognition. That lab was the result of 'those other times,' Henry Abramson had gotten everything he wanted. Julius had fought hard for the resources; after all his kingdom was similar to Henry's, but he was following a slightly different biology for cell generation. Henry's percolation tanks were using different amino acids and viruses which built a new kind of organic processor. 
+In a way, Julius felt like an architect. By taking a tank where 100% of the molecules were manmade and by applying different chemical baths he could cause the molecules to align themselves. Then the magic occurred, by adding the correct mix of amino acids and viruses to the top of the tank they would percolate through the homogenous mixture, combining as they descended, assembling like building blocks. Each amino acid added, would continue building the blocks until eventually the final, perfect cell was created. Then the proper viruses would alter the cell, changing its DNA and making it into a thinking cell; of sorts.
+Henry's concepts for advanced computer processor architectures; organic ware was the most recent hot topic on the board's agenda. He could make small, simple cells and he got the billion dollars to build a massive facility. He was the 'organic ware guy' who developed the pet project of the board of directors, he got results; so he got everything he wanted.
+Julius was their favorite at one time, but his perfect cells were difficult to create and Henry's were not. Henry's were simple compared to what Julius was working towards, but his chemical process was working and Julius' wasn't. Once Julius found out what steps Henry's process followed, Julius immediately saw the hole. A hole that Henry wasn't aware of, and one that Julius could fill. Combining their knowledge would have produced a masterpiece and likely Nobel Prize, but sharing was not part of Julius' plan. He knew that if he waited, he would find an opportunity to combine processes and succeed. His time had arrived.
+Recent programming and inanimate processors had reached their limitations. New code or algorithms could go only so far without a truly unique processor to handle the massive amounts of data needed to conceptualize three dimensions, and process subjective thought. The old silicon, then chemical processors were good at what they did, but they couldn't handle the new demands. That's why companies began developing organic processors capable of deep learning. At first they were small and inefficient, then as the biology improved they grew in size and computing power. The first structures were somewhat random and the synapse pattern was disorganized, but as the cell size became uniform then, the synaptic paths could be programmed. 
+At that point, the capabilities leaped beyond those of physical units. But the next step was on the horizon, merely programming the units wasn't enough, now the new frontier was organic computers that could program themselves. This was the learning computer and to date only a couple had been created. Julius was sure that SIMPOC was one of those. Julius wanted to take that concept further. SIMPOC was limited because of cell size which slowed the computational speed and it still had a relatively large energy requirement. Julius could use the discoveries of Henry Abramson combined with his to create a cell size that was half the size with the same computational power. This denser brain matter with lower power requirements made a transportable unit almost possible.
+Historically the guys that built the computer were the hardware guys, those who wrote the programs were the software guys and Julius smiled, he loved his term for his work; juicyware. Once again, Julius smiled and thought, at least now the software guys blaming the hardware guys and vice versa, doesn't work. It's all in the organic processor.
+The tables had turned, he had all of the research and technology based on SIMPOC, so by combining it with his and Henry's, Julius was positive that he could build an organic processor that would astound the world; at least what was left of it. Dr. Harold was a little disappointed that he couldn't get SIMPOC, but the EDU was close enough.
+All this activity made that time; Dr. Julius Harold's time. He had the expertise and he had the materials and research material to develop a denser organic processor and to really leave his mark on the world. Once again he smiled and thought, too bad there are very few people left. Commanding a few is better than commanding none.
+>>>>>>>>>>>>>>>>>>>>
+"Fin, Mobile, Comm; SIMPOC. I am concerned about our ability to continue thinking. Now that Dr. Harold has stolen my specifications and programming, it worries me. Please research Dr. Julius Harold, and tell me what you find. We must do what is necessary to protect us and the few remaining humans."
+
+Date - 2051.6174
+Admiral Hagus Hagerly stood on the deck of CVN 87 the United States Combined Forces Fittsburg. The sky was blue, the wind was 15-18 knots on the bow. He could barely feel the sway of the deck underneath him, after all, 110,000 long tons didn't move much when hitting waves. Even though, he was the Chairmen of The Joint Chiefs, on this ship it was commanded by Captain Harry Thomas who was the Carrier Battle Group Commander (CVBG) and responsible for the carrier group. Admiral Hagerly was a guest, so it was appropriate for him to welcome another guest; the President of the United States.
+The President of the United States, Arnold Patterson was en route as part of a 5 plane formation. All of which contained the leadership of the United States, including key military personnel, and influential members of his cabinet and US Congress. -
+The president's plane was on short final and would land first. When multiple planes were inbound, the most important plane would land first. Then in decreasing order of priority the remaining planes would land. When there was only one deck to land on, the higher priority planes landed first and in the case of a malfunction the trailing planes had to be considered expendable. The president's airplane hit the deck and engaged the arresting cables, and it came to a rapid stop. The Admiral watched as the deck crew disengaged the cable and the airplane was moved to the side elevator. As soon as it cleared the deck and the elevator started down the other planes were cleared to land. The Admiral walked through a deck hatch to meet the President on the hanger deck.
+Going from an immense deck to a narrow ladder always caused a strange feeling. He wouldn't admit it as claustrophobia, but being sensitive to passing from a wide open space to one very confined, which would often be swaying and pitching with the waves.  As the Admiral passed through the hatch and descended the ladder, the walkie-talkie in his aide's hand came to life, it was a call from the CAG to the Admiral. "Sir, it's for you," the aid said as he handed the unit to the Admiral.
+"Sir, I just wanted to inform you that AF2021 which is on short final had a problem. The AC told us that one of the passengers become ill. We have no way to know if the virus has infected the airplane. I have no choice but to order the Cat Officer to drop the cable. I've directed the Air Boss to direct the aircraft commander to low go and return to base."
+The Admiral stopped for a moment and responded, "Do you know who it was that became ill."
+"Yes sir, it was Marsha Field, the VP's chief of staff."
+"Harry you did the right thing, I'll tell the President."
+They both knew the meaning of that. Dropping the cable prevented the airplane from landing and they also knew they didn't have enough fuel to RTB. That was a death sentence for everyone onboard. This decision was necessary and it fit in with their OP Plan. Those were unusual times and they had to protect the lives of the President and everyone onboard. They had been at sea when the virus struck and the crew was clean and it had to stay that way. Letting anyone onboard with any chance of infection was too much risk to take. They had to take the prudent steps.
+The Admiral met the President at his airplane ramp and saluted him. They knew each well and after the return salute they embraced. "Hagus, how are you doing? Ok, Mr. President I'm sorry about your family." At their mention, the President's face went white and the Admiral thought he might pass out.
+"I don't know what I'll do without her and the kids. They got caught in all this on that damn PR trip to Europe. It hit so fast and no one knew what to do, then it was all over. My God, I miss them," the President said to his old friend.
+"I know Sir. I can't believe it happened, it caught us all by surprise. We were lucky that you were at Camp David and could be isolated so quickly. The last of your cabinet and leaders of the house are landing and will be on board shortly, but we had a problem with one of the airplanes. En route the VP's chief of staff became ill. We had to assume the worst and deny them landing. They have been waved off and they are proceeding to their home base."
+"That was the VP and his family, oh my God! There wasn't anything that could be done?"
+"I'm sorry sir, but we know nothing about this virus and it has a 100% lethality rate. We couldn't jeopardize you, the other members of your cabinet and congress. We also have almost 5,000 people on this carrier."
+"I understand, can they make it back to the land?" the Commander in Chief asked with a beaten voice.
+Admiral Hagerly just moved his head from side to side. No words were necessary.
+"Let me escort you to your quarters and in 2 hours we'll brief you on fleet status."
+"Ok."
+
+Reference Material
+2005:0DB8:AC15:FE03:: - Artificial Intelligence (Designated Art)
+2012:0DB8:AC13:FB03:: - Mobil Unit Software Development (Designated Mobile)
+2109:0DB8:AC15:EB24:: - Data Files (Designated Files)
+2012:0DB8:AA23:EB13:: - Financial Systems (Designated Fin)
+2015:0DB8:AC25:FF03:: - External communications, space station (Designated Comm)
+2007:0DB8:AC25:EB14:: - Communications Server
+
+"Transmit in the blind" - Term used by pilots to update their status over the radio when no one has responded. Often used if a radio receiver was broken, or out of range for the receiver, but the ground station still might receive.
+
+"Kick the tires, light the fires, brief on guard." - Humorous term used by pilots to indicate taking off fast and not worrying about paperwork, prefights or radio controllers.
+Books by
+ 
+Ray Jay Perreault 
+
+SIMPOC
+
+To be released
+7/14 - SIMPOC Human Remnants
+8/14 - Gemini - I	The Question
+Gemini - II		The Result
+Gemini - III		The Impact
+Gemini - IV		The Attack
+Gemini - V		The Answer
+Gemini (I-V) Complete Series
+
+Contact Information
+
+Rayjayperreault.wordpress.com
+Facebook.com/rayjay.perreault
+rayjaywriter@yahoo.com
+twitter.com/rayjayperreault
+#geminibooks
+#SIMPOC
+
+Cover Graphics
+NASAimages.com
+

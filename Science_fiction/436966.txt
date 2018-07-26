@@ -1,0 +1,653 @@
+﻿
+
+The Asteroid Belt
+By Stephen Brandon
+
+Copyright 2014 Stephen Brandon 
+Smashwords Edition 
+
+
+Smashwords Edition License Notes 
+
+Thank you for downloading this ebook.  This book remains the copyrighted property of the author, and may not be redistributed to others for commercial or non-commercial purposes.  If you enjoyed this book, please encourage your friends to download their own copy from their favorite authorized retailer.  Thank you for your support.  
+
+* * * * * * * * * * 
+
+Author's Note 
+
+This book is a work of fiction.  All characters, organizations, incidents, and dialogue are from the authors imagination or used fictitiously.  Any resemblance to actual events or other persons, living or dead, is entirely coincidental.  Real and fictional locations are used for background only.  
+
+* * * * * * * * * *
+
+
+Table of Contents  ~(ToC)~
+
+Prologue
+Chapter 1  Rescue Mission
+Chapter 2  Copied from Journal 
+Chapter 3  Reprisal
+Chapter 4  Attack & Counter
+Chapter 5  The meeting and results
+Chapter 6  On the move again
+About Stephen Brandon
+Other books by Stephen Brandon
+Connect with Stephen Brandon
+
+~ ~ ~
+
+
+Prologue
+A portion of chapter 11 from  The Impossible Ambition
+
+Our 3 months of training and work are complete.  When our spacecraft were launched from earth the exterior airlocks were all recessed into the hull.  That was the first item we had to reconfigure so they then stuck out from the side of each module 2 and 4.  In case I didn't mention it earlier, all the modules bolted together and module 5 was designed to be disassembled into I beams.  All pressurized modules had two airlocks, one external and one internal with a place on the opposite mating ring to fasten the airlock from any other module.  The mating rings where the modules bolted together isn't pressurized. On average it took three spacecraft launched from the surface to make one of the spacecraft we would travel to the asteroid belt in.  We combined our cargo drones the same way using disassembled module 5's to bolt them together.  Then their electronics were slaved to the crew ships for control.  
+Tuesday rolled or should I say it floated around after a 24 hour break.  The ships launched for the moon this evening and we moved over to our ships for launch in the morning.  
+Our original three spacecraft plus the one furnished by THE BOARD launched without incident.  Even our slave cargo ships started without a hitch.  After 8 hours and only two minor formation adjustments we unsuited and started shift rotation.  
+One hundred and twenty-two days out we caught up with the supply rocket that had been launched early.  It was originally supposed to go to the station with supplies, but we convincingly lost it because we needed these supplies in the asteroid belt, but didn't want this cargo on record.  After a few main rocket burns and minor thrustor adjustments it joined our formation as planned.  
+Two hundred and nine days from launch we achieved our designated position and parked the slave cargo spacecraft.  Tomorrow each manned spacecraft will head into the belt for our initial survey to locate a main base site.  My impossible ambition is almost complete.  
+
+~ ~ ~
+
+
+
+Chapter 1  Rescue Mission
+
+The asteroid located by the  crew ship 1 named it Wonderland.  We discovered that hollowing out an asteroid using laser drills presented unique challenges.  After all who would think that the vaporized rock would act like a jet and cause it to move.  We'd located a better location so we used the rock vapor to move Wonderland to a new location.  Piloting an asteroid presented a challenge and chances to learn.  
+Pressure testing the living and working areas of Wonderland taught us that the laser drills sometimes malfunction and that even solid rock leaks, no surprise there.  By my journal dating system we were finally able to work inside Wonderland in shirtsleeves on day 794 DFE (days from earth). 
+Our unique bolt together spacecraft enabled us to start re-configuring the crew ships and cargo drones into mining spacecraft.  We had to retrieve all the unmanned resupply cargo ships.  Who ever was closest to the arrival point was tasked and we quickly discovered that capitalism was the best method of keeping track of expenses.  
+Beyond our extensive planning, luck also played a great part in our location and original mining surveys.  Alice and James Melbourne proved that on their first expedition in miner 2.  They discovered an almost solid metal asteroid consisting of various ores melted together.  This was one more indicator one of the theories the astronomers had about the asteroid belt being a planet that disintegrated may be correct.  We trimmed their load down and kept some ores to start our own manufacturing at the belt work station we were assembling.  The Melbourne's decided that they wanted to visit earth one more time, so they crewed their miner spacecraft back to earth orbit.  What they didn't anticipate was the meteor storm that holed their ship and disabled their main rocket.  They lived through that and using only maneuvering thrusters managed to closely enough match orbit with the earth space station to be retrieved by tugs.  
+No one else managed to find an asteroid as valuable as Alice and James, but they found what was needed to make us self-supporting.  We had no idea what our mining and shipments to earth were going to do to the global economy.  However some of our planners from THE BOARD had ideas what the politicians might try.  Their plans to counter these ideas and taxes were only off by a few decades.  In certain ways we were successful beyond their dreams.  
+Year four here in the asteroid belt had its problems.  Lost miner spacecraft and accidents were expected.  Luckily casualties were few, but our population wasn't that large.  We still made progress and approached self-sufficiency.  We even manged to build most of a spacecraft from local materials.  We were still dependent on earth for computer modules and other items to create a diverse environment.  
+It wasn't until late in our fifth year in the belt that the governments on earth started looking the other way when pirates stole our shipments on earth.  Then a cargo of cryogenic animal fetus was left on the dock for two weeks to spoil.  Someone even had the idea to give a large shipment of computers an EMP to ruin them and I assume they thought that they could force our dependency on earth that way.  
+We've been monitoring all earth communication that have enough signal strength to be coherent.  To test my suspicions I had a message sent to the earth space station informing them of problems here in the belt and requesting specific medical supplies, food, and solar panels.  Days later I got the reply I was afraid of.  Food packaged for long term storage was in short supply just like medical supplies.  The earth station even stated that they would ship us seawater and told us we'd need to distill it ourselves.  
+Late in our sixth year here one of our cargo ships was boarded and confiscated by the UN Space-force.  They claimed it was a hazard to navigation and then when our lawyers objected they claimed it contained contraband cargo.  Tons of ore is contraband?
+Alice Doctor started ordering the evacuation of Tim's cave and certain other trustworthy personnel to the space station.  THE BOARD declared that she was acting paranoid when she brought up her conclusions about the political situation and rumors that her personnel had heard.  
+By my journal on day 2500 the UN declared the privately owned space stations, the moon settlements, and the asteroid belt UN protectorates.   The next day a UN military force invaded our spaceport on Montserrat.  Luck was with the ground crew.  They'd listened to Alice and had an emergency ship fueled and ready.  Because the UN invasion force didn't know enough not to fire into buildings and fuel storage tanks, the resulting explosions killed 80% of the invasion force.  Then they declared that the asteroid belt community had started a war against them. 
+Eight days later our spaceport in Chile was invaded.  That invasion force simply claimed they'd found illegal weapons and the criminals there ran off into the jungle.  Our side of the story is that the only spacecraft left on the ground was in the process of launching when the invasion force was spotted on radar.  The last members of the ground crew made it safely to orbit as our space stations left orbit.  That was unexpected by the UN.  
+They scrambled their forces and launched missiles a few days later.  Luck or secret prior planning was with two of the space stations again.  It wasn't until the earth moon L4 space station was hit that everyone discovered that they were launching missiles with nuclear warheads.  By then the earth space station and workstation were far enough out that they considered themselves safe.  The only problem was that they'd used most of their fuel dodging missiles that had gone ballistic.  As a result I took our newest spacecraft named Free Enterprise, loaded it up with fuel and supplies, and launched toward rendezvous with the earth workstation.  On day 2682 we fueled them up and then proceeded to Mars L5 hoping that the ice asteroids we'd discovered earlier were still there.  They were.  
+The earth space station was on a trajectory for the Sun-Venus L4 point.  Every Lagrange point we'd investigated had asteroids in them.  They informed me that they had oxygen left but no hydrogen and were limited on food.  They were completely ballistic.  I adjusted Free Enterprise's trajectory and calculated that we'd reach them in 43 days. 
+We made it and refueled them.  Then they had a choice to make.  Trajectories calculated gave them two choices.  First was use all the fuel I gave them and use Venus as a sling point to get to the belt, or go inside the orbit of Mercury and use the Sun and still have some fuel left for maneuvering.  Frederick chose the second.  Six hours after we'd completed our maneuvering burn we received a faint call informing us that a belt ship calling itself Trojan 2 would rendezvous with us after he looped the Sun.  He claimed he was decelerating at 3 G.  
+We completed our acceleration burn using the Oberth effect to launch us toward the belt.  Twelve days later we received another call from Trojan 2.  
+
+~(ToC)~
+
+
+Chapter 2  Copied from Journal
+
+Day 2912  Tuesday 
+Trojan 2 calling.  Wasn't sure if he had enough fuel to match orbits.  Approaching at still over 200 KM per second relative. Could we snag him?  He claimed he was still decelerating at 3G.  He would be within spitting distance in 7 hours.  
+When we trained our radar toward the rear it still took us almost 15 minutes to locate him.  Actually the thermal imaging radar spotted him first because his rockets were hotter than the Suns surface.  When the computer finished crunching the figures we knew he would slow to our speed about an hour after he passed us, if he had enough fuel.  I cross loaded the ships tanks and the engineer cut us free.  
+I had 1 engineer and hoses to refuel him.  I started accelerating at 2G for 15 minutes and then cut everything off and let the computer crunch rendezvous trajectories and speeds.  After 2 more burns we were only 5 km/s faster than he was when he passed us at 19 KM distance.  We had matched speed and were only 1 KM off from him when he flamed out.  He was only going 20 KM faster relative than the Station, but we were 6487 KM out front.  
+I called over and asked him if he had his gas card.  His radio transmission was still over half static.  From the looks of the ship he had a module 1 surrounded by module 2a coated in gold, 2 module 3's, a module 8, and a module 4.  He told us to hold at 1 KM off his side and wait until he jettisoned both useless ends of his ship.  As we turned our telescope on the ship we saw a suited figure at the first module 3.  There was a ring of small explosions and then the nose of the ship started drifting off.  He was then at the junction of module 3 & 8.  When he blew that junction some evidently didn't go off because the remaining ship started to bend in the middle.  Part of the mating ring on the second module 3 broke and then the engine and fuel sections started drifting.  
+My engineer was suited up and out the lock with a cargo net before I could do anything.  After they got the net over the end of the broken module 3 they called for me to go the tail of the ship and push it away. Then align myself with the first module 3 for bolting up.  
+It only took 45 minutes to align and get the first bolts in place.  
+He only had 2 sets of power tools to tighten the bolts.  
+I took out water and air to replenish their suits and they were finished in another hour.  As soon as they were inside I started maneuvering to get the best angle for deceleration to the station.  It took almost 20 hours to return to the station because my ship was handling like a truck with flat front tires and no power steering.  As we approached the station I saw that they had built a basket at the airlock.  All I had to do was slide the end of the module 3 into the basket so they could tie it down for unloading.  
+Frederick had already gotten the unloading crews organized and the food containers moved through the airlock and down the halls to the cafeterias where the cooking crews prepared a ½ ration meal using the fresh food.  
+My engineer and I hauled the pilot to the nearest medical room and told them to take care of him because he was ½ dead from heat, excessive acceleration, and had probably picked up enough radiation to make a florescent bulb glow.  
+One of the nurses said she wasn't going to do anything until she had some food.  
+I then explained that this was the pilot that brought the food from the Belt and if she didn't get her ass in gear the only person that could stop me from spacing her would be Frederick P. Cole, because he would probably do it first.   I then went back to my ship and got 6 sets of emergency rations and made thermos of hot coffee.  I then returned to the medical room.  I poured coffee for each of the workers and then handed them an emergency ration.  
+One stepped back and opened her ration and started eating.  After about 3 mouthfuls she handed the box to a nurse and took her place working on my pilot.  
+I watched them all rotate through 2 ration boxes.  As my pilot started relaxing and getting his color back, I looked closer.  It was Jun Zhang.  I got on the station intercom and asked for Mr. Cole to come by medical room 18 at his convenience. 
+Day 2914  Thursday   
+All food unloaded and empty modules jettisoned. I docked my ship to the station.  
+I remained on the station. Our 2 mining suits were left in the main airlock suit locker room.  Both showed hard use and repairs.  
+It seemed like everyone wanted to shake my hand.  My engineer was lucky, no one saw him.  
+Day 2916  Saturday 
+People going to the airlock to look at the mining suits were causing to much disruption.  After 2 days of that Cole set up regular tours.  
+Day 2927  Wednesday   
+Luckily it was almost 2 weeks before anyone found out that the pilot of the food ship was in the medical room.  Cole had to post a guard at the door to keep out gawkers.  
+Day 2933  Tuesday 
+Received call from Belt Station requesting trajectory and speed.  They then said rendezvous with Trojan 3 would be in 68 days.  
+I then informed them that Trojan 2 was a complete loss and the pilot was doing well under medical supervision.  They said they would inform his wife.
+Day 3000  Saturday
+Trojan 3 identified itself at 100000 KM and requested docking instructions.  Cole called me to the control room and asked me if I could identify the pilot of Trojan 3.  
+After listening to the voice I got on the radio and asked how Tim was.  
+When she said, Dad is fine, I turned to Frederick with the mike still keyed and told him that he had better get all the emergency crews on station because Sissy was piloting the ship and would probably land hard enough to jar our teeth loose.  
+When I released the mike key all we could hear was laughter.  Sissy docked 4 hours later as gently as a mother would kiss a baby.  When she got to the control room she looked at both of us and then told us we were fired.  
+We of course laughed at her until she joined us.  
+Day 3207  Wednesday 
+We started decelerating toward J4.  Then Sissy told us that most of the surviving Board members had tried to assume control of the Belt community and only about 1/3rd of the refugees from the moon supported them.  Everyone had been fed and given the Asteroid Belt Crew briefing on paper when they arrived. When they demanded food the next day they were given the choice of accepting the existing rules in the Belt or going their own way.  It took 4 days for most of the moon people to capitulate.  THE BOARD itself capitulated on day 6.  The Earth work station joined before they even made orbit. Somewhere they had gotten a copy of the crew briefing and rules.  Their vote was unanimous. 
+Now it was time for the Earth Station personnel to make their decision.  Frederick made the announcement that every computer terminal in the station would have the Crew briefing and the government rules for anyone to read.  All personnel over the age of 16 would have to sign on and read them in the next 4 days.  They could then accept or reject them.  
+Day 3209  Friday 
+We all gathered in the command center and Frederick bought up the vote.  80% had signed on.  78% of those had accepted the Belt government.  1% rejected it and 1% had signed off without voting.  After looking at the figures he announced to us, well at least we won't outnumber the Belt citizens now.  He handed Sissy and me new ID cards and picked up the intercom mike.  Then he announced; 20% of the of the personnel aboard the station have not voted.  They need to vote by 1800 local.  New ID cards will be issued at the main medical center. Every one will report there within 24 hours to pick up their new card.  The new card will contain their medical information and will be their key to computer access.  Children under the age of 16 will be brought in by their parents.  That is all.  He then walked us down to the nearest cafeteria and we had to place our cards on the computer pad before we got in line.  The pads looked very much like the ones June had in the Cafeteria back in the Cave.  The green LED lit and our orders were processed.  After eating he led us to the library.  At the door was a keypad.  He put his card on the keypad and the door opened.  He waived Sissy ahead.  As she walked through the door there was a red flash of light and an announcement from the door; UNAUTHOIRZED ENTRY, STEP OUT INTO THE HALL AND WAIT, SECURITY HAS BEEN NOTIFIED.  She stepped back out and swiped her card. Then when she entered the door said, WELCOME BELT CITIZEN.  When we were all inside Frederick told us to try accessing any computer terminal.  I sat down and tried to log on.  The terminal refused until I laid my ID card on the access pad.  Frederick then explained that the system was in effect before to control data access from public areas and keep supply inventories.  His computer man had just changed the access programs to work for the new ID cards which were the same except for the picture and logo on the front.  After 2400 anyone that tried to log on without a new ID card or access station services would be notified by the computer that they needed to vote and report to the main medical center for a new ID card.  The ID cards are constructed under computer control.  He had gotten the ID machine out of the Cave when it started to closed down last year and moved it to the Station.  Those that vote NO will get a different guest ID card that will allow them only survival services, no computer or non-survival services.  All ID cards will have limits determined by their jobs and ages.  When we returned to the control center we were told by one of the station officers that voting was up to 96% with only 1.8% voting NO.  
+Day 3242  Wednesday 
+We arrived J4 location and the station assumed orbit.  After a computer link was established, the control center was informed that an immigration detail would dock within the hour.  
+This surprised me and when I asked Sissy and Frederick they answered that this was per instructions they had received.  
+He then informed me that the Earth Work Station had a 2 duplicates of the ID machine that they had copied and built.   
+As the immigration detail entered the station they all pressed their ID's to the panel inside the suit room, this recorded their entry to the station.  Doug was the last one through and he gave Sissy a hug and then reported to Frederick.  His second question was, what is the new name for the station.  
+Frederick just turned to the hall computer terminal and punched up a log on screen.  Displayed across the top was FREEDOM STATION ONE log in.  Doug looked at me and said that Tim had told him that Frederick would pick something corny like that for the station name.  
+The Free Enterprise will be here in about 50 hours and you can get whats left of your ship back.  
+Dr. Venu sent over 2 medical personnel and with inoculation equipment to prevent any large scale illness.  A young woman stepped up and told us to roll up our sleeves and put our ID's on her portable desk.  We got our shots and were automatically logged.  After Doug's crew headed out to the nearest cafeteria Doug told us that the inoculation also contained nanobots that would improve our health.  Dr. Venu has spent the last 4 years developing them and they worked by reading our DNA and attacking any DNA that didn't match, like cancer cells or viruses.  He based the nanobots on the white blood cells.  The critical number was around 3 million for an adult and it takes about 72 hours for them to reproduce that many.  You will feel tired until then so eat good.  I then reminded him that the station was on ½ rations.  
+He then told a member of his team to make a ration call and asked where Zhang was.  When we got to the med station he gave him a shot and told him to go to the cafeteria and get his immunization as soon as he felt up to it.  
+Then we heard the announcement that informed the residents of the station that all personnel were to get their immunizations within 24 hours.  No one would be exempted.  Immunization stations would be in the main cafeteria.  
+When I asked Doug where the Belt government was set up, he replied Wonderland of course.  When I requested transportation he informed me that the station was under quarantine for 30 hours after the last immunization was given.  After that he'd personally insure that I was given VIP transportation.  
+Day 3246  Sunday 
+0800 hours - One of the Belt's ships arrived.  Artemis informed me that the Belt assembly requested the presence of Sissy, Zhang and me.
+At 1500 hours we were standing in Wonderland in a chamber that was combined from 3 separate living quarters.  After the assembly speaker finished reading her speech she presented each of us with a gold medal for unselfish achievement above and beyond any call of duty.  Sissy's and mine were solid gold and Zhang's was rimmed with platinum.  
+I was also informed that when the Enterprise returned I was to escort the crew in for their awards.  
+She then dismissed us so the women present could get back to work easing the government transition with all the new citizens. 5 women were the government for now.  Belt population was now 1631 adults and 203 children under the age of 16. 
+Day 3247  Monday 
+I was called back before the assembly.  
+They wanted me to take back over since I was back.  
+I declined with the reason that the population had started the assembly and changing back to the previous form of government would hamper their authority in the future.  However, I will be available for consultation should the assembly request any information or suggested plan for action.  Before we ever left Earth, the men and women in charge, decided the form of government we would wanted to see implemented.  I have full confidence in the assembly to make wise decisions using the government we selected to start with.
+Now an unofficial word, I believe that if the assembly confidentially calls any of the prior leaders, men or women, before them to request advice they will cooperate. There is nothing in the government plan stating that the assembly has to make decisions without using the best expertise and experienced personnel for assistance as consultants.  No matter what advice is offered, the assembly must make the decision and is responsible for the decision.  
+1.Now for my first suggestions.  A military be established that is under the direct control of the assembly leader.  You will have to select a commander in chief answerable only to the assembly, yet with the authority to act on her own.  She should select a chain of command, male and female, to form a cadre to build a military defense force.
+2.The space stations that came from Earth orbit should be directed to have local elections to select a female to represent them, 1 for each station for now.  The moon refugees should also be directed to do the same.  That should give the assembly 4 more members.  You will have to grant waivers for the number of adults for each assembly member and I suggest 10 to 20 years before you start strictly enforcing population requirements for a state.  You must interview each selected representative before you approve them to take a seat on the assembly.  This will allow you to keep trouble makers out until everyone is familiar and hopefully comfortable with our form of government.  Only adult citizens should be allowed to vote or hold office.
+3.The assembly should assign an operational control person for each station and habitat.  These will not be the civilian government for the habitats or stations.  They will have their own chain of command for maintenance, building, medical, and security.  The leader or operational control person, should for now be answerable only an assembly representative.   This will prevent the civilian government selected for the station or habitat from doing anything stupid like pulling up stakes and moving if they get irritated with the assembly.
+4.I will offer suggestions to the assembly for a few of the positions if you so desire.  I believe that a few of the suggested people will have more knowledge than I do.  
+Day 3250  Thursday 
+I arrived at Freedom Station One and met Frederick in the main conference room.  
+When Sissy and Doug arrived I outlined what I had told the assembly the other day when they wanted me to take back over in the Belt government.  
+None of them looked to happy.  
+I then reinforced my comments by firmly stating that if we don't get a good government operating now we will just be an unorganized mob when earth gets ready to force us back under their control and we will be their 2nd class citizens, unless they make us outright slaves.  
+After they acknowledged the truth in my statements I nominated Sissy to be our agitator to get the assembly off its collective butts.  After some heated discussions we headed for the cafeteria for lunch.  While we were eating Doug was paged.  When he came back he told me I was a bigger SOB now than I was the first time he met me.  
+I said I didn't give the assembly any names for any positions, I just suggested a few positions that needed to be created.  
+Then Frederick got a call to check his e-mail.  He punched me in the arm and told us all that he was directed to report to the Assembly chambers within 2 hours.  
+Sissy then stated that she was getting off easy because now she didn't have to be an agitator.  She'd no sooner finished when a page came over the intercom requesting that she check her e-mail.  As she got up Frederick snidely commented that the taxi would leave in 30 minutes.  When she returned to the table she commented that the Assembly had put out an all-points notification for some guy named Stephen Brandon to contact the Assembly.  
+I looked at Frederick and then stated, personnel lock 9 entry pad must not be connected to the computer because I checked in when I dropped my suit.  You might want to have all the lock pads checked on an irregular schedule to prevent unauthorized entry or exit from the station.  See you when they catch me, and I headed for lock 9.  You know how you get a feeling in an unfamiliar room when you are about to stub your toe, well I got that feeling as I put on my suit.  I did a complete check and then a double check of all suit systems and then a manual drain and recharge of the environment system and jet packs.  With all systems green I grabbed an emergency air pack from the shelf.  It checked out OK.  I then finished suiting up and stepped into the airlock.  When the pressure reached 0 I rechecked all systems except the jet pack by using them.  When they checked OK I opened the outer lock door and headed for Wonderland.  When I checked in I was told to report to the Assembly chamber.  I grabbed the suit maintenance gal and asked her to check my suit completely because I had a feeling something was going wrong with it, but all the indicators showed green.  Also it was probably past due a complete overhaul.  Call me when you are done.  I will probably be out for a month or more before I get back, so take your time.
+I got to the Assembly chamber door just in time to see Doug and Sissy come around the corner of the hall.  
+When asked, I told the Assembly that I could only recommend a few people to positions because I had not worked with everyone. I then indicated that Frederick P. Cole the present commander of Freedom Station One would know more about who could handle the other stations because when in Earth orbit he was in charge of all 3.  Doug would probably be best to set up the military cadre.  Sissy or June would know more about the moon base personnel and who to select for their operational control person.  
+One of the assembly women looked straight at me and said Doug had been selected for another job.  She then announced to me that she had been selected as Commander of Military Defense Forces and I was drafted to set up the cadre and organize everything.  She expected progress reports every 48 hours.  Then I was told to take a seat.  As I sat down next to Doug I whispered, I am going to need some assistance and lots of help.  
+When they finished questioning Sissy they announced that her report was due in 48 hours and could be e-mailed in provided she was available for justification of any questions they might have.  
+Then it was Doug's turn.  They just flat told him he was the best person for the job they had for him.  He shrugged his shoulders and said yes ma'am.  His job was overall security of the Belt government and community reporting directly to the Commander of Military Defense Forces.  She then stated that he would be her right arm and Mr Brandon would be her left arm.  She expected us to work together but she was in charge.  She then called me back up and handed Doug and me cards with very short list of tasks and her personal and Assembly e-mail address.  She then thanked us and told us we could go.  
+I then raised my hand and informed her that the proper military protocol when a superior officer was done with a lower ranking officer or NCO or enlisted person was to say dismissed.  
+She glared at me and then smiled, and then said Dismissed!  
+Doug and I did an about face and marched out.  When the door closed Doug threw an arm around my shoulder and laughingly said don't teach them to much about the military protocol.  We headed for the cafeteria and Doug  left word for Sissy to join us.  
+The first question I asked Doug after we grabbed a cup of coffee was, did Albert and Karen make it out.  I tried to looked hurt when he told me I would suck vacuum before I got my paws on them.  I just need them to set up a really secure e-mail system for the assembly and military.  Also we will need a new encryption system that can be used in the ships out on patrol and in headquarters.  Oh rats, that comes under your job description.  From your knowledge of personnel out here who should I talk to about help that knows anything about a defense force.  
+Sissy hit my head with her elbow as she came around the table.  I asked her if my Cave office staff made it out and where they were.  
+She said they were with the moon group.  
+What about James and Alice Merryweather or June?  I've lost track of them.
+No comment, was her reply.  
+OK then who would have a list of all adults in the Belt and their histories.  None of us knew so we traded e-mail addressed and I told Doug that we needed secure e-mail yesterday.  I then went to my quarters and put in a call to Frederick.  I was informed he was called to a secret meeting and I could leave a message.  
+I headed back to the Assembly chamber and just walked in and sat down.  When they finished with Frederick I motioned him over to where I was seated and asked him to wait.  I then stood up and requested the attention of the assembly.  When I got their attention I requested that they let me know who had a list of all citizens in the Belt and authorization to access that list.  
+I was told it would be added to the list of things they were going to address and I was dismissed.  
+I took Frederick by the arm and we left and started to the cafeteria.  
+He told me on the way that lock 9 keypad had been used to hack into the stations computer system.  
+I told him that Doug was in charge of overall security for the belt government and community.  I then told him I needed access to his personnel records for Freedom Station One and I needed to talk to the guy he had in charge of the work station.  
+He said come to the station in the morning.
+After we left the cafeteria I went to the commo center and put in a call to the Belt work station.  When contact was finally made I was informed that it no longer existed, the stations name was Belt Two.  I asked for the boss and was directed to Wanda Hyang.  I asked her if she was in charge of the work station when they built the fuel ship. She said no, so I asked her if she and the person in charge when the fuel ship was built would meet with me and Mr. Cole on Freedom Station One in the morning at 0900 hours.  
+Day 3251  Friday 
+I had just finished checking my e-mail when Wanda walked in with Jill Calhoon at exactly 0900. While we were waiting for Frederick and his guys I asked Wanda how she was and how she got to be in charge of Belt Two.  She claimed she got drafted because they needed someone good at scheduling.  
+Jill said I drafted her so I could get back to my job.  
+I then informed them that I was tasked with setting up a Belt Military Defense Force and I needed both of them.  
+They both at the same time said we both have full time jobs.  
+I explained that I had Assembly power to draft people to do jobs but I would rather have a patriotic volunteers.  What I need is someone to design weapons and a crew to build them.  We will need some specialized modules built as soon as I get designs to test.  I did not know when the Earth would get it act together, but when they did, they would come swarming out here to put us under their thumb and take away all the freedoms we now enjoyed.  I also needed to know who designed the hard shell work suits.  They would probably be the best person to design a military version.  I gave them both my e-mail address and asked for reply a quickly as possible.  
+Frederick walked in with Paulette and Brenda.  Both looked pissed off.  
+I looked at Paulette and Brenda and said I would like both of you to volunteer to join the Belt Military Defense Force.  Paulette said OK and Brenda said I can't, I'm pregnant.  I said, will you be available for civilian office staff or shall I start looking elsewhere.  
+She then demanded that I give her maternity leave.  
+My reply was that her maternity leave would be at her desk and if anyone said anything about the baby beside her I'd arrange for them to walk in space without a suit. 
+She then volunteered and gave me a hug.  
+OK my first task for both of you is to find John Ironstone, Steve Nugget, Artemis Baptise, James Merryweather, Alice Merryweather, June from the cafeteria, James Melbourne, and Jack Jamroz to start with.  I need to talk to all of them in person.  Frederick will give you any assistance he can from Freedom Station One.  I haven't been assigned an office or headquarters yet by the Assembly so you both will have to contact me by radio and e-mail.  As soon as I can contact Albert and Karen from Cave commo section we will get some communications security set up.  As long a Frederick will let me use this conference room I'll probably be here every few days.  
+Fredrick then said you didn't know but both of these young ladies work for me here on the station.  I'll let you have them as soon as they can train suitable replacements.  Get back to your offices now and I'll be by later and give you access codes for the personnel listing.  Once he and I were alone in the room he asked how many others of his people I was going to steal.  
+My answer was, I need the best because as you well know we are going to be fighting for our lives.  I'm going to need military pilots, preferably ex Air Force and Navy and trainers for everything the Defense Force will get to fight with.  Oh and by the way, my hard shell space suit was sabotaged.  The only place it's been lately that wasn't under my control was airlock 9 on this station. Somebody knows enough about the suits to place a small charge in a joint and wire it so when that tool was used it would cause explosive decompression.  
+Bob walked in and said Hi to Frederick.  Doug just found out your space suit was sabotaged so I'm now assigned as your body guard again.  The Enterprise is being dissembled and inspected and you have been assigned another with full time crew.  
+I raised my hands and said, Frederick now you see some of what I will have to put up with.  
+The ship was a nice little ship that consisted of what looked like a module 5, a module 1, a module 2, a module 6, and a module 4.  Upon looking closer the module 5 had the same mining tools we had on the fuel ship we took on the rescue mission.  It had a crew of 3, a pilot, a navigator/radar operator, and a commo/weapons operator.  I could also tell it was put together fast because the 6 hard-shell suits were used and there were unfinished welding marks on the cargo hatch that had been installed opposite the normal personnel airlock.  
+I asked where their home base was and the pilot just said classified, however tomorrow there will be a second ship just like this one, and we will have 3 full crews each.  
+OK take me to Doug, I'll close my eyes so I won't see where you take me.  
+The commo guy said he didn't know where Doug was while tapped on a key on his computer.  His screen flashed a few minutes later and he told the pilot to take us to Wonderland.  
+
+~(ToC)~
+
+
+Chapter 3  Reprisal
+
+Day 3252  Saturday 
+Man was I tired when I got up this morning to the warbling tone of my room communicator.  As I entered the Assembly Chamber Bob caught up with me.  He had a sealed envelope for me.  I sat down, opened it and started reading.  
+Memo #1: 3 spacecraft were on radar.  Time to belt 60 days.  Telescope cannot determine size without references.  Have radioed telling them to turn around.  Used transmitter #2 which is 5 million miles retrograde of original base. 
+Memo #2 from Assembly to me:  A habitat section is being designed to be the military headquarters on FS1.
+Memo #3 from Chief Belt Two Station:  2nd fuel ship is armed and ready to launch.  Request that I attend the launch, it would be at 2300 hours day 3254.
+Memo #4 from Chief Freedom One Station:  Requested personnel will be rounded up and available 0900 hours day 3259 in conference room.
+Memo #5 from Sissy:  Military Resources Inventory: 6 mining ships presently unarmed. 1 mining ship armed. 1 fuel ship armed. 50% of work time from 2 Work Satellite Stations by order of Assembly. 2 missile modules with radar. 
+#7 - Sealed envelope: Password for new E-mail
+#6 - sealed envelope: E-Mail account name and address
+Memo #8 from Doug: Contact me using E-Mail today.
+Then the Assembly called me up in front.  They demanded to know why the assassination attempt on me wasn't reported by me to my superior.  
+I simply replied that people in charge of any important project automatically become the target of their opponents.  I am not going to let some idiots cause me to worry about their actions.  I informed Doug and Frederick.  Frederick because I had the hunch that that was where to suit was  sabotaged.  Doug because you gave him the the job of Belt Security.  I have started taking precautions to safeguard my life and position.  I then asked them if they had even changed the passwords on their e-mail accounts since taking office.  You need to become security aware.  I sat here for 10 minutes reading this batch of hand delivered dispatches and what you were discussing could have been something that if transmitted to earth would give them an advantage in subduing us.  I would strongly suggestion that you get Doug to send someone over to give you and any staff you have basic security training to safeguard our government.  
+They then started looking at the people sitting around the room. 
+I felt a touch on my elbow.  It was Bob and he said we needed to leave within 5 minutes if we were going to keep on schedule.  
+I asked the Assembly if there was anything else.  When they said no I left with Bob and headed for the ship.
+Jackal 1 was ready to go.  We arrived at the earth work station 4 hours later.  The Operations officer, Mr. Wendel Gearing, met me at the main airlock.  He gave me a brief tour of the main work areas and then into the weapons sector.  It consisted of two areas, one as manufacturing and the other smaller area was research.  They were working on growing crystals to work in lasers.  This 2 foot long 6 inch diameter crystal among others was grown on our way out here.  A space suited figure picked it up and went out of the room.  He invited me over to an observation port.  
+I watched as the space suited figure mounted the crystal in a latticework of wiring.  He then rubbed what must have been abrasive paper over the end of the crystal and then removed the cap from the end.  Then he placed what looked like a circular florescent tube on the end and finished off with a gold plate. He then connected a wiring harness and aimed the whole assembly at a nearby asteroid.  
+Wendel told a worker to give warning and warm up the equipment then fire a continuous beam for 5 minutes. After the 5 minutes cut off  he then wanted 8 3 second burst and then another 5 minute beam.  
+I continued to look from the mounted telescope to the monitor and watched the asteroid turn into a doughnut.  I expected the target to move as the surface was boiled away, but it didn't. I asked if he had tried this against a metallic asteroid or a ship.  
+He then explained that they were trying to build bigger crystals.  They didn't know why the target surface just dissipated and no reaction was observed.  The doped crystals just ate a whole in anything they were aimed at.  It couldn't be truly called a laser because the output wasn't coherent light but an unknown form of radiation at a frequency so high none of their instruments could read it.  The tested known range was 4 AU.  One of the scout ships set up a camera and they tested it with their jury rigged targeting setup at a target 1/3rd the way around the asteroid belt and hit their target with only a 50% spread in beam diameter.  As soon as the Specter arrives this one will be mounted.  They could turn out the crystals faster than the manufacturing section could make the rest of the assembly.  They were turning them out at the rate of one every 92 working hours.  However the main reason you were invited to the station today was to attend the naming ceremony.  It will be broadcast to cover your trip.
+After half a dozen speeches and a pretty good dinner we went to the main manufacturing section.  
+There the broadcast crew set up their cameras and Mr. Gearing and I walked out on the floor.  There was a bottle on a rope and scale model of the station.  In this speech he told how the workers had nominated names and voted, nominated new names and voted, then put together a panel and the panel came up with 3 names.  The vote selected Gearbox for the stations name.  He then stated that he didn't like the name but the workers selected it by a 83% majority.  Pure democracy in action.  He then pulled the bottle back and gave it a swing at the model station and it broke.  Liquid globules and broken glass slowly spread out.  Before it spread very far a four man crew dropped down a large hose and starting vacuuming up the area.  
+Wendel and I retreated to the observation  room.  He and the shift leaders shook my hand and thanked me for representing the Assembly at the naming of the station.  
+Day 3254  Monday 
+Belt work station:  When I arrived I was informed to contact the Assembly by radio.  There was only a 23 second transmission lag so I reentered my ship and had them place the call.  The Commander in Chief was calm when she told me I should have gotten prior authorization before representing the Assembly.  
+I told her that I was taken by surprise when he informed me about the naming of the station.  
+She said it would be overlooked this time however future events must be cleared.  
+I then informed her that I was at the old belt work station for the commissioning of the 2nd fuel ship and naming of the station.  
+After about 5 minutes she came back stating that I was the official Assembly representative for both these events today.  
+The lunch lasted almost 3 hours with all the speeches.  Afterward we were told to go suit up and meet outside personnel lock 3 for the ceremony.  
+When I got back to my ship I found that Stephen had been painted on the suit shell.  I suited up and Bob and I exited and jetted around the station to lock 3.  Our suits looked like poor cousins compared to the 5 new hard shell suits waiting for us.  
+We introduced around and Mr Payton the manager had us all move to the fuel ship.  The camera guy moved back about a hundred meters panned the ship and then Mr Payton gave a few words and named the ship Nimitz.  He then pulled out a foot long key and presented it to me as the representative of the Assembly.  We then went to the ship for a tour.  There was the standard airlock on both sides, then Mr. Payton led us to a set of 8 open doors the 7 of us each entered a separate door. 
+As soon as I was inside the door slid closed.  The room was then pressurized and arms came out from the walls rotated and then immobilized my suit.  As I watched a crewman entered the room and signaled me to open up.  
+He then told me that he would service my suit while I was on the tour.  
+I informed him that the suit had only 2 hours since the last service and I would rather put a seal on the room and leave the suit as is.  
+He said OK and we left the suit room. He dogged the door and handed me a pencil.  With another pencil he drew around one of the latches and asked me to observe.  
+I dogged the other latch and drew partway around it.  
+Bob came out of his room with a crew member and said he was going to skip the tour because he didn't need the exercise.  
+When we got to the control room the pilot grinned and introduced himself as Luke Ironstone one the the Ironstone brothers.  Then it clicked he was John's brother.  He then introduced Mark Ironstone the weapons master.  
+Mark made it onto the Enterprise as soon as it got back and went with them on their refueling run.  The lead engineer had nothing but praise for your handling of the ship on the rescue mission, and was impressed the way you harvested those rocky asteroids.  We are armed with 3 mining tools and one of those weird new lasers.  We can process ice as fast as the conveyors can jam it into the chambers.  We have a capacity of 1 million cubic liters each of hydrogen and oxygen compressed to 50 atmospheres plus another storage capability of ½ million each once liquefied.  Unfortunately our heat signature when processing fuel is about the same as a brown dwarf.  James Calhoon over in sector B5 has found a bunch of ice for us so that will be our shakedown cruise.  When I asked about escape capsules he told me that 5 were delivered by the station VIPs when they came over.  Those new suits have 30 day environment and fuel to delta-V of 1.6 KPS.  The VIP's are going back in a shuttle.  
+I wished them luck and requested a report when they returned, especially one from Mark, because I wanted the new laser tested as thoroughly as possible.  
+The naming of the station was brief.  He wanted me to know that the crew had decided the name of the station would be Amanda.  
+Day 3259  Saturday 
+Been living in Jackal 1 and finally am going to take a break on Freedom Station One.  My headquarters is complete.  There are 3 airlock entrances and 2 entrances into the main station plus 1 directly to the station control section.  All are guarded 24-7 by Doug's security force.  
+I met the personnel I requested to meet and they all volunteered.
+Day 3260  Sunday 
+My presence required at the Assembly in person.  I'm beginning to wonder what day of the week they take off.  Instructions from the commander in chief to me are to lead a Intercept Mission out to the 3 earth rockets headed our way and turn them around.  I am authorized to give them food, air, and fuel if they are short.  I have 3 days to prepare and will depart on the morning of day 3264.  
+When I returned to HQ I got Fritsch and we sat down to form a 3 dimensional war plan.  
+He said I would need one of the fuel ships and 2 supply ships for rations.  He also recommended three 2 man fighters.  Then he added 1 unarmed scout ship stating that he must be a volunteer because he's the one that would make direct contact and be most at risk.  
+I then called in Mitchell and told him the requirements for ships and suggested that the unarmed scout be assembled as a module 1, 6, 4 from an old ship with a volunteer pilot.  All ships would be notified and be at intercept locations on day 3291 at the distance of 500000 KM from the targets.  
+Day 3264  Thursday 
+I piloted one of the 3 fighters.  Nimitz was escorting 2 supply ships and the unarmed scout.  
+Day 3291  Wednesday 
+We were in position facing the incoming ships.  Our 3 ships are positioned in a 120 degree arc to their polar north and running parallel.  The fuel ship is a million KM back with the scout and cargo ships.  
+We then called them on radio.  When they didn't reply I had the scout ship move up into our formation and give them a shot with the old mining laser across their bow and let them run through it.  
+The old ruby laser wouldn't be visible in space but as soon as they ran into it is should be detected.  I intended to followed that up with another all frequency transmission.  
+They must have been scanning for heat sources because as soon as the laser started there were 5 missile launches from the third ship.  
+I transmitted to them that they had 10 seconds to self destruct those missiles or I would hole the ship that launched them.  
+6 seconds later we received an order to surrender to the United Earth Force.  
+I then gave the execute order to destroy the missiles.  After destroying one missile I aimed at the 3rd ship and gave it a 15 second burst.  I knew that we had not perfectly matched velocity so instead of a clean hole it would be a long cut about 1 ½ inches wide.  One of the missiles blew as we hit it. The rest just were cut up.  After waiting for a few minutes I called the ships again and told them if they didn't make a course correction to run parallel with the asteroid belt they would be destroyed.  
+Two of them replied that they didn't have the fuel to make the course correction.  
+I asked what they were using as fuel.  
+They replied liquid hydrogen and oxygen.  
+I gave them the ultimatum again and told them that we would refuel and resupply them for their trip back to earth.  They had 5 minutes to change course.  
+The first ship turned toward us and the other turned away.  Both ships launched missiles at us.  
+I ordered both ships and missiles be destroyed.  I also asked the scout ship to check the third ship to see if anyone was alive on it.  Evidently the fuel was hit on the first ship because it exploded.  The second ship was cut in half.  My radar indicated that rockets were being destroyed faster than the 3 fighters could aim and fire even with computers.  I called the fuel ship and asked him if he was firing between us.  
+He said he had drifted so he was firing over our shoulder.  He then informed me that ship 3 was launching more missiles.  
+I instructed my 3 ships to start backing up using thrustors.  
+The scout reported that he was targeted and wanted us to tell his wife he loved her.  
+Luke then interrupted him and told him to head retrograde at full throttle.  He needed 2 degrees separation so he could fire.  
+We were down to 5 targets when my weapon master said OH SHIT!  When I yelled back he said we had at least 5000 small targets coming up behind. If they held formation they would pass less than a KM in front of us.  I told him to kill the rest of the missiles targeting us, I would simply back us up.  I hit the thrustors again and increased our backward momentum.  All the small targets passed in front of our location and then it hit me.  Luke was using the new  “mining tool” to destroy the missiles that were after our scout.  My weapons master reported no incoming and he was going to try to destroy some of the missiles that were headed toward the scout.  I told him to first cut the third ship in little pieces and then the other ship. I don't want them to be able to launch anything else.
+Fighter 3 weapons master radioed on the command channel that the small missiles that came from behind us were on an intercept course toward our scout and would pass behind him by less than 2 KM in 3 minutes.  
+ I then told them all that the small targets aimed in the direction of our scout ship had been fired from the fuel ship.  I told them to move to where they could fire on the missiles from the 3rd ship, but don't hit any of the ones fired from the fuel ship.  They are a screen to help him escape.  
+Luke then called the scout and informed him that the missiles were beginning to go ballistic.  As soon as he gave the command he was to aim polar north, that would get him clear.  
+The scout didn't sound to good but he came back with I've got 2 minutes fuel.  Come and get me.  He rotated his ship 90 degrees still on full throttle.
+I could tell Luke that he would have a long haul catching our scout because he had some velocity built up.
+Luke came back to me on the radio.  I'll be back in a week or two.  See you at the rendezvous point.  He must have been accelerating at 2 G's also from the strained sound of his voice.
+I then commanded all ships to keep an eye out for any stray missiles and head for the rendezvous point.  Then I requested status reports from all ships.
+Nimitz reporting all cargo secure, accelerating a 1.8 G to rescue Scout 1.  Fuel, food, water, and air all OK. Out.
+Scout 1 reported out of fuel, 20 days supply of air, food, and water. Out.
+My other 2 fighters reported all supplies and fuel OK.
+Then the two cargo ships reported all OK.
+I then ordered everyone to make an economy run to the rendezvous point, it looks like we will have to wait for the Nimitz.  
+Day 3367  Tuesday 
+Arrived at Gearbox.  Sent rest of strike force on to their home bases for 3 days R&R.  Wendel told me that one of his young bright experimenters had been experimenting with layered ceramics and metals to build work suit hulls.  Using a blown glass outer shell he had been laying down vaporized layers of metals to build a shell thickness of several inches.  Most of the layers were separated by a very thin ceramic layers.  We knew that the ceramic layers would shatter when we drilled holes for mounting equipment and airlock.  However 2 hulls had some weird properties.  Of course all were tested for any radioactivity prior to work for safety reasons.  Those 2 hulls had no background radiation detected inside.  Another set of larger hulls was manufactured and then tested next to a reactor.  No background radiation detected inside.  One of the old physicist suggested we take a hull and start putting radioactive elements inside for storage.  Well that worked fine.  The only radioactive leakage was where we had drilled holes in the hull and around the hatch.  When we removed the radioactive elements we found that the hull only had background level readings for 20 some hours and then fell to 0.  We then started a team on analyzing the hull for anything and everything we could think of including ideas sent over from Amanda station.  We now have 18 shells, the largest 18 meters long and 12.3 meters in diameter.  They all exhibit the same properties.  We've mounted the 2 largest shell inside module 5's and are setting them up for use as testing stations mounted to module 4's.  If this works we'll have a module that will be self-shielding from any concentration of radiation encountered.  Now we need the radioisotopes from those warheads and ships you destroyed.
+We are preparing 20 1 cubic meter shells for storage.  One of the 18 meter shells is being prepared as a mining ship with all controls and tools.  Everything controlled through shielded cable runs to outside.   The airlocks outer chamber covers the outer hatch and has no line of sight to the inside.  
+I asked him if usable radio frequencies passed through the hull.  Also what effect does our new laser and older type mining lasers have on the hull.  Also what happens if radioactive elements are place outside and radiation is directed inside?  Run those test before completing the retrieval ship.  
+Day 3373  Monday 
+Received message from Gearbox. All frequencies from cosmic ray to infrared blocked.  Electrical conductivity is 23000U resistance after hull ceramics are fractured.  Structural strength equivalent to stainless steel.  No reaction to radiation inside and outside hull at same time or pulsed.  Heat conductivity from all lasers tested is equivalent to 6 BTU.  The new laser punches a hole at about half the speed it works at against solid rock.  Hull rupture pressure of 1 cubic meter hull is 3600 PSI and that was the airlock door.  New airlock design being implemented for main hull and hatches for 1 cubic meter storage hulls.  
+Recovery ship will be ready for launch in 10 days.  
+Enterprise is halfway through refit.  Do you want the new hulls installed anywhere on it. 
+My reply was yes, add a small radiation vault that the crew can get into in an emergency.
+Day 3380  Monday 
+Transmitted battle visuals with audio to earth.  No reply.  
+Re-transmitting battle visuals with audio this time on UHF frequencies.
+Day 3403  Wednesday   
+I accompanied 2 members of Assembly to Amanda station for commissioning of Alice.  This will bring the Belt Defense fleet up to 3 fuel ships, 2 cargo supply ships unarmed, 3 unarmed scouts, and 27 fighters.  
+I requested 1 more cargo ship so we could field 3 separate fleets at the same time. 
+Day 3404  Thursday 
+Military production reduced to 10% with 80% on habitats and new mining ships.  Last 10% will be in research of more efficient propulsion systems and mining procedures.  
+Goal is 8 new 300 person habitats, 100 new mining ships with the replacement of all existing mining ships within next two years.  
+Our computer section is now building new CPU's with 1 terabyte on-board memory with a success rate of 1 out of every 5.  CPU construction time is 137 hours.
+Day 3438  Wednesday 
+Report from observation telescope:  Dozens of ships  launched from Earth to Moon over last month.
+
+~(ToC)~
+
+
+Chapter 4  Attack & Counter
+
+Day 3702  Monday 
+Fuel ship Nimitz on patrol in solar south detected 18 total radar contacts.  6 large and 12 smaller.  
+When painted with ruby laser smaller radar contacts veer toward laser source.  Tested 3 times an range of about 1 AU.  
+Luke request permission to destroy 12 smaller radar contacts from ½ AU distance.  
+He sent a message on all frequencies from 660 Hz to 300 MHz warning Earth ships to turn around and return to Earth or we would start destroying their attack fleet.  They had 40 hours to comply.  
+I then sent Nimitz orders to track them at ½ AU distance for 61 hours and then start with any of the small targets that indicated that they might be missiles.  
+Day 3704  Wednesday 
+Nimitz reported that 8 small targets had been cut in half before one exploded.  There were 19 secondary explosion within a .5 degree arc ahead of the 8th target.  One of the 6 large targets also exploded after the secondary explosions.  Our weapons master thinks that they have launched small nuclear mines ahead of their fleet.  
+After notifying the Commander in Chief I ordered the Alice to the solar south to cooperate in sweeping all of the trajectories the enemy fleet had been on since.  
+Nimitz has destroyed all smaller targets and transmitted last warning giving them 24 hours to change orbit or be destroyed.  No transmissions were picked up from any of the fleet ships and all were destroyed.  There were over a hundred secondary explosions when the large targets were lased. 
+Day 3706  Friday 
+Appeared before Assembly and requested they authorize construction of 2 extreme range telescopes to place around the Belt to observe Earth and Moon for possible aggressive actions.  
+I was then informed that Doug had a crew using the one long range telescope we had.  They had observed a lot of activity around a what appeared to be a linear accelerator.  Small electromagnetic pulses were also detected prior to fleet launch.  
+I immediately went over and took a phone and called Jackal 2 and told them to contact the Enterprise and under my authority to inform them that they were exit the target area under emergency power.  After confirmation of receipt of orders they were to contact all ships in fleet to relocate and scan for ballistic projectiles aimed at the belt from the moon.  
+I then told the Assembly that I thought that the linear accelerator on the moon had been launching ballistic weapons at anything they thought might be a Belt base or ship location.  
+They should arrange for all habits and stations to move NOW.  We need to have everything moved to locations that are shielded by large solid bodies from direct observation and trajectories from the moon.  
+One council woman said that's impossible.
+I reminded them that Earth had radio telescopes capable of detecting radio signals from the stars.  They might be using them to target any radio source in the belt.  I needed authorization to launch an attack on the moon to destroy those launchers.  They gave me permission to plan the attack only.
+As soon as I got back to Jackal 2 I contacted Gearbox, Amanda, and FS1 and informed them of my suspicions about the moon linear accelerator and its targets.  They were to start moving to a new location within the hour and assume radio silence.  Any unusual events detected were to be transmitted to my headquarters.  Also we would need as many communication laser sets as they could whip up ASAP.  
+I then called Doug and requested a meeting away from any station or habitat location.  
+Day 3707  Saturday 
+Met Doug and told him about my suspicions.  
+He agreed and had his monitoring crew transmit all records to my HQ.  He also said he would have all his resources relocate. 
+Day 3710  Tuesday 
+2 habitats hit and holed.  47 casualties.  
+Habitat L4 station hit. Population 271.  It broke apart.  No survivors. 
+Frederick stopped rotation of Freedom Station One prior to moving so when it was hit only 73 casualties due to explosive decompression.  Repairable structural damage.  
+Wonderland hit a glancing blow while moving.  53 injuries.  
+Total 391 casualties.  
+Day 3711  Wednesday 
+Assembly wanted no repeat of this type attack.  Message relayed from the Commander in Chief was to destroy any capability on the moon to repeat any attack on the Belt.
+Day 3714  Saturday 
+We are flooded with e-mails requesting to join the Belt Defense Force.  Each e-mail was given a number. Each e-mail was replied to with the number assigned and all were notified that a technical education was required to join the Belt Defense Force.  Also a pilots license would be required for anyone joining as a pilot.  We also needed technical workers at the Belt work stations.  
+I set up a board consisting of 1 pilot, 1 weapons master, and a worker from Amanda work station to start interviewing and classifying all the people that sent e-mails.  Their job as I told them was to see if there was anyone presently qualified and to let everyone else know what the standards were.  They were to answer any and all pertinent questions and encourage all applicants to prepare.  
+I'm not including the attack plan because civilians reading this journal don't need that kind of information.  
+Day 3718  Wednesday 
+I was called to the Assembly and promoted and given the official permanent rank of Rear Admiral.  Then they gave me the temporary promotion to Fleet Admiral.  I was then told that all fighter pilots were to be officially promoted to Lieutenant Junior Grade.  Fuel ship pilots were to be promoted to Lieutenant. Space Station commanders were to be promoted to Lieutenant, except for Frederick Cole, he would be promoted to Lieutenant Commander.  The weapons masters would be promoted to either ensign or Lieutenant Junior Grade.  I would start off all staff as enlisted ranks.  This set me back for about the time it took me to get back to my HQ and get hold of Paulette my military secretary.  
+I told her about what had happened in the Assembly Chambers and I needed her to get some shoulder boards made up for all the ranks in the quantity I would need.  Then I would need her to type up orders promoting all the personnel we presently had.  Also get Brenda to help you start a military history labeled Belt Military Defense Force.  
+I drafted a memo to the Commander in Chief informing her that the Assembly had forgotten some flight crews out there.  We had 6 scouts out watching our borders.  They should start out as Ensigns and we had 4 armed mining ships.  They should also start as Ensigns.  If the Commander in Chief so desired I would forward all request for promotions to her for approval, but might be better if she simply monitored the rank structure.  
+Day 3870  Monday 
+Still no reply from Earth.  
+Re-transmitting battle visuals with audio this time on civilian frequencies.
+Day 3900  Wednesday 
+1st fuel ship Nimitz launched their asteroid payload and transmitted on all frequencies 10 times.
+This is from the Belt community government to all Earth and Moon communities and governments.  We have been attacked twice.  The second attack killed 391 civilians and injured 53.  Therefore we are acknowledging a state of war between the Earth Moon system and the Asteroid Belt Community.  Therefore we are targeting military use installations on the moon and in orbit around the earth.  We only have mining equipment and it is not as accurate or sophisticated as military weapons.  We will use what we have to defend our communities.  Beware, collateral damage may be severe.  We are not targeting anything on planet Earth, but if we miss our targets on the Moon, Earth my be struck by accident.
+Then they set course to rendezvous with mining ships in the belt to refuel and load another suitable asteroid.  
+Day 3901  Thursday 
+The fuel ship Alice launched next and transmitted the same message 10 times.
+Then set course to rendezvous with mining ships to refuel and reload. 
+Day 3903  Friday 
+The fuel ship Enterprise launched last and transmitted the same message 10 times.  
+Then the Enterprise altered course to rendezvous with fighters near moon. 
+Day 4008  Saturday 
+Fighter fleet approaching Earth Moon system.  
+Earth space stations launched missiles.  Both targeted and they flew apart when cut by lasers.  Missiles were destroyed or evaded after going ballistic. 
+Day 4012  Wednesday
+Major secondary explosions were detected after each asteroid hit the moon.  Comment from fighter commander to HQ was “That's some shooting.”
+All radio traffic from the moon ceased, not even a request for aid.  
+Day 4013  Thursday 
+0100 hours report: Fighter fleet approaching Moon.  
+0215 hours report: Three ships launched from surface and were destroyed.  
+1500 hours report: 3 linear accelerators were targeted from one end to the other.  
+1800 hours report: Two telescope locations were targeted.  What appears to be a missile launch site was targeted.  
+2115 hours  All military targets detected were damaged or destroyed.  No damage to ships or personnel.  Proceeding to rendezvous point 1. 
+Day 4018  Tuesday 
+0915 hours: Fighter fleet, one of our weapons masters has detected multiple missiles on ballistic course to intercept us.  Are taking evasive action.
+1030 hours: from Fighter fleet, we are targeting all radar contacts.  The missiles have changed course to intercept us.  
+Day 4019  Wednesday 
+Fighter fleet report: 0200 hours One missile slipped through and we lost one fighter with crew.  We are all unanimous about returning and slagging the launch site as soon as we locate it.
+HQ to Fighter fleet:  Don't worry about the launch site.  We have 2 rocks in-route now.  You might want to watch the back side of the moon in 288 days.  Also there is a scout on a ballistic flyby following the payload impacts.  If there are any more launches use all lasers to target launch sites even if in orbit around Earth. You may target any launches from Earth as soon as they clear direct line with Earths atmosphere.  Don't shoot down the scout.  Transponder frequency 9.  He will start transmitting 1 hour after closest Moon approach along with any new targeting information.
+Day 4029  Saturday 
+Report from Enterprise: Starting to refuel and resupply fighters.  Location, parking orbit Earth L5 point. 
+Day 4036  Saturday
+HQ to fighter group:  6 more targets identified, coordinates to follow.  
+Go ballistic to rendezvous point 1J. 
+Estimated attack date 4320.
+Day 4041  Thursday 
+The fuel ships arced into the belt to the rendezvous point.  They were met by a handful of mining ships.  They had been gathering ice asteroids and stockpiling them.  
+When they topping off the mining ships and their fuel tanks were full they selected two of the collected metallic asteroids the miners had gathered.  The Alice found one that contained almost 50% radioactive elements.  The captain OK'd using it with the provision that the crew would spend most of their time in the new radiation room.  Then they sent a burst message to HQ and were assigned their targets and to proceed. 
+Day 4045  Monday 
+Nimitz starting 2nd launch run.  Target 47.
+Day 4046  Tuesday 
+Alice starting 2nd launch run.  Target 49. 
+Day 4187  Wednesday 
+The captain of the Nimitz verified the navigators trajectory calculations and finally ordered separation from the asteroid.  In his opinion whatever was near target 47 location was in for a big shock 128 days 9 hours and 6 minutes from now.  Since there was no atmosphere all the destruction would be caused by the shock-wave transmitted through the underlying rock.  His navigator claimed they'll feel this one!  To bad it won't bring back my sister and her family.
+Day 4195  Thursday 
+The navigator of the Alice verified his calculations and finally notified the captain every thing checked.  The captain ordered separation from the asteroid.  The navigator requested that they monitor the exact trajectory for 8 hours prior to moving off. In his opinion whatever was near target 49 location was in for a big shock 117 days 20 hours and 15 minutes from now.  The impact 15 degrees from the dark side of the terminator line on the waning crescent will be observable from earth.  This asteroid contains just enough radioactive isotopes that it may detonate upon impact.  If it does then they may see regolith cracks all the way around the moon.  The navigator emphasized that they'll definitely feel this one all the way around.  
+Day 4197  Saturday 
+Alice to Belt HQ:  Due to fuel constraints our delta-v is to high for us to return to the refuel point 2.  We are proceeding to refuel point 4.
+Day 4312  Tuesday 
+One of the weapon masters of the fighter wing spotted the asteroid coming in.  He notified the pilots to track them.  After a burst transmission the belt HQ acknowledged that it was the one launched from the Alice.
+One hour later the pilots notified all the weapons masters to observe the first.  He estimated impact in less than 10 minutes.  It hit on the dark side of the terminator.  However there was a much brighter flash than they expected.  One weapons master claimed that it was a massive low yield nuclear detonation.  As they watched the moon acquired an atmosphere of dust and volatiles.  Comment from fighter commander to HQ was “That's some rock!, what was in it?”
+All radio traffic from the moon ceased again, not even a request for aid.  
+Day 4315  Friday  
+The weapon masters having received the orbital data of the next incoming rock and finally spotted it.  Everyone tracked it.  
+It also hit on the dark side of the terminator.  However the dust cloud around the moon obscured the impact.  
+Day 4320  Wednesday 
+HQ report to all fighters:  Impacts noted at target 49 location.  No secondary explosion, only 1 air plume indicating breach of environmental support system detected before dust obscured surface.  Telescopes located 2 launches and tracking of rockets.  One went to station in low earth orbit and other headed straight to moon.  Will continue to track.  
+Orders to fighters at L5 point:  Calculate orbits to L4 after getting us some good radar pictures of the moon.  Estimate that it will take about two years before the dust settles enough for visual targeting on the surface.  
+Orders to Enterprise: Proceed to L4 point to refuel and resupply fighters when they arrive.  Further orders to follow. 
+Day 4325  Monday 
+Fighter group to HQ:  We got radar images of all coordinates designated on flyby.  No missiles launched from moon, earth, or low orbit satellite.  Earth rocket en-route to moon changed course as soon as we started moving.  
+Proceeding to L4.  Out
+Day 4328  Thursday 
+Nimitz arrived belt refuel point 2.  Miners had ice and metallic asteroids ready for 3rd run on moon.  
+Day 4334  Wednesday 
+Alice arrived belt refuel point 4.  Miners had ice and metallic asteroids ready for 3rd run on moon.  
+Day 4336  Friday 
+Alice and Nimitz ordered to hold location after completion of refueling and rearming.  Reason: target determination 
+Day 4337  Saturday 
+Enterprise to HQ:  My direct path the L4 is hazardous.  Three spacecraft located in Earth L1 launched missiles and tried to intercept.  Going to 1.5 G acceleration to give our weapons master more time to knock down enemy missiles.  Used mining tool projectiles to take out most of missiles and ships.  Still taking evasive action and using laser. 
+Enterprise to fighter group 2036 hours:  Will not be able to rendezvous at L4.  Suggest you boost to Belt orbit. 
+Fighter group commander to Enterprise 2124 hours:  Head sun-ward and give us an angle plus last coordinates of missiles.  We will concentrate lasers on your tail.
+Enterprise to Fighter group commander 2322 hours: Only 2 missiles left and both within 30000 KM.  Am using rotation and remaining laser.  If there is a large EMP we will probably need a tow back to the belt. 
+Day 4338  Sunday 
+Bluebird to fighter group 0901 hours:  We lost the Enterprise and 2 crew members.  Will miss rendezvous.  En-route to Belt.  Survivors 4.
+Bluebird to HQ 0905 hrs:  We lost the Enterprise, Captain and Weapons Master.  Will miss L4 rendezvous with fighter group.  4 survivors.  Environment and food OK, however will need refueling. 
+Day 4339  Monday 
+HQ to Nimitz: Intercept fighter group and render all aid. 
+HQ to fighter group:  Alter course to Belt.  Nimitz will contact for fuel and aid rendezvous.  Maintain radio silence.
+HQ to Bluebird: Observe radio silence.  You will be contacted.  
+HQ to Alice: Upon completion of refueling contact Bluebird for rendezvous. 
+Day 4500  Monday 
+Memo from Assembly:  Earth has requested sensation of hostilities.  After consulting with several members of the old Board we have decided to refuse.  
+Our answer sent to earth was: We declare complete independence.  Earth will deal with us as a separate sovereign government equal to any government or group of governments on or off Earth.  We will not seek membership in the UN or any Earth organization.  Nor will we be coerced into membership in any Earth organization.
+When I got to the Assembly chambers it was a riot.  When Doug arrived the Commander in Chief called everyone to order.  The nine Assembly members acted like amazons.  The presiding chairman pulled the microphone over and reread the Memo.  She then said that the decision had been made and transmitted to Earth.  The main reasoning behind complete independence was that if we let Earth get a toe in the Belt government we would be their slaves within a decade.  That's why we refused to join any Earth organization.  The reason we demanded and declared our independence and equality to any government on or off Earth was to tell them that they could not form an Earth Moon government and then demand our subservience.  Also it would require that each government that participated in the war sign a peace treaty with our government.  This makes it official and Earth must now recognized it officially.  Since we can not return to the gravity of earth we must remain in space.  We will not allow them to dictate to us as free women and men.  We will answer the broadcasters questions for 15 minutes.
+There was stunned silence for about 5 minutes.  Then Widow Keefe stood up and stated.  “I left Earth to go to the Moon.  It turned out to be a colony run by a few old men that just wanted to hold on to their power.  I pity those that remained on the moon when we had to evacuate.  The hardships there hurt.  I lost 2 daughters and their families when the our habitat was hit.  If the Earth won't grant, no acknowledge our independence then I think that we should take the fight to them and make them recognized us as free.  My grandson has told me about the restrictions put on our fighters about not hitting the Earth itself.  Bull shit, hit them and let them know we will be free even if it cost the Earth their civilization.  We can pound them back into the stone age and still survive.”  With that she sat down and the silence was as deep as space itself.  Then the audience started clapping and no other questions were asked. 
+Day 4510  Thursday 
+Memo from Assembly to Belt Defense and Belt Security forces:  Earth has refused to accept our independence.  WE ARE STILL AT WAR.  PREPARE.  Public announcement will be at 2100 hours tonight and transmitted toward earth.  Following it will be the speech made by widow Keefe at the Assembly meeting 10 days ago. 
+Day 4512  Saturday 
+I reported to the Assembly Chambers as requested.  As I entered silence fell and everyone turned to look at me.  The Assembly President ordered me to the front and picked up a piece of paper and started to read:
+Attention to orders!
+Rear Admiral Stephen Brandon is promoted to the permanent rank of Fleet Admiral effective this day 4512 DFE.  
+All the assembly members started clapping and when they stopped  she said, “Get the hell out of here and kick ass.” 
+Day 4515  Tuesday 
+Both families were brought to Wonderland and presented with medals and the condolences of the assembly for their sons that died.  Both agreed to allow the recorded proceeding to be broadcast.
+Day 4549  Monday 
+New hull fuel ship ready to commission.  3 Engine modules are also in a half shells.  Weapons/Mining tools located in 4 half shells.  Lasers mounted front and rear of ship in ½ shells. Fuel tanks are new shells.  There is also a basket frame capable of support 250 metric tons under 2 G accelerations sticking out the front.  
+Commissioning of the new ship will be at your convenience after delivery to Wonderland at 1000 hours.
+It should survive anything except a direct nuclear hit or the laser.
+Everyone that looks at the new ship laughs because it looks like a bunch of balloons tied together, but it will do the job!  
+Day 4550  Tuesday 
+I sent a memo to the Commander in Chief requesting permission to to attempt to make contact with whoever was in charge with the Earth forces.  I wanted to define the rules of this war to prevent the extinction of the human race.
+I also invited her to tour and christen the latest fuel ship at noon.  Commissioning ceremony was scheduled for 1400 hours.  She sent me a note instructing me on the name.  
+Day 4552  Thursday 
+Memo to Fleet Admiral Brandon from Commander in Chief and Belt Assembly:  You are here by advised and authorized as of date 4552 DFE to make contact with the overall Commander of the Earth military forces.  Rules of war should be laid out and approved.  Rules of engagement between opposing fleets should also be agreed to if possible.  Avoidance of destruction of living habitats should be emphasized.  Emphasize that the murder of unarmed civilians should be avoided at all cost.  Emphasize that the results of murdering civilians causes a hate and desire for revenge that could have the end result of destruction of not only the Belt Community but Earth.  
+
+~(ToC)~
+
+
+Chapter 5  The meeting and results
+
+Day 4560  Friday 
+To:	Fleet Admiral Brandon
+From:	Fleet Admiral Shemeka, Earth Defense Force
+I have received your transmission.  A radio conference can be arranged.  I suggest a distance of 1 light minute be maintained.  I will be in an orbit around the Sun near the Sun Earth L3 point in 240 hours.  I will be accompanied by several warships.  You may bring any forces you so desire.  Only a portion of my chain of command will be present.  I will give orders to all my security ships that they are to destroy your force if anything happens to me or my chain of command.  We will be in at least 5 different command ships.  Is that agreed to. 
+xxx
+Day 4561  Saturday 
+To:	Fleet Admiral Shemeka
+From:	Fleet Admiral Brandon
+Acknowledge your transmission. 
+I have ordered a 90 day hold on all military action except for self defense.
+Location and time of meeting approved.  I will be on station in 59 days.
+xxx
+To:	Fleet Admiral Brandon
+From:	Fleet Admiral Shemeka
+I have issued orders for a cessation of military actions against the Belt Defense forces for 90 days.  I also ordered our surveillance forces to hibernate for 90 days.  My fleet will be near meeting point on time.
+xxx
+Day 4590  Sunday  
+Catfish to HQ:  Radar target detected, telescope shows remains of Enterprise however am receiving suit distress signal from same location.  Rendezvous possible in 2 days.  Advise. 
+Day 4591  Monday 
+HQ to Catfish:  There was 1 of the new suits that contained a 30 day environment aboard the Enterprise.  Use same frequency to signal the suit and tell them to meet you an not less than 30000 KM from Enterprise wreckage under their own power. 
+Day 4594  Thursday 
+Catfish to HQ: Almost blasted Capt. Fredericks because he was towing an old type suit when he came out.  The weapons master needs more medical aid than we have aboard this fighter.  Am proceeding under top emergency acceleration to nearest station.  Will notify you in 17 hours if we need a catcher.  Inform Gearbox ETA 19 hours.
+Day 4710  Monday 
+0319 hours  Conference fleet consist of Enterprise 2, 4 new fighters, 4 old fighters and 1 cargo ship.  Enemy fleet has been located.  We are re-positioning our location because their trajectory will bring them less than 1 light minute from our trajectory.
+ 0815 hours Our trajectory is now parallel to theirs.  Communications have been initiated.  Admiral Shemeka wants video, not just voice.  Video rigged using laptop.  Admiral Shemeka turns out to be a woman.   After a few pleasantries I outlined my Fleet order 1 and the wishes of the Belt Assembly.  I then told her that we needed to define some rules of engagement and general rules of war.  Otherwise we would just be two barbarians fighting to the destruction of every human being in existence.  She pondered this and requested a 3 hour recess.  I informed her then that I was going to re-position my fleet and she might desire to do the same.  Ballistic weapons were a problem because of size and hardness to detect.
+I then ordered our original formation to be changed to formation 2 that looked like a flat platter with all ships 5000 KM apart. As expected the Earth fleet went on high alert and all ships reported they had been targeted. I told them to continue to drift to the new formation and maintain passive targeting.  I then called Admiral Shemeka and asked why we were being targeted after informing them that we were re-positioning our squadron. I knew that using the word squadron instead of fleet would cause many to scratch their heads and contemplate our capabilities and number of warships.
+Ensign Louiski reported that one of the enemy fleet ships was moving backwards with no thrustors detected.  I used the command channel to order all ships to emergency thrust and change trajectories.  I then ordered arc formation 10000 KM to solar south.
+As I finished the order Admiral Shemeka radioed that one of their gunners had gone rogue and fired upon your formation using a rail gun.
+I informed her that we had taken evasive action as soon as we detected the weapons launch.  If any of our ships were destroyed we would expect to observe the results of the gunners treason carried out on camera or the launching ship would be targeted and destroyed using secondary weapons from one of my fighters.  
+Our commo listened and played over our intercom the orders from Admiral Shemeka to the Captain of the offending ship.  Disobeying orders is a crime under space regulations punishable by death.  Breaking a truce conference under space regulations is punishable by death.  Attempted assassination is a crime under space regulations and is punishable by death.  The Captain would proceed to move his ship outside the formation by 1000 KM. While in-transit he would inform the prisoner of the 3 death sentences he was under.  Upon assuming new station the prisoner would be placed in an airlock and expelled into space without a space suit.   The Captain pleaded with the Admiral because the gunner was his son.  The Admiral then informed the Captain that they had better get the camera turned on and carry out the sentence.  The Captain refused and ordered his ship to full thrust to make a run for it.  Admiral Shemeka then told all her ships to stand down all weapons and radars.  
+ It took a minute to verify.  She then requested me to have her order carried out, and then added the word please.  I ordered one fighter to parallel their course and start cutting parts off the ship starting at the engines until the they were incapable of powered flight.  If weapons were launched against them just punch a hole where the launch site is.  Broadcast all actions on VHF frequencies and try to keep the fleeing ship centered in the picture.  I informed Admiral Shemeka that the action she requested would be broadcast on VHF frequencies and she might want the Ship Captains and Staff to observe.
+Lt Jg Lee Merryweather flying the Dog Catcher caught the fleeing ship in 15 minutes and was able to assume a good angle of attack in less than 8 minutes more.  He reported ready to carry out the request by Admiral Shemeka as soon as she gave authorization.
+Her authorization comment was to ask Lt Jg Merryweather to try not to kill to many of the crew of that ship.  She really wanted the gunner and the Captain to execute in person.
+Lt Jg Merryweather cut off the near rocket nozzle.   He then orbited the ship 100 degrees clockwise and cut off the second rock nozzle. He then moved another 80 degrees clockwise and cut off the third rocket nozzle and started cutting upward toward the ignition chambers.  The pieces coming off the rear of the fleeing ship were disquieting. Finally he cut into one of the ignition chambers.  Flames started shooting out the cut and the camera image showed the side of the ignition chamber melting.  The operation had been going on over 30 minutes and yet the captain of that ship still had not cut his engines even though he must have realized that his rocket engines were no longer fully operational.  Merryweather re-positioned his ship and cut straight through the whole rear of the ship at the level of the ignition chambers.  The whole rear of the ship blew away and the flames appeared to jump to a distance of about 5 meters from the cut end of the ship.  
+Merryweather called Admiral Shemeka and told her that he was hesitant to cut any higher for fear of cutting the fuel lines and the control valves.  This would cause uncontrollable fuel venting and probably an explosion that would kill everyone aboard.
+She called the escaping ship one last time and ordered the captain to shut down his engines.  He told her to go to hell.  She then ordered Lt Jg Merryweather to remove his ship from the vicinity of the fleeing ship.  As soon as he was clear one of the remaining Earth ships launched 2 missiles.  They went straight to rear of the fleeing ship and detonated.  The nuclear fireball was blinding.
+She then came back over the open radio band and instructed the Captains of all ships to lock down all weapons because she didn't want any more incidents. 
+She admitted that there was a lot of hate on both sides due to the loss of life from the earlier attacks.  We agree to not target civilian habitats and stations within the Belt.  We will however start launching massive numbers of missiles at your military ships when ever a battle is joined.  We will ambush your military ships whenever possible to reduce our casualties and loss of ships.  Since you did not occupy the area in the Belt near Ceres that area will be our first conquest and we will attack from there in both directions until we control the complete asteroid belt.  Your Belt government can surrender at any time.  
+ I then informed her that nuclear explosions within the asteroid belt would destabilize the orbit of many asteroids.  Once their orbits were destabilized and they entered the inner solar system they would be attracted to gravity wells, in other words the planets including Earth. She should check with the experts about the effects of asteroids entering any of the Lagrange points for any of the planets.  If that wasn't enough to give her pause she should look back to the Shoemaker-Levi incident with Jupiter back in the early 2000's.  Any large asteroid would bring the Earth's civilization to it's knee's about as fast as a world wide nuclear war.  She had a copy of my Fleet orders 1 & 2.  When I returned to the Belt I would let her decide if she needed a demonstration.  Since Mars was uninhabited I would launch 1 asteroid massing approximately 200 metric tons and let them know when it would strike. That would be the proof that a full scale war between the Belt or another planet was a form of suicide.  I would contact her be long range radio in 25 hours unless she had anything else to say now.
+Admiral Shemeka replied that she had no comments for now and would await my call.
+I ordered my small fleet to head directly toward the asteroid belt.
+Her fleet remained where it was.   
+Day 4712  Wednesday 
+Received message from Admiral Shemeka that they would be in position to observe Mars whenever we decided to start the demonstration. 
+Day 4753  Tuesday 
+Finished refueling all the fighters. They found a nice mixed composition asteroid massing a little over 200 metric tons.  They also found a dozen icy asteroids for me to gobble up and turn into fuel on the way.  I got the asteroid into the basket and latched down.  It took 23 hours to exit the belt and start the trajectory that would take the asteroid to Mars.  After accelerating at 1 G for another 20 hours we went into free fall.  I sent a message that the asteroids trajectory would take it close to the Sun Mars L4 point so I would not release it until I was absolutely sure it would hit Mars and not miss.  The reason was Earth's orbital position.  Impact would be in 19 days.
+Admiral Shemeka requested the best location for observing the impact.  
+ I told her anywhere in a cone 70 to 90 degrees out from the planets direction of orbit calculated using the L4 point as the incoming trajectory. 
+Day 4863  Sunday 
+Admiral Shemeka informed us all her ships were in position and were recalculating our trajectory.  We would hit Mars almost head on.
+Day 4868  Friday 
+My navigator and Admiral Shemeka's navigators all agree the asteroid cannot miss Mars. 
+I disengaged from the asteroid and using thrustors to distance my ship to 1000 KM.
+Day 4869  Saturday 
+After checking trajectory of asteroid we fired up our main engine to change our orbit. I requested Admiral Shemeka transmit live because I wanted the Belt assembly to also see why I was so opposed to any direct attack on Earth.
+Encrypted message from Admiral Shemeka to Admiral Brandon: Are you telling me that the Belt Assembly wanted to use this type of weapon against Earth?
+Encrypted message from Admiral Brandon to Admiral Shemeka: Yes, 99% of civilians do not realize the destructive power of nuclear or ballistic weapons.  If I had not been firmly in charge of the Belt Defense Military Forces before the 2nd attack where we sustained our large groups of civilian casualties, Earth would be the target of several of these rocks.  Why do you think I waited until the last minute to release this rock.  I don't like accidents.  
+Encrypted message from Admiral Shemeka to Admiral Brandon: I have just notified Earth astronomers to train all telescopes on Mars.  I have telescopic pictures of your ship releasing the rock and changing your orbit.  This will give a perspective of size between your ship and the rock aimed at Mars.  One of my physicist estimates that a rock massing 200 metric tons will be equivalent to 170 mega tons of TNT at its present velocity.
+Encrypted message from Admiral Brandon to Admiral Shemeka: I don't have anyone aboard to do those type calculations.  All my weapons master says is that he doesn't want to be within 100,000 KM of impact.
+Message in the clear from Admiral Shemeka to Admiral Brandon:  We will start transmitting in 18 hours.  My navigator tells me that will 30 minutes before impact.  
+Message in the clear from Admiral Brandon to Admiral Shemeka:  Remember, cooler heads have so far controlled this war.  I hope it continues.  Nuclear explosions in the asteroid belt will destabilize the orbits of to many asteroids and they will all be wild cards in the inner solar system and hit where the gravitational forces take them.  The whole inner solar system could be devastated.  Call me in a few weeks. 
+Day 4870  Sunday 
+Started our cameras.  Had both Mars and the asteroid in the same frame.  Radar indicated that we would miss the nearest Earth ship by over a 2000 KM.  I informed the pilot that I wanted 3 course corrections before we passed them in the next 22 minutes and a full radar sweep of all trajectories to insure we didn't run into anything.  The filming went according to what I expected.  
+When the rock hit the surface of Mars we no longer had a good camera angle, but we saw the impact plume and the dust in the atmosphere that showed the compression waves going around the planet.  When they met on the back side of Mars they pushed an atmospheric plume almost half a diameter out.  
+My weapons master said he miscalculated.  Make that a million KM or more.  I told him to continue filming as long as possible because I wanted to see what happened to the atmospheric plume.
+Message in the clear from Admiral Brandon to Admiral Shemeka: Did any of your ships get a picture of the atmospheric plume on the back side of Mars?
+Message in the clear from Admiral Shemeka to Admiral Brandon: Yes, two of our camera angles recorded it.  We are continuing to film because the destruction on the surface is continuing to develop. 
+Day 4872  Tuesday 
+Admiral Shemeka called a halt to filming Mars. She had transmitted over 40 hours of live images from 1 impact of a 200 metric ton asteroid hitting Mars. 
+Her fleet left for Earth while Mars was still in major turmoil. 
+Day 4880  Wednesday 
+Intercepted message from Earth HQ to Admiral Shemeka's flagship Captain:  Admiral Shemeka is to be arrested for treason for consorting with the enemy. 
+Her courts-martial in absentia resulted in a verdict of  guilty.  You are ordered to execute her death sentence immediately.
+Day 4881  Thursday 
+Three of Admiral Shemeka's fleet changed course for the Belt.  That left 2 ships headed for Earth. 
+Two hours later another one also changed course. The radar tracks indicated intersecting the belt in sector B5.
+Message in the clear from Admiral Shemeka to Admiral Brandon:  We are 4 ships of soldiers requesting asylum in the Asteroid Belt.  We have 83 day food supply. We surrender all military equipment in our possession to the Belt Assembly Government.  Request location for us to proceed to. 
+Day 4885  Monday 
+I instructed Admiral Shemeka to proceed to Ceres and await further instructions.
+Day 4886  Tuesday 
+Fleet Admiral Brandon to Admiral Shemeka: You will proceed to Ceres and follow the orders from my fighters.  Their orders are to observe you land and secure your ships to the surface.  No close contact is allowed. 
+Fleet Admiral Brandon to Alice, Bluebird, and Jackal 2:  You will observe the Earth Fleet land and secure their ships to Ceres.  No close contact is allowed. 
+Day 4996  Sunday 
+I was called to report to the Assembly as soon as I docked at Gearbox station.  Jackal 1 was waiting.  When I got transferred and we started to Wonderland and I looked at Doug and the guards he had with him and asked him, are you an escort or a prisoner guard detachment.  He said he really didn't know.  He had been instructed to pick me up and bring me to the Council Chambers ASAP.  Then he handed me my rank tabs and suggested I put them on.
+I felt like a prisoner even if this was a military escort.  When we arrived in the Assembly council chambers the Commander in Chief called me to attention.  She stated that Earth had the right idea about dealing with Fleet Commanders that didn't do as the Civilian Government directed them.  These proceedings are being transmitted live to all the Belt and using the high power transmitter and to Earth on VHS frequencies.
+Charge 1: Consorting with the enemy.
+Charge 2: Making private deals with Admiral Shemeka.
+Charge 3: Unauthorized use of Belt Defense Military equipment.
+Charge 4: Allowing an armed enemy militarily force to enter the asteroid belt unopposed. 
+Charge 5: Unauthorized transmission of effects of our military weapons.
+Charge 6: Allowing the enemy to direct one of our fighters to perform a military action.
+Charge 7: Appearance unbecoming an officer in the Belt Defense Military Force.
+Then she asked me how I plead.  I plead not guilty to all charges except charge 7.
+She then informed me that my courts martial had been held by the Assembly and the decision would be read. 
+Charge 1: You were acting with the approval of the Assembly.  Not guilty
+Charge 2: You were acting with the approval of the Assembly.  Not guilty
+Charge 3: As Fleet Admiral you are authorized to direct all use of Belt Defense Military equipment.  Not guilty.
+Charge 4: As Fleet Admiral of the Belt Defense Military force it is within your discretion to allow defecting military forces to seek sanctuary.  Not guilty.
+Charge 5: As Fleet Admiral this was a judgment call. The Assembly is not real happy about your disclosure of one of our weapon systems.  However the results of the weapons test needed to be made public.  Not guilty.
+Charge 6: As Fleet Admiral of the Belt Defense Military force it is within your discretion to allow orders be relayed and followed by Belt Defense Military personnel from an enemy Fleet Admiral.  This is not a procedure that is approved of, but as Fleet Admiral it was a decision call that will not be lightly overlooked.  Not guilty but a reprimand will be placed in your file.
+Charge 7: Your appearance is unbecoming an officer in the Belt Defense Military Force.  Guilty, prisoner will be discharged from the Belt Military Defense Force and confined to quarters under guard until 0900 tomorrow morning and brought before the Belt Assembly.
+She then instructed Doug to have the guards escort me, the prisoner, to my quarters.
+Day 4997  Monday 
+I was escorted to the Assembly Chambers and the guards lined up behind me like a firing squad only they were armed with swords.
+The Commander in Chief stopped conferring with the other members of the Assembly and called me to approach the dais.  When she was assured that the broadcast was going out live she called up the senior Assembly Woman.
+She started by saying that even a democracy could pull traditions from history.  You have been court marshaled and found guilty of one charge.  As a result of that you were sentenced and discharged from the Belt Defense Force.  You have completed your sentence.  The civilian government has made a decision that you have faithfully served the civilian Belt Government so the civilian Belt Government authorizes the following.  You will be knighted an henceforth be know as Sir Brandon.  This authorizes and requires that all persons henceforth may refer to you by the honorific of Sir, Knight of the Belt.  You have authority over all men within the Belt except the Belt Military Force and don't forget Romans 12:17 to 21.  Have a good day Sir Brandon.
+I stood there like a moron when the Commander in Chief stepped back up to the dais.  Sir Brandon, you realize that when you were convicted you lost all rank and privileges and were discharged from the Belt Defense Military force. 
+As soon as I acknowledged the fact she pulled a piece of paper out, signed it, and started reading.  Basically it was a draft notice approved by the Assembly this morning.  I was drafted into the Belt Defense Military Forces with the permanent rank of Fleet Admiral and instructed to report for duty.  She then handed me Fleet Admiral shoulder boards.  Doug stepped up and helped me put the 5 star boards on.  She then handed me the orders and I saluted.  I was then dismissed and she said to see her at 1300.  Doug's guards escorted me to the cafeteria and they brought me a full breakfast, even though it was after 1000 hours. 
+At 1255 hours I got up and headed under escort back to the Assembly Chambers.  Just beyond the chamber door Doug stepped into the hall and waived for me to come there.  I entered the room and the Commander in Chief waived for me to have a seat.  After she got off the phone she looked at me and said you are a popular son of a bitch.  Do you know I got 218 death threats last night from Freedom Station One because of your court martial.  Sixty two of those were from children over the age of 10.  To damn bad you ain't a woman, we could use you on the Assembly.  That's why you were knighted while you were a civilian this morning.  The knight idea actually came from a 13 year old female.  I do read my e-mails no matter what some of those idiots on the stations say.  Also there was some unauthorized fighter movement detected by Doug last night.  I talked to Brenda, Paulette and Wanda over in your HQ and they reported that over ¾ of the fighter fleet stopped acknowledging orders from HQ.  You have a discipline problem there.  Also last night the scout at Ceres reported that Fleet Admiral Shemeka communicated with somebody on Freedom Station One and Gearbox asking if they needed any assistance freeing one prisoner named Brandon.  Shall I have Doug dig out the mole or will you talk to Frederick and Wendel.  I guess we were lucky that both of them said they would handle it without her needing to put her personnel in peril and that is a quote recorded last night.  We are a very young republic and we need some traditions ingrained into the fabric of our society to preserve our freedoms.  Jackal 3 is now your flag ship.  I think you will have more loyalty now from any crew selected by your staff than Julius Cesar had at his high point in his military career.  Here is a pardon signed by the full Assembly dated today giving you a pardon for any actions whether as a civilian or while in the military in the past or future.  Doug and Sissy are the only others that have the access code to bring up a picture of this document.  Elections are coming up soon and I think that the Assembly will have some new members.  This should give you cart-blanch if any of the new members are insane, stupid, or not true believers.  Go get Fleet Admiral Shemeka and insure their loyalty to the Belt Government.  Paulette found an old oath of fealty and said you knew what to do with it.  Dismissed.  
+Day 4998  Tuesday 
+0900 Doug picked me up at Freedom Station One where I had been in conference with Lieutenant Commander Frederick P. Cole.  He said that he had been contacted by Shemeka and she offered to put all her forces under his command to free me.  Then I told him that charge 7 was a bull shit charge so they could convict me and dismiss me from the service.  The knight business was to elevate me in the civilian society.  As he saw on the net broadcast this morning after I was given the civilian status I was drafted back into the service at my old rank Fleet Admiral.  Those old girls in the Assembly do know something about politics and public relations.  I'm glad that you and Wendel didn't do anything stupid last night.  I'm going out on an Assembly mission so keep an eye on those 218 killers you have on this station.  Let them know that the whole courts martial was a political move by the Assembly.  Doug and I stopped by my office and I asked Wanda if contact had been restored with all elements of the Belt forces.  When she said yes I told her to e-mail me a list of those that we lost contact with last night.  I also told her to get Fredrick down here sometime today to brief them on what I told him this morning about political moves.
+Jackal 3 was beautiful.  It was even bigger than Enterprise II and had more weapons than a gun shop.  There was a crew of 15, 3 pilots, 3 radar/navigators, 3 weapon masters/radar, and 3 communication specialist with 2 long range and 2 short range radio's plus a communication laser array.  There was a full operating room with a nurse and slot for a doctor when needed.  There was even room for a staff of 3 for the Fleet Admiral and 2 passengers.  The ship even had ½ the fuel making capacity of a regular fuel ship plus another feature.  Whatever asteroid is fed into the mall, if any metal is detected, it is smelted out and formed into sabots for the rail guns and the leftover is formed into ingots. Nothing goes to waste except pure rock.  There was docking for 3 of the new fighters, but their crews had to live aboard their fighters.
+Environmental capacity for 50 adults so it could also be used for limited rescue.  It also was structurally designed for sustained 6 G acceleration.  Anyone that wanted to survive 6 G's without injury had to be in a jell acceleration bed and the one safety above 2 G acceleration was 2 of the 3 pilots had to be at the controls.  The gym was compact and would only hold 3 persons at a time and everyone was required to exercise 2 hours per day except when under acceleration.  Minutes of acceleration at 1 G or more counted as 1 minute of exercise.  After the tour Doug bowed out and we launched.  I was surprised that the fighter engines were also firing.  I asked the pilot and he said that the design allowed up to 6 G acceleration with no fighters, 3 G with them docked.  They drew fuel and engine control directly from the main cockpit here when docked.  He could control their engine program, their initial course and un-dock them automatically if there was a crew aboard whether at rest or accelerating.  While you were gone Wendell and Brian built another work station and then this ship.  There are 2 more being built right now.  The new work station is named Sugar Plum.  They put some gal in charge named Gulab Yadev.  When I met her she looked like she was lost until one of her workers asked her a question.  Talk about an encyclopedia.  Later she caught another woman goofing around and chewed her out like a marine DI.  The station was activated the day before I reported and within 3 days she had that crew doing back flips.  I don't know where she came from but somebody knew what they were doing when they put her in charge.  
+I then told him that she was on one of the original 4 ships to the Belt. 
+Day 4999  Wednesday 
+We were now outside the belt and the pilot asked me what acceleration I wanted to our destination. I told him 1.2 G would be fine, that way no one would have to exercise.  He then informed me that he had enough fuel for continuous acceleration of 2 G's all the way to Ceres.  I told him 1.2 was fine and fast enough, I needed to catch up on my reading.  I then asked the commo guy on duty to contact Admiral Shemeka and request her transmit the personnel files for her officers to me.  He pulled 3 disk from his file and said here they are.  Lt Fritsch thought you might want them.  I have a full copy of all files from HQ and every time we are in contact all new data files are cross transferred to keep us and them up to date. 
+Day 5003  Sunday 
+Started into the belt near Ceres.  Pilot called for alert status 1, everyone is to put on skin suits and carry their helmets with them.  The nurse came by and explained that the skin suits with helmet were to simply give someone protection from explosive decompression for 15 minutes until they could get in a hard shell suit.  As soon as she saw me properly suited up and had checked out the helmet she led me to the hard suit section.  There are 30 hard suits.  Everyone has an assigned section and suit.  Here is your suit in this section and on the other side of the ship is the other section and your other suit.  The Fleet Admiral is the only person aboard that has the privilege of having 2 suits.  Just then the ship gave a small lurch, and the nurse said they must have fired all the rail guns on one side that time.  The weapons master and his to gunners are always finding things to shoot at.  Then there were 2 slightly stronger lurches.  She rushed to a wall screen and keyed to control room.  She just said put it on the screen and a picture appeared showing 2 fighters approaching a shattered asteroid.  They each grabbed sections of it with articulating arms and jetted back toward the ship.  The then told the control room to show the intake.  I watched as the asteroid pieces were fed in.  As the ship started vibrating she commented, there's more than just ice and rock in those.  I think they will have a full magazine when they finish.  I have time to take you up to the control section so you can watch everything as it happens.  It's boring around here, I've only treated 2 sprains since being assigned.  Maneuvering 1 minute, everyone to stations.  We entered the control room and she pulled down 2 seats from the wall and showed me how the 5 point harness was fastened and where to attach my helmet to the seat.  While I watched the screens she mentioned that even though all the suits and helmets were interchangeable they were keyed and would buzz if separated by more than ½ a meter.  We came around Ceres and were facing the sides of 4 spacecraft, all attached to Ceres by cables.  The scene reminded me of 4 bullets sitting on a sandbag.  After a few minutes of maneuvering I saw 3 small rockets launched.  They penetrated the surface of Ceres and then we were winched down to a soft landing. 
+A suited figure jumped off the nearest ship and landed on ours.  He then disappeared and I heard the airlock cycling.  The camera in the airlock showed a middle age female when she took her suit off and placed it on the rack.  Then turning she demanded permission to come aboard.  I looked at the pilot and said ask her for identification.
+She said I am Fleet Admiral Shemeka formerly of the Earth fleet and who am I talking to.  I told the pilot to inform her that Fleet Admiral Brandon would be down in a minute to open the door, then she would have permission to board.  When we got to the inner airlock door the nurse keyed the pad by the door and asked the pilot if she had made any moves since entering.  The pilot replied the only thing she's done is scratch a few places.  She keyed the door to open and I got my first good look at Fleet Admiral Shemeka.  She was only 5 foot tall and slim.  I put out my hand and said welcome aboard Admiral.  When she stepped forward and took my hand with a firm grip.  I then said if you will follow me to my office we have a lot to talk about.  She then said the last I heard you were given court-martial for consorting with the enemy and a lot of other bull shit charges.  
+I replied, you know how politicians are, some are good and others are stupid.  Fortunately we have some good cagey ones in the Assembly.  I'll play you the tape of the day after and by the way this is my new toy for being a bad boy.  
+She grumbled that she wished Earth had some smart politicians.  She was worried about what those idiots were going to do.  
+I commented that our original planners figured we would have almost half a century before the Earth politicians got this stupid.  
+She didn't even blink.  She just sat down in front of my desk as I went around and took my seat.  As I fastened my lap belt I suggested she do the same.  I asked the nurse if she could rustle up some refreshments.  
+As soon as she was out the door the admiral said call me Sam, short for Samantha.  All my friends do and I consider you a friend because you saved the lives of my crews.  You can make up your mind about me later. 
+OK, I said first things first, can you in good conscience sign a blood oath of fealty to the Belt Government and Community?  
+Sam said, I see you don't screw around.  No wonder you kicked our asses on the moon.  We spent 2 years planning and building those installations and setting the traps your people evaded.  Only one trap sprung and it didn't work to well because that cargo ship we ambushed out by L1 took out 3 cruisers and 179 nuke missiles before we got it.  From what one of your boys told me the whole crew survived, although 2 of them rode the nose in spacesuits all the way to the belt.  They did something I couldn't do. 
+I'm sure about the crews of my 3 ships because they are 100% loyal to me.  The 4th ships crew I have locked up because I'm not sure where their true loyalties lie.  They were forced upon my task force at the last minute by the UN.  Most of that crew is Israeli.  
+I was sent out to the conference point with orders to kill you no matter what, and I was determined to do so.  Every member of my three original ships that accompanied me also swore an oath to me to follow my orders no matter what I decided.  Then the high command added three war ships right at launch time.  After talking to you I had a change of heart.  Yes, I can sign an oath of loyalty to the Belt government but it will be second to a blood oath that I already made to you. She then slid her left jumper sleeve up and showed me a cut on her left wrist.  I'm yours to command. 
+Day 5012  Tuesday 
+Arrived back at Freedom Station One and turned her over to Doug for full debriefing.  Frederick had a brig set up and from the looks of it, it could have been a hotel room on earth.  She carried herself with an aura of authority and self confidence as she entered the brig. 
+Day 5022  Friday 
+2200 hours: Scout in B5 reported 1 ship approaching on ballistic trajectory.  Hull appeared damaged and cold.  ID on side of ship was 2173.  ETA 201 days.  Requested instructions.
+2235 hours:  I paid a visit to Shemeka and asked if she knew anything about a ship with the tail number 2173.
+She said it was the one in her fleet that went back to Earth.  
+I showed her the long range pictures and the orbital calculations.  There was a 50 hour discrepancy as if it just used the Earth as a pivot point to launch itself to the belt.  
+She agreed that it was probably dead and a booby-trap. 
+2320 hours:  I ordered an evacuation of sectors B4, B5, and B6.  It was headed straight into the belt and would probably hit an asteroid.  If it made it through it would come close enough to Jupiter's L5 point that its orbit beyond there was unpredictable. 
+
+~(ToC)~
+
+
+Chapter 6  On the move again
+
+After Doug and I briefed the Assembly they realized that they needed to make some plans and then threw the problem back on me.  I put together a crew of the best qualified people Frederick and I could think of.  We started with several directives assigning task for the habitat civilian governors.  
+I tasked the experts we had to their breaking point because Doug and I had a suspicion about what would happen when the UN ship reached the asteroid belt.  Chains of reporting were instituted.  
+After the initial inspections the problems started coming to light.  The civilian governors of the habitats had supervised their local governments to varying degrees.  The worse was Moon Habitat 2. With the Assemblies permission I relieved their whole government and habitat maintenance section and barred them from ever holding a position of authority again.  
+The UN ship entered the asteroid belt and exploded on day 5223.  Our people estimated the explosion at 800 mega tons.  The shock-wave started knocking asteroids out of orbit.  I sent 10 ships to monitor and hopefully estimate the new orbits.  One ship disappeared without a trace.  The other nine quit counting at 6000.  
+Frederick informed the Assembly that he was going to move Freedom Station One immediately.  I was instructed to bring Frederick to the assembly on the morning of 5240.  I'm just going to include my journal entry for that day.  
+Day 5240  Saturday 
+I received a call from the assembly president to bring Frederick Cole to the Assembly chamber at 0900 by force if necessary.  He agreed and we arrived at 0840 hours.  The Assembly chamber was secured tight in a closed meeting.  When we got in, an aide handed us each a sheaf of papers and told us to read them.  It seems that the Assembly had made secret plans for departure for several dates.  Included were exit orbits from the belt, station movement times, and orbital trajectories to Saturn.  A general refueling order and preferred sequence of events.  I recognized Wanda's handiwork in the scheduling.  
+I finished scanning my papers first and when I looked around I noticed that we were the center of attention.  When Frederick finished and looked up Rita calmly said, ”Fred you are going to screw up our schedule and plan if you move out early.  Not to mention causing panic among the other less stable station and habitat officials.”
+Then an aide handed me a copy of Belt Assembly Directive 9 / BMDF Fleet order 7 and said I needed to read and sign it.  After reading and signing it I handed it to Fred and asked him to read it and pass it back.  He grumbled and then laughed.  He looked at Rita and asked if he could keep the other papers to have his navigator check all the numbers.
+Her reply was that it was not for general distribution prior to issuing the Assembly Directive and then said she'd better find his station where it was supposed to be when she moved over there Wednesday afternoon.  Then she told us to go, she had work to do. 
+Three days later Belt Assembly Directive 9 was broadcaster to all habitats.  The Assembly abandon Wonderland and moved over to FS1 Wednesday.  According to the movement plan in directive 9 the first stations started moving Thursday. 
+Twenty days later we received a message from earth stating that they acknowledged our independence  recognized us as a legal government and granted the Belt Government full and equal rights equal to all Earth governments.  They also stated that a state of war no longer existed between the Belt Government and any Earth Government and due to our new status they were requesting our assistance in protecting the earth from 9 asteroids calculated to be on impact orbits. 
+The Assembly had a heated argument and then sent a message to the Earth United Nations.  We acknowledge your acknowledgment of our independence.  However your previous military actions within the asteroid belt have required us to relocate all of our population and equipment.  We are no longer in any position to assist in the defense of earth from asteroids knocked out of their previously stable orbits.  We suggest that you equip all military and other spacecraft with pusher frames.  Then a combination of ships can intercept and push the threatening asteroids into orbits that no longer threaten the Earth.  
+After fourteen years I was on the move again.  
+
+# # #
+~(ToC)~
+
+
+About the Author 
+
+I've loved westerns and science fiction since I picked up my first book at the public library. 
+I've been writing on my computer for years. I never planned on any of my stories being published, just to be read by myself, family, and friends. The base journal is on forty spreadsheets with links to about a thousand files of short one day paragraphs plus other stories. 
+Now my nephew George is published and he encouraged me to publish also. I've to a lot of work to do. As you know family either loves or hates what you do, so any criticism will be appreciated, either at my mail to address or on my Smashwords page. As I gain experience rewriting and reformatting my writings, they will read better, and I hope you enjoy them all!  
+
+* * * * * * * * * * 
+~(ToC)~
+
+
+Other books by this author 
+
+Grandpas Hot Sauce 
+Pacific 41 
+Scout Expedition 
+Az 
+The Impossible Ambition 
+The Plan and other short stories 
+Just My Opinion on Syria 
+From Texas to New York 
+The Alien Spacecraft 
+
+* * * * * * * * * * 
+~(ToC)~ 
+
+
+Connect with Stephen Brandon 
+
+Favorite me on Smashwords: Saturn2020 
+My other website: Saturn Stories 
+Write me a note:   criticisms or accolades
+
+~(ToC)~
+

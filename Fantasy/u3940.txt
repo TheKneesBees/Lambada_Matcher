@@ -1,0 +1,496 @@
+In the green glow of Nemurian midnight, the food stain on the geosurvey graph blazed electric orange. Sean Kozlov dragged his hand across his face in a vain hope some of his fatigue would stick to it and groped the surface of the desk for a pen.
+
+The pen felt moist and cold. Suspiciously like a nose.
+
+He looked up just in time to avoid a long pink tongue aimed to lick him right between the eyes. The trogomet scooted onto the graph, sniffed the food stain, and flopped on top of it, a two-foot wide ball of rust fur, equipped with four hands-feet and a shrew muzzle studded with tiny black eyes.
+
+Sean yawned. Gods, he was tired. He reached to scratch the furry trogomet stomach. Two surveys left. Half an hour of work, then he would enter the last of the data into Snow White, and then he would finally sleep.
+
+His hand froze. He was petting a trogomet. Twenty meters from Snow White. Sweet Olympus.
+
+How did it even get inside past shutters and double doors? Never mind that, how was he going to get it out?
+
+The trogomet let out a disappointed "Mook!" It rocked upright and sat on its haunches, its forehands held limp on its chest.
+
+Cookie. As long as it had a cookie, it might not venture down the hallway, break through the vault door, and devour the only computer on the entire planet. Sean rummaged through the pockets of his pants, coming up with a half-crumbled disk of oatmeal.
+
+"Cookie!"
+
+"Mook!"
+
+Sean jerked the window shutter open and tossed the treat into the bluish grass outside. Fuzzy black lightning shot past him, snatching the cookie in mid-air. Sean slammed the plestiglass shutters closed, locked them, and sprinted down the hallway to check on Snow White.
+
+A thick plastic door barred entrance to the vault. Grasping the lever, he jerked it to the side, and the door slid into the recess in the wall. The trogomets had gotten pretty good at opening the standard issue doors, but the heavy side-slider left them stumped. A cluster of phoros spheres spilled lemony light on the small space between two doors. Sean stepped through, slid the first door closed behind him, and scrutinized the tiny space.
+
+Nothing. No two-foot tall fuzz balls hiding in the corners. No "mook!"
+
+Reassured, he slid the second door open, jumped through, and slammed it back with muscle-tearing force just in case. A rectangular room lay before him, empty, save for the transparent cube of plestiglass. Six feet high and two inches thick, the cube enclosed Snow White, a Fourth Order Workstation, the totality of the expedition computer arsenal. If you didn't count the Dwarf, a small remote unit, which was little more than a glorified backup drive.
+
+Snow White's terminal glowed weakly. The motion sensors stayed silent. The workstation and the FER, the Final Evaluation Report, within it remained safe. The two dozen scientists whose two-year efforts and careers rode on that report wouldn't have to lynch him.
+
+"Cookie?"
+
+No answer. Just silence.
+
+It finally sunk in. Relief flooded him and Sean sagged against the wall, resting his head against the plastic. Enough sensors to deter a gaggle of ninjas and here he was yelling "Cookie!" like an idiot. Great Zeus, he was paranoid. Not my fault, he assured himself. Nobody can blame me. Living on a planet where a pocket computer unit served as a tantalizing appetizer would drive anyone into paranoia. Before coming to Nemuria, all personnel had to be stripped of their augmentation and implants. They'd surrendered their direct uplinks, their personal computer units, even their watches. He would've given his right arm for a piece-of-shit uplink. Anything to keep from typing. And writing. Gods, what a tedious chore that was. Just the hand cramps alone...
+
+He squinted at Snow White one more time, before closing his eyes. She was still in one piece.
+
+It wasn't like the trogomets could help it. They weren't bad natured, really, and pretty bright for a non-sentient species. Unfortunately, to an organism whose primary stomach housed a distant cousin of Geobacter metallireducens, most metals looked pretty tasty. Particularly iron. Manganese. Gold. Platinum. The Geobacter metallidevastor microbe gained energy from the dissimilatory reduction of just about any metal, and thus to a fuzzy, the innards of any computer presented a heavenly smorgasbord. If it was metal, it was food. How the hell did something like that even evolve? Nemuria was rich in metal deposits, but not that rich. Luckily, trogomets's secondary stomachs liked carbohydrates well enough, or the fuzz balls would've starved to death eons ago.
+
+Sean yawned. When did he last sleep? Was it twenty hours ago? Thirty? Did it matter? Fatigue flooded him, anchoring him, and he wanted nothing more than to curl on the plastic floor and pass out in the blissful glow of the electric lamp.
+
+"Sean?"
+
+The human body is an amazing organism. It can go from dead tired to completely alert in a terrified blink.
+
+The Chief of Security raised his dark eyebrows. "I didn't know you could jump that high."
+
+Sean mumbled and gave Santos a bleary-eyed stare of doom. It bounced off Santos like a trogomet from plestiglass.
+
+"Do you remember when I told you that we have to run every transmission past the Great Wall, because we live less than a solar hour away from the third largest producer of AI synths and because their hackers think it highly amusing to screw with us every chance they get?"
+
+Sean nodded. "I do. Every transmission's ran through Great Wall. It comes through scrubbed to the bone."
+
+Santos looked grim. That in itself meant nothing. Dark-haired, with eyes so dark, they looked almost black, the Security Chief usually alternated between grim, phlegmatic, and stoic expressions.
+
+"You logged on last night. Around one. There was a transmission from the satellite."
+
+"Yes," Sean said. "And I ran it through the Great Wall. Like I always do. Check the protocol, Santos."
+
+"We no longer have the protocol."
+
+Sean opened his mouth, but suddenly the words refused to come out.
+
+"Take your time."
+
+"A centipede virus," Sean managed finally.
+
+"Worse. A millipede, complete with respawn and AI subsets. It rode in on that last transmission and lay dormant for a couple of hours. Long enough for you to log off."
+
+Oh, Gods. A millipede virus that broke into segments, which would hide in the system, disguising themselves, each spawning dozens of new tiny millipedes... "The FER?"
+
+"Fried."
+
+Sean felt like screaming. The Joint Commission would be here in four days and he had no report to give them. Nothing but a four-foot stack of paper notes from the section chiefs. It had taken a month of intense, brain-numbing labor to integrate loose notes from people who'd never handled paper before into a comprehensive scientific document.
+
+"What about the back-up?"
+
+Santos sighed. "As I said, the millipede lay dormant..."
+
+"And when Julia brought the Dwarf to back up the FER, the millipede transferred into it?"
+
+Santos nodded.
+
+"Both back-up drives?"
+
+Santos nodded again.
+
+"What about the back-up disks?"
+
+Santos' stoic face gained a troublesome hint of emotion. "I'm worried about you."
+
+That's right, the fuzzies had stolen the hard disks two weeks ago. He hadn't worried too much at the time. After all, they still had Snow White and the Dwarf.
+
+"So we're screwed."
+
+Santos nodded. "Indeed."
+
+It occurred to Sean that he was dead and that Santos, with his somber impenetrable face, was his Thanatos come to take him to Hades to be judged for his earthly transgressions. He rocked back. Perhaps he wasn't dead. Perhaps he was merely sleeping. Soon he would wake up and everything would be fine.
+
+"Sean?"
+
+"I'm not dreaming?"
+
+"No."
+
+There was no possible way to recreate the report in four days, not with the amount of research material he had. The two standard years worth of data accumulation, analysis, hard work, frayed nerves... The section chiefs still had their paper notes, but the totality of their labor amounted to nothing unless it was presented to the committee. It would have catastrophic consequences on their careers.
+
+He could always take the easy way out of this situation. He could bash his head against the wall and save himself the pain. He could...
+
+His brain clicked.
+
+"Nannybot," he said. "Nannybot is the tertiary back-up. We back up all files to it every other week. It would have everything before I plugged Timur's geosurveys in. I can fix that in four days."
+
+Santos sighed. "That's the bad news..."
+
+*****
+
+Sean crossed his arms on his chest and watched as the bio-storage unit, otherwise known as Nannybot, tried to ride a dwarf cow. The dwarf cow resembled a miniature Terrestrial buffalo with orange fur. In its quadruped mode Nannybot resembled a large but slender canine with a smooth indigo skin and a single lens in the middle of a tubular head. In its bipedal mode, it resembled an alien from early Terrestrial UFO mythos.
+
+Neither mode was suited to riding. Particularly to riding terrified dwarf-cows, while holding a broomstick in one appendage.
+
+"Why the broomstick?" Sean asked.
+
+"Verne isn't sure," Santos said.
+
+The cow charged a small bench, where Emily, the oldest of the children, sat reading her book. For a terrified moment Sean was lost between being frozen in panic and springing to the rescue. The cow veered left, avoiding the bench by a hair. He exhaled. "Tell me how this happened again?"
+
+"The best Verne can figure out is that the millipede's protocol pegged Nannybot as an AI during the back-up and spawned. Only of course, Nannybot isn't a regular AI, so instead of shutting down it made it do... Whatever it's doing right now."
+
+"But there was no Nannybot back-up scheduled for last night."
+
+Santos coughed. "Julia thought you were taking the back-up protocol too lightly. She's been backing up to the Nannybot every night for the last week."
+
+Sean looked past the school yard, past the spasmodically jerking blue monstrosity on the cow's back, to where Ino forest reached toward the sky, its smooth silvery stems intertwining and braiding. Garlands of ino-ino fruits beckoned from the branches like enormous dandelions. The air smelled of red wine.
+
+"Why me?" he wondered idly. He hadn't even wanted Nannybot in the first place. Officially classified as Independent Biological Reasoning Unit, Nannybot was neither independent nor reasoning. An abacus was a better substitute for a computer than this genetically-engineered collection of muscle and ganglia. Designed as an alternative to regular data storage, Nannybot had an enormous capacity, but it took forever to transfer even a small data cluster from the Dwarf into it. He voted to have it deactivated, but the majority vote sent it to tutor the children instead. And now his entire future depended on Nannybot. The Universe was mocking him.
+
+The dwarf cow buckled and kicked, catapulting Nannybot into air. The IBRU flew over the fence, cleared their heads, flipping in the air like a cat, and landed on all fours. Santos snapped into a shooter stance, pointing his zapper at Nannybot.
+
+"If you shoot it, I'll kill you," Sean said evenly. "The report's still in it."
+
+Nannybot rose slowly. Its limb still clutched the broomstick. The round lens of its ocular swiveled. The vocal slit opened and smooth baritone issued forth. "Knights full of thought and sleepy, tell me if thou sawest a strange beast pass this way?"
+
+"Dear Gods," Sean said.
+
+"The Beast!" Nannybot proclaimed, swinging the broomstick in a dramatic fashion. "I have followed this quest this twelvemonth, and either I shall achieve him, or bleed of the best blood of my body."
+
+"What does it mean?" Santos asked.
+
+"It means nothing. It's gibberish." Sean said.
+
+"Mallory," Emily said.
+
+"What?"
+
+Emily looked up from her book. "It's not gibberish, it's Mallory. Arthuriana. Nanny thinks he's Sir Pellinore."
+
+"Emily, honey, what is it trying to do?" Sean asked.
+
+Emily smiled. "He's trying to hunt the Questing Beast, of course."
+
+A small light of hope flared in the deep black void filling Sean's head. "Tell me more."
+
+*****
+
+"There are only two ways to break down a third-order AI like Nanny: a chaotic protocol or a goal-oriented protocol." Sean strode to the Chief Programmer's block, Santos in tow. "The chaotic protocol floods the AI with a random avalanche of tiny tasks, which throws the system out of whack and drives the AI insane. There is no cure for that one. The goal-oriented protocol locks the system into a loop with a definitive goal in mind. Achieve the goal and the virus purges itself. The first way is tedious and doesn't require much imagination. The second takes far greater skill."
+
+He paused but Santos offered no comment.
+
+"Arbian hackers take pride in their work. They love a challenge. They wouldn't slap together a chaotic protocol for that millipede - any hacker can do that. They sent a goal-oriented virus, so they could watch us squirm trying to solve it."
+
+"You think Emily is right?" Santos said.
+
+"Yes. And Nanny's behavior is too logical to be a product of a chaotic protocol."
+
+"So not everything is lost?"
+
+"If - if - we break the loop and if Verne can get the Workstation back up, it's possible we can salvage the FER. We...Ummm."
+
+They turned around the corner and saw Verne. Ratibor Verne, the Chief Programmer and Protocol Guide wore a ceremonial plastic hauberk. He had brought a proper metal one from New Barbar, but trogomets had found it within the first week and promptly eaten it. Sean had managed to convince the orbital station's automated synthesizer to produce a plastic substitute, but it looked a bit ridiculous on Verne's hulking figure, partially because it was colored neon green.
+
+Verne faced a rock, on which sat a small idol. Foot-long and carved from some dark wood with startling detail, the idol squatted, clutching an axe in one hand and a stack of wheat in the other.
+
+A couple of curious trogomets sat next to Verne, pondering the idol. At the sound of Sean and Santos's steps, they scuttled forward, like twin clumps of tumbleweed, and sat on their haunches, tiny hands-feet raised, waiting for a handout. Santos extracted a cookie from his pocket.
+
+"Cookie."
+
+The trogomets mooked in unison.
+
+Santos broke the cookie in a half and handed a piece to each fuzzy. The delicate hands snatched the cookie halves. Small shrew-noses poked out of the fur to sniff the treat. The cookie vanished into tiny mouths and the trogomets took off. No doubt, they would've preferred a piece of copper wire.
+
+Verne picked up a stick, hefted it in his hand, and hit the idol. Thwack!
+
+Sean stopped. "Verne?"
+
+"Yes?"
+
+"What are you doing?"
+
+"He has been a bad god," Verne said grimly. "He must be punished."
+
+Thwack! Thwack!
+
+"Two years I spent here! Two! Years!"
+
+Thwack!
+
+"On a planet with no system. No uplink, no sensors."
+
+Thwack!
+
+"Always paranoid that what little I had would get eaten. And now he robs me of all of it." Thwack! Thwack! Thwack!
+
+The stick snapped in his hand. The idol seemed no worse for wear. Verne cast the broken stick on the ground and looked for another one.
+
+"Emily thinks Nannybot is a character from a 14th century Terran myth," Sean said.
+
+"Yeah?" Thwack!
+
+"A knight," Sean said. "Who hunts a Questing Beast."
+
+"Stop trying, Sean. It's a chaotic protocol. We've been buggered."
+
+"Suppose it was goal-oriented, just for the sake of argument. How would we solve it?"
+
+"Give Nanny what it wants," Verne said. "Give it the Asking Beast, let it hunt it, and catch it."
+
+"There is no other way?"
+
+"No."
+
+Santos rubbed his chin. "Where would we get a Questing Beast?"
+
+Verne stopped. "You're serious about this."
+
+"Yes."
+
+He rested his stick on his shoulder and looked to the sky. "If you're wrong, then I will hate you for the rest of my life for giving me hope and then bashing it to pieces."
+
+"Understood," Sean said.
+
+"Make one," Verne said.
+
+"Make one? How?"
+
+"You have genetic blanks in storage in orbit. The Workstation is shot but it will still transmit code. Input the correct parameters and..."
+
+"That's highly illegal," Sean said. "Not to mention it would leave us without any spare tissue for limb replacement in case of emergency."
+
+"We've been on this planet for two years," Verne said. "We've had about two dozen bites, and three twisted ankles. Do you really think that in the next week someone will suddenly get his leg chewed off?"
+
+"Verne, we can't just make a creature! I don't know about you, but I'm not quite ready to live the rest of my life in a controlled facility." Sean turned to Santos.
+
+"It's a good idea," the Chief of Security said.
+
+"I can't believe you two."
+
+"It's a good idea," Santos repeated.
+
+"It's up to you," Verne said. "You're the one who didn't run the transmission through the Great Wall. You're the team leader."
+
+Shawn opened his mouth. On one side fifteen careers. On the other, his life thrown away if he were found out.
+
+If.
+
+"Alright, let's say we do it," he said hoarsely. "The only person who can code something like that into the genetic synthesizer would be..."
+
+"Jennifer," Verne finished grimly.
+
+*****
+
+Jennifer crossed her arms on her chest. She was petite and ten pounds on the right side of plump, and Sean couldn't help but note that the way her arms were crossed pushed her br**sts up and out.
+
+Sean took his eyes from her chest and stared at the ground. That had been a problem all along. He knew it. He wasn't sure if she knew it, and it worried him to think that she might. It may have turned out fine, possibly they could've even become a couple, but after Ickman had left, Jennifer was named his Joint Team Leader, which meant that she was the only person he could argue with without fear of entering a leader-subordinate relationship. And they argued a lot.
+
+Sean took a deep breath. "I apologize for what I said earlier. I do concede that not all supporters of Autonomous System Structure are naive, slack-jawed, starry-eyed rich kids, who seek to alleviate personal guilt caused by their life of privilege. I also would like to say that a strong centralized government does have its weak points. And that I take back anything bad I've said before that could possibly piss you off."
+
+Jennifer brushed back her brown hair. "What do you want?"
+
+It took him ten minutes to get through the explanation.
+
+"You're insane," she said. "Absolutely not."
+
+"Jennifer..."
+
+"There's a reason why it's illegal, Sean! You can't introduce a man-made species into an ecosystem. It can wipe the whole biosphere out."
+
+"We only need one. You could make it sterile."
+
+"No."
+
+"Jennifer, I beg you..."
+
+"Ha!"
+
+He desperately raked his mind for a way to convince her and found none. "Look," he said miserably. "There are fifteen people who gave two years of their lives to study and assess this planet. Their careers will be destroyed. It will reflect badly on both of us - in the entire history of Survey, there has never been an instance when a team hasn't turned in a Final Evaluation Report. Except for Captain Chef, but that doesn't count because he and his crew were eaten. But that's not even the important part. The important part is that without the survey report we can show no basis to support preservation. They'll chuck this planet for development. The trogomets, the tari trees, the dwarf cows, the ino, all of it will be gone."
+
+She was looking at him. He took her gently by the elbow and turned her around to the window.
+
+Long-stemmed grasses shivered in the light breeze, dotted by pale red flowers with white stamens that sparkled in the sun. In the distance, in a soft patch of Maiden's hair weeds, a herd of dwarf cows watched two small calves butt heads with mock ferocity. Beyond the field, the tari forest rose like a jagged mountain ridge, silver, tall, and majestic. Above it all long feather-brush strokes of clouds highlighted the crystalline depth of the emerald sky.
+
+*****
+
+"Emily, I want you to understand what's at stake here," Jennifer said.
+
+Sean remembered to unclench his fists. They sat in front of the Workstation, tapped into the mainframe of the unmanned orbital laboratory. The complex interface of the genetic synthesizer filled the screen. Verne hovered somewhere in the shadows behind them like some menacing guardian of the cybernetic treasure trove.
+
+"You can never, ever, ever tell anyone about this," Jennifer continued. "Otherwise all of us would lose our jobs and Sean, Santos, Verne, and I would go into a controlled habitat. I realize this is a lot of responsibility for a fourteen-year old. I'm sorry to have to ask this of you."
+
+"I understand," Emily said. "I promise not to say anything. I give my word."
+
+Jennifer took a deep breath. "Very well then. Let's begin. It's a chimera, so give it to me piece by piece."
+
+"Head of a snake," Emily said. "Body of leopard. Haunches of lion. Feet of a deer."
+
+"What are you selecting as the primer?" Sean asked.
+
+"A Polberian running lizard," Jennifer answered.
+
+"It doesn't sound like a lizard," he said.
+
+"Sean, shut up. Go on, Emily. What else do we know?"
+
+"It was big. It made noise like forty baying hounds. It lived to be hunted and it was smart, because one time when Pellinore stopped hunting it, it came and found him."
+
+"We don't want it too smart," Sean said.
+
+"I can't guarantee the baying," Jennifer said.
+
+Sean thought of saying that he doubted she could guarantee anything. For all they knew the whole thing would come out as a puddle of goo, but under the present circumstances, he decided against voicing his opinion.
+
+*****
+
+Sean stood in the field, knee-deep in grasses. Somewhere a taina bird sang a trilling song. They had yet to catch one.
+
+The incubation of Questing Beast took two days. They had less than twenty four hours until the Committee's arrival.
+
+A falling star winked into being. It blazed across the sky like a glittering emerald and streaked toward him. The pod. Finally.
+
+The star grew into a white ovoid. For a moment it looked like the pod would plunge into the ground, and then the guides kicked in pulses of intense white flame, righting the pod, slowing the fall, and gently bringing it down in the middle of the field.
+
+A hairline crack split the pod's surface. Sean stared at the developing door with a sick feeling. Behind him Jennifer made a small noise.
+
+The door swung upward, revealing the dark interior. Something stirred within the gloom, something large and alive. A long head attached to a flexible neck appeared from the darkness, elegant, narrow, almost equine rather than reptilian in its lines. Big eyes with cobalt-colored irises regarded them. The Questing Beast blinked and stepped into the grass.
+
+"Dear Gods," Sean said.
+
+Lean and graceful, it stood on four muscled legs, ending in wide hooves. Silver fur, dappled with a spray of pale green and carmine rosettes, sheathed its body. A long silky mane flared on its sinuous neck.
+
+It didn't look like a chimera. It looked like a cohesive being, like nothing he had ever seen before, and it was beautiful.
+
+The Questing Beast opened its mouth and a clear voice issued forth. "Dear Gods."
+
+Sean's heart jumped into his throat.
+
+Behind him Verne exhaled. "Oh, shit!"
+
+"Oh, shit," the Questing Beast said.
+
+"It's a mimic." Jennifer strode toward it. "I told you I couldn't guarantee the baying."
+
+"Jennifer!" Sean barked sharply. "Don't get close to that thing!"
+
+"Oh, please." She reached over and the head dove to her hand. "It's an herbivore." She rubbed Beast's silvery nose and it licked her palm with a long pale tongue. An odd noise emanated from it, as if it had swallowed a beehive and now the infuriated bees fought to escape.
+
+"See," Jennifer said. "It's purring."
+
+Sean remembered to breathe.
+
+"Well?" Jennifer asked. "Where is Nanny?"
+
+Sean turned and waved his arms at Emily standing by the corral. She vanished behind the feed block and reappeared a moment later, followed by the Nannybot astride a dwarf cow fitted with a bridle and reins. The cow seemed surrendered to her fate.
+
+"Is that a net he's carrying?" Sean wondered.
+
+"Emily's idea," Jennifer said. "He has to catch the Beast."
+
+The bizarre group approached them. Sean stood aside. "Sir Pellinore! This is the Questing Beast. Beast - Sir Pellinore."
+
+Nanny's ocular unit swiveled. The Questing Beast blinked.
+
+Without a word, Nanny dug his limbs into the cow's ribs. The startled bovine jerked forward, the Questing Beast moved in a silver shimmer, and just like that both were gone, galloping across the plain, the lean elegance of the Beast followed by the bouncing Nanny on top of the orange puff of fur.
+
+In a couple of breaths they reached the forest and vanished from the view.
+
+"Ummmm," Sean said. "Did what I think happened just happen?"
+
+Nobody answered.
+
+"What now?" he demanded.
+
+"Now we hope Nanny catches him in his net," Emily said.
+
+"Did you see how fast it was?" Verne scowled. "He'll never catch that thing."
+
+Santos shook his head. Sean glanced at the forest. Verne was right. Nanny would never catch it...
+
+"It was me," Jennifer said.
+
+He looked at her. She swallowed visibly.
+
+"I initiated the transmission that the millipede rode. It was me. I logged on after Sean. So blame me."
+
+Verne turned on his heel and took off toward the forest, punctuating each step with grim determination.
+
+"Where are you going?" Sean called out.
+
+"I need a new stick," the Chief Programmer answered.
+
+*****
+
+The seven members of the Committee sat at the table like the keepers of keys to Hades, sitting in judgment of the sinners on the crossroads between Tartarus and Isles of the Blest. Sean didn't even know their names, only the fields they represented. At least Jennifer sat next to him.
+
+Somehow the fact that they would go to the Tartarus of Destroyed Careers together brought him no comfort.
+
+The Education/Science Member regarded the stack of loose paper sheets in front of her. Some of the paper was frayed and dirty. A couple of pieces, probably from Val, had food stains on them. In his mind Sean saw himself shrinking until he disappeared into nothing with a faint pop.
+
+"We have looked through the notes," the Business/Industry Member said. "We found them unsatisfactory."
+
+Sean cringed.
+
+"You are aware that in the history of the Survey no team has failed to turn in the Final Evaluation Report?" the Environmental/Health Member said.
+
+"Except for Captain Chef," Jennifer said. "Because he was eaten."
+
+"In our defense," Sean said, "we would both prefer to have been eaten."
+
+The Education/Science Member gave him a stony stare.
+
+"What I meant to say was, there are extenuating circumstances."
+
+"Indeed," the Social/Cultural Member nodded. "However, they do not change the fact that we are here and the FER is not."
+
+Sean opened his mouth...
+
+The door burst open and Santos dashed inside, flushed and winded, and for a moment Sean thought the stoic Chief of Security was having a heart attack.
+
+"Nanny's back," Santos breathed.
+
+In a blink Sean was off his seat and out the door. People crowded the small stretch of grass before the Block 7, and in the whirlwind of faces, he saw Nanny's familiar gangly form. It was riding the Questing Beast.
+
+"The Independent Biological Reasoning Unit is reporting operational status," Verne said.
+
+Sean spun about to see the Committee exiting the Block.
+
+"Two hours!" he cried. "Give me two hours, and I'll have the FER."
+
+The Education/Science Member was looking at the Beast.
+
+"What is that?" she said softly.
+
+"A recent find," Jennifer improvised. "We call it the Questing Beast after Mallory's Arthur myths. Would you like to pet it? It purrs."
+
+*****
+
+The Nemurian sunset was burning slowly. Against the deep emerald sky, the silvery ino trees seemed to glow.
+
+Sean heard steps behind him, but the vista was too breathtaking and he was too tired, so he stayed where he was, leaning against a low fence. Someone took a spot next to him. He glanced over. Jennifer.
+
+Two trogomets scuttled from the brush, jumping over each other.
+
+"They recommended preservation," she said.
+
+He said nothing.
+
+"I thought I'd be relieved," she said. "I'm not. I'm still wound up so tight, it hurts."
+
+"Give it time to sink in," he murmured. "Merlot."
+
+"What?"
+
+"Merlot. It's a varietal of Terrestrial wine grape. That's what the air smells like."
+
+She closed her eyes. "I was trying to cross-reference the migration data with the warming patterns. Pen was asleep, and I thought I'd take a shortcut and just pull the data from the orbital myself. I logged on after you did and didn't run it through the Great Wall. I'm sorry. I was so tired ... and then when everything started breaking down, I just couldn't..." She bit her lip. "I should've said something. I feel like scum."
+
+"Don't worry about it," he said. "You said something in the end. That's all that matters."
+
+She glanced at him, brown eyes warm.
+
+"Do you think we've done the right thing?" he wondered.
+
+"Too late to worry about it now," she said. "I requested the extended tour, so if any complications arise I'll be here to handle it."
+
+"I signed up for the extended tour too," he said.
+
+"I know. I'd checked." She touched his hands with cool fingers. He reached out and put his arm around her and felt her snuggle against him.
+
+Together they watched as the thousands of tiny white fireflies spilled from the puffy dandelions of the ino-ino fruits and danced on the night breeze.
+
+*****
+
+The Questing Beast sniffed at a spot beneath the knotted roots of a tari tree. Around it the forest shivered, full of sounds and life. The Questing Beast scratched the ground with its hoof, squatted, and laid an egg.
+
+THE END<br/>
+

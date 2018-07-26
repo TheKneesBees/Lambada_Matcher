@@ -1,0 +1,880 @@
+﻿Dakota
+
+By J. Hartshorne
+
+
+Published by J. Hartshorne at Smashwords
+Copyright 2015 J. Hartshorne
+
+
+
+Discover other titles by J. Hartshorne:
+Go West (an interactive Twine story)
+The Immigrant
+Retribution (an interactive story told via Inklewriter)
+
+
+This ebook is licensed for your personal enjoyment only. This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient. If you’re reading this book and did not purchase it, or it was not purchased for your use only, then please return to your favorite ebook retailer and purchase your own copy. Thank you for respecting the hard work of this author.
+
+
+This is a work of fiction. Names, characters, places, and incidents are either the product of the author’s imagination or are used fictitiously. 
+Any resemblance to actual persons, living or dead, events, or locales is entirely coincidental.
+
+
+
+
+
+
+ Chapter 1  
+
+“Are you close?”
+“I can't say. We grew up together, and he looks out for me. But we're very different people.”
+The story begins with “Go West”: http://www.philome.la/JHartshorne14/go-west-where-the-story-begins/play. 
+
+“What are you doing here?”
+“Why do you want to buy a farm? Why do you want to buy this farm?”
+“The Immigrant” https://www.smashwords.com/books/view/495565 
+In Minnesota, the sale of a family farm pits sibling against sibling, couple against couple and a reluctant but desperate seller against a wealthy, enigmatic buyer who has no idea what she's getting herself into.
+
+
+
+
+
+
+ Chapter 2  
+
+
+It starts with a woman and a flower shop and it ends in a tree house. With a shit-ton of driving in between. 
+I was doing a lot of driving anyway, west to east, east to west, crossing that state line between South Dakota and Minnesota, between frontier and civilization, birthplace and home of choice, the ragtag scattered brothers and cousins I call my family and the well-read polished hipsters who had become my classmates, colleagues, hook-ups and friends. Between waking up hung over on the filthy shag of a basement rental and waking up hung over on the Ikea throw of a downtown loft. In one place, I was the relative who got out who people always hit up for money. In the other, I was a wily entrepreneur and artist constantly outrunning overdue bills. In one place, I was pretty much guaranteed to get beaten up for how I live my life; in the other, slightly better odds. 
+Of course, guess which place where more and more of my business seemed to be coming from lately?
+The flower shop was in Minneapolis, however. It was a white woman and her flower shop. That goes without saying because I live in the Midwest and everyone who runs flower shops is white. White people are the ones who buy most of the stuff as well – the “good luck at the new job” potted plants, the nosegays for prom, the potpourri for the downstairs powder room. Although there was that corsage from the time I was invited to a white girl’s prom. A friend of a friend whose date had bailed had called in a favor. We ended up at a campfire with my cousins instead. Drunk. Parents calling me out on the carpet and later outright banning me from her 200-person, one-stoplight town. 
+That day, the day of the flower shop, I was in South Dakota, driving back from a client meeting, shirt all pressed and tight-fitting in a way I think looks sharp but people outside of the city cast me the side eye for. New from H&M. Bold to be wearing out west.
+“She said it was something wrong with the ecommerce system.” 
+Randolph asked me about my new client as we sat and chilled and ate takeout in his store. He’s my cousin through a distant half-brother. Because that’s how my family rolls – no tight nucleus but scads of sprawling tentacles, some stronger than others. For years, Randolph's store had sold CDs, posters and concert t-shirts, but now it's more rolling papers, energy drinks and vintage vinyl. Plus bongs that you're technically supposed to refer to as “smoking pipes” with the illusion that you're using them as a novel way of smoking tobacco. Or as a peace pipe. Randolph and I would legitimately be able to get away it with that excuse.
+"Here's her website.” I showed him on the laptop. It was a sad Mom-and-Pop startup website, a template out of a box. But the design almost didn’t matter. The goods themselves carried the day. Flowers, flowers and more flowers– for birthdays, for anniversaries, for new jobs and high school graduations. 
+I demonstrated the malfunction for Randolph on my laptop. “Check this out when I pretend to order.” I went through the motions of purchasing an obnoxiously large funeral horseshoe. Scrolling down after the prices, delivery fields and options for size – standard, premium and deluxe - my cursor landed on an ocean of white space.
+“You can type whatever the fuck you want here,” I told him. “All of War and Peace if your fingers were up to it. Or Infinite Jest. David Foster Wallace RIP.”  It had been several years by now, but this guy’s suicide still saddened me. “The hell – it’s not like you ever met the dude,” Randolph scoffed.
+And now he snorted. Randolph’s a big guy, so he can get away with it. “You know I don't keep up with that hipster bullshit.”
+“The website ordering system doesn’t offer a standard message, like 'sorry for your loss' or 'thoughts and prayers are with you’ or something like that, “I noted. “That's not good. Really bad, in fact, because people don’t want to deal with this shit when they’re grieving. They’re just going to click over to FTD or go to the card store at that point. And then this lady loses business.”
+Randolph gave me a what-the-fuck-are-you-talking-about look. “The wrong messages go out with the wrong flowers,” I explained. “Condolence notes with wedding stuff. Congratulation on the new job notes with the funeral wreaths.
+And then he chortled. “That’s pretty hilarious.”
+“Not if you own the place and you’re pissing people off.”
+As we waited for my demonstration order to go through, I dialed up my voice mail. The first thing I did was replay my new client’s message. My reception had been bad when she had called. I had been barreling down I-29 at the time, hauling back from a breakfast meeting with a new client near Aberdeen.
+“It's something with the back end,” I continued, sensing that Randolph was getting bored. As I went through the technical details, my eyes caught on a display of colored-glass bongs on the shelves behind us. Randolph polished them every day. Maybe because the rest of the store was so dimly lit and filled with smoke, they gleamed like stained-glass in the early afternoon light. 
+“But you don’t do back end development, dude.”
+“I'll do it if I have bills to pay,” I countered. 
+And did I have bills to pay. Too many of them. Maybe an update on a late client payment lurked somewhere in my missed calls, I thought suddenly, so I took another break played back my other messages. Delivery delay on the new server I had ordered. Click. Message from Bertram asking for money. Click. Message from Benedict wondering if he could borrow my motorcycle. Sure, if you can find it in the garage on the rez and start it up again. Click. But I made a note to call him back. I always liked him best out of all of my half-siblings. Call back from the guy at the bar last week – blah, blah, blah – click, delete. Then a new guy. Mentioned how he loved books, too. Then, halfway down in his message, “The Da Vinci Code.” Yeah, a scholar. Click. Delete.
+When I picked up our experiment with the flower shop, the order stalled out midway. But that was cool. Randolph saw what I was getting at, which was the point of it all anyway. 
+Looking at the store’s clock - Grateful Dead, attached to a lava lamp – who has lava lamps anymore? - I repacked my bag and started pulling on my coat. “Gotta run.”
+“Where you going, dude?”
+“Dinner in the Cities with an old coworker. She and her husband and kid.” 
+Kids, I corrected myself. They had a new one last year. 
+Randolph was unimpressed. “Party on.”
+“Nah, they're cool. Made working for the corporate man tolerable. And he likes his beer. We’ll hang out and shoot the shit after the kids go to bed.”
+“I can't believe you're driving back to Minneapolis this afternoon. That’s fucking nuts.” Now Randolph was running his dust rag around a particularly bulbous inhalant delivery device. The new Slipknot CD played over the sound system. “Like, what is that, a five-hour drive?”
+“Four the way I do it.” 
+But not unless I got my ass out of the door.  When I cracked it open, I shuddered at the contrast between the refrigerator-cold air outside and the patchouli-scented toasty Moroccan tent of Randolph’s store. Afternoons without snow were numbered for the year, as were days when a multi-hour, cross-state trip could be driven with such reckless aplomb.
+“Hey, what's the name of the flower shop?” Randolph shouted after me.
+Couldn’t remember, I told him. It was on the tip of my tongue. A common name, kind of cute and cheery. “Why do you want to know?”
+“Met a chick. Thought I'd send her a bouquet.” 
+“Didn’t know that farm animals appreciated flowers.”
+“Fuck yourself, Tristan. And close that fucking door. You’re letting the cold in.” 
+Before I even left the Sioux Falls city limits, such that they were, my lower back and ass started to ache. That's what I get for expanding my clientele westward, I told myself as I cranked up my music louder because loud music seemed to help. As I crossed the Minnesota border and turned off the interstate onto the two-lane road, wind turbines soon appeared on one side of my car, vast expanses of grassland on the other.-The scenery of home. It almost made up for a massive Shell bill, a sore lumbar and the nagging feeling of always running two hours behind in your day. 
+But when you run a business, you drive to where the money is. And that place now was South Dakota. Who’d have thought it - the humble, poor, freezing cold state of my birth? I could thank a massive set of medical centers in Sioux Falls and a few quirky unknown ag millionaires in the northeast for this random turn of fortune. 
+Just as I was pulling into the Minneapolis suburbs, I remembered. The flower lady’s name.  I smacked my palm against my forehead.
+Shelly. 
+Of course it was Shelly. Damn. I had to stop working so hard. Because 25 is way too young to be losing your shit.
+
+
+
+ Chapter 3  
+
+
+“Hey!” 
+Melissa greeted me at the door.  She had two red-headed kids now, the baby balanced against her hip and the boy scampering at her feet. Elisa, I remembered. That was the name of the new one. 
+Here, just outside of the Twin Cities, in a fancy modern art log cabin in a neighborhood that resembled a pre-Lewis and Clark forest, I would be spending the evening with the whitest people I knew. 
+Undaunted by motherhood, Melissa still dressed like a Great Plains interpretation of a hipster from Brooklyn. “Leggings aren’t pants, Tristan,” she reminded me. It was an old skinny-jeans joke from our days in the creative department.
+“Minnesota ran out of Dockers and I had to cover up with something.” I cast a pointed look at her own attire. “And you’re a fine one to talk.”
+Melissa ignored my retort. “Say hi to Uncle Tristan, Lucas,” she instructed her son.  Shyly he shook my hand – little-kid hands were so small and soft, it always amazed me - then scampered off, leaving me to inhale the scents of our simmering dinner and take in the huge expanse of this place – all glass windows, rich wood and soft light. Shit, their house was nice, I thought every time I walked through that door. 
+“I can’t believe you drove all the way from Sioux Falls today. I can’t believe I haven’t seen you since summer. How’ve you been?” She took my jacket and tossed it into a closet, the kids now dispatched to a toy-covered quilt on the living room floor.
+“Decent,” I shrugged. “Worked hard on the business. Spent some time with the cousins in Pierre.”
+“I always forget that you’re originally from South Dakota.”
+“You always thought I was from Canada.”
+“I know.” 
+“Why – because I’m polite and dress well?”
+“Hardly,” Melissa snorted. 
+“Dude, I’m Lakota, grew up on the Yankton rez. Right next door to you. Why do Minnesotans always disregard South Dakota?”
+“It’s easy to forget our redneck neighbors to the west. South Dakota’s just the bike rally, Mount Rushmore and a whole lot of nothing in between. But at least you’re not from Wisconsin. We especially hate people from Wisconsin.”
+Just then, her husband Niko greeted me with a beer.  Today had been a telecommuting day, so he was casually dressed and relaxed. A hard day in the office indeed, I soon learned. He and his son had been messing around all afternoon with some robot toy his cousins in Finland had sent the boy for his birthday. 
+“You have to see it,” he told me. The beers were rye porter, locally crafted. I generally preferred the lighter stuff, PBR because it’s what I grew up with and not for hipster purposes. But I could make this work. 
+The first time I met Niko was right after Christmas, a year before the first child. I was at the international market in South Minneapolis to pick up some food, and Melissa’s studio was right down the street. I was about to open the door, walk on in and surprise her when I noticed her and this good-looking red-haired guy deep in conversation. The dude from North Dakota. I immediately recognized him from a photo she had snapped of them. They had been standing on some balcony with a bunch of snow and deer in the background. Shit, there’s a warm house right there, was my first thought when I saw it. Go inside already.
+I didn’t stop in that day – leave a tender moment alone, as the Billy Joel song croons from the dive bar jukebox - but I did get formally introduced a few weeks later. It’s always weird to finally meet a friend’s significant other, especially after you’ve heard all the details of their courtship. And believe me, I was there on the journey, from “this guy with an accent came up to talk to me during dinner” to “oh, by the way, we just got married and the baby’s due next fall.” And everything in between. 
+Oh yeah, I heard it all. Higher-paid and more senior, Melissa had been the first to be let go in the layoffs. As she drove her delivery van across the oil fields of North Dakota, I sat bored in my cubicle, jealous of a life that didn’t involve the words “think outside of the box” and without one last shit to give about the office ban on personal calls. 
+Listening to Melissa’s stories about the boom in that once-barren state – traffic jams on two-lane roads, wells with with flames shooting everywhere, strippers, redneck coworkers - was a hell of a lot more interesting than the busywork they kept my team occupied with, before they laid us off as well.
+“I think he’s just inviting me over to be nice.” Enter Tristan the dating counselor. Need guidance on the menfolk? Ask the gay intern! 
+She related their next courtship milestone, the couch and the DVD collection. “We were totally making out through the entire movie.”  Define “making out,” I had pushed her, just like she had always coached me to push the client in creative meetings. Just cuddling making out or hard-core, I’d-rather-be-having-sex-right-now making out? Because it makes a difference. 
+She pleaded the fifth on that one but continued talking nevertheless, with a good 30 minutes to kill before her next delivery. “I stay over because of the icy roads and we sleep in the same bed but all we do is kiss. Take me off speaker phone, Tristan.” Even after I did, she lowered her voice to a whisper. “We’re fully clothed. He’s being a gentleman, damn him,” she complained 
+“Would you prefer that he roofie you instead?” I pointed out - quite reasonably, I thought.
+Then, nearly a week of silence. “Still a gentleman?” I asked. “Oh my God no,” she replied after a long pause, her tone and that pause implying more than my uncle’s entire stacks and stacks of Penthouse Forums, the old musty ones hidden behind the woodpile. Bertrand and I stumbled across them one winter. He read them seriously, I went through the motions, and we were both beaten when we got caught. I never did have a great impression of 1980s-era print pornography after that.
+And then, after Melissa returned to Minnesota, nothing. She never mentioned the guy. Just worked her ass off on that new business. 
+Niko made a killing working for some oil company. And Melissa’s company wasn’t exactly suffering. Custom-designed goalie masks for rich little hockey players. It was a market that seemed ridiculous on the surface but in reality had no bottom. White people will spend money on anything, I had learned over the years. Beanie babies, yoga mats, kale smoothies. And now hockey masks that looked like bears and monsters. An entrepreneurial success story thanks to that ingenious premise and Melissa’s talent and hard work. That and the website I designed for it. One of my first and – in my humble opinion – one of my best.
+Surreal to be around friends with money, I thought every time I visited Melissa’s house and sat at her table, to be around people who weren’t two steps away from car repossession and the bail bondsman.
+One thing I had learned about rich people, however: They sure can drink. Before that, I had always believed booze to be a pleasure restricted to the poor, a bone tossed to us in consolation for not being able to go to the mall or go on vacation whenever we wanted. How wrong I had been. At this table, wine bottles plural nestled between autumn gourd centerpieces and serving platters heaped with expensive cheeses. Plus roasted vegetables because, you know, health. I always had to pace myself when I dined with Niko and Melissa.
+As a warm buzz rose through my body, the subject turned to work. Or, more specifically, Tristan’s crazy clients because I had a few of these for sure – the bail bonds website, the string cheese factory in the middle of nowhere otherwise known as northeastern South Dakota. So I decided to tell her about this poor flower shop and its embarrassing problem. She’d get a kick out of it.
+“I got a new client today,” I announced. “Well, actually I’m scheduled to meet with her later this week, so she’s not officially a client yet, but it sounds like a done deal.”
+“That’s awesome, Tristan.” Melissa listened as she navigated a spoonful of goo into her youngest child’s mouth. 
+“She’s in a ton of trouble.”
+“What kind?”
+“It’s a flower shop here in Minneapolis, a new place. Lady who runs it just got divorced, needs to find a way to support herself, and I guess no Pilates franchises were available. So it’s a necessity and also a ‘you go girl’ empowerment thing. Things are going well until this problem pops up. They have automated forms, right? But the software that matches the messages to the recipients is messed up. So you’re getting happy birthday old fart messages sent to funerals and wakes, condolence cards sent to weddings. Pretty funny, huh?”
+But Melissa wasn’t laughing. In fact, she was staring pensively down at her fingers, picking away at an errant cuticle. “What’s the shop called?”  
+“Shelly’s Flower Shop.”
+“Shelly’s Flower Shop,” she repeated.
+With that, she disappeared into the next room. I gave Niko a “what the hell” look and he of course offered no explanation, loyal, of course, to his wife and complicit in whatever revelation she was about to make.
+Melissa returned with a thick photo album - real, print photos, old school. Not like the digital frame on the dining room wall that displayed a new, vaguely holographic image every 10 seconds: the family at the farmer’s market, the family up at the lake by Duluth, a pumpkin patch, a Christmas tree. 
+This album was the Kodachrome chronicles of a ridiculously attractive Minnesota farm family, like a John Deere or Con Agra storyboard come to life. We started our tour sometime in the1990s, judging by the clothes and hair. 
+“Nice Nirvana t-shirt,” I noted, receiving a glare and an extended middle finger in return. “I’m serious.”
+Melissa showed me a wedding photo. “My brother Brandon.” 
+“Shit, they’re younger than I am!”
+“And then my nephew and niece. My poor niece is having a hard time with everything right now. I’ve tried to take her out on the weekends every so often, make sure she’s okay.”
+Cute little white toddlers, then children, running around outdoors, doing what farm kids do. There were photos from state fairs, snowshoeing, four-wheeling, hockey matches. The parents turned into grandparents, tough but friendly farm folk from the look of things. Melissa and her brother appeared to be close.
+Finally she pointed to a more recent picture, an attractive dark-haired woman in denim and a flannel shirt. About eight to 10 years older than Melissa, it appeared. Pleasant. No bullshit. Capable-looking. 
+“Is that her, Tristan?”
+“I don’t know. I haven’t met her in person yet.”
+“What’s her last name?”
+“I’d have to look it up in my phone. Can’t remember off the top of my head. I’m a casual, first-name-basis kind of guy.” 
+“It’s not the same as mine? Well, she wasted no time changing it back.”
+“You’re a fine one to judge. You’ve kept your maiden name, if I remember correctly,” I reminded her as Niko refilled our wine glasses. 
+“Have you attempted to spell his last name? One of us in this family needs to be able to order a pizza without half an hour of drama.” She deftly wiped the baby’s mouth then turned her attention to Lucas, who was waiting like a perfect little gentleman with his wide eyes, slicked-back hair and empty plate. “Are you ready for bed?” 
+The boy nodded.
+“He is such a sweet kid,” I commented, the dining room enveloped in a happy glow and my face now well flushed from the booze, as they cleared his plate away. “So well behaved. And so is his little sister.” Shit, what was her name again?  So I just waved. “Hey, you cutie.” She gurgled and waved back. 
+This child, I announced to the table, to break the tension that suddenly filled the room, was adorable - as adorable, in fact, as a YouTube video I had just tweeted about earlier that day. It was a piglet pushing his little wheelchair across a farm for injured animals. Leon Trotsky was his name. The chair was later reused by a legless baby goat, in a video that received millions of views.
+Niko laughed. He had seen the video. Melissa was less amused. Perhaps because of the turn the conversation had just taken and perhaps because she was the most sober of us all. “You’re comparing my child to a legless baby goat?”
+I turned back to the photo album to change the subject. “That farm is really beautiful. Do you go out there often?”
+“No, we sold it,” Melissa replied, not meeting my eyes.
+“Time to cash out to Monsanto, huh.”
+“Not really. Debts.”
+“Yeah, farming can be a rough business,” I commiserated even though I had no idea what the fuck went into running a farm. “Lots of overhead – all that equipment, livestock, labor, taxes.”
+“They weren’t exactly farming debts.”
+Now, the kids were starting to get restless. “I can take them upstairs,” Niko offered. 
+“No, no, no,” Melissa insisted. “You’ve been with them all afternoon. I’m good.”
+Before she left, they conferred for a long moment in the hallway, whispering sentences I couldn’t make out. I started to clear the dishes, then just returned to my seat after the countertop was full. 
+Should I check my phone? Should I cancel that appointment with this Shelly woman – Melissa’s former sister-in-law, apparently - and her flower shop?
+Then I pictured my bank balance, the latest “past due” notice from my landlord. The bail bonds website had been late to pay. Surprise, surprise there. The string cheese factory project was still in the discovery phase. And the contract with the ad agency in Sioux Falls wasn’t due to start up until December. And then it’d be net 30 until any cash hit my account. No, I would keep that appointment.
+“We’ve made some improvements to the PlayStation since your last visit,” Niko declared upon his return. “And some of my coworkers were over last month to test it. They beat your highest score. So you have your work cut out for you.”
+After an hour or so of culturally sanctioned violence and carnage – but it was animated, so that made it okay - we crept upstairs to check in on Melissa. There she lay up in the playroom, sprawled on a pile of stuffed animals, softly snoring, a sleeping child on either side. They didn’t stir as we tucked them in under a quilt.
+Back downstairs, Niko grabbed a six pack of beer from the fridge, then our coats from the entryway. He motioned for me to follow him outside. 
+If this hadn’t been Melissa’s husband, I would have been all “dude, where are you taking me?” But I had known the guy for a while and I figured this meant one of two things: either he just wanted to sit outside and drink in the cold weather because that’s what Northern Europeans do or there was something he wanted to tell me out of the earshot of Melissa and the kids.
+Snow hadn’t fallen yet, it was still too early in the year, but the grass was crispy beneath our feet from the frost. By the time my eyes had adjusted to the moonlight, we had arrived at a solid oak and a tree house.
+Two grown adults, armed with beer on a Friday night. Of course we unlocked the padlock and climbed up. Good thing both of us were in decent shape - the ladder rungs were a bit shaky and the entry through the floor was a little tight. Upstairs and inside was a tiny, half-finished main room and a porch off the back with a full view of the full moon. That’s where we sat. 
+“I started building it last year for the kids,” Niko said, rummaging through his coat pockets.
+I handed him my keychain with the bottle opener. Always be prepared, that’s my motto. “It’s nice. Solid construction. For the girl, too?”
+"Of course.  Melissa is determined that we not turn her into a little princess.” He took a swig from his bottle. “How much did she tell you about her time in North Dakota?”
+I shrugged. What did he want to know? “I know that’s where she went to work after they laid her off. I know that’s where she got the idea for the hockey mask business. I know she met you there. She told me about how she’d force you to watch artsy movies just so you’d get bored and make out with her.”
+“We still do that, in fact. Just the other night, we ended up not watching a really horrible movie by the director of the Royal Tenenbaums. It was about children at a camp.”
+“Moonrise Kingdom!” I nearly spit out my drink, partially because of his negative review, incomprehensible in my opinion, and partially because I was taken aback by this new selection of beer. Damn, it was hoppy. But still. Wes Anderson deserved defending. “Dude, I can’t believe you didn’t like that.”
+“The colors were faded and washed out. And the adults were dressed up like Boy Scouts. Why? It made no sense.  Did Melissa ever tell you why she left North Dakota?”
+And there, I suspected, was the real reason for us leaving the house and climbing that tree house with a six-pack of microbrew, far away from the house.
+“Do you remember what she did for a living out there?”
+“Yeah, she drove a van and delivered stuff. Food, I think.”
+“For Dickinson Catering. Raymond Fournier's company. The guy who was busted for drugs, who was later murdered in Quebec City. Does that sound familiar?”
+I nodded. I vaguely remembered the story from the news, which I kept up with only sporadically. I waited for Niko to continue.
+“I think you see where I’m going with this, Tristan.”
+No, actually, I didn’t. But people have accused me of being remarkably clueless on occasion. I stared at the motion of my breath warming the cold air in front of us. I listened to the wind direct a feeble gust through tree’s leafless branches.
+“Brandon got her that job,” he said.
+I chuckled. That white-bread guy from the photos?  “Oh, I don’t think Brandon knew anything about it. From what Melissa told me, all he does is watch hockey and work on the farm all day.”
+“Worked on the farm,” Niko corrected.  “And his livelihood didn’t exactly involve crops. Let me tell you about the shed.”
+The shed. I braced myself. Nothing good ever happens in a shed.
+“Two years ago, after Melissa’s parents died, we were staying on the farm to help Brandon and Shelly pack up and settle the estate. We were there for weeks. It seemed like an eternity, stacking old magazines, wrapping all of these ugly little figurines in tissue paper, eating meals together with Brandon glaring at me or making snide remarks. Both of us had to work remotely and watch over Lucas, who was unhappy because he wasn’t familiar with the surroundings. And the three of us were crammed into a spare bedroom right next to them at night. 
+“Then one day, Shelly, who is actually quite nice, offered to take Lucas into town for the afternoon. Finally, for the first time in weeks, it was just the two of us. ‘Let me show you the back fields,’ Melissa suggested. ‘While we still can.’ Well, I had never seen all of the place.”
+I chugged my beer. The hops were growing on me. 
+“The weather was mild,” he continued, “and we just walked and walked and walked. All of this land, all in her family? I was amazed. For the first time since we had arrived, Melissa was smiling and laughing again. I felt the weight lifting from my shoulders. We saw birds, squirrels scurrying around getting ready to hibernate. Finally, we arrived at a shed. That’s what Melissa called it, but it was more like a very simple house or storage building. Maybe some of the farmhands stayed there in the old days. No official roads led up to it, but there were deep grooves in the dirt from vehicles driving by, many of them fresh. Maybe people stayed here when they were hunting, I thought. Anyway, it was quiet and peaceful. There was a closed-in porch on the front with a table and some benches. We stayed there to take shelter from the wind and rest up.”
+“And by resting up you mean-” I doubted that a simple walk in the fields would exhaust two healthy adults. 
+“I mean we need to focus on the main point of this story. ‘What’s inside the main part of this building?’ I asked Melissa. I grew up in the city, so all of this was new to me. ‘Equipment, feed, saddles for the horses from back when we had horses,’ she explained. So we opened the door to take a look.”
+I took a big swig. Nothing good ever happens when you open the shed door.
+“I expected to see all of the things Melissa had described. But it was very different. The room was open. It had furniture. There was no dust and dirt like you’d expect in a building that’s only used occasionally. And there were scales on the table.”
+“Sometimes farmers have to weigh things,” I countered weakly.
+“No, these scales were for smaller items. Melissa was pretty freaked out when she saw it all. She was angry, too. But she was not surprised.”
+“What exactly are you getting at, Niko?”
+He gave me a look, the look I don’t think he realizes he gives to people when he doubts they’re keeping up with him intellectually. Even in the dim light, I could see that eyebrow arch.
+“I know that you need the money, Tristan. But I would stay far away from Shelly’s Flower Shop if I were you.”
+
+
+ Chapter 4  
+
+
+Shoot me.  
+Just kill me now.
+Rye porter followed by red wine followed by three IPAs. Always a recipe for disaster. 
+The good news: It was Saturday, the blinds were pulled, and the futon positioned me just a few inches off the spinning floor.
+That shed story. Had I just dreamed it?
+Barely a foot from my face, my phone vibrated. With all my strength, I flipped it over. 
+Melissa. 
+“Thanks again for coming over - it's been too long!  How are you holding up?”
+I used every ounce of strength in my depleted body to shoot her an animated gif, Hello Kitty puking into a toilet. Then I promptly fell back asleep. I didn’t read her retort – “Niko is wondering how Hello Kitty can throw up when she doesn't have a mouth, please enlighten us” - until a good four hours later.
+Noon. The clanging of the radiators, stripes of sunlight over the bookshelves, feel of cold bathroom tile beneath my feet. Saturday afternoon.
+Today, I will not work, I declared. I will not even think about work, about this Shelly lady, about my overdue rent, about my automobile that devours gas like an insatiable black hole and about the endless list of things I could be doing at any waking moment to hustle and better my situation. 
+No, today I would take my toothbrush and slowly scrape the fur from my teeth. I would run the shower hot and long, since utilities and water were indeed included in the cost for this overpriced studio apartment. And I would spend my day at the coffeehouse in the company of a thick book, not even stressing myself over the only vacant table being right next to the cold doorway or the only people hitting on me at that place being undergraduate girls wearing knit caps with ears.
+Today, I would immerse myself in the warm mental bath of leisure. I would indulge.
+Having decided my day’s plan, I confronted the milk crates of my bookshelf with a new air of authority. I scanned the titles. I could be poor as dirt – no furniture, no phone or Wi-Fi, Ramen in the cupboards and government cheese in the fridge. But if I had my books, I was in good shape. And so my most important question presented itself: Whose head would I be crawling into today?
+I chose Henry James. An unconventional choice, but it was a good call. The next day, refreshed, rested and ready, I arrived at Shelly’s Flower Shop and waited for the owner. I wondered how she’d be - Melissa’s estranged sister-in-law, mother of two children, erstwhile farm mistress and ex-wife of prairie drug lord Brandon. 
+Drug lord? What else had Melissa ever mentioned about her older brother? Any possible harbinger to that shed story? I racked my brain. Only that he was older, that had been the hot shit of the family, being the firstborn and the boy and all, that he ran the farm and that he used to play and coach hockey – just local stuff, nothing crazy - and still watched it religiously. Oh, yeah, and don’t even get him started on Obama. 
+Shelly’s Flower Shop was located in a middle-of-the-road suburb, right between a nail salon and a smoothie shop, with a Jimmy John's two storefronts away. It was on a main intersection with a sign visible for a good half mile. The ample parking out front was not yet marked "for customers only," but that would come. 
+Jingle bells clanged as I walked through the door. The store was small but bright, with shelves on the wall displaying representative arrangements and two plastic chairs and a small round table ready for consultations. Right on time, the woman from Melissa's photo album greeted me. Trim, cheerful, with feathered dark hair and a firm handshake. Would I like a coffee? A donut? She had just picked up a batch on the way in – cinnamon, honey-glazed and chocolate. 
+“I read about your work in ‘Minnesota Woman' magazine. Thanks for taking on a small client like me.”
+Funnily, she never mentioned Melissa by name or the hockey mask business. Because that was what the article in “Minnesota Woman” had been all about – Melissa’s business with a one-sentence mention of me as the indigenous web designer. 
+I'm one bounced check away from living in my car, I wanted to tell Shelly. Because she immediately seemed like the kind of person you could share these things with.
+I decided against it. Probably too soon. 
+“I really liked your portfolio,” Shelly continued. “Even the unglamorous businesses, like the tax advisor and the plumber, you really gave them style.”
+I smiled for the first time that day. Style. Making people happy. That's why I was in this business. Because it sure as hell wasn’t the money.
+“Let me dig into the system and see what's wrong,” I told her Because she had given me a detailed description of the maladies already over the phone, I was able to get down to business right away. For the next three hours, I went about my work and left her to hers. As the phones rang and delivery people and customers walked through the door, she hustled between this front room and the back in her stacked boots and rhinestone-studded jeans that said Sturgis or West River more than the Twin Cities. I didn’t know the whole story, of course, but I was starting to believe that Farmer Drug Lord Brandon, older brother of Melissa, tormentor of Niko and master of the mysterious shed, was a fool for letting this woman go.
+For lunch, Shelly picked up sandwiches as Jimmy John's. “My treat,” she insisted. And she told me a little bit about her circumstances - the polite, sanitized preamble Minnesotans always lead with and the story she didn’t realize I already knew. Somewhat. 
+Shelly was born in New Mexico but grew up in the area. Married her college sweetheart. Helped him with his family's farm and two kids – “good kids, a boy and a girl” - who were now off to college. And now finalizing a divorce.
+“This shop is the first thing I've done for myself in 20 years,” she told me. And then a customer walked in before she could explain more.
+The next day, business was already humming when I arrived, so I hopped straight into a few hours of coding as a morning rush of foot traffic passed through. Then a lull made conversation inevitable.
+“Where are your kids going to school?” I asked.
+Shelly gave the pause of white-person embarrassment before telling me the name of the college, a place somewhere in the southwest corner of the state. That's a good school, I assured her. I knew people who had gone there myself. Respectable, law-abiding people.
+“When we sold the farm and bought the big place in Minnetonka, I have to confess we hoped for a bit more. It's in such a good school district. The other kids ended up going to Notre Dame, Northwestern, Hamline, even Harvard.” She shrugged. “Oh well.”
+The kids will be just fine, I assured her.  I told her the name of the school I had attended, a tiny place west river near where I had been squatting with one of my many half-siblings. She had never heard of it.
+“But I had a great teacher and found work in a field I really enjoy. That's what matters.”
+“You're probably right,” Shelly admitted. “And you turned out well.”
+I kept her encouraging words in mind during my next appointment. It was with my landlord, to beg one last time for forgiveness on my rent before he kicked me out in the street.
+“Tristan, this is becoming a habit with you. You need to start catching up.” He gave me a deadline. An impossible one, so the next day, I filled up my tank and drove west to try to shake the trees with the string cheese factory. The owner was nice. And I knew the money was there. But they weren’t quite ready to give me more work.
+Cultivation, I told myself. Cultivation. That night, I crashed over at Bertram’s in Milbank - he now worked at a skateboard shop and shared a big ramshackle house with five other guys- then rose at dawn to get back to a smaller but more guaranteed client, Shelly’s Flower Shop.
+It was a slow afternoon. Sunny, warmer-than-average temperatures. Everyone in the Twin Cities was outside - biking, pushing strollers, doing yard work. No one wanted to be shackled to a counter or conducting commerce that could wait for the gray, snowy days that soon would follow.
+Shelly hoisted herself up on the counter - she could do this easily, being a wiry, fortysomething woman who'd spent 20 years on an actual working farm - and impatiently swung her legs.
+“I need to get out and meet people, Tristan.”
+Go for it, I replied, in a tone I hoped to be encouraging.
+“But how? I'm always in this shop. All day, all night. Not that I resent it. I know it’s my choice- ”
+“The Internet," I told her. Duh. Need dating advice? Ask the gay web consultant!
+“Is that what you do?”
+“Yeah,” I walked on over to show you my phone and my apps. “Here's how it works. And just to warn you,” I said, logging in and flipping through a few screens. “I like guys.”
+Shelly didn't bat an eye. “That's fine. I do, too.”
+Lucky Brandon, I thought as I helped her get set up and watched her get started. A swipe here, a swipe there and every so often a twinkle in the eye and a smile. This woman was something else. Well, maybe not so lucky anymore. 
+At least he had this drug ring and hockey season to distract him.
+The secrets you could find behind white people’s doors. It never failed to amaze me.
+Not that I had time to concern myself with the lives of others, however. I had checks to deposit. It was a drop in the bucket toward satisfying the landlord, but a drop was better than nothing. I went to my bank’s downtown branch and waited in line a full hour because, like the DMV, only one of the four stations was staffed. There I stood, flipping through my apps when I could have been working my phone, hustling for new work. But I couldn’t shake the numbers from my head. On one side of the ledger: accounts receivable. On the other side: payments due.
+Once my money was safely deposited and with my receipt finally in hand, I rewarded myself for my suffering: a trip to the international market for a 12-pack of empanadas, with a detour to Melissa’s studio.
+She was in, hunched over a mask with her hair pulled back and a new pair of trendy glasses. “How’s work?” she asked.
+Not bad, I told her. I rattled off earlier developments with the ad agency in Sioux Falls, the new project with the string cheese magnate and an inquiry from another potential client in South Dakota, Ham World.  Because every mall in the Midwest is required by law to have a Ham World outlet. 
+And in the middle of it all, because I cannot lie, I slipped in a quick sentence about Shelly’s Flower Shop.”
+“You took the job?”
+I nodded.
+“Shit, you didn’t listen to Niko, did you?” 
+She sighed, tapped the now-dormant tip of her airbrush against the edge of her chin in thought. Tristan, Tristan, Tristan, I could hear her cluck to herself. “Well,” she conceded. “Not a lot that can be done about it now. How is she doing?” 
+Good, I said. It was the truth. Shelly was rocking a fresh divorce and the travails of a new business with pluck, aplomb and, quite frankly, a rugged sexiness a woman half her age would envy.
+Maybe I shouldn’t have used the phrase “rugged sexiness” to describe her former sister-in-law. Maybe I shouldn’t have brought up the age thing. Because Melissa didn’t say anything for the longest time. “I’m glad to hear that,” she eventually replied. “Shelly’s a good person.”
+
+
+
+ Chapter 5  
+
+
+“How did the kids take it?" I asked Shelly.
+I always tend to ask about the kids when people talk divorce – politely, of course. Because no one ever asked me or Bertram or Benedict or any of the others, to my knowledge, how we felt. Of course, our parents hadn’t been technically married – Dad and his many girlfriends - and they were all long dead by now. But we would have appreciated it. 
+“Oh, they knew,” Shelly sighed. “They picked things up, even living apart from us in that crappy apartment we sent them to for high school.  It was right on the edge of the district, cheapest way to get them in as we were finalizing things with the farm. And after we all moved to the big house, there was no escaping it. One Friday night, we all just stared at each other in that fancy living room that never really worked with our furniture. The kids, of course, resented the timing because they wanted to go out with their friends. ‘Your father and I need to tell you something, and I think you already have a good idea what it is,’ I told them. 
+“Our girl, of course, was the first one to guess. ‘You're getting a divorce.’ She said it with about as much emotion as you'd say, I'm going to the store or I'm going to pick up some turkey for dinner. And within five minutes, we all were back to our separate rooms in the house watching TV or playing around on the Internet or whatever. I checked in on each of them before bed that night. ‘We'll figure something out for the holidays,’ I told them. Well, both of them already had plans. How about that?”
+Back in my world, Bertram asked for money, yet again. “I have nothing for you, bro,” I texted in reply. The landlord for the skateboarding shop was hassling them for burning incense. Who the hell burns incense any more? And I had landlord problems of my own. 
+Thank God for Shelly’s Flower Shop.  As I worked, my imagination wandered. I could picture Shelly as a nurse, in another life, on another path. It was something in the capable but very caring way she handled both the flowers and the people who came through her shop. Nothing ever seemed to rattle her - not the massive, embarrassing fuck-up with the messaging software or even the daunting task of starting a business and a new life. And, although I was nearly certain her kids were off drinking and screwing around at that school in the western part of the state, I had a feeling that they would turn out to be responsible, functional adults just like her, divorce or no.
+In fact, Shelly actually had been a nurse not so long ago. Unofficially, but I figured it counted. Brandon's mother, she told me had fallen ill with dementia or Parkinson's or a combination of both. 
+“We brought her back to the farm because that’s where she had spent 40 years of her life. Of course she didn't realize she was there half the time.” Shelly explained as shoved a fistful of stems into a vase. It was the kind of glass vase that looks expensive when it arrives on your doorstep but less so when you see it by the dozen in a supply cabinet. “In cases like hers, the mind lets you go back in time and lets you relive certain aspects from your past. Which is probably really fulfilling for the people experiencing it. Depends on what aspects, I guess. In any case, she thought I was her old math teacher the whole time I was bathing her. That’s pretty messed up when you think about it. Brandon handled the medications and feeding, and I insisted on doing all the bathing and more intimate tasks because that's just not something a son should ever have to do for his mother.”
+“And Melissa?” 
+“Melissa had just given birth, so we didn’t bother her with these things.”
+Parkinson’s. That's serious medical shit. How did you know you were doing it right? I asked her.
+“I read books. I watched people. I went to the Internet. How I figure out most things in life.”
+Me too, I thought. Me, too.
+These conversations sparked some serious curiosity about Melissa. Melissa was a flinty soul, and as much as she tended to overshare certain details about her life, she remained taciturn about many others. Many, many others. So I swung by her studio more frequently. I stopped by during times I knew business would be slow. And I asked her questions, starting with the dead period of time between her last call from North Dakota and her sudden reappearance in Minnesota. 
+“So I hear you were a drug runner out there in the oil fields?” I asked on a hunch.
+After a brief roll of the eyes – “he was only supposed to tell you about the fucking shed, how embarrassing” - Melissa told me her side of the winter’s tale. 
+In spring, as she was driving her routes, looking forward to summer, loving her life – new business, great boyfriend, flush bank account - she was caught out in a sudden blizzard, one of those storms where it's safer just to stay put. And so she did, for hours, and waited. Bored, anxious, annoyed and – the human body being a greedy and imperfect vessel – soon very, very hungry. Eventually she discovered the solution to this problem: She was driving a delivery truck full of food. Rummaging through the boxes, she soon realized she had been transporting other things as well, as it turned out. Melissa had to Google them, in fact, to properly identify all of the various products – oxy, heroin, meth. The pot, of course, she recognized.  Even she wasn’t that naïve.
+Should she stay? Should she go? Should she tell anyone? Under Brandon's dubious tutelage, she kept her mouth shut and drove off in the middle of the night. This on-the-lam plan – “Raymond and those guys were chasing me, they knew something was up” – involved throwing away her phone (“a new iPhone 6?" I exclaimed, horrified) and camping for a month in an abandoned campground in western Minnesota, hiding out like Jennifer Lawrence in “Winter's Bone.”
+“You skinned and ate a squirrel?” I asked, ready to be impressed.
+No, Hormel beans out of a can. But she did rig up an electrical connection for the camper without frying herself and swoop into some impressively fast internet connections. But mostly she spent her time huddled in her sleeping bag, scared to death, missing Niko, looking back on her time in North Dakota and coming to the realization that this state was an evil, evil place. 
+“A security guard at Niko’s housing complex harassed him all summer,” she told me in hushed tones, like someone in South Minneapolis with supersonic hearing would know what she was talking about, and would care. “It turned out to be the psycho who murdered Raymond Fournier. And I knew a dead girl. She was a stripper. A friend. Only 16 years old.”
+What was Melissa doing hanging out with a teenaged stripper? There was a story there. In light of Melissa’s unusually troubled expression, I decided not to pursue it. I decided to save questions about her parents and the farm for another day as well. So I drove back to South Dakota that night. Even though it was dark, I knew every wind turbine on that stretch of road by heart. We were old friends by now. The turbines spun around and around and around as I raced on by, cranking up whatever music would get me pumped for the drive. Rage Against the Machine. Metallica. “You’re old school,” Randolph observed as he sold me the CDs. “For a hipster.”
+The next day: lunch, and good news.
+“We want to use you, Tristan. And we want to sign a year's contract.”
+I nearly dropped my fork. Really? There had to be some kind of catch. Because this was Sioux Falls' largest advertising agency, the kind of establishment that took its vendors out to lunch - even the vendors it wasn't working with yet - and then encouraged them to take their time, talk about things that didn't relate to work, even order appetizers and dessert.
+What could I possibly say to screw this up?
+“I'm thrilled and honored.” 
+Was that too much enthusiasm? Not enough? I pictured myself, standing at my landlord’s door, peeling hundreds from a thick roll like a baller. Here’s your rent. A full six months of it. Fuck you very much, sir.
+And then. “For budgeting purposes, we can't start until January.” The operations manager was so apologetic, I started feeling sorry for her instead of myself. “Our hands are tied until year-end. I can't even hire a new intern to replace the one who just left for Kansas City. But you have my word. Once it is, we're off and running.”
+Not quite yet or off and running – which was the more accurate barometer for my future? “Why don't you just move to South Dakota?” Randolph asked. “All of your business is over here now, and it's a hell of a lot cheaper. You're probably spending a grand a month just on gas.”
+He had a good point, like he usually does. But I still had the lease, I explained, plus Twin Cities clients like Shelly and a few others who had come my way thanks to Melissa's hockey mask site and all of the awards. 
+“Shelly sounds hot. Can you set me up?” Randolph inquired.
+“Being that I’ve been warned to stay away from that branch of the family, and being that her ex-husband is apparently a racist, temperamental drug dealer, the answer would have to be a no.”
+“I’m not afraid.”
+“She has kids in college, Randolph.”
+“So what does ex-husband Scarface do all day, now that he doesn’t have the farm to hang out on?” 
+“Drives around a lot. Goes hunting. Spends a lot of time in South Dakota, oddly enough.”
+“It’s the place to be.” 
+“But Shelly only knows the broad details. She doesn’t ask for the specifics. She figures it’s not her business anymore.”
+“Does she want him back?”
+“She misses him, I think.”
+“Stupidity is doing the same thing over and over again expecting a different result,” Randolph sagely advised, polishing the bongs and pipes in the display case until they glistened.
+
+
+
+ Chapter 6  
+
+
+“Benedict needs money,” Bertram texted me, running interference for his proud brother. What had Dad been aiming for with those names, I wondered? What kind of future had he been planning for us kids? Life in a garret writing sonnets? Death by absinthe by 26?  
+But I had money problems of my own. Even more of them now.
+The repair shop told me it was the alternator belt. But I preferred to blame my jacked-up sound system for masking the sounds of the problem. I preferred to blame the shitty road outside of the wind farms that jostled my car and gave it the final jolt. And I preferred to blame the Art Directors Club of St. Paul for having an event on the same day as a meeting with Ham World in South Dakota, making me haul ass and actually think I could make the trip in under four hours.
+Some luck had been on my side. A trusting farmer towed me to the nearest town. The town had a repair shop. And the repair shop had still been open when I rolled on in. But the total repair cost me $1,100, not counting one night at the local no-tell motel with the sandpaper towels, fluorescent-lit prison bathroom and comforter caked with the bodily fluids of a thousand truckers. Or the $65 I forfeited to the Art Directors Club of St. Paul for an event paid for in advance yet unattended, plus the new $40 H&M shirt still in its bag, price tag attached.
+At least there was the check from Ham World. The repair shop let me sign it directly over to them, which not many people do these days, and I was excited and relieved until another hard fact dawned on me. Rent again would be late. And I had run out of second chances.
+“Money would be nice.”  Today Shelly was surrounded by a stack of her own bills.
+“Speak it sister,” I agreed.
+“Hey, Tristan, I need your opinion.” She walked on over to my makeshift work station. “I was rummaging through the desk last night. Niko sent Brandon these checks a year ago to help out with his parents’ medical bills. My proud idiot of an ex-husband never cashed them. But at least he never ripped them up.” 
+Of course, Shelly had the actual checks with her, and she fanned them out under my nose. Melissa was right, I thought, looking them over. Niko’s last name was impossible to spell. No pizza delivery man would ever get it right. 
+“We've had them for over a year. I’m tempted to deposit them because we still have a joint bank account. Maybe Niko won't even notice?”
+I added up the dollar figures, then pointed them out to Shelly. “Oh, he’ll notice.”
+Checks, checks, checks. Should I have cashed mine from Ham World? I wondered. 
+Ham World sold their meats through the Internet – hence their need for my services - and at a retail storefront-slash-headquarters, located in the mall.
+“The Empire Mall?” Melissa asked when I told her about them.
+“No, the other one in Sioux Falls. The old mall with the Kohl's.”
+“Oh,” she wrinkled her nose. Not every store needs Beverly Hills, I reminded her. But I did give pause every time I visited this client’s site, every time I walked across the cracked parking lot and past the vacant display windows and coin-operated plastic circus ponies that I had never once seen a child actually ride.  In a real mall, the store would have been flush with walk-through traffic, ruddy-cheeked, affluent families placing their orders for the Thanksgiving feast, the fall tailgating parties, the Christmas spread. In its current location, however, no one walked in to Ham World. No one even walked by. It shared a side alcove at the end of the mall with a kiosk for cell phone covers and a wig shop. And once a wig shop enters a mall, that mall is toast. It's the universal law of retail.
+I met with the two partners, Wyatt and Bill. Or was it Earl and Steve? Shit, why was I always so bad with names? I could remember every other detail about them – the meaty handshakes, the faint smell of chewing tobacco, the Cabela’s flannel jackets and laconic voices, roughened by cigarettes with a touch of ranchland drawl. They greeted me with a check and looked pleased as I walked them through the new online catalog and ordering system and showed them the new CMS. Here's how you add a new product. Here's how you set up a sale or a special offer. 
+Throughout the whole visit – just like every other visit before it - not one customer walked through. The lack of business was so pronounced that, even in my financially precarious state, I started to feel bad for taking their money. “This cool?” I asked as I accepted the check, hoping I wasn’t embarrassing them.
+“Yeah, it's all cool,” they replied. Maybe there was a lot of repeat business, big orders, referrals behind the scenes. Maybe there was a lot I didn't see.
+As I showed them the demo, I noticed something off with the system. The kerning on the titles, the resolution of the pictures. Easy to fix, I assured them. Shouldn't take me more than an hour. 
+“Go for it,” they said, then promptly forgot I was there.
+A few years ago, when I started hanging out at coffeehouses more regularly, I started noticing the unique dynamic between those who serve and those who pay. Specifically: let enough time elapse and the first group soon becomes invisible to the second group. Think about the janitor at the hotel, the bus boy clearing the table, the plumber rooting around beneath the sink. How much do these people get noticed once they settle in and start doing their work? They’re like the HVAC system, the beverage cart, the potted plant in the corner of the room. 
+And once I started coding, that's exactly how Wyatt/Earl and Bill/Steve treated me. 
+They retreated to the little office in the back, not bothering to close the door. And it's not like a Ham World outlet is filled with noise blaring out the latest techno beats over a Bose sound system to get the customers pumped up. This joint was even too basic for a sad K-Tel mixed tape.
+I could hear everything.
+“So there it is. We can take it over.”
+“Do you think we really need to do it right now?”
+“It's an expansion opportunity.”
+“Who are there guys?”
+“They’ve been around for a while. Worked with Raymond. Need people to get distribution going again.”
+Some murmur followed, a response garbled out by a clank in the heating system.
+“It’s an opening. And they've been really cranking it through lately.”
+“What's the route?”
+“Everything along I-29, Fargo to Kansas City.”
+A sick feeling grew in the pit of my stomach. I was tempted, so tempted, to just go on and ignore it, not worry, tell myself it was probably nothing. But every time in my life that feeling came about - every time without fail - it was the prelude to something bad. And I had a feeling that this time would be even worse.
+I’d been around my fair share of vice in my life, seen schemes executed well and schemes executed by idiots. More of the latter, but it taught me what to look for.
+Any fool could tell this conversation had nothing to do with ham. So after I got through the drama with the car repairs, after I drove back into town and sat through my previously scheduled testing and demo session at Shelly’s Flower Shop, I called the one person I knew would understand: Melissa. 
+No answer. I called again. Of course, same thing. Melissa always screened her calls. What had I been expecting? Maybe I should just leave a message. I paused over the texting screen, then the email apps on my phone. What do you say? This conversation needed nuance, meaningful pauses, variations in voice and tone.
+And so after trying once more, hanging up after three rings, I hopped into my car.
+Swarms of ghosts floated before me in the twilight as I drove. Goblins. Monsters. Shit - was it the 31st already? This time last year I had been covered in glitter, starting my night with a party and ending it at 8 a.m. with my cheek clammy against the syrupy table of an IHOP, my booth-mates debating domestic vs. import for leather harnesses. 
+A different year, a different story.
+I arrived at Melissa’s door just as the family was walking out, the boy barely containing his excitement in his Spiderman mask and cape and the big-cheeked baby swaddled in orange, a pumpkin.
+“Some weird shit went down at Ham World,” I blurted, recognizing the ridiculousness of that sentence as soon as it sprung from my mouth.
+My face must have telegraphed “scared shitless,” however, because Melissa immediately lifted her Peter Rabbit mask and took me seriously. “You guys go ahead,” she directed her family. “I'll catch up later.”
+In the living room of that fancy modern log cabin, I told her everything I had heard and everything I suspected. We kept the room dark and our voices low to ward off any costumed visitors in search of candy. 
+“Now I'm not saying that my experience makes me an expert in all of this, Tristan,” Melissa declared at the end. “But I think you should stay far, far away from Ham World in the future.”
+“Not even for the legitimate side of the business?” 
+“There is no legitimate side to that business.”
+“Do you think they’ll do anything to me?”
+“Not if you just walk away now and keep your mouth shut. Jesus,” she added, talking more to herself at this point. “Is there a small business anywhere in this country that isn’t a front for drug smuggling? You’d think they’d just go through a few minute clinics at this point, especially for the oxy.” 
+Soon Niko and the kids returned. After he put the kids to bed, it was just us three adults, sitting in darkness and silence, trying to figure out what I should do. 
+“I know you were keeping that fox mask on to say goodnight to the kids, Niko, but please take it off. It’s freaking me out, especially in the light from the window.” Melissa was more agitated than I’d ever seen her before. “Tristan, you can’t work with these guys anymore.”
+“I need the money,” I admitted. Via voice mail, earlier in the evening, my landlord had given me his ultimatum. “I’m going to cash the check tomorrow at least.”
+Melissa clucked and shook her head, started ripping into a box of Hot Tamales. “Are you sure about that?”
+“Yes,” I emphasized. “I'm going to cash it. It's legitimate payment for a legitimate exchange of services. And I need the money.”
+“People end up dead when they get mixed up in things like this,” Niko interjected. 
+“They end up dead being broke and poor, too,” I retorted. In my head, I watched the “asset” line in my mental balance sheet fall by the second.
+Speaking of hunger. I noticed the growing pile of wrappers on the floor. “Are you eating your children's Halloween candy?” I asked in disbelief.
+Melissa nodded. “That bag weighs twice as much as Lucas does. There's no way he'll be able to finish it all.”
+“And Elisa doesn't even have teeth yet,” Niko noted, eager to change the subject. “She was a good addition to our operations this year. We took in nearly twice as much candy. Do you think it’s because of the costume or because she’s naturally so cute? Help yourself by the way, Tristan.”
+They sent me home with a big bag of my own. So I had breakfast and lunch at least, if not peace of mind and clarity, as I crossed the border to South Dakota, trolling for more clients, more clients of the legitimate kind. And I wore the Peter Rabbit mask as I drove because why not freak a few people out? 
+
+
+
+ Chapter 7  
+
+Randolph’s was the second opinion I sought about Ham World. Of course he wanted to hear all about the tour of the string cheese factory from weeks ago first. “Right in the middle of bum-fuck nowhere? All of the string cheese for Walmart worldwide?” Yes, and yes. Although I was tired to the point of tooth-grinding physical pain, exhausted beyond the reach of even Red Bull and on the cusp of getting a cold, I patiently gave Randolph the low-down. I took him on a virtual tour of the plant, the assembly line, the massive tubes that expelled the curd and the massive belts that whisked away the whey. 
+It was a small price to pay for intelligence and a free night's lodging.
+Randolph lived in apartment right behind the smoke shop – “vape shop,” he corrected because, as he put it, times had changed and I was living in the past. We'd talk and drink Mountain Dew or beer until the wee hours and then he'd retire to the futon in back, leaving me to sink into the third-hand Furniture Mart sofa in the living room. Come dawn, I'd wake more often than not to a PlayStation consul between the shoulder blades or a dog licking my face.
+“And it's all owned by one rich old guy,” Randolph marveled at the end of my string cheese factory story.
+“With a beat-up pick-up truck who wears the same pair of overalls every day,” I concluded. “And lives in a shack just outside of Clear Lake.”
+“South Dakota's crawling with awesome random millionaires like that.” 
+And then Randolph – as I knew he would - started to tell me about the illegal kind of businessmen, the ones more familiar to our world. Randolph didn't do any of this shit himself, of course, but when you run the city's leading music and smoke - pardon me, vape - shop, you hear things.
+Like the new business venture of a couple guys we knew. Nutmeg.  Not just for the kitchen anymore. Roll it, smoke it, liquefy it into tabs printed with little vintage Smurfs for a retro touch. Because this is the era of branding. Some millionaire investor from China had been bankrolling the supplies, a product of South Dakota’s weird surge of foreign direct investment. 
+Naturally, a few of these dollars ended up in shady places.
+“All these guys want to get into production, they think it's glamorous,” Randolph snorted. “Or sales, because of the chicks. At least they think so until the chick gives them a venereal disease or o.d.'s from some chemistry experiment. But distribution is where it's at. Just take the shit, deliver the shit where it needs to go and wash your hands of it at the end of the day. And distribution is starting to get interesting around here again, too.”
+I asked him about Ham World and the two guys who ran it. Earl and Steve, it turns out their names were.
+According to Randolph, the Ham World crew went way back in the distribution business. Lucky as hell with connections and timing but stupid as a bag of rocks when it came to the game itself. Like its choice of fronts. “Salted holiday meats don’t buy you a fully pimped out new Mustang and speedboat. Any fool can see that. Besides, they tried their hand at cooking and blew up a few double-wides. Sometimes diversification doesn’t pay.”
+So it really is mostly distribution these days around here? I wondered. He nodded. “All the good shit’s either pharmaceuticals or manufactured in Mexico now. And the authorities have cracked down on manufacturing over the past 20 years – home inspections for meth houses, regulations for buying cold medicine. Selling’s for amateurs as well, because there’s nothing as untrustworthy as a twitchy meth head.”
+Did distribution always go through the Dakotas? I asked him. Randolph shook his head. “It went through Minnesota for the longest time. It makes sense – central location, you’ve got arteries to and from Canada, Chicago, Milwaukee, Denver, Kansas City, St. Louis. And you’ve got a lot of wholesome-looking white people no one would suspect. One of the central hubs was just 60 miles from the Twin Cities, as a matter of fact. But the guy running it fell under some scrutiny a while back. From serious officials – federal agency people, not the usual cops running around busting people for pot. A wonder he didn’t get taken out. Just lucky, I guess. 
+“So, in the meantime, while they’re been looking for a new hub site, North Dakota has stepped up in importance. Okay, so you have your customers up there, and they've got butt loads of oil money to spend and I get that. But to use it as a main distribution artery as well?  Through obvious places like strip clubs? Maybe that would have worked 20 years ago, when the only thing that state had was Lawrence Welk and a whole lot of frozen wasteland, but not now.” 
+“You're lucky you're on the legitimate side of the business with Ham World,” Randolph told me as I left. “Just cash the checks and make sure they clear.”
+Then back to Minnesota. The order forms were still causing Shelly glitches. Not as bad as before, but something that needed to be addressed before the holidays. 
+“How was your Halloween?” I asked her as I set up for the day. 
+“Good. Really good,” she replied. “My first adult Halloween since college. Some friends and I dressed up in slutty Amish costumes and met at a bar. Brandon went to a party as well - different group, of course. He came over at the end of the night, to pick something up for the kids, he said. ‘I like your costume,’ he told me. Of course he never dresses up for Halloween so it was all ‘I like yours too’ and ‘I’m not wearing a costume’ and ‘I know, I like what I see.’ Then in the morning it all went to shit of course. He rolls over and whispers, ‘If they kick you out of the Amish colony after all your partying, you can stay with me.’ I had a throbbing headache already and then this.”
+My fingers hovered above the keyboard mid-code. Wait – were they not splitting up now?
+“We have our needs, Tristan. And it’s nice to be with someone who knows what he’s doing.”
+God. I shrunk down in my chair, behind the laptop screen.
+“Just because Brandon and I are getting divorced doesn't mean we don't like each other. We just can't live together, that's all. You’re young. You’ll understand someday. In any case, he took off for South Dakota this morning. Some kind of business opportunity there, he said. More likely hunting and sitting on his ass, if you ask me. Do you ever see Melissa, by the way?”
+“Every so often,” I hedged. 
+“How is she?”
+“Good.”
+“The kids?”
+“So cute. And growing up fast.”
+“I can imagine. Tell her and her family hello from me the next time you see her, okay?”
+“That’s nice,” Melissa commented when I gave her the news. “But the phone works two ways. Shelly can always call me.”
+“Maybe she feels weird about it,” I reminded her. “She just did divorce your brother, after all. Do you ever see him, by the way?”
+Melissa never answered that.
+We took an afternoon break and went shopping. It was some twee trophy wife boutique with way too much wicker and way too many ceramic tiles with cheesy sayings about wine. The smell of potpourri makes me gag, but I soldiered on for Melissa's benefit. She was looking for a baby gift for her soon-to-give-birth accountant.
+“We're the only two people in this joint not wearing overpriced yoga pants,” I hissed to her as she examined embroidered bibs.
+“I know, I know,” she murmured. “That's why I try to do all of this shit online. But this gift just snuck up on me.”
+As Melissa navigated the shabby chic path to the register to check out, I idled, and soon another bird-skinny sales clerk was soon on me like white on rice. “Can I help you?” she asked, snobbery personified.
+Oh just looking, I told her.
+“For what?”
+“A gift,” I replied. No shit.
+“For who?” Bitch was doubtful at this point, and she put no effort into hiding it.
+An anniversary gift for the parents. Mom's a lawyer. Dad works at Mayo., I explained. Yeah, see, brown people can prosper, too. She nodded approvingly and got off my back. That was all a bunch of crap, of course. I'd been an orphan since age 14 with an extended family that was certifiably bat-shit crazy. The typical Indian Country cliché. But hell if I was going to explain myself to this woman.
+Perhaps in consolation, Melissa invited me over for dinner. It became another wine-soaked evening followed up beers in the tree house with her husband after the kids went to bed. I wanted to bring up the incident with the bitch in the store – I would have if I had been hanging out with Randolph – but it just didn’t seem to fit into this setting and conversation. Besides, Niko had some things he wanted to talk about.
+“Did the check from Ham World ever clear?” he asked me, cracking open a new brand of specialty rye porter. He brought his own bottle opener this time. 
+“Yeah, it cleared.”
+“You're not doing any more work for those people, are you?”
+They asked, but I said no, I told him. I made up some excuse about the holidays and a big contract coming up. And there was that big agreement with the ad agency in Sioux Falls, so it wasn't a total lie. “Kind of regret it, though. The money would be nice and it'd be kind of bad-ass, being the webmaster for the Walter White of the Midwest.”
+Well, that joke fell flat. “Listen to me, Tristan. These are really bad people. There is nothing bad-ass or cool or exciting about it. Let me tell you about something that happened in North Dakota. You're the first person I've ever told this to. Not even Melissa knows.”
+He described the fancy housing development where he had lived in North Dakota. It wasn't a gated community - people could drive freely in and out - but it did have security because a lot of the oil execs lived in the big McMansions, beyond the area with his townhome.
+Anyway, Melissa disappears, Niko wonders what happened to her and soon after, Dickinson Catering is raided. “Which I'm sure she told you about.” So it's late at night not long afterward, Niko’s sitting on the couch with his computer, couldn't sleep as usual and there was a knock on the door. At first he thinks it's Melissa – of course he does – so he gets up from the couch, checks the mirror quickly to make sure he looks okay – “dude, you really did that?” I asked, because I had to give him shit - and goes to the door.
+And it was this security guard who worked at the complex. Niko and Melissa had met this guy once, and somehow - he didn't know how, because the guy really didn't strike him as being that sharp – the rent-a-cop had put two and two together and figured out that Melissa had indeed worked as a delivery driver for Dickinson Catering. She was involved in the drug ring. How he found out: Melissa always bundled up in snow gear and a ski mask when she worked for warmth. Also to look less attractive to all those men and potential rapists out there in North Dakota. And wouldn’t you know, security camera footage during the investigation showed a person all bundled up making a delivery. Which the security guard recognized. 
+“'Where is she?” the security guard demanded. “I know she was involved in the drug ring, so bring her out.”  Well, of course, she wasn't there, and Niko didn't know where the hell she was. He was spending every waking minute trying to figure that out. 
+“You never went to the police after she left?” I asked him, incredulous. That response sounded more like something from one of my relatives.
+Well, at first he thought  Melissa might have had cold feet – he had just asked her to move in with him - or run off with another guy. “I would call her and it just went straight to voice mail. I would rush home after work and wait for her to show up and she never did. So I could just see it - they send out the SWAT team and there she is over in Fargo or Mankato or back in Minneapolis sitting around watching TV with some other guy. And then after her workplace was investigated, I didn’t call the police because I didn’t want to get her in trouble. In case she might have willingly been involved.”
+This surprised me. “If she had knowingly been dealing drugs, you would have been okay with that?”
+Niko shrugged. “She would have had her reasons.”
+“Do you have any idea what that shit does to people? Seriously, that wouldn't have been a deal-breaker for you?”
+No. Actually very few things would have been, he explained. When he had fallen in love with Melissa, it had been very quickly. “And you know her - you can see why. She's very funny, intelligent, strong.” Perhaps because we were talking in the wholesome setting of a children’s tree house, he left out the part about how they screwed each other senseless at every opportunity.
+“And soon after we became involved, I knew I would do anything for her.”  He said this in a very matter-of-fact way, like he was talking about the sky being blue or the grass green. Of course, he continued, he thought those kind of favors would get cashed in later in life - like after 20 years when one of them got cancer – the type that ultimately goes into remission but nevertheless requires lots of short-term care and compassion – or in 10 years if one of them got a job that required moving to some crazy part of the world. Not a favor that gets called up mere weeks into the relationship.
+So the security guard kept coming around. He kept on harassing Niko. “I know what you two have done. You can't hide anymore. Confess.” Like he was a real cop working the case. 
+Maybe he was seeking some kind of glory, trying to put all the pieces together and save the day because the North Dakota police and U.S: federal agencies certainly were doing a piss-poor job of figuring things out. He loitered in the parking lot, at the lobby of the oil company’s downtown office, even when Niko was going to the grocery store.
+“So one day, I had finally had enough. I knew he'd be stopping by my house again - he was predictable - and this time I'd be ready. So, to digress for a second, you know that I lived in Wyoming before moving to North Dakota, right?” 
+Wyoming? I vaguely remembered Melissa mentioning something. It was just for a few years, Niko explained. While he was out there, he had visited an antiques show and purchased a knife. It was from the 1800s, beautiful mother of pearl handle, viciously sharp. Like nothing he had ever seen or owned before. The owner of the store said the knife had been the property of the first settlers. “He said they used it for protection. It was a different time, so they needed to defend themselves against wolves and bears and -”
+I knew exactly where the antiques owner had been going with that sentence. I had done my time in the white man’s history class.
+So had Niko, apparently, because he caught himself just in time, right before the word “Indians” slipped out. 
+But it was a poor save. 
+“And deer.”
+Are you shitting me? Even “coyotes” would have been better. I couldn't let it slide. “Deer, Niko? They had to defend themselves against deer?”
+“Uh, yes, deer. They can be violent sometimes,” he mumbled, embarrassed, and now I felt bad for pushing it. 
+Provenance of the knife aside, Niko had brought it to North Dakota. And the next time the security guard stopped by, he invited him in. “You're right,” he told the guy. “We should probably talk. Here, have a seat in the living room. What's your name again? Danny? Okay, have a seat in the living room, Danny. I'll bring you a beer. Would you prefer a stout or an IPA?”
+And then Niko up and fucking stabbed the guy? I wondered. Holy fuck, there I was, sitting in a tree house, drinking beer with a killer. 
+Well, no, not exactly.
+“And as he was sitting there, warming up, getting comfortable, I crept up behind the couch and placed the knife under his chin. Right at his throat. 'Don't ever come back here or bother me again. And don't ever bother Melissa. If I ever hear that you have, rest assured, I will kill you.' And I never heard from him again. Which was a good thing, because he later went on to murder someone. To Melissa and my father, I explained that I had ended the harassment with a restraining order. But the truth, as you see, is a little different.”
+We sat in silence for a long moment in that tree house, chugging our beer, staring at the stars.
+“I had never done anything like that before.” Niko finally said. He looked at me, like he was waiting for me to say something. “Or since. I'm not proud of it.”
+I didn’t believe that last statement. But I knew enough to keep this opinion to myself.
+
+
+ Chapter 8  
+
+
+My landlord was running out of patience.
+Make that “had run out” past tense. Because he firmly and decisively booted me out. Or, rather, “asked me to leave.” The conversation took five minutes. Packing up my belongings – books and clothing mostly – into my car took five hours. I tried to look at the bright side: it was good ballast against the wind as I made yet again trip to my clientele in South Dakota.
+More promises. More “we love your work, Tristan.” But no money in hand. By the time I returned to the Twin Cities, I was starving. Any drive through South Minneapolis was incomplete without a stop at the international market. Usually I went for the empanadas, but that was beyond my current budget. On a side aisle, far away from the central courtyard, the guest musicians and the "henna your hands" booth, there was a Salvadoran vendor who operated out of a cooler. Twelve rellenos for five bucks.  They were hearty and they filled you up.
+I followed up with a visit to Melissa's studio. I was lucky to catch her, it turned out. With two kids now, she was doing more and more of her work from home. Especially this big order that had randomly come her way from a little town in South Dakota. 
+“That account from back in August. Did you ever get your money from those guys?” she asked me.
+“Nah,” I muttered, hoping she’d change the subject but knowing she’d stick with it.
+I was right. “Are you serious? It's been way too long. They've been jacking you around. You've got to sue them.”
+Yeah, right. In some other universe, some other time. I didn't have unlimited North Dakotan petrodollars to fall back on like she did. But this was neither the time nor the place for class warfare, so I said nothing.
+“Tristan, are you having money problems?”
+I didn't answer. What can you say to that? I'd been having money problems all my life.
+“Seriously, tell me.” She had set her airbrush down and was standing in front of me now, hands on her hips.
+“They kicked me out of my apartment yesterday,” I admitted. “All my shit's in my car. Even the books.”
+“Jesus Christ. Where are you staying?”
+“I crashed with Randolph in South Dakota last night. I'll figure something out for tonight.”
+“Get back in your car and follow me. You're staying with us.”
+Oh no, that was really too much to ask, I told her. I knew people around town. There were a few guys I knew who would probably put me up as well. Seriously, these things always worked themselves out.
+“Bullshit. You are not sleeping in your car while I have a fully finished basement sitting empty until the kids grow old enough to use it.”
+Within an hour, we were at her house, my beater vehicle wheezing up the drive behind her new SUV. Then my backpack-laden self followed her down thickly carpeted steps.
+“It's not glamorous, and it doesn't get a whole lot of light, but it's warm. And we'll bring one of the TVs down here for you to watch.”
+I'll pay you back, I reassured her. Within the month.  And sooner if I could.
+“Nonsense,” she waved me off. “You just focus on the business and you. This is really no trouble at all.”
+Staying at Melissa’s and working at Shelly’s. It was only a matter of time before estranged brother and ex-husband Brandon entered the picture.
+It was late in the afternoon, and I had just run the first successful test of Shelly’s new, improved ordering system. My fake note – “so sorry for your loss” - successfully attached itself to the desired funeral wreath. And they stayed together all the way through the sale and confirmation email. So did the “congratulations on your new life together” note, this one dispatched with a delicate white vase of teacup roses.
+Ironic that a note about marriage and happiness should appear on my screen at that very moment. Because when the bell on the door jingled, as it always did when someone walked through, a tall, broad-shouldered guy in jeans and a flannel work shirt walked on in. Mid-forties. Blondish-brown hair. Face a little weathered but in a good way, like a broken-in leather jacket. Smelled a little like cigarette smoke. Still easy on the eyes.
+“Shelly here?”
+I was a little flustered when I realized who this was but quickly snapped to it. “Yeah, yeah, right around back.”
+By peeking around the corner, Shelly saved me from blurting out, “Hey, I think your husband's here!” Or was it ex-husband? What exactly was the etiquette for this?
+"Hey." She walked out from behind the counter, no bundles of flowers or tape or packing with her. Her hands for once were empty, and she rubbed them nervously against the sides of her jeans.
+"We've got a hockey match and a play this weekend,” he said. “I can go to the first one if you can go to the second." But the way he looked at her was about more than the kids and logistics. His eyes said it all; he wanted her back. “Or we could both go to both. Present a united front.”
+And the way Shelly replied crushed these hopes. 
+“I've got to catch up with the books this weekend. Tax time. Sorry, Brandon.”
+Tax time. Sorry Brandon indeed. But one person I wasn’t sorry for at that moment was myself. Living at Melissa's was the closest thing to having my own apartment without signing my own lease. The basement had its own entryway, plus its own rudimentary TV room and bathroom. I came and went as I pleased, usually late at night and late in the morning to avoid the rush for work and daycare. I was embarrassed. I didn't want to impose.  
+But one can’t remain a hermit forever. On the days I wasn’t running ragged, driving my ass off from client to client for that money that would come in net 30 days’ time, the house became a shared studio space. Niko went off to work, the nanny took the kids to the park or the museum or some music class and Melissa and I whipped out our computers and art supplies. Just like old times in the creative department.
+“Hey, I was driving by your family's old farm the other day,” I told her. “The new owners have, shall we say, an interesting take on hired help.”
+“Why do you say that?” 
+“There was a Somali Muslim woman out front with a herd of goats.”
+“Oh, that's Amina.”
+“Friendly. She waved at me.”
+“Probably thought you were cute. Obviously didn’t know you’re gay. She's the new owner.”
+“Really? They let their women own property?”
+“I don't think her family's like regular Somalis. She lived in London. And Dubai. You should introduce yourself and hang out."
+“Why? Because we're both brown?”
+“No, because you're the two most unusual people I know. I mean this with love, of course.”
+I still didn’t believe her, but I was intrigued. I drove by the farm again, then again. Each time, no Amina. I started to believe I had just hallucinated this veiled apparition. I was starting to get a cold, after all. The symptoms were there, and they were undeniable. This one was going to be bad. 
+Shelly, bless her, always had a Kleenex box handy. As her shop flourished, her personal life vacillated. By introducing her to the world of dating apps, I had unleashed a monster – a monster as enthusiastic, intimidated and volatile about the process as a schoolgirl.
+“Here's one.” She held up her phone to show me the photo of a dreadlocked musician. “Maybe I should hook up with him to piss Brandon off. He’s a little racist, you know.”
+You should hook up with him because he's dead sexy, that's what, I told her. 
+But it wasn’t about the guy with the dreadlocks. Brandon had recently brought home some chick he met at the bar. It was dart night, and Tara was her name, Tara with a hot ass. And of course he let word of the encounter drop when he stayed over at Shelly's. Which led to a fight – “I thought you guys were divorced, what the hell?” –  then passionate reconciliation. Which, of course, made Shelly even more miserable.
+“Now he's all talking about ripping up the papers and starting over. Why can't I give him another try? This time he'll prove himself to me, he keeps on saying. Shit, that's all I need. Why is he pulling this?”
+Maybe it’s because you invite him to sleep over on a regular basis, I replied. We had reached the point in the client/vendor relationship where I could say such things and it wouldn’t be considered completely inappropriate. Borderline, maybe. But harsh truths demand to be spoken.
+Shelly stared out into space for a long moment at that, fixated on some woman walking her dog out front. The dog had just walked into the nail salon for a pedicure. What was this world coming to? I wondered. “You have a point,” Shelly conceded.
+
+
+
+ Chapter 9  
+
+
+“What would you do if Melissa walked on through that door right now?”
+My work with Shelly's ecommerce system was almost done. But I visited her store whenever I was in the city anyway. It was a pleasant place to be on a weekday afternoon.
+Shelly didn't give away a thing in her facial expression. She merely shrugged, fingers continuing to fly over the bouquet she was arranging. "I don't know. Be surprised, I guess. Sell her some flowers? Why do you ask?"
+No reason, I replied. But the question had been far from rhetorical. Because that very weekend, into the store I returned with Melissa and her entire family in tow.
+Why do all women always shriek like chipmunks on helium when reunited? White, Indian, whatever – they were all the same. I was relieved my plan worked. Melissa and Shelly were happy to see each other, that was for sure, but don’t deafen me, I pleaded silently as I watched them hug. I don’t have health insurance right now and my ear drums are already throbbing. Definitely a cold on the way and a bad one at that. 
+Niko and I cast each other a commiserating glance as I helped him with the kids’ hats and coats. “Look, don’t touch, Lucas,” he cautioned, and the boy solemnly nodded, awestruck at all of the colors. Shelly gave us the grand tour of the small establishment, beaming with pride as she saw that Melissa was genuinely impressed.
+“The flowers are gorgeous. They’re certainly not from here. Do you ship them in from Colombia?” Melissa asked. “Like in 'Maria Full of Grace'?”
+“It's a movie,” I filled in for the benefit of the blank looks that filled the room. “Nominated for an Academy Award a few years back, I think. The lead character – Catalina something, I think - is a flower cutter. She’s pregnant and has no hope for a better life than in her home country. So she, um” - how could I put this delicately - “smuggles cocaine up her butt to gain passage to the United States.” 
+And then I reddened at the silence that inevitably followed. Yeah, drug trafficking. Perhaps not the best subject to bring up with this particular family.
+“Actually,” Melissa finally corrected, “she swallows the cocaine in rubber balloons.” Thank you my friend, my landlord, my former client, my former mentor. The awkward moment passed. 
+“And then, in the middle of the flight, while they’re high above Mexico or Cuba or somewhere, she shits them out.” 
+Or maybe not.
+In honor of our reunion, Shelly locked up the shop for the day. We headed over to a sports bar that had just opened across the street for something to eat. Chicken wings. Nachos. Hot sauce. The spices made my nose run, and the beer made my dining companions laugh and reminisce.  On the dozens of TV screens in the background, the Vikings were losing. The Vikings were always losing – it was just one crap season after another. But our group didn’t care. Our bellies were full and our brain cells sufficiently lubricated. We watched the city street fade into twilight, then dark. No one was in a rush to be anywhere else.
+“Forgive me for doing the math,” Shelly commented to Melissa. “But I counted back nine months from Elisa's birthday. It falls right during the time when you two were helping us pack up the farm. When you were sleeping in the bedroom right next to ours. Did you sneak away? Were you just really quiet? How did you two pull that one off?”
+Maybe it was the mention of the farm. Or maybe it was the intrusiveness of the question, the too-sudden re-establishment of familiarity. In any case, Shelly’s inquiry brought out something dark in Melissa, and the sullen teen from the photo album, the girl in the Nirvana t-shirt, reappeared just long enough to toss back a flat-voiced retort. “We crept off to the shed. A good place for secrets.” 
+Shelly blanched. She knew exactly what her sister-in-law was talking about. And Niko, my fellow outsider in this gathering yet also an expert observer of this family, knew exactly the kind of remark would get our conversation back on track.
+“Interesting question, Shelly. We’ll consult our calendars and let you know our coordinates at the time.” 
+Be gone, Goth Melissa – your arguments hold no water here. Shelly ably recovered, readjusting herself in her chair with a sassy smile. “It could have been any of several days. You guys didn’t exactly make a lot of progress with the packing, glued to your computers and phones the whole time.”
+Melissa took umbrage at this. "Unfair, Shelly. We had to work – I had a business to keep up, and Niko ran out of vacation days by the middle of our stay. We were watching Lucas that whole time, too. And who may I ask was entertaining Amina for hours on end while my racist brother was roaming the fields avoiding her?"
+Oh no. I cringed and shrank down in my seat. But Shelly merely nodded philosophically. “I don’t think it was entirely racism.”
+“What are you talking about? Amina was cool. Even when Niko and I tried to freak her out. She had such an idealized impression of farm life and the Midwest, so how could we not show her the redneck side of this place? But she stuck in there. She even told us our story was romantic. It’s because she’s Muslim, right?”
+“No, that’s not it, either, Melissa. I liked her at first, too. She seemed very pleasant and personable. But near the end.” Shelly paused, groped for the words. “I think Brandon was right not to trust her.  The soil inspectors she brought in at the last moment. It cut our sales price nearly in half. And that money would have meant everything to Brandon. Have you talked to him lately, by the way?”
+Melissa hedged, mumbled something noncommittal. “Have you?”
+Shelly mumbled in kind, similarly evasive.
+The sisters-in-law kept in touch, sharing Pinterest recipes and texting each other nearly every day, celebrity gossip and child-raising tips mostly. And soon afterward, Niko was off to Calgary for a business trip. This left me as man of the house for five full days. 
+On day one, I kept myself sequestered in the basement. I feared an escalating series of babysitting requests. “Could you help a second with this diaper?” “Would you have a few minutes for nap time?” Hell no – these weren’t my kids, I had neither conceived nor birthed them. Besides, if I tried to help, I knew I’d accidentally stab them with a diaper pin, drop them, feed them something that would end up caught in a small throat, turning soft baby skin baby blue. I just knew it, and I was petrified. But Melissa proved impressively competent with the children, even as a solo caretaker. No special requests. She had it covered. 
+So by day two, I mounted the steps without fear. To fetch snacks. To brew tea. To say hello or just sit by the fireplace or at the kitchen table with my laptop. And late at night, when the house was dark and after the kids were long in bed, I started hearing Melissa’s voice. Amid the noises of the furnace, the occasional murmurs of babies at rest, the wind whispering through the trees was a new sound: one-sided conversation. What the hell was going on? Had Melissa, starved for adult companionship and discourse, resorted to talking to herself? 
+In the hallway, I loitered quietly to listen and learn.
+“That was fucking brutal. I agree. Totally should have called a penalty. And tossed him out of the game as well.”
+In the darkened living room, moonlight spilling in, Melissa sprawled on the couch. She twirled a strand of hair around her finger and rubbed the soles of her slipper-clad feet up against a wood pillar. And she kept talking, deep in conversation, the phone pressed to her ear. With who? A client? Another designer? It wasn’t with her husband. That much was obvious. 
+Then my stomach dropped. No way. Was I hearing what I thought I was hearing? 
+But this was no ordinary conversation between a man and a woman. And it especially wasn’t one between lovers. These whispers were completely devoid of sexy talk. Just hockey, hockey and more hockey, with an occasional foray into hunting or Melissa’s business.  But damn if they didn't carry on until the wee hours. On the third night, I just paused there in the kitchen long after the conversation had ended, baffled, as I watched my tea steep and steep. 
+“It's my brother, Tristan.”
+She scared the shit out of me. I nearly knocked the mug off the counter.
+"I was talking to Brandon. I heard you eavesdropping. Your footsteps aren't exactly light on the basement stairs."
+I exhaled, more relieved than I expected myself to be. 
+“Are you serious? You actually thought I was having an affair? Holy fuck, that's hilarious. But please keep all this to yourself around the household for the time being. I've got a little explaining to do before the big reveal.”
+The next day, while the nanny was out with the kids, Melissa put me to work. My mission was to unload the SUV. It was packed to the roof with boxes, masks ready for finishing up, packing up and shipping off. “I’ve decided to do all of this here rather than in the studio,” she explained. “Easier this way with the two kids.”
+I glanced at the address as I carried them inside. Some little town in South Dakota with a name I didn't recognize, which is saying something given my many road trips through the state. “That’s the order for podunk nowhere I was telling you about,” Melissa explained. “I was surprised as well. But I guess the youth group over there has quite a following and no shortage of cash. Who knew? Maybe your string cheese guy is an angel investor. It is a small world out there.”
+Before long, Niko returned from Calgary. He arrived bearing gifts, a Flames jersey for the wife, a knit cap for the boy and a stuffed moose for the baby. He even smuggled a six-pack of the local brew into his carry-on luggage for me. The guy had only been gone five days, but you’d have thought Sir Ernest Shackleton himself was returning from the Antarctic. The boy attached himself like a barnacle to his leg and stayed there for the rest of the day. Melissa couldn’t stop smiling. Even the baby gurgled in a noticeably thrilled fashion.
+Must be nice. Because in my life, I could wander around for weeks on end, months even, without anyone noticing or giving a shit. Bertrand. Benedict. Randolph. The other sundry half-siblings and cousins. “Oh, hey, Tristan. You were gone? You bring me anything? I could use a twenty or so.”
+But it wasn’t all happy homecomings for my host couple.
+“Brandon called while you were away.” They were in the hallway, bringing fresh clothes and towels up from the laundry room. 
+“Really?” Niko set the laundry basket down.
+“He sounded different. Nicer. Like he used to be.”
+As I retreated casually, oh so casually from the living room to the kitchen for lower visibility and clearer eavesdropping, I caught the back of Melissa's head and the expression on her husband's face. It was a blend of “you've got to be fucking kidding me” and “I'm biting my tongue because we are married and that is what a good spouse does.”
+Melissa continued. You could tell her spiel had been carefully rehearsed. “We had a good talk - talks, actually. We caught up. The divorce has been hard on him, but he's hanging in there. He has some possible job opportunities, he said. In South Dakota, too - imagine that. Small world.”
+A pause. Melissa had more to say. Of course she did.
+“I'd like to invite him over for dinner next week. He hasn't seen Lucas since he was a baby and has never even met Elisa yet. It's only one meal, only for a few hours.”
+Then, “what do you think?”
+I held my breath, not wanting any noise to impede the reply. Because I knew this was going to be good.
+“What do I think?” Niko repeated.  
+Melissa nodded.
+“What do I think?”
+She just wanted the conversation to be over, resolved her way, of course. 
+And Niko made her wait a long, long time for this resolution.
+“Well, I think he’s a criminal and a cheat and a racist, for starters. And I think that it’s not so long ago that he said some pretty horrible things to us. Over a variety of dinners, if I remember correctly. That I’m arrogant, condescending, an asshole – okay, I admit it, I am sometimes. So I can overlook that. Also, the whole foreigner who knocked up my sister thing. Okay, that’s obviously true so I’ll overlook that as well. And then the numerous snide remarks while we were helping out with the farm. But what I cannot forgive or forget is what he said to you, Melissa. That you were a bad mother and a bad daughter and a bad sister. That is absolutely not true and he had no right to say that.”
+“It was the stress talking. And the grief. It was right after Dad died.”
+“They say that’s when you see a person’s true nature.”
+“He told me he’s sorry.”
+“He’s sorry things turned out badly for him, that’s what he’s sorry about.” 
+“And he’s the only family we have left.”
+I sensed this was a low blow. The final weapon. The last resort.
+“Okay, Melissa. You win. We’ll have the dinner. I’ll cook something nice. And I will drink myself into a stupor and be civil.”
+The next morning, I tried to sneak out the door to my car unnoticed. But Melissa caught me.
+"Tristan!”
+Shit. “Morning, Melissa.” 
+“I know you've been working late and you've got other stuff going on, but join us for dinner the night after tomorrow. We're grilling up steaks.”
+Steaks? Temptation, thy name is red meat. And knowing my hosts, I was pretty sure these steaks would be grass-fed and bottle-raised, draped in swaddling robes and carried in a liter to the slaughterhouse.
+“What’s the big occasion?”
+I was sorry I asked. “My brother's coming over.”
+Was it too late to fake sick? I sniffled, felt phlegm trickle down the back of my throat. Hell, I was halfway there already.
+“I don’t know, Melissa. I think I’m coming down with something. I might be contagious.”
+“Brandon’s a tough guy. He never gets sick. Besides, Elisa and Lucas are walking bundles of baby germs and snot, and we don’t keep them quarantined.”
+“But all the work I did for Shelly. Will he cool with that?”
+“Seriously? You saved her business. Which means less alimony from his empty bank account.”
+“I think you should have some sibling time together. I’m not your family.”
+“Oh, nonsense. You live here. Also, Niko will need another adult to talk to. You'll be a peaceful presence at the table.”
+No way was I going to be a human shield in that pissing match.
+“Tristan! Please! I'm begging you!”
+The creative department was a long time ago, I wanted to tell her. I was no longer her intern. And in this new capacity, I stood my ground and shook my head. Her family, her drama.
+"Seriously, Tristan, how often do I call in favors? I’ve asked nothing of you throughout our friendship.”
+Really now. There was that time right after Lucas was born, helping fulfill that massive order for St. Cloud. And there was my learning how to actually airbrush the masks that month they were stuck on the farm helping out - or "held hostage,” in her words. Like they had been victimized by terrorists in a Liam Neeson movie.
+But Melissa was a friend. A mentor. My first client. And I was living in her house rent-free.
+“What would you like me to bring?” I asked.
+Just your diplomatic self and your wry sense of wit, she replied.
+I could do that. 
+That night, I was the one pacing the living room floor after Melissa and the kids went to bed, blowing my nose, unable to sleep. Niko was up as well. He had spent most of the evening tinkering around with that robot thing from his cousins. It had broken down not two weeks after it had arrived. So much for superior European craftsmanship.
+This time for man talk, we didn't even bother with the pretense of the tree house. The wind was whipping freezing sleet against the side of the house, and he no longer cared if Melissa overhead our conversation. In fact, I think he wanted her to listen to every word he had to say.
+It was a few months after they were married, he told me as we sat at the kitchen table. He and Melissa had just moved into this house - the furniture hadn't arrived yet - and they were lying on a quilt on the bedroom floor, looking up at the clouds through the big skylight.
+Earlier that day, they had visited the doctor and learned that their baby was going to be a boy. They were thrilled, talking about what he might look like, possible names, places they’d take him to and activities they’d teach him when he got older. Then Niko suggested something like “In a few years - if you’re up for it, of course - we can have another one. So our son can grow up with a sibling, the way you grew up with Brandon. So he’s not alone in the world.” 
+Niko had meant this all in a good way. Because he had been an only child and apparently childhood on Melissa’s farm had been pretty harmonious, bucolic even. But Melissa didn’t think back on the old, happy memories at all. She started crying. “Brandon knew about Dickinson Catering all along,” she said. “Before I got the interview. Before I drove out there. He set me up with the job to get in with the people who ran the whole operations and look good. And then I fucked it up when I looked through the boxes, and he never forgave me for that.”
+“She cried all night,” Niko said. “Even now, you can’t mention that conversation to her. It gets her too upset. Rightfully so, too. If she had been caught, she would have been charged with a felony. For something she knew nothing about. And that’s Brandon. That’s who’s coming to dinner.”  
+The following night, Melissa was up with Elisa at the kitchen table. Little girl had a fever and was having trouble sleeping. Melissa cuddled the baby up in a quilt and rocked her under the dim light.
+“You know, I have just as much reason to hate Brandon as Niko does.”
+Having a fight with the spouse? Bring in the gay intern! 
+Because of the whole Dickinson Catering thing, right? I asked while messing around with a landing page design that had been vexing me. And blowing my nose between keystrokes.
+“No, not that. I’m over that now. In fact, some of the best things in my life happened courtesy of my short employment there. No, Brandon pretty much fucked things up between me and our parents during their last years on earth. It was the day after Christmas. We had just shared the news over at Brandon and Shelly’s that we were married and expecting. I told you about that, right?”
+I nodded, vaguely recalling her tale of the holiday shit storm. There had been shouting, cigarettes ground into the porch floor, a poinsettia hurled in disgust.
+“So we’re over at Niko’s old place in Anoka. He had shared the news with his father the day before. ‘I have some big news. Melissa’s pregnant. I’m going to be a father.’ And ‘oh by the way we eloped’ but that’s not such a big deal for Europeans. He was so happy. And then they started babbling on in Finnish and totally lost me. But I could tell it was all good. They put me on the phone a bit later to talk as well. I was so nervous at first. But I really grew to like Niko’s father. Funny guy. He died way too soon, just like my parents.”
+“What did his mom say?”
+“Nothing. She had passed on when he was a teenager.”
+“I had no idea.”
+“Yeah, I always thought that’s why you two got along so well. The motherless thing.”
+“Does he talk about it with you?”
+“Not really. It was so long ago. He did, however, get a tattoo on his arm afterward during a weekend of grief and confusion. That was about the extent of his high school rebellion. It’s actually pretty cool looking.”
+“Did you ever get that tattoo?”
+“What?”
+“That snake on your hip. You had been talking about it when I started my internship.”
+“Oh God no. That was a passing flight of fancy. I hate needles. Anyway, that afternoon, Niko had gone out for groceries, and I had the privacy I needed for my conversation. I was a fool; I thought the good reception from his family might mean good luck for my own situation. So I dialed up the condo in Florida. Please let Mom answer, please let Mom answer, I was praying. Of course, Dad picked up. ‘Is Mom there?’ ‘She went to the store.’ ‘I’ll call back.’ ‘Why? I’m not good enough to talk to, ha ha? Girl talk?’ No no, that’s not it, I stammered and we made some small talk about the holidays.  ‘I have news to tell you, Dad.’ ‘I know,’ he replied. ‘That guy from Norway knocked you up. Your brother told me.’ 
+“Uh, well, technically yes and you have your geography wrong, I stammered. And before I could explain more, Dad continued, ‘He said you pulled quite a surprise yesterday. Really upset Shelly and the kids, too.’ Which is bullshit, because nothing ever upsets Shelly and those two kids. ‘Are you sure he’s going to stick with you and not run off?’ Which pissed me off immensely, because Niko is the best husband and father a person could ask for. 
+“So that conversation devolved into an argument. Dad and I didn’t speak to each other for months. Which meant that I didn’t speak with Mom either. And there I was pregnant with my first child, their grandchild. It wasn’t until the third trimester that we were actually on email terms again. That was more with Mom than anything. And I think she was only civil about it because it gave her something new to do with her Pinterest boards. 
+“I sent photos after Lucas’ birth, of course, and that seemed to break the ice. A sweet little baby always does. We made plans to fly down to Florida and visit, make an official introduction. But before we had the chance, Dad had his fall, Mom’s Parkinson’s got worse and Brandon moved them both up here. I took Lucas to the hospital to see Dad. I leaned him over his bed and had his little hand touch his. ‘Your grandson is excited to meet you.’ Technically, he was in a coma at the time, but I think he knew. Mom we saw once, before things really went to hell with Brandon and Shelly. But she was too far gone and drugged up to recognize us, even then.
+“So, anyway. That’s what I got for being angry and not forgiving. And I’m not going to make that mistake again. To be fair, Brandon was in a bind. He never could tell our parents the truth about why he disliked Niko and my situation so much. What could he say - ‘hey, I got my family messed up in a drug ring and this guy from North Dakota knows everything and might go to the authorities’? Like Niko gives a shit who uses and doesn’t use drugs. And Brandon would never admit how it pissed him off to see a younger guy doing so much better than him financially, especially after he ran the family farm into the ground. And seeing his sister – the one always considered too flighty to run the farm in the first place- actually carving out a decent life. So instead he painted me out to be a slut to our parents and made one of the happiest times of my life sound trashy, like I was Sarah Palin's kid rutting away in a tent with that redneck boy.”
+“Brandon likes Sarah Palin?” I wondered, swiping for the thousandth time at my dripping nose.
+“No, he's more of a Ron Paul kind of guy.”
+“Ron Paul's still alive?”
+“I don't know. I don't track all that. I just wish Mom and Dad were still alive and that we all got along again.” Melissa, her baby now fast asleep, was hurting. As was I, my throat raw, my head flaming with fever. I needed to go to sleep, beneath a thick blanket, and not wake up for days. I was spent. 
+
+
+
+ Chapter 10  
+
+
+The big day arrived. Guess who's coming to dinner?
+“There is not enough alcohol on this planet.” Niko said this under his breath as he stocked the fridge. Melissa gave him a sharp look.
+What to talk about with Brandon? My brain, muddled by cold medicine, rifled through potential topics. Usually I have a knack for conversation, and no sundry background or obscure personality type fazes me, thanks to my vagabond upbringing. But this dinner had me stumped. How's the wife? Finalizing the divorce papers as we speak. The kids? Swiftly drinking and flunking their way through a third-rate state school. And the farm you hocked to secure their futures? Now occupied by a Muslim Somali woman and her herd of goats.
+There was always hockey. I tried that once with Brandon, one day when he stopped by the shop to drop something off for Shelly. “How about the Wild, huh?” I threw down, hoping to inspire a good 10 minutes of analysis and color commentary. But he had been in a bad mood and called my bluff. “Yeah, how about the Wild,” he tossed right back. Indian boy, you don’t know dick about hockey, his cold stare informed me. 
+And he was right. I didn’t really follow the sport. I had nothing.
+So, do you want him and Shelly to get back together? I asked Melissa in those final minutes of the countdown, the last bit of time during which we could speak freely. 
+She shrugged, concentrated on the vegetables she was slicing. “I don't know. I want them to be happy, I guess. I want them to figure it out. They're acting like skeevy barflies right now and it's totally inappropriate.”
+As if on cue, the doorbell rang. I answered it. It was my role in these festivities, after all, with Melissa at the stove, Niko with his flask by the fireplace and the other two humans in the house not yet fully conversational.
+“Tristan. Good to see you.”
+Nice leather jacket. Slight hint of aftershave. Bottle of scotch for the hosts. This was the Brandon that 99 percent of the world saw, the white guy in any small town who married the prettiest girl, coached the sports teams, was best friends with the bank president.
+Melissa ran to the door for a hug. Hug? Goth Melissa definitely was not in the house this evening. As we went to the living room for aperitifs – yes, aperitifs - Brandon eyed his surroundings with a low whistle. “Damn. Not bad, little sister, not bad.” 
+Niko shoved his flask behind a pillow and brought in a few cold bottles from the refrigerator. “This is a new batch from a brewery in Stillwater. The Christmas ale. A little early, but they’re testing it out before the big launch.”
+We talked about beer. This conversation would last about 10 minutes, I gauged, so I slipped out to gather up the kids.
+“The two youngest members of the family are excited to meet you,” I announced, the baby in my arms and the boy at my side.
+Brandon rose to her feet at once. “Is she adorable or what? How old is she, Melissa?” he shouted in the direction of the kitchen.
+“Just about 14 months,” she shouted back.
+Lucas scampered over to his dad, who tousled his hair reassuringly. Don’t worry, the gesture seemed to say. You’re adorable as well. And we’re good just hanging out here on the sidelines. 
+“You have two kids of your own, right?” I asked Brandon, playing my role as the ignorant but well-meaning guest.
+“A boy that’s been in college a while and a girl who just started. Thanks for spending time with her by the way, Melissa. It’s been a little rough for her.”
+“No problem. She’s a sweetheart.”  Melissa joined us in the living room, bringing with her a heaping plate of cheeses, crackers and chutneys.
+“And she really likes those trips to the Art Institute. She’s into theater design, did she tell you? Two artists in the family. I said good luck trying to make any money off of that. But you guys-” he gestured to me and Melissa – “seem to be doing okay.”
+“Things are good in goalie mask world. And Tristan’s business is really taking off.”
+I nodded, smiled, shrugged. I was living in the basement. What could I say?
+“Shelly appreciates all the work on her website.”
+“Glad to be of service,” I replied, ushering in an awkward silence. The ex-wife. Yeah, not much to converse about on that.
+“So, how about those Vikings?” Melissa finally interjected.
+And sports and recreation carried us through that evening – football and Superbowl picks – yes, this early on – through our appetizers, hockey through the soup and salad and hunting through the main course, since it was that season in South Dakota and Brandon now had the free time to enjoy it. Melissa knew a surprising amount about the latter. 
+“You woke up at 4 a.m. to hang out in a cold duck blind all day?” I asked, incredulous.
+“As a girl, yes.”
+“She was a good shot, too,” Brandon commented. From the corner of my eye, I caught Niko take a big drink at that one. He said maybe 10 words total during dinner but instead merely observed, bemused at the interplay between siblings. True to his word, he was civil, and true to his word, he was pickled drunk. 
+Brandon and Melissa never mentioned their parents or Shelly, I noticed. And they never mentioned the farm. Any talk of the good old days referenced it as a setting if necessary but then deftly steered around it. 
+“Remember that hockey team I coached when you were in high school?”
+“Shit, are you going to go there?”
+“I absolutely am. Because I just read that that guy is now an assistant coach in Anaheim.”
+“Which guy?” I asked.
+“The one she hooked up with. The one she apparently sneaked into her bedroom when the guys had to stay over at the farm during the blizzard.”
+Melissa was bright red. “I can neither confirm nor deny.”
+Embarrassing high school stories. At this point, I thanked God, the universe and fate for my sprawling, detached, fucked up family. For my lack of siblings with strong institutional memory. Because I had more embarrassing high school stories than you could count. I glanced over at Niko, with a gesture that was all “dude, did you have any idea?”
+“Oh, I know about all that,” Niko smiled.
+As Melissa walked from the table to the kitchen, she leaned in close to his ear. “Thank you,” she whispered.
+“Thank you for the invitation and for dinner,” Brandon said at the end of the evening, his blue pickup truck warming up in the driveway. “It was great seeing you all again.”
+“That went better than expected,” I whispered as I helped Melissa with the dishes. She smiled and sighed. “Yeah, that’s a fucking relief.”  
+Of course, the other side of the family, Shelly, called the next day. A glitch in the ordering system. Could I stop on by? 
+“What happened?” I finally asked after an hour of messing around with the code, and the question had nothing to do with her website. It was the question that had hovered over our conversations for weeks. “Why did you two split up?” 
+“Well,” she started, then decided against it.
+I wasn’t letting her off that easy. “Did the spark just die out?” Twenty years was a long time, after all.
+"No, that had never been a problem with Brandon and I.” She paused, took a deep breath. “I just couldn’t be on the same path he was taking anymore, if that makes any sense.”
+It did. 
+“He’s a smart guy, level headed. That’s what attracted me to him in college – that and the usual things, of course. I really liked how practical he was, how competent. We moved back to the farm after getting married, and he would just get shit done. Then he encountered some hard times, some serious bumps in the road with the farm. A few years of bad weather and low prices. Poor soil conditions. Some bad loans. And he made some stupid decisions. Really stupid decisions. Sure, I was on board at the time. And I enjoyed the money. But we were stupid white-bread rural Minnesotans. We had no clue what we were getting ourselves into.
+“I encouraged him to get out. Especially when things got really bad. We had people wanting to kill us at one point. And Melissa, too. But he was all ‘let’s ride it out, this will all pass.’ Selling the farm was our last chance. It devastated him psychologically, but if we had gotten the price we were asking for, it would have been worth it. We would have been set, no need to sell the Minnetonka house, no need to open up a flower shop. Although I enjoy this. I probably would have done the shop anyway.  And we would have been free at last from those stupid decisions. But he wouldn’t cut himself loose. One more try, he says. This time it will work out.
+“When you pick your spouse – and you’re now able to do that legally, too, Tristan, at least in Minnesota – it sets the stage for your entire life. It’s a partnership. It’s for the long term. You’re signed with this person for life. The best analogy I can find for it is, well, think of hockey players. They pick a team, knowing what they know at the time, and they hope for the best. If they end up on good teams, they do well. Their careers can totally take off. If they end up on a team in a slump, or with poor management, they might have two, three years max before going down to the AHL or lower. There’s a lot of fate and chance involved. 
+“Melissa, somehow, found herself on the Blackhawks or the Kings. Niko took a chance with something like the Islanders or Nashville, and it ended up paying off. And then there’s Edmonton. Damn, they were good under Gretzky but lately.” She stopped herself. “But I haven’t followed hockey for a few years, so this all could be totally different now.”
+“Well, you’re a free agent now,” I reminded her.
+“I’m lonely. That’s what I am.”
+“Maybe you should talk to him,” I suggested. “What could it hurt?” 
+
+
+
+ Chapter 11  
+
+ 
+“Fucking nanny.”
+It’s not often you hear these two words paired together. And when you do, you know that something serious is about to go down. 
+Melissa and Niko were finally going away for their anniversary. It was the first time that family events like pregnancy, sickness, birth and death hadn’t interfered. 
+They had been planning the celebration for months – booked a suite at the St. Paul Hotel, secured a reservation at the trendiest restaurant, investigated the schedules for live jazz and blues. Niko had a new suit and Melissa had a new dress – short, gold and slinky. 
+And then the nanny bailed. With not even a very good excuse.
+“She’s all ‘I forgot about this banquet for my old sorority, and I haven’t seen these girls in over a year. Like ohmigod, I’m so sorry.’ Are you fucking serious? If it’s that important, then how could you forget it? And this is important, too. You made a fucking commitment.” 
+Melissa ranted to her brother on the phone, unleashing the same spiel she’d given to me, to Niko, to the UPS man. 
+“We had been planning this for months, Brandon. I had mentioned it to her in September and reminded her every week since then.”
+Then it was her turn to listen. And nod, repeatedly. “Oh, no – that’s way too generous. I couldn’t even begin to ask that. No, really, it’s too much. We wouldn’t dream of imposing in such a fashion.”
+Eventually she relented. Brandon would come over and watch the kids for the weekend. Why not? He was an old hand at all that, having raised two of his own. 
+The mood of celebration was contagious. All the planning, packing – “you're only staying there for 24 hours,” I noted as Melissa struggled to zip the top of her roller bag -  and frenzied preparation inspired me to treat myself to a little something special - work stress, dwindling bank account and persistent cough be damned. So when I saw the invitation from one of my old city friends, the one who I used to tag along with to warehouse parties until the wee hours - I thought, what the hell? Why not? Carpe diem - anything could happen.
+After Brandon was introduced to the logistics of the kitchen and the nursery, after emergency phone numbers were exchanged along with frantic goodbyes and after I heard the crunch of tires on snow and road salt fade away outside, I planned my own departure. As soon as Brandon had bundled up the kids for snow angels and snow men in the backyard, I was off. To find some snow and men of my own, I joked to Melissa via text.
+“I trust that you are kidding about the cocaine part,” she typed back. “Right, Tristan?” And I let that one slide. 
+As she and Niko headed over to their elegant outing in St. Paul, I was off to downtown Minneapolis. Old club friends. Hadn’t partied like that for ages. Drinks, music, dancing, shouted conversation – it was a blur. 
+And in the middle of it all, I met someone.  It was that kind of night – struck by a gaze, a glance. Carrying on conversation only because that’s what you do as you’re figuring out how to get the other person to bed. Running through the snowy streets to grab a taxi. Waking up in a tangle of limbs and bed sheets. A slept-through morning, then a brunch – because, of course, if you’re in the city, there’s always a brunch, cramming yourself in among the sweaty parkas and stocking caps for the Sunday Times and a four-egg omelet. Then a lazy afternoon. 
+Well, not too lazy.
+When I arrived back at the house, the sun was setting and Brandon’s blue pickup was gone from the driveway. Melissa was in the kitchen, no longer glamorous but happy, guiding spoonfuls of mushed squash into her baby’s mouth.
+“Fun night, Tristan?”
+ I was staring at my phone, not paying attention. A text came in. It was just the text I had been hoping for.
+“I’ll take that to be a yes.”
+She opened her own phone to display photos they had taken throughout the night. Cocktails at the hotel. Multiple fancy courses at the restaurant. (Of course, Melissa was the type who photographed her food.) A stroll through the Christmas lights of the square outside.
+You guys clean up well, I noted. Indeed, they were a ridiculously attractive couple, dressed to the nines and beaming with a glistening mahogany bar and chandelier in the background. “What’s that text at the bottom?” I asked. It read, “Thanks so much! Having an amazing time!”
+“Oh, we sent that to Brandon after we were finishing up dinner. He had sent us some photos of the kids as they were playing in the snow earlier. Really nice of him. I think they’re starting to bond with their uncle.”
+The next morning, the work week began anew. No more messages from my party tryst- except for “quit bugging me for fuck sake,” that was. Easy come, easy go. The memories were sweet, but the disappointment stung. Along with my throat. Melissa made homemade chicken noodle soup on my account. A balm for cold and heartbreak, she said.
+After the kids had gone to bed, we cracked into some of that scotch Brandon had dropped off. To me it burned like lighter fluid, which I took to be an indication of its high quality.
+“So, Shelly called me. Brandon keeps calling her. Wants to get back together.”
+“Hmmm,” I replied, tired of that subject. Back and forth, back and forth. Just make up your mind already. “Are you going to that Art Directors' Club workshop this week? I think I might if my cold is feeling better. I haven't been to their things for a while and it might be a good place to drum up business.”
+“Can't,” she replied. “I have to drive those masks over to South Dakota.”
+“Seriously, can't you just ship them?”
+“They insisted on hand delivered, and they're paying an assload for them. So hand-delivered they'll get.”
+“Did you ever see them?” Niko interjected. “One actually looks like a buffalo – amazing detail in the fur and the whiskers. Probably her best yet.”
+“Would you like to see it?” she asked.
+I nodded. Why not? I it wasn't all packed up and if it was no trouble.
+I sipped my scotch – still not my thing - while she rummaged around in the hallway. “Wow, Brandon taped them all up over the weekend while he was babysitting. That was thoughtful of him.” I checked my phone. No messages from the romance or business front. I checked my bank account, hoping the final check from Shelly’s Flower Shop would clear soon.
+Then a shriek from the hallway.
+Niko turned away from the fireplace and set his tumbler aside. “Melissa, are you okay?”
+Another shriek.
+He jumped to his feet. 
+“Oh, I am not okay,” she replied. “Not okay at all.” 
+This was rage, not injury, and it was swiftly brewing. 
+Niko sent me upstairs to keep an eye on the kids. But even from there, I could hear it. Boxes being ripped apart. Masks and fuck all else hurled against the walls. Melissa spewing profanities like I had never heard her or any human, male or female, spew before.  And that’s saying a lot given the many sundry things I’ve witnessed in my life.
+“Fucking asshole!” 
+By the time I ventured downstairs, Melissa had collapsed in a heap on the floor, leaning against Niko. He was sitting against the wall, stunned and incredulous. 
+“Look inside.”
+I did. The buffalo masks were indeed exquisite. But they weren’t the focal point of this exercise. Next to them were tightly wrapped packages of heroin, oxy, meth and even things I didn't recognize, the most drugs I had ever seen in one place at one time. And I have seen a lot of drugs in my day.
+No wonder Brandon had been so eager to babysit.
+
+
+
+ Chapter 12  
+
+
+“What do we do now?”
+Each of us three asked this question, many times over. No one arrived at an answer. 
+Melissa tried again and again to get in touch with Brandon.  “He has got to come over and pick this shit up.”
+The calls went to voice mail, every time.
+“I have to deliver these masks,” Melissa said. “The customers will know something’s up if I don’t.”
+By now, we assumed that Melissa’s mysterious South Dakota customers were, in the parlance of the vice world, dirty.  
+“But transferring drugs across a state line is a felony,” she added. 
+And hence our dilemma.
+“Do you absolutely positively have to drive them over in person?” Niko wondered. UPS was still an option.
+“If they search the package and discover the drugs, we’re toast,” Melissa argued. She spoke from experience, having worked at a pack and ship store during college. Right before her shift one day, a DEA agent busted a customer for cramming pot into a box of cookies and sweatshirts. “People in logistics watch out for these things.”
+“Tell them you’re sick,” I suggested, hacking up a lung myself.
+“They’ll suspect something,” she replied. “I have to drive the masks over.”
+“Then I’m going with you,” Niko insisted. “I’ll call in sick to work tomorrow. You’re not going alone.”
+We passed the scotch bottle around again. By now, the lighter fluid sting was soothing to my throat. My cold, I feared, had blown up into a full infection. I wiped my nose, the stack of Kleenex next to me fast piling up.
+“I’ll go as well,” I volunteered. “I’m more familiar with these types of people than you two are.”
+“You’re sick, Tristan.”
+“Doesn’t matter.”
+“And, I hate to say it, Tristan, you’re not white. The cops are more likely to pull you over than us. And you’ll get thrown into prison for life.”
+“Not if they don’t find any drugs in the car.”
+That got their attention. I have to confess, I wasn’t sure if my idea would work. But it was the best idea we had.  
+Niko found a duffel bag. Melissa grabbed the tape. And as they-re-wrapped the masks and reassembled the boxes, I shuttled our clandestine goods out to the tree house.
+Just as I walked back in the door, rubbing my hands and stomping my feet against the cold, Melissa’s phone buzzed. The delivery point had changed. Now the customers wanted their masks dropped off in the larger town of Watertown. The farm would be just too difficult to find and get to in this weather. That was their explanation. 
+“Meet us in the parking lot where the old Shopko had been,” Melissa read from her phone. I knew that strip mall. That Shopko was now a pawn shop and payday lender. 
+The next question: child care. “The neighbors next door,” Melissa suggested. A retired couple, friendly and accommodating who was always around. “We’ll tell them it’s a family emergency,” she said. “Because it could be. I could kill Brandon with my bare hands right now.”
+We prepared the vehicle with snacks, flares and blankets and attempted to prepare ourselves. Downstairs in the laundry room, Melissa retrieved a small bundle from the uppermost shelf. It was a folded-up Minnesota Wild scarf, folded around an awkward shape. She unwrapped it.
+“Yes, this is a firearm,” she informed her husband. “And don’t get all European on me. This is in case bad things happen. In case they suspect. In case they ask us to open the boxes in front of them.”
+“Fair enough,” said Niko. “I have protection of my own.” With that, he unwrapped the pearl-handled antique knife. 
+Damn, I breathed. No wonder the settlers had won.
+Back in the basement, as I waited for my double shot of NyQuil to course through my veins, I Googled Melissa’s two customers. Nothing about them except for their hunting licenses and a few genial photos in the local paper announcing their birthdays. 
+We all lingered, hoping for that last-minute call from Brandon, that last-minute reprieve. Melissa tried again. Her calls continued to go unanswered. 
+“It’s after noon. We’d better get going,” she announced when we could wait no more. “I’ve packed a cooler with bagels and fruit and a thermos of coffee. Make sure you have enough cold medicine and Kleenex, Tristan. And please chill with the Vicks VapoRub. We’re going to be in a confined area for several hours.”
+Melissa and Niko took turns driving. I slept in the middle seat, wedged among the boxes. We couldn’t have picked a crappier day for a drive, with the sky already dark as night and the scent of incoming snow thick in the air. 
+“At least it’s a straight shot,” Melissa pointed out. “And the bad weather gives us an excuse for just dropping these off and getting the hell out of town.” 
+Melissa took the first leg up to Montevideo. We started out listening to NPR, then switched to satellite radio, distracting ourselves with the menu’s dozens of channels. By Dawson, well past halfway, Niko spoke up. “I talked with my cousins this morning. I emailed them copies of the passports. If anything happens, they’re prepared to take the kids.”
+No one said much after that.
+I fell asleep until the tiny town of Kranzburg, home of a tiny dive bar I knew all too well, from an earlier life. It was a full-on blizzard at this point. Melissa checked her phone. 
+“They texted me back. They made it to the parking lot. Told us to drive safely. Yeah, that’s a joke.”
+I collapsed for a final few minutes of rest. 
+Then Melissa was shaking me. “Wake up, Tristan!” The bright lights of the city shone into my face. I sat up to get my bearings. On one side of the highway, the Zesto ice cream stand that had been there forever, marked by an antique neon swirly cone. On the other side, the old burgundy brick motel with the run-down sign. I always wondered about that place, every time I drove past. Did anyone ever stay there? How did it stay in business?
+We were fast approaching the parking lot, empty with the exception of two large pick-up trucks we assumed to be Melissa’s customers. Already, Niko and Melissa were buttoning their coats and pulling on their hats and gloves.
+“I’ll get out here,” I announced and accepted no argument otherwise. Niko’s presence she could explain away by the bad weather, a little lady like her needing a big, strong man at her side to drive such a distance. But mine as well? And an Indian to boot? I knew I had to make myself scarce. 
+And I knew just the place to do it. 
+“Just pick me up at the Zesto when you’re done,” I told them, slamming the door and rolling out into the wind and snow. Not a lot of traffic to dodge, thank God, as I slipped and stumbled across the highway. And the place was still open, two slack-jawed teenagers manning the till. These things never shut down, not even for Armageddon. 
+I scrounged around in my pocket for change. “Cold out there today, huh?” the girl bantered. She was such an idiot. I could have slapped her. And her coworker just gawked as if he’d never someone like me before. But the soft-serve cone they gave me felt so cold and soothing on my throat. I ordered another, stacking quarters and dimes on the counter for the exact amount. As I swallowed it down, I watched out the window, squinting out across the highway to the parking lot where I could barely make out the outline of Melissa’s SUV and the shadowy, flickering figures in front of it. 
+Just so the teenage clerks wouldn’t get suspicious – because you never know who’s in on what in these small towns – I shifted my gaze around, gave every angle equal time. The employee parking lot: A rusted-out Jetta and a putty-purple neon, bumper held up with duct tape. The motel lot: An El Camino – damn, it had been years since I’d seen one of those – a truck, a really nice Lexus. 
+And Brandon’s blue pickup. I could tell when a break in the snow and wind made way for the Minnesota plates and the small dent on the side.
+Should I call? The headlights of the vehicles across the highway were still there, still shining in the exact same positions. The wind had whipped up to such a degree that I could no longer see the figures of people. What were they talking about? What was going on?
+I stared down at the filthy counter and clutched my crumpled napkin, dreading the next moments, wondering how the fuck it all was going to end.
+Then a loud rapping on the glass door. Melissa, backlit by the blazing headlights of her family’s SUV, pounded on the glass. “Get the hell out here, Tristan, we’re ready to go!”
+The flight out of Watertown was a blur. “Don’t panic. Don’t do anything that looks suspicious,” Melissa cautioned because Niko, like any human with a pulse in such a situation, just wanted to floor it. And it was icy as well. My eyes remained glued to the rear-view mirror. I waited for the accelerating headlights to fill it up. I waited for the shouts and the gunshots. 
+Finally, with darkness behind us, we exhaled sighs of relief. Now just to survive the 200 miles ahead.
+Visibility now barely extended beyond the hood of the vehicle. But Niko kept on driving. As Melissa said, the road was straight and there was nothing in front of us to hit. 
+Brandon’s truck, I wondered. Should I mention it?
+By the time I made my decision, it was too late. Too much time had elapsed. We had gone too far.
+We crossed the Minnesota border. The satellite radio cut out, leaving us with a static-filled quest up and down and up and down the FM dial.
+“Can you please change the station, Melissa?” 
+“I know, I know. I hate Tom Petty as much as you do. But nothing else is coming in.”
+“Did you text the neighbors?”
+“They don’t text, remember?  And I’m not getting any reception out here anyway. Besides, it’s too late to call. They’re fine. They have to be. We’d know or hear something if they weren’t.”
+“Do you think they’re opening things right now? Do you think we’ve been found out?”
+“I don’t know. I honestly don’t know.”
+“Any word from your brother?”
+“Nothing. Like I said, no reception.”
+“I don’t want the kids to be around when he comes over to pick everything up.”
+By the time we pulled into the neighborhood, everything was calm.  Once cell phone connectivity returned, a voice mail message lit up on Melissa’s phone. The kids were doing well and fast asleep. A drive-by of the neighbor’s house confirmed this report of a peaceful evening – no footsteps on the snowy walkway or in the yard, doors and windows seemingly intact.  
+We all held our breath as Niko pressed the garage door opener and drove the vehicle into the darkness. Every crunch of the snow was a footstep. Every shadow of a storage shelf or plastic container was an assassin in wait. He waited a long time before exiting the car. I thought he was going to throw up or pass out, and I wouldn’t have blamed him for either. Melissa visibly shuddered as he darted to the wall to the electric switches. 
+As he flipped them, first for the garage light, then for the lights in the house, I steeled myself for a figure in the corner, a gun pointed at my head. But everything remained the same as before. Including the basement and my bed, into which I soon collapsed.
+Morning came and with it the brilliant blue sky that often follows a blizzard. Upstairs was dead quiet, the kids still with the neighbors. No sign of Melissa and Niko. What the hell? I wandered around the kitchen, the living room. The car was still in the driveway. The fresh snow around the tree house remained untouched.
+I found them outside on the front porch. Both had fallen asleep on the decorative wrought iron bench, bundled in blankets, her with the gun, him with the knife.
+I roused them both very carefully. 
+Warmed by the day’s sun and light, our morning was one of relief. Disaster averted. Melissa fetched the children and held them close all morning. Niko called his cousins. Still no call from Brandon.
+I took a NyQuil with the anticipation of sleeping the day away. Burn this cold off once and for all and turn that night’s journey into a bad dream. In the meantime, we cooked up eggs and pancakes, brewed up much-needed coffee, all of us hungrier than expected.
+And then the phone rang. Brandon? 
+No, the Watertown police department. 
+They had tried to reach Shelly first. But they couldn’t find her phone number. Because it was no longer listed under her maiden name, I could have told them. But Melissa’s was, And when they discovered it, they put two and two together and figured it might be a good place to start.
+
+
+
+
+ Chapter 13  
+
+
+Niko and Melissa made the second drive to Watertown on their own. When they returned, their neighbors greeted them, brought over the kids, offered words of comfort. Or so I guessed. I was down in the basement at the time, unabashedly stoned on Nyquil, reeking of Vicks VapoRub and not sure what day it was or even if it was day or night. 
+The next thing I remember was propping myself up on one elbow, the wool blanket sweaty against my body, the humidifier vapor thick in the air. Niko stood in the doorway. The gunshots had blown off most of the face, he was telling me. Melissa was able to identify the body from a scar on the hand, where a skate blade had slashed him in high school. 
+How's she doing? I think – I hoped - I asked. 
+Sleeping, was the reply. She'll be in rough shape for a while.
+After he left, the room spun. That conversation was just a dream, I told myself. NyQuil makes you hallucinate some weird shit sometimes. 
+A day passed. Then a night. Then another day. Every so often, the front door slammed shut or the garage door whirred open. Niko left for work. He took the kids to the park.  The nanny came over. Then Shelly stopped by for something; I would have recognized her voice anywhere. 
+“Twenty unheard messages,” were the only words I could pick out. “Batteries drained all the way down.”
+When people spoke upstairs, they did so in hushed tones.
+And one morning Melissa appeared at the foot of the stairs, pale, a big quilt wrapped around her flannel pajamas.
+“The funeral's tomorrow. If you're feeling well enough, we'd like you to join us, Tristan.”
+
+
+ Chapter 14  
+
+
+“No one ever stays in one place anymore.” 
+That’s what the guy at the International Market said to me when I told him I was moving full time to South Dakota. 
+I was sad to leave Minneapolis for some reasons, the International Market being one of them, but the cost of living was way cheaper in Sioux Falls. My clients were there. The ad agency. The string cheese factory. Others that took the place of Ham World. And the climate was getting more amenable to my kind of people. Gay people, that was. The Indian part – well, I wasn’t holding my breath on that one. 
+I wish I could say I didn’t suspect evil lurking from behind every storefront. But past events had made me older and wiser. Perhaps with good reason. Weird shit continued to go down in this state. You couldn’t be too careful these days.
+Randolph apprised of everything that went down in Watertown. No one ever discovered any drugs in the hotel room. “Must have cleared the joint out quickly,” he said. Did anyone mention hockey masks? I asked. “Hockey masks? What the hell are you talking about, Tristan? All they found was a body, a truck and no motive. The police would have believed it to be a suicide, but there was no way a person could shoot his own face off from such an angle. So eventually they just closed the case.” 
+Back in the Twin Cities, I heard rumors, starting with Shelly’s Flower Shop being replaced by a mani-pedi shop. If that was true, I gave it six months, a year tops. I didn’t have the heart to drive by and see for myself. I also heard that she had remarried – rather swiftly for a widow, but a lot of people do that, I understand. A truck driver? A bar owner? It didn’t matter. Also in the rumor mill: Brandon’s son dropping out of college to join the police force, the daughter switching her major from theater to nursing.
+Meanwhile, Niko and Melissa were in Finland now. I knew that to be fact, not rumor, because we Skyped every so often. “Say hello to Uncle Tristan, Lucas. In both languages,” Niko instructed. The kid grew taller and smarter every time I talked to him. And Elisa was learning how to walk. 
+How’s the new home? I asked Melissa.
+“I’m freezing my ass off and the language is impossible. But the people are nice, the kids are adjusting and Niko is really happy. And the place is growing on me. You’ll have to visit us sometime.”
+How are you? I then asked.
+She shrugged. “You know how it goes, Tristan.”
+I did. I did indeed.
+The old farm was vacant. According to a convenience store clerk in the area, Amina had moved out for greener pastures. Vermont possibly? Amish country? She wasn’t sure. But the farm had stood vacant for a long time. You guys could buy it now, I thought about telling Melissa, before asking myself why the hell someone would even suggest such a thing?
+But a fancy modern-art log cabin in the fancy wooded suburbs does not remain unoccupied for long. When I cruised past, I noticed that a new family had moved in. Typical upper class white couple - blond, fit, Minnesota nice with an SUV in the driveway, titanium bikes and matching kayaks for the summers of 10 thousand lakes.  
+The tree house still stood in back, still padlocked. Still holding its secrets.
+
+
+
+“Someone killed my father.”
+“I'm not surprised.”
+In “Retribution” (https://writer.inklestudios.com/stories/c952), a teenager's quest for answers leads to unexpected revelations.
+
+
+
