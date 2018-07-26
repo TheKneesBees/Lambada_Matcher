@@ -2,6 +2,10 @@ import os
 import time
 import string
 
+'''
+THIS WILL TAKE A MONTH DO NOT RUN
+'''
+
 start_time = time.time()
 match_list = []
 direct = '/'+os.path.join('Users', 'afleischer', 'Lambada_Matcher')
